@@ -7,4 +7,5 @@ build/
 .gradle/
 **/*Merged*
 **/*.jpg
-**/results
+**/results*
+**/*Reference*

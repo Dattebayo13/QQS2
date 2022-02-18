@@ -21,8 +21,7 @@ Video File: QQS2_03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 463
-Active Line: 2
+Active Line: 5
 Video Position: 34524
 
 [V4+ Styles]
@@ -60,12 +59,12 @@ Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Prologue}
-Dialogue: 10,0:01:37.99,0:01:38.04,Default,chptr,0,0,0,,{Opening}
-Dialogue: 10,0:03:07.96,0:03:08.00,Default,chptr,0,0,0,,{Part A}
-Dialogue: 10,0:12:51.92,0:12:51.96,Default,chptr,0,0,0,,{Part B}
-Dialogue: 10,0:22:29.95,0:22:30.00,Default,chptr,0,0,0,,{Ending}
-Dialogue: 10,0:23:59.92,0:23:59.96,Default,chptr,0,0,0,,{Epilogue}
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Prologue}
+Dialogue: 10,0:01:37.99,0:01:37.99,Default,chptr,0,0,0,,{Opening}
+Dialogue: 10,0:03:07.96,0:03:07.96,Default,chptr,0,0,0,,{Part A}
+Dialogue: 10,0:12:51.92,0:12:51.92,Default,chptr,0,0,0,,{Part B}
+Dialogue: 10,0:22:29.95,0:22:29.95,Default,chptr,0,0,0,,{Ending}
+Dialogue: 10,0:23:59.92,0:23:59.92,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 10,0:00:02.02,0:00:04.06,Default,,0,0,0,,You fell into a pond?
 Dialogue: 10,0:00:04.06,0:00:06.48,Default,,0,0,0,,No wonder you smell so bad.
 Dialogue: 10,0:00:06.82,0:00:11.03,Default,,0,0,0,,You'd better use conditioner as well,\N and not just shampoo. Got it?

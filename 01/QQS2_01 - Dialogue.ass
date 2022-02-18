@@ -17,7 +17,11 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 400
+Audio File: ../02/QQS2_02_premux.mkv
+Video File: ../02/QQS2_02_premux.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,12 +51,12 @@ Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Prologue}
-Dialogue: 0,0:00:22.00,0:00:22.04,Default,chptr,0,0,0,,{Opening}
-Dialogue: 0,0:01:52.05,0:01:52.09,Default,chptr,0,0,0,,{Part A}
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Prologue}
+Dialogue: 0,0:00:22.00,0:00:22.00,Default,chptr,0,0,0,,{Opening}
+Dialogue: 0,0:01:52.05,0:01:52.05,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:12:07.00,0:12:07.00,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:22:30.08,0:22:30.12,Default,chptr,0,0,0,,{Ending}
-Dialogue: 0,0:24:00.04,0:24:00.09,Default,chptr,0,0,0,,{Epilogue}
+Dialogue: 0,0:22:30.08,0:22:30.08,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:24:00.04,0:24:00.04,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 10,0:00:06.94,0:00:07.98,Default,,0,0,0,,There! Look!{Kiyomizudera, nice.}
 Dialogue: 10,0:00:08.35,0:00:10.73,Default,,0,0,0,,We were just there! Kyoto Station!
 Dialogue: 10,0:00:10.73,0:00:12.67,Default,,0,0,0,,Whoa, seriously?

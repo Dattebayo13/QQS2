@@ -20,8 +20,7 @@ Audio File: [Raws-Maji] Gotoubun no Hanayome ∬ - 02  [BD 1920x1080p HEVC AAC].
 Video File: [Raws-Maji] Gotoubun no Hanayome ∬ - 02  [BD 1920x1080p HEVC AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 408
-Active Line: 417
+Active Line: 3
 Video Position: 34581
 
 [V4+ Styles]
@@ -59,12 +58,12 @@ Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Prologue}
-Dialogue: 10,0:01:47.00,0:01:47.05,Default,chptr,0,0,0,,{Opening}
-Dialogue: 10,0:03:16.84,0:03:16.88,Default,chptr,0,0,0,,{Part A}
-Dialogue: 10,0:12:06.96,0:12:07.00,Default,chptr,0,0,0,,{Part B}
-Dialogue: 10,0:22:30.00,0:22:30.04,Default,chptr,0,0,0,,{Ending}
-Dialogue: 10,0:23:59.96,0:24:00.00,Default,chptr,0,0,0,,{Epilogue}
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Prologue}
+Dialogue: 10,0:01:47.00,0:01:47.00,Default,chptr,0,0,0,,{Opening}
+Dialogue: 10,0:03:16.84,0:03:16.84,Default,chptr,0,0,0,,{Part A}
+Dialogue: 10,0:12:06.96,0:12:06.96,Default,chptr,0,0,0,,{Part B}
+Dialogue: 10,0:22:30.00,0:22:30.00,Default,chptr,0,0,0,,{Ending}
+Dialogue: 10,0:23:59.96,0:23:59.96,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 10,0:00:07.48,0:00:10.24,Italics,,0,0,0,,One week until finals.
 Dialogue: 10,0:00:11.01,0:00:13.99,Italics,,0,0,0,,They averaged 20 percent on the first test.
 Dialogue: 10,0:00:14.41,0:00:17.54,Italics,,0,0,0,,And on the midterm, they averaged 26 percent.
