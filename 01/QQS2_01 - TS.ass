@@ -17,13 +17,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Raws-Maji] Gotoubun no Hanayome ∬ - 01  [BD 1920x1080p HEVC AAC].mkv
-Video File: [Raws-Maji] Gotoubun no Hanayome ∬ - 01  [BD 1920x1080p HEVC AAC].mkv
+Audio File: QQS2_01_premux.mkv
+Video File: QQS2_01_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 1267
-Video Position: 2772
+Video Zoom Percent: 0.500000
+Scroll Position: 992
+Active Line: 1001
+Video Position: 34582
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,6 +51,8 @@ Style: ed kanji - 9,FOT-Matisse Pro DB,60,&H00FFFFFF,&H78FFFFFF,&H32000000,&H960
 Style: ed translation - 1,Hotel Suite,74,&H00FEFDF8,&H000000FF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,2,100,200,50,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
+Style: Sings 12,Olivia Brush,75,&H00FFFFFF,&H000000FF,&H00121212,&H00424242,-1,0,0,0,95,100,0,0,1,2.25,0,2,15,15,23,1
+Style: NextEp,Adobe Garamond Pro,96,&H00233075,&H00233075,&H00FFFFFF,&H00C4C3D2,0,0,0,0,100,100,0,0,1,0.75,0,2,30,60,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1054,270 +1057,309 @@ Dialogue: 0,0:22:29.87,0:22:29.91,DedzuyaSigns,,0,0,0,,{\an2\pos(720.89,291.97)\
 Dialogue: 0,0:22:29.91,0:22:29.95,DedzuyaSigns,,0,0,0,,{\an2\pos(720.77,291.98)\fscx99.92\fscy99.92\frz16.07\fry-1\frx1\fax0.03\fnIndie Flower\fs100\fsp2\c&H535353&\blur1}A{\c&H525252&}n{\c&H515151&}n{\c&H505050&}o{\c&H4F4F4F&}un{\c&H4E4E4E&}c{\c&H4D4D4D&}e{\c&H4C4C4C&}m{\c&H4B4B4B&}e{\c&H4A4A4A&}n{\c&H494949&}t {\c&H484848&}R{\c&H474747&}e{\c&H464646&}g{\c&H454545&}a{\c&H444444&}r{\c&H434343&}d{\c&H424242&}i{\c&H414141&}ng {\c&H3F3F3F&}T{\c&H3E3E3E&}e{\c&H3D3D3D&}r{\c&H3C3C3C&}m {\c&H3A3A3A&}Fi{\c&H393939&}n{\c&H383838&}a{\c&H373737&}l{\c&H363636&}s
 Dialogue: 0,0:22:29.95,0:22:29.99,DedzuyaSigns,,0,0,0,,{\an2\pos(720.67,291.99)\fscx99.96\fscy99.96\frz16.07\fry-1\frx1\fax0.03\fnIndie Flower\fs100\fsp2\c&H535353&\blur1}A{\c&H525252&}n{\c&H515151&}n{\c&H505050&}o{\c&H4F4F4F&}un{\c&H4E4E4E&}c{\c&H4D4D4D&}e{\c&H4C4C4C&}m{\c&H4B4B4B&}e{\c&H4A4A4A&}n{\c&H494949&}t {\c&H484848&}R{\c&H474747&}e{\c&H464646&}g{\c&H454545&}a{\c&H444444&}r{\c&H434343&}d{\c&H424242&}i{\c&H414141&}ng {\c&H3F3F3F&}T{\c&H3E3E3E&}e{\c&H3D3D3D&}r{\c&H3C3C3C&}m {\c&H3A3A3A&}Fi{\c&H393939&}n{\c&H383838&}a{\c&H373737&}l{\c&H363636&}s
 Dialogue: 0,0:22:29.99,0:22:30.07,DedzuyaSigns,,0,0,0,,{\an2\pos(720.57,292)\frz16.07\fry-1\frx1\fax0.03\fnIndie Flower\fs100\fsp2\c&H535353&\blur1}A{\c&H525252&}n{\c&H515151&}n{\c&H505050&}o{\c&H4F4F4F&}un{\c&H4E4E4E&}c{\c&H4D4D4D&}e{\c&H4C4C4C&}m{\c&H4B4B4B&}e{\c&H4A4A4A&}n{\c&H494949&}t {\c&H484848&}R{\c&H474747&}e{\c&H464646&}g{\c&H454545&}a{\c&H444444&}r{\c&H434343&}d{\c&H424242&}i{\c&H414141&}ng {\c&H3F3F3F&}T{\c&H3E3E3E&}e{\c&H3D3D3D&}r{\c&H3C3C3C&}m {\c&H3A3A3A&}Fi{\c&H393939&}n{\c&H383838&}a{\c&H373737&}l{\c&H363636&}s
-Dialogue: 0,0:24:00.62,0:24:00.66,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.44,364.54)\fscx101.93\fscy101.93\fnHeuristica\fs80\fsp2\1c&HDEE8F2&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.62,0:24:00.66,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.38,361.49)\fscx101.93\fscy101.93\fnHeuristica\fs80\fsp2\1c&HE0EBF7&\blur0.5}Episode
-Dialogue: 2,0:24:00.62,0:24:00.66,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.38,361.49)\fscx101.93\fscy101.93\fnHeuristica\fs80\fsp2\1c&HDFE9F8&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.66,0:24:00.71,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.39,364.49)\fscx101.93\fscy101.93\fnHeuristica\fs80\fsp2\1c&HD0D9E2&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.66,0:24:00.71,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.33,361.43)\fscx101.93\fscy101.93\fnHeuristica\fs80\fsp2\1c&HD4DFEE&\blur0.5}Episode
-Dialogue: 2,0:24:00.66,0:24:00.71,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.33,361.43)\fscx101.93\fscy101.93\fnHeuristica\fs80\fsp2\1c&HD0DBF1&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.71,0:24:00.75,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.33,364.45)\fscx101.83\fscy101.83\fnHeuristica\fs80\fsp2\1c&HC1C9D1&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.71,0:24:00.75,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.28,361.39)\fscx101.83\fscy101.83\fnHeuristica\fs80\fsp2\1c&HC8D3E6&\blur0.5}Episode
-Dialogue: 2,0:24:00.71,0:24:00.75,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.28,361.39)\fscx101.83\fscy101.83\fnHeuristica\fs80\fsp2\1c&HC1CCEA&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.75,0:24:00.79,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.25,364.37)\fscx101.73\fscy101.73\fnHeuristica\fs80\fsp2\1c&HB2B9C1&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.75,0:24:00.79,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.2,361.32)\fscx101.73\fscy101.73\fnHeuristica\fs80\fsp2\1c&HBCC7DD&\blur0.5}Episode
-Dialogue: 2,0:24:00.75,0:24:00.79,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.2,361.32)\fscx101.73\fscy101.73\fnHeuristica\fs80\fsp2\1c&HB2BDE3&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.79,0:24:00.83,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.21,364.31)\fscx101.66\fscy101.66\fnHeuristica\fs80\fsp2\1c&HA3AAB1&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.79,0:24:00.83,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.16,361.26)\fscx101.66\fscy101.66\fnHeuristica\fs80\fsp2\1c&HB0BBD5&\blur0.5}Episode
-Dialogue: 2,0:24:00.79,0:24:00.83,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.16,361.26)\fscx101.66\fscy101.66\fnHeuristica\fs80\fsp2\1c&HA4AFDD&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.83,0:24:00.87,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.17,364.18)\fscx101.57\fscy101.57\fnHeuristica\fs80\fsp2\1c&H949AA1&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.83,0:24:00.87,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.12,361.14)\fscx101.57\fscy101.57\fnHeuristica\fs80\fsp2\1c&HA4AFCC&\blur0.5}Episode
-Dialogue: 2,0:24:00.83,0:24:00.87,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.12,361.14)\fscx101.57\fscy101.57\fnHeuristica\fs80\fsp2\1c&H95A0D6&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.87,0:24:00.91,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.14,364.13)\fscx101.48\fscy101.48\fnHeuristica\fs80\fsp2\1c&H858B90&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.87,0:24:00.91,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.1,361.09)\fscx101.48\fscy101.48\fnHeuristica\fs80\fsp2\1c&H98A3C4&\blur0.5}Episode
-Dialogue: 2,0:24:00.87,0:24:00.91,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.1,361.09)\fscx101.48\fscy101.48\fnHeuristica\fs80\fsp2\1c&H8692CF&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.91,0:24:00.96,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.15,364.07)\fscx101.43\fscy101.43\fnHeuristica\fs80\fsp2\1c&H767B80&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.91,0:24:00.96,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.1,361.03)\fscx101.43\fscy101.43\fnHeuristica\fs80\fsp2\1c&H8C98BB&\blur0.5}Episode
-Dialogue: 2,0:24:00.91,0:24:00.96,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.1,361.03)\fscx101.43\fscy101.43\fnHeuristica\fs80\fsp2\1c&H7884C8&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.96,0:24:01.00,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.14,364.04)\fscx101.38\fscy101.38\fnHeuristica\fs80\fsp2\1c&H676C70&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:00.96,0:24:01.00,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.1,361)\fscx101.38\fscy101.38\fnHeuristica\fs80\fsp2\1c&H808CB3&\blur0.5}Episode
-Dialogue: 2,0:24:00.96,0:24:01.00,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.1,361)\fscx101.38\fscy101.38\fnHeuristica\fs80\fsp2\1c&H6975C1&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.00,0:24:01.04,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.13,363.97)\fscx101.28\fscy101.28\fnHeuristica\fs80\fsp2\1c&H585C60&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.00,0:24:01.04,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.09,360.93)\fscx101.28\fscy101.28\fnHeuristica\fs80\fsp2\1c&H7380AA&\blur0.5}Episode
-Dialogue: 2,0:24:01.00,0:24:01.04,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.09,360.93)\fscx101.28\fscy101.28\fnHeuristica\fs80\fsp2\1c&H5A66BA&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.04,0:24:01.08,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.13,363.91)\fscx101.21\fscy101.21\fnHeuristica\fs80\fsp2\1c&H494C4F&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.04,0:24:01.08,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.09,360.88)\fscx101.21\fscy101.21\fnHeuristica\fs80\fsp2\1c&H6774A1&\blur0.5}Episode
-Dialogue: 2,0:24:01.04,0:24:01.08,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.09,360.88)\fscx101.21\fscy101.21\fnHeuristica\fs80\fsp2\1c&H4B58B3&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.08,0:24:01.12,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.12,363.87)\fscx101.15\fscy101.15\fnHeuristica\fs80\fsp2\1c&H3A3D3F&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.08,0:24:01.12,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.09,360.84)\fscx101.15\fscy101.15\fnHeuristica\fs80\fsp2\1c&H5B6899&\blur0.5}Episode
-Dialogue: 2,0:24:01.08,0:24:01.12,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.09,360.84)\fscx101.15\fscy101.15\fnHeuristica\fs80\fsp2\1c&H3D4AAC&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.12,0:24:01.16,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.12,363.84)\fscx101.09\fscy101.09\fnHeuristica\fs80\fsp2\1c&H2B2D2F&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.12,0:24:01.16,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.08,360.8)\fscx101.09\fscy101.09\fnHeuristica\fs80\fsp2\1c&H4F5C90&\blur0.5}Episode
-Dialogue: 2,0:24:01.12,0:24:01.16,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.08,360.8)\fscx101.09\fscy101.09\fnHeuristica\fs80\fsp2\1c&H2E3BA6&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.16,0:24:01.21,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.11,363.78)\fscx101.02\fscy101.02\fnHeuristica\fs80\fsp2\1c&H1C1D1F&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.16,0:24:01.21,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.08,360.75)\fscx101.02\fscy101.02\fnHeuristica\fs80\fsp2\1c&H435088&\blur0.5}Episode
-Dialogue: 2,0:24:01.16,0:24:01.21,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.08,360.75)\fscx101.02\fscy101.02\fnHeuristica\fs80\fsp2\1c&H1F2C9F&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.21,0:24:01.25,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.11,363.73)\fscx100.96\fscy100.96\fnHeuristica\fs80\fsp2\1c&H0D0E0F&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.21,0:24:01.25,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.08,360.7)\fscx100.96\fscy100.96\fnHeuristica\fs80\fsp2\1c&H37457F&\blur0.5}Episode
-Dialogue: 2,0:24:01.21,0:24:01.25,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.08,360.7)\fscx100.96\fscy100.96\fnHeuristica\fs80\fsp2\1c&H101E98&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.25,0:24:01.29,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.1,363.64)\fscx100.83\fscy100.83\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.25,0:24:01.29,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.07,360.61)\fscx100.83\fscy100.83\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.25,0:24:01.29,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.07,360.61)\fscx100.83\fscy100.83\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.29,0:24:01.33,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.09,363.62)\fscx100.8\fscy100.8\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.29,0:24:01.33,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.07,360.59)\fscx100.8\fscy100.8\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.29,0:24:01.33,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.07,360.59)\fscx100.8\fscy100.8\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.33,0:24:01.37,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.1,363.58)\fscx100.78\fscy100.78\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.33,0:24:01.37,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.08,360.55)\fscx100.78\fscy100.78\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.33,0:24:01.37,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.08,360.55)\fscx100.78\fscy100.78\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.37,0:24:01.41,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.09,363.55)\fscx100.75\fscy100.75\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.37,0:24:01.41,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.07,360.53)\fscx100.75\fscy100.75\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.37,0:24:01.41,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.07,360.53)\fscx100.75\fscy100.75\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.41,0:24:01.46,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.08,363.52)\fscx100.7\fscy100.7\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.41,0:24:01.46,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.06,360.5)\fscx100.7\fscy100.7\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.41,0:24:01.46,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.06,360.5)\fscx100.7\fscy100.7\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.46,0:24:01.50,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.08,363.49)\fscx100.66\fscy100.66\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.46,0:24:01.50,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.06,360.47)\fscx100.66\fscy100.66\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.46,0:24:01.50,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.06,360.47)\fscx100.66\fscy100.66\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.50,0:24:01.54,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.07,363.45)\fscx100.61\fscy100.61\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.50,0:24:01.54,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.05,360.43)\fscx100.61\fscy100.61\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.50,0:24:01.54,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.05,360.43)\fscx100.61\fscy100.61\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.54,0:24:01.58,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.07,363.42)\fscx100.56\fscy100.56\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.54,0:24:01.58,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.05,360.4)\fscx100.56\fscy100.56\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.54,0:24:01.58,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.05,360.4)\fscx100.56\fscy100.56\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.58,0:24:01.62,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.06,363.39)\fscx100.52\fscy100.52\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.58,0:24:01.62,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.04,360.37)\fscx100.52\fscy100.52\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.58,0:24:01.62,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.04,360.37)\fscx100.52\fscy100.52\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.62,0:24:01.67,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.06,363.36)\fscx100.49\fscy100.49\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.62,0:24:01.67,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.04,360.35)\fscx100.49\fscy100.49\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.62,0:24:01.67,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.04,360.35)\fscx100.49\fscy100.49\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.67,0:24:01.71,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.05,363.33)\fscx100.44\fscy100.44\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.67,0:24:01.71,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.04,360.32)\fscx100.44\fscy100.44\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.67,0:24:01.71,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.04,360.32)\fscx100.44\fscy100.44\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.71,0:24:01.75,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.05,363.3)\fscx100.41\fscy100.41\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.71,0:24:01.75,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.04,360.29)\fscx100.41\fscy100.41\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.71,0:24:01.75,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.04,360.29)\fscx100.41\fscy100.41\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.75,0:24:01.79,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.04,363.28)\fscx100.37\fscy100.37\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.75,0:24:01.79,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.03,360.27)\fscx100.37\fscy100.37\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.75,0:24:01.79,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.03,360.27)\fscx100.37\fscy100.37\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.79,0:24:01.83,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.05,363.25)\fscx100.35\fscy100.35\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.79,0:24:01.83,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.04,360.24)\fscx100.35\fscy100.35\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.79,0:24:01.83,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.04,360.24)\fscx100.35\fscy100.35\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.83,0:24:01.87,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.04,363.23)\fscx100.31\fscy100.31\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.83,0:24:01.87,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.03,360.22)\fscx100.31\fscy100.31\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.83,0:24:01.87,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.03,360.22)\fscx100.31\fscy100.31\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.87,0:24:01.92,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.03,363.21)\fscx100.28\fscy100.28\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.87,0:24:01.92,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.03,360.2)\fscx100.28\fscy100.28\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.87,0:24:01.92,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.03,360.2)\fscx100.28\fscy100.28\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.92,0:24:01.96,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.03,363.19)\fscx100.26\fscy100.26\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.92,0:24:01.96,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.02,360.18)\fscx100.26\fscy100.26\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.92,0:24:01.96,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.02,360.18)\fscx100.26\fscy100.26\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:01.96,0:24:02.00,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.03,363.17)\fscx100.23\fscy100.23\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:01.96,0:24:02.00,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.02,360.17)\fscx100.23\fscy100.23\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:01.96,0:24:02.00,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.02,360.17)\fscx100.23\fscy100.23\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.00,0:24:02.04,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.15)\fscx100.2\fscy100.2\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.00,0:24:02.04,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.02,360.15)\fscx100.2\fscy100.2\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.00,0:24:02.04,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.02,360.15)\fscx100.2\fscy100.2\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.04,0:24:02.08,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.14)\fscx100.18\fscy100.18\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.04,0:24:02.08,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.13)\fscx100.18\fscy100.18\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.04,0:24:02.08,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.13)\fscx100.18\fscy100.18\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.08,0:24:02.12,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.11)\fscx100.16\fscy100.16\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.08,0:24:02.12,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.02,360.11)\fscx100.16\fscy100.16\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.08,0:24:02.12,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.02,360.11)\fscx100.16\fscy100.16\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.12,0:24:02.17,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.09)\fscx100.13\fscy100.13\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.12,0:24:02.17,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.02,360.09)\fscx100.13\fscy100.13\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.12,0:24:02.17,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.02,360.09)\fscx100.13\fscy100.13\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.17,0:24:02.21,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.08)\fscx100.11\fscy100.11\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.17,0:24:02.21,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.07)\fscx100.11\fscy100.11\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.17,0:24:02.21,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.07)\fscx100.11\fscy100.11\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.21,0:24:02.25,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.01,363.06)\fscx100.08\fscy100.08\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.21,0:24:02.25,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.05)\fscx100.08\fscy100.08\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.21,0:24:02.25,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.05)\fscx100.08\fscy100.08\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.25,0:24:02.29,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.04)\fscx100.07\fscy100.07\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.25,0:24:02.29,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.04)\fscx100.07\fscy100.07\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.25,0:24:02.29,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.04)\fscx100.07\fscy100.07\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.29,0:24:02.33,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.02,363.03)\fscx100.06\fscy100.06\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.29,0:24:02.33,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.03)\fscx100.06\fscy100.06\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.29,0:24:02.33,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.03)\fscx100.06\fscy100.06\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.33,0:24:02.37,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.01,363.03)\fscx100.05\fscy100.05\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.33,0:24:02.37,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.02)\fscx100.05\fscy100.05\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.33,0:24:02.37,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.02)\fscx100.05\fscy100.05\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.37,0:24:02.42,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.01,363.01)\fscx100.03\fscy100.03\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.37,0:24:02.42,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,360.01)\fscx100.03\fscy100.03\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.37,0:24:02.42,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,360.01)\fscx100.03\fscy100.03\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:02.42,0:24:05.05,DedzuyaSigns,,0,0,0,,{=5}{\an2\pos(968.01,362.99)\fnHeuristica\fs80\fsp2\1c&H000000&\alpha&HA0&\blur2}Episode
-Dialogue: 1,0:24:02.42,0:24:05.05,DedzuyaSigns,,0,0,0,,{=4}{\an2\pos(965.01,359.99)\fnHeuristica\fs80\fsp2\1c&H2C3A78&\blur0.5}Episode
-Dialogue: 2,0:24:02.42,0:24:05.05,DedzuyaSigns,,0,0,0,,{=3}{\an2\pos(965.01,359.99)\fnHeuristica\fs80\fsp2\1c&H031192&\alpha&HA0&\blur3}Episode
-Dialogue: 0,0:24:00.62,0:24:00.66,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.43,660.16)\fscx101.93\fscy101.93\fnHeuristica\fs90\fsp2\1c&HDEE8F2&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.62,0:24:00.66,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.37,657.1)\fscx101.93\fscy101.93\fnHeuristica\fs90\fsp2\1c&HE0EBF7&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.62,0:24:00.66,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.37,657.1)\fscx101.93\fscy101.93\fnHeuristica\fs90\fsp2\1c&HDFE9F8&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.66,0:24:00.71,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.38,660.08)\fscx101.93\fscy101.93\fnHeuristica\fs90\fsp2\1c&HD0D9E2&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.66,0:24:00.71,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.32,657.02)\fscx101.93\fscy101.93\fnHeuristica\fs90\fsp2\1c&HD4DFEE&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.66,0:24:00.71,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.32,657.02)\fscx101.93\fscy101.93\fnHeuristica\fs90\fsp2\1c&HD0DBF1&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.71,0:24:00.75,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.32,659.78)\fscx101.83\fscy101.83\fnHeuristica\fs90\fsp2\1c&HC1C9D1&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.71,0:24:00.75,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.27,656.72)\fscx101.83\fscy101.83\fnHeuristica\fs90\fsp2\1c&HC8D3E6&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.71,0:24:00.75,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.27,656.72)\fscx101.83\fscy101.83\fnHeuristica\fs90\fsp2\1c&HC1CCEA&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.75,0:24:00.79,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.24,659.39)\fscx101.73\fscy101.73\fnHeuristica\fs90\fsp2\1c&HB2B9C1&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.75,0:24:00.79,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.19,656.34)\fscx101.73\fscy101.73\fnHeuristica\fs90\fsp2\1c&HBCC7DD&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.75,0:24:00.79,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.19,656.34)\fscx101.73\fscy101.73\fnHeuristica\fs90\fsp2\1c&HB2BDE3&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.79,0:24:00.83,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.2,659.14)\fscx101.66\fscy101.66\fnHeuristica\fs90\fsp2\1c&HA3AAB1&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.79,0:24:00.83,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.15,656.09)\fscx101.66\fscy101.66\fnHeuristica\fs90\fsp2\1c&HB0BBD5&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.79,0:24:00.83,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.15,656.09)\fscx101.66\fscy101.66\fnHeuristica\fs90\fsp2\1c&HA4AFDD&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.83,0:24:00.87,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.16,658.75)\fscx101.57\fscy101.57\fnHeuristica\fs90\fsp2\1c&H949AA1&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.83,0:24:00.87,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.11,655.7)\fscx101.57\fscy101.57\fnHeuristica\fs90\fsp2\1c&HA4AFCC&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.83,0:24:00.87,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.11,655.7)\fscx101.57\fscy101.57\fnHeuristica\fs90\fsp2\1c&H95A0D6&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.87,0:24:00.91,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.13,658.43)\fscx101.48\fscy101.48\fnHeuristica\fs90\fsp2\1c&H858B90&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.87,0:24:00.91,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.09,655.39)\fscx101.48\fscy101.48\fnHeuristica\fs90\fsp2\1c&H98A3C4&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.87,0:24:00.91,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.09,655.39)\fscx101.48\fscy101.48\fnHeuristica\fs90\fsp2\1c&H8692CF&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.91,0:24:00.96,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.14,658.22)\fscx101.43\fscy101.43\fnHeuristica\fs90\fsp2\1c&H767B80&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.91,0:24:00.96,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.09,655.18)\fscx101.43\fscy101.43\fnHeuristica\fs90\fsp2\1c&H8C98BB&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.91,0:24:00.96,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.09,655.18)\fscx101.43\fscy101.43\fnHeuristica\fs90\fsp2\1c&H7884C8&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:00.96,0:24:01.00,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.13,658.05)\fscx101.38\fscy101.38\fnHeuristica\fs90\fsp2\1c&H676C70&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:00.96,0:24:01.00,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.09,655.01)\fscx101.38\fscy101.38\fnHeuristica\fs90\fsp2\1c&H808CB3&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:00.96,0:24:01.00,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.09,655.01)\fscx101.38\fscy101.38\fnHeuristica\fs90\fsp2\1c&H6975C1&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.00,0:24:01.04,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.12,657.7)\fscx101.28\fscy101.28\fnHeuristica\fs90\fsp2\1c&H585C60&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.00,0:24:01.04,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.08,654.66)\fscx101.28\fscy101.28\fnHeuristica\fs90\fsp2\1c&H7380AA&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.00,0:24:01.04,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.08,654.66)\fscx101.28\fscy101.28\fnHeuristica\fs90\fsp2\1c&H5A66BA&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.04,0:24:01.08,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.12,657.44)\fscx101.21\fscy101.21\fnHeuristica\fs90\fsp2\1c&H494C4F&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.04,0:24:01.08,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.08,654.41)\fscx101.21\fscy101.21\fnHeuristica\fs90\fsp2\1c&H6774A1&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.04,0:24:01.08,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.08,654.41)\fscx101.21\fscy101.21\fnHeuristica\fs90\fsp2\1c&H4B58B3&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.08,0:24:01.12,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.11,657.21)\fscx101.15\fscy101.15\fnHeuristica\fs90\fsp2\1c&H3A3D3F&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.08,0:24:01.12,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.08,654.17)\fscx101.15\fscy101.15\fnHeuristica\fs90\fsp2\1c&H5B6899&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.08,0:24:01.12,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.08,654.17)\fscx101.15\fscy101.15\fnHeuristica\fs90\fsp2\1c&H3D4AAC&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.12,0:24:01.16,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.11,657.01)\fscx101.09\fscy101.09\fnHeuristica\fs90\fsp2\1c&H2B2D2F&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.12,0:24:01.16,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.07,653.98)\fscx101.09\fscy101.09\fnHeuristica\fs90\fsp2\1c&H4F5C90&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.12,0:24:01.16,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.07,653.98)\fscx101.09\fscy101.09\fnHeuristica\fs90\fsp2\1c&H2E3BA6&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.16,0:24:01.21,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.1,656.73)\fscx101.02\fscy101.02\fnHeuristica\fs90\fsp2\1c&H1C1D1F&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.16,0:24:01.21,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.07,653.7)\fscx101.02\fscy101.02\fnHeuristica\fs90\fsp2\1c&H435088&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.16,0:24:01.21,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.07,653.7)\fscx101.02\fscy101.02\fnHeuristica\fs90\fsp2\1c&H1F2C9F&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.21,0:24:01.25,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.1,656.52)\fscx100.96\fscy100.96\fnHeuristica\fs90\fsp2\1c&H0D0E0F&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.21,0:24:01.25,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.07,653.49)\fscx100.96\fscy100.96\fnHeuristica\fs90\fsp2\1c&H37457F&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.21,0:24:01.25,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.07,653.49)\fscx100.96\fscy100.96\fnHeuristica\fs90\fsp2\1c&H101E98&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.25,0:24:01.29,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.09,656.05)\fscx100.83\fscy100.83\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.25,0:24:01.29,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.06,653.02)\fscx100.83\fscy100.83\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.25,0:24:01.29,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.06,653.02)\fscx100.83\fscy100.83\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.29,0:24:01.33,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.08,655.94)\fscx100.8\fscy100.8\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.29,0:24:01.33,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.06,652.92)\fscx100.8\fscy100.8\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.29,0:24:01.33,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.06,652.92)\fscx100.8\fscy100.8\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.33,0:24:01.37,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.09,655.86)\fscx100.78\fscy100.78\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.33,0:24:01.37,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.07,652.84)\fscx100.78\fscy100.78\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.33,0:24:01.37,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.07,652.84)\fscx100.78\fscy100.78\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.37,0:24:01.41,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.08,655.74)\fscx100.75\fscy100.75\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.37,0:24:01.41,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.06,652.72)\fscx100.75\fscy100.75\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.37,0:24:01.41,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.06,652.72)\fscx100.75\fscy100.75\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.41,0:24:01.46,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.07,655.57)\fscx100.7\fscy100.7\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.41,0:24:01.46,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.05,652.55)\fscx100.7\fscy100.7\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.41,0:24:01.46,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.05,652.55)\fscx100.7\fscy100.7\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.46,0:24:01.50,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.07,655.4)\fscx100.66\fscy100.66\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.46,0:24:01.50,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.05,652.38)\fscx100.66\fscy100.66\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.46,0:24:01.50,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.05,652.38)\fscx100.66\fscy100.66\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.50,0:24:01.54,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.06,655.23)\fscx100.61\fscy100.61\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.50,0:24:01.54,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.04,652.21)\fscx100.61\fscy100.61\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.50,0:24:01.54,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.04,652.21)\fscx100.61\fscy100.61\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.54,0:24:01.58,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.06,655.07)\fscx100.56\fscy100.56\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.54,0:24:01.58,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.04,652.05)\fscx100.56\fscy100.56\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.54,0:24:01.58,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.04,652.05)\fscx100.56\fscy100.56\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.58,0:24:01.62,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.05,654.92)\fscx100.52\fscy100.52\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.58,0:24:01.62,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.03,651.9)\fscx100.52\fscy100.52\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.58,0:24:01.62,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.03,651.9)\fscx100.52\fscy100.52\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.62,0:24:01.67,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.05,654.78)\fscx100.49\fscy100.49\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.62,0:24:01.67,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.03,651.76)\fscx100.49\fscy100.49\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.62,0:24:01.67,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.03,651.76)\fscx100.49\fscy100.49\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.67,0:24:01.71,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.04,654.63)\fscx100.44\fscy100.44\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.67,0:24:01.71,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.03,651.61)\fscx100.44\fscy100.44\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.67,0:24:01.71,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.03,651.61)\fscx100.44\fscy100.44\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.71,0:24:01.75,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.04,654.5)\fscx100.41\fscy100.41\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.71,0:24:01.75,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.03,651.49)\fscx100.41\fscy100.41\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.71,0:24:01.75,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.03,651.49)\fscx100.41\fscy100.41\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.75,0:24:01.79,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.03,654.37)\fscx100.37\fscy100.37\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.75,0:24:01.79,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.02,651.36)\fscx100.37\fscy100.37\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.75,0:24:01.79,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.02,651.36)\fscx100.37\fscy100.37\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.79,0:24:01.83,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.04,654.27)\fscx100.35\fscy100.35\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.79,0:24:01.83,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.03,651.26)\fscx100.35\fscy100.35\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.79,0:24:01.83,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.03,651.26)\fscx100.35\fscy100.35\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.83,0:24:01.87,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.03,654.14)\fscx100.31\fscy100.31\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.83,0:24:01.87,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.02,651.13)\fscx100.31\fscy100.31\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.83,0:24:01.87,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.02,651.13)\fscx100.31\fscy100.31\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.87,0:24:01.92,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.02,654.04)\fscx100.28\fscy100.28\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.87,0:24:01.92,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.02,651.03)\fscx100.28\fscy100.28\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.87,0:24:01.92,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.02,651.03)\fscx100.28\fscy100.28\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.92,0:24:01.96,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.02,653.94)\fscx100.26\fscy100.26\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.92,0:24:01.96,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.01,650.93)\fscx100.26\fscy100.26\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.92,0:24:01.96,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.01,650.93)\fscx100.26\fscy100.26\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:01.96,0:24:02.00,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.02,653.85)\fscx100.23\fscy100.23\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:01.96,0:24:02.00,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.01,650.84)\fscx100.23\fscy100.23\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:01.96,0:24:02.00,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.01,650.84)\fscx100.23\fscy100.23\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.00,0:24:02.04,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.75)\fscx100.2\fscy100.2\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.00,0:24:02.04,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.01,650.75)\fscx100.2\fscy100.2\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.00,0:24:02.04,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.01,650.75)\fscx100.2\fscy100.2\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.04,0:24:02.08,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.66)\fscx100.18\fscy100.18\fnHeuristica\fs90\fsp2\c&H000000&\alpha&HA0&\blur2\iclip(m 621 732 b 645 716 712 709 751 730 761 750 725 752 715 756 699 751 669 752 653 755 637 749 622 747 620 730)}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.04,0:24:02.08,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.66)\fscx100.18\fscy100.18\fnHeuristica\fs90\fsp2\c&H2C3A78&\blur0.5\iclip(m 621 732 b 645 716 712 709 751 730 761 750 725 752 715 756 699 751 669 752 653 755 637 749 622 747 620 730)}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.04,0:24:02.08,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.66)\fscx100.18\fscy100.18\fnHeuristica\fs90\fsp2\c&H031192&\alpha&HA0&\blur3\iclip(m 621 732 b 645 716 712 709 751 730 761 750 725 752 715 756 699 751 669 752 653 755 637 749 622 747 620 730)}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.08,0:24:02.12,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.58)\fscx100.16\fscy100.16\fnHeuristica\fs90\fsp2\c&H000000&\alpha&HA0&\blur2\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.08,0:24:02.12,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.01,650.57)\fscx100.16\fscy100.16\fnHeuristica\fs90\fsp2\c&H2C3A78&\blur0.5\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.08,0:24:02.12,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.01,650.57)\fscx100.16\fscy100.16\fnHeuristica\fs90\fsp2\c&H031192&\alpha&HA0&\blur3\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.12,0:24:02.17,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.48)\fscx100.13\fscy100.13\fnHeuristica\fs90\fsp2\c&H000000&\alpha&HA0&\blur2\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.12,0:24:02.17,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965.01,650.48)\fscx100.13\fscy100.13\fnHeuristica\fs90\fsp2\c&H2C3A78&\blur0.5\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.12,0:24:02.17,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965.01,650.48)\fscx100.13\fscy100.13\fnHeuristica\fs90\fsp2\c&H031192&\alpha&HA0&\blur3\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.17,0:24:02.21,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.4)\fscx100.11\fscy100.11\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.17,0:24:02.21,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.39)\fscx100.11\fscy100.11\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.17,0:24:02.21,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.39)\fscx100.11\fscy100.11\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.21,0:24:02.25,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968,653.3)\fscx100.08\fscy100.08\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.21,0:24:02.25,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.3)\fscx100.08\fscy100.08\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.21,0:24:02.25,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.3)\fscx100.08\fscy100.08\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.25,0:24:02.29,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.26)\fscx100.07\fscy100.07\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.25,0:24:02.29,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.26)\fscx100.07\fscy100.07\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.25,0:24:02.29,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.26)\fscx100.07\fscy100.07\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.29,0:24:02.33,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968.01,653.21)\fscx100.06\fscy100.06\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.29,0:24:02.33,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.21)\fscx100.06\fscy100.06\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.29,0:24:02.33,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.21)\fscx100.06\fscy100.06\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.33,0:24:02.37,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968,653.17)\fscx100.05\fscy100.05\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.33,0:24:02.37,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.17)\fscx100.05\fscy100.05\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.33,0:24:02.37,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.17)\fscx100.05\fscy100.05\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.37,0:24:02.42,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968,653.11)\fscx100.03\fscy100.03\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.37,0:24:02.42,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650.11)\fscx100.03\fscy100.03\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.37,0:24:02.42,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.11)\fscx100.03\fscy100.03\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.42,0:24:05.05,DedzuyaSigns,,0,0,0,,{=2}{\an8\pos(968,653)\fnHeuristica\fs90\fsp2\1c&H000000&\alpha&HA0&\blur2}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.42,0:24:05.05,DedzuyaSigns,,0,0,0,,{=1}{\an8\pos(965,650)\fnHeuristica\fs90\fsp2\1c&H2C3A78&\blur0.5}Seven Goodbyes Part 1
-Dialogue: 2,0:24:02.42,0:24:05.05,DedzuyaSigns,,0,0,0,,{=0}{\an8\pos(965,650.01)\fnHeuristica\fs90\fsp2\1c&H031192&\alpha&HA0&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF5&\blur3\1a&HF5&}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Episode
+Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(965.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF5&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF1&\blur3}Episode
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HCC&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(965.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF1&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCDD8EA&\alpha&HCC&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(973.65,377.58)\fscx101.94\fscy101.94\fs78\bord0\c&HB0AECC&\alpha&HE0&\blur3}Episode
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0.77\c&HFFFFFF&\alpha&H8C&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0\1c&HC2CCE2&\alpha&H8C&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(965.29,751.35)\fscx101.94\fscy101.94\bord0\c&HB0AECC&\alpha&HE0&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(961.55,748.11)\fscx101.94\fscy101.94\bord0.77\c&HFFFFFF&\alpha&H8C&\1a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(961.55,748.11)\fscx101.94\fscy101.94\bord0\1c&HC2CCE2&\alpha&H8C&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(973.635,377.52)\fscx101.88\fscy101.88\fs78\bord0\c&HB0AECC&\alpha&HD2&\blur3}Episode
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0\1c&HB7C1DB&\alpha&H59&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(965.27,751.065)\fscx101.88\fscy101.88\bord0\c&HB0AECC&\alpha&HD2&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(961.54,747.84)\fscx101.88\fscy101.88\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(961.54,747.84)\fscx101.88\fscy101.88\bord0\1c&HB7C1DB&\alpha&H59&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(973.605,377.415)\fscx101.77\fscy101.77\fs78\bord0\c&HB0AECC&\alpha&HC4&\blur3}Episode
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H43&\blur0.75}Episode
+Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0\1c&HABB6D3&\alpha&H26&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(965.24,750.585)\fscx101.77\fscy101.77\bord0\c&HB0AECC&\alpha&HC4&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(961.51,747.375)\fscx101.77\fscy101.77\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H43&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(961.51,747.375)\fscx101.77\fscy101.77\bord0\1c&HABB6D3&\alpha&H26&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(973.59,377.385)\fscx101.72\fscy101.72\fs78\bord0\c&HB0AECC&\alpha&HB6&\blur3}Episode
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(965.24,750.36)\fscx101.72\fscy101.72\bord0\c&HB0AECC&\alpha&HB6&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(961.51,747.15)\fscx101.72\fscy101.72\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(961.51,747.15)\fscx101.72\fscy101.72\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(973.575,377.31)\fscx101.64\fscy101.64\fs78\bord0\c&HB0AECC&\alpha&HA8&\blur3}Episode
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0\1c&H94A0C3&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(965.23,750)\fscx101.64\fscy101.64\bord0\c&HB0AECC&\alpha&HA8&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(961.49,746.775)\fscx101.64\fscy101.64\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(961.49,746.775)\fscx101.64\fscy101.64\bord0\1c&H94A0C3&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(973.56,377.265)\fscx101.59\fscy101.59\fs78\bord0\c&HB0AECC&\alpha&H9A&\blur3}Episode
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0\1c&H8995BB&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(965.21,749.745)\fscx101.59\fscy101.59\bord0\c&HB0AECC&\alpha&H9A&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(961.48,746.52)\fscx101.59\fscy101.59\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(961.48,746.52)\fscx101.59\fscy101.59\bord0\1c&H8995BB&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(973.545,377.205)\fscx101.52\fscy101.52\fs78\bord0\c&HB0AECC&\alpha&H89&\blur3}Episode
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0\1c&H7E89B3&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(965.18,749.43)\fscx101.52\fscy101.52\bord0\c&HB0AECC&\alpha&H89&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(961.46,746.22)\fscx101.52\fscy101.52\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(961.46,746.22)\fscx101.52\fscy101.52\bord0\1c&H7E89B3&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(973.53,377.13)\fscx101.43\fscy101.43\fs78\bord0\c&HB0AECC&\alpha&H7B&\blur3}Episode
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0\1c&H727EAC&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(965.18,749.04)\fscx101.43\fscy101.43\bord0\c&HB0AECC&\alpha&H7B&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(961.46,745.83)\fscx101.43\fscy101.43\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(961.46,745.83)\fscx101.43\fscy101.43\bord0\1c&H727EAC&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(973.53,377.055)\fscx101.34\fscy101.34\fs78\bord0\c&HB0AECC&\alpha&H6D&\blur3}Episode
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0\1c&H6773A4&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(965.18,748.62)\fscx101.34\fscy101.34\bord0\c&HB0AECC&\alpha&H6D&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(961.46,745.41)\fscx101.34\fscy101.34\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(961.46,745.41)\fscx101.34\fscy101.34\bord0\1c&H6773A4&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(973.515,376.995)\fscx101.28\fscy101.28\fs78\bord0\c&HB0AECC&\alpha&H5F&\blur3}Episode
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(965.17,748.35)\fscx101.28\fscy101.28\bord0\c&HB0AECC&\alpha&H5F&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(961.45,745.14)\fscx101.28\fscy101.28\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(961.45,745.14)\fscx101.28\fscy101.28\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(973.5,376.935)\fscx101.2\fscy101.2\fs78\bord0\c&HB0AECC&\alpha&H51&\blur3}Episode
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0\1c&H505D94&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(965.15,748.005)\fscx101.2\fscy101.2\bord0\c&HB0AECC&\alpha&H51&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(961.45,744.81)\fscx101.2\fscy101.2\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(961.45,744.81)\fscx101.2\fscy101.2\bord0\1c&H505D94&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(973.485,376.875)\fscx101.15\fscy101.15\fs78\bord0\c&HB0AECC&\alpha&H43&\blur3}Episode
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0\1c&H45528D&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(965.14,747.735)\fscx101.15\fscy101.15\bord0\c&HB0AECC&\alpha&H43&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(961.43,744.54)\fscx101.15\fscy101.15\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(961.43,744.54)\fscx101.15\fscy101.15\bord0\1c&H45528D&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(973.485,376.815)\fscx101.08\fscy101.08\fs78\bord0\c&HB0AECC&\alpha&H32&\blur3}Episode
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0\1c&H3A4685&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(965.14,747.435)\fscx101.08\fscy101.08\bord0\c&HB0AECC&\alpha&H32&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(961.43,744.225)\fscx101.08\fscy101.08\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(961.43,744.225)\fscx101.08\fscy101.08\bord0\1c&H3A4685&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(973.47,376.755)\fscx101.02\fscy101.02\fs78\bord0\c&HB0AECC&\alpha&H24&\blur3}Episode
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0\1c&H2E3B7D&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(965.14,747.18)\fscx101.02\fscy101.02\bord0\c&HB0AECC&\alpha&H24&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(961.43,743.985)\fscx101.02\fscy101.02\bord0.77\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(961.43,743.985)\fscx101.02\fscy101.02\bord0\1c&H2E3B7D&\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(973.47,376.695)\fscx100.96\fscy100.96\fs78\bord0\c&HB0AECC&\alpha&H16&\blur3}Episode
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(965.12,746.91)\fscx100.96\fscy100.96\bord0\c&HB0AECC&\alpha&H16&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(961.42,743.7)\fscx100.96\fscy100.96\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(961.42,743.7)\fscx100.96\fscy100.96\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(973.455,376.665)\fscx100.91\fscy100.91\fs78\bord0\c&HB0AECC&\alpha&H08&\blur3}Episode
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(965.11,746.655)\fscx100.91\fscy100.91\bord0\c&HB0AECC&\alpha&H08&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(961.42,743.46)\fscx100.91\fscy100.91\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(961.42,743.46)\fscx100.91\fscy100.91\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(973.455,376.62)\fscx100.85\fscy100.85\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(965.11,746.415)\fscx100.85\fscy100.85\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(961.42,743.22)\fscx100.85\fscy100.85\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(961.42,743.22)\fscx100.85\fscy100.85\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(973.44,376.575)\fscx100.8\fscy100.8\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(965.11,746.175)\fscx100.8\fscy100.8\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(961.4,742.98)\fscx100.8\fscy100.8\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(961.4,742.98)\fscx100.8\fscy100.8\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(973.44,376.53)\fscx100.75\fscy100.75\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,Toutes,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(965.09,745.935)\fscx100.75\fscy100.75\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(961.4,742.74)\fscx100.75\fscy100.75\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(961.4,742.74)\fscx100.75\fscy100.75\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(973.425,376.485)\fscx100.7\fscy100.7\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(965.09,745.71)\fscx100.7\fscy100.7\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(961.4,742.515)\fscx100.7\fscy100.7\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(961.4,742.515)\fscx100.7\fscy100.7\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(973.425,376.44)\fscx100.65\fscy100.65\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(965.08,745.5)\fscx100.65\fscy100.65\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(961.39,742.305)\fscx100.65\fscy100.65\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(961.39,742.305)\fscx100.65\fscy100.65\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(973.41,376.395)\fscx100.61\fscy100.61\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(965.08,745.29)\fscx100.61\fscy100.61\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(961.39,742.11)\fscx100.61\fscy100.61\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(961.39,742.11)\fscx100.61\fscy100.61\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(973.41,376.365)\fscx100.56\fscy100.56\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(965.06,745.095)\fscx100.56\fscy100.56\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(961.39,741.915)\fscx100.56\fscy100.56\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(961.39,741.915)\fscx100.56\fscy100.56\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(973.395,376.32)\fscx100.52\fscy100.52\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(965.06,744.9)\fscx100.52\fscy100.52\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(961.37,741.72)\fscx100.52\fscy100.52\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(961.37,741.72)\fscx100.52\fscy100.52\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(973.395,376.29)\fscx100.48\fscy100.48\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(965.06,744.72)\fscx100.48\fscy100.48\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(961.37,741.54)\fscx100.48\fscy100.48\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(961.37,741.54)\fscx100.48\fscy100.48\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(973.395,376.26)\fscx100.44\fscy100.44\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(965.06,744.555)\fscx100.44\fscy100.44\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(961.37,741.375)\fscx100.44\fscy100.44\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(961.37,741.375)\fscx100.44\fscy100.44\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(973.395,376.215)\fscx100.41\fscy100.41\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(965.05,744.39)\fscx100.41\fscy100.41\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(961.37,741.21)\fscx100.41\fscy100.41\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(961.37,741.21)\fscx100.41\fscy100.41\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(973.38,376.185)\fscx100.37\fscy100.37\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(965.05,744.21)\fscx100.37\fscy100.37\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(961.37,741.045)\fscx100.37\fscy100.37\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(961.37,741.045)\fscx100.37\fscy100.37\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(973.38,376.155)\fscx100.34\fscy100.34\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(965.05,744.075)\fscx100.34\fscy100.34\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(961.37,740.895)\fscx100.34\fscy100.34\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(961.37,740.895)\fscx100.34\fscy100.34\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(973.38,376.125)\fscx100.31\fscy100.31\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(965.05,743.925)\fscx100.31\fscy100.31\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(961.36,740.745)\fscx100.31\fscy100.31\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(961.36,740.745)\fscx100.31\fscy100.31\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(973.365,376.11)\fscx100.28\fscy100.28\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(965.03,743.79)\fscx100.28\fscy100.28\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(961.36,740.61)\fscx100.28\fscy100.28\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(961.36,740.61)\fscx100.28\fscy100.28\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(973.365,376.08)\fscx100.25\fscy100.25\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(965.03,743.655)\fscx100.25\fscy100.25\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(961.36,740.475)\fscx100.25\fscy100.25\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(961.36,740.475)\fscx100.25\fscy100.25\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(973.365,376.065)\fscx100.22\fscy100.22\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(965.03,743.535)\fscx100.22\fscy100.22\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(961.36,740.37)\fscx100.22\fscy100.22\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(961.36,740.37)\fscx100.22\fscy100.22\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(973.365,376.035)\fscx100.2\fscy100.2\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(965.03,743.415)\fscx100.2\fscy100.2\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(961.36,740.25)\fscx100.2\fscy100.2\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(961.36,740.25)\fscx100.2\fscy100.2\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(973.35,376.02)\fscx100.17\fscy100.17\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(965.02,743.31)\fscx100.17\fscy100.17\bord0\c&HB0AECC&\blur3\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(961.36,740.145)\fscx100.17\fscy100.17\c&HFFFFFF&\blur0.75\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(961.36,740.145)\fscx100.17\fscy100.17\bord0\4a&HFF&\blur0.75\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(973.35,375.99)\fscx100.15\fscy100.15\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(965.02,743.205)\fscx100.15\fscy100.15\bord0\c&HB0AECC&\blur3\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(961.34,740.04)\fscx100.15\fscy100.15\c&HFFFFFF&\blur0.75\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(961.34,740.04)\fscx100.15\fscy100.15\bord0\4a&HFF&\blur0.75\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\iclip(m 769 689 l 791 685 813 683 823 685 843 683 864 683 879 685 893 688 862 692 808 693 792 693)}
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(973.35,375.975)\fscx100.13\fscy100.13\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(965.02,743.115)\fscx100.13\fscy100.13\bord0\c&HB0AECC&\blur3\iclip(m 859 672.67 l 925.33 680 881.33 646.67 846.67 657.33 846.67 666.67)}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(961.34,739.95)\fscx100.13\fscy100.13\c&HFFFFFF&\blur0.75\iclip(m 859 672.67 l 925.33 680 881.33 646.67 846.67 657.33 846.67 666.67)}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(961.34,739.95)\fscx100.13\fscy100.13\bord0\4a&HFF&\blur0.75\iclip(m 859 672.67 l 925.33 680 881.33 646.67 846.67 657.33 846.67 666.67)}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(973.35,375.945)\fscx100.11\fscy100.11\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(965.02,743.025)\fscx100.11\fscy100.11\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(961.34,739.845)\fscx100.11\fscy100.11\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(961.34,739.845)\fscx100.11\fscy100.11\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(973.35,375.93)\fscx100.09\fscy100.09\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(965.02,742.92)\fscx100.09\fscy100.09\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(961.34,739.755)\fscx100.09\fscy100.09\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(961.34,739.755)\fscx100.09\fscy100.09\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(973.35,375.915)\fscx100.07\fscy100.07\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(965.02,742.845)\fscx100.07\fscy100.07\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(961.34,739.665)\fscx100.07\fscy100.07\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(961.34,739.665)\fscx100.07\fscy100.07\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.9)\fscx100.06\fscy100.06\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(965,742.77)\fscx100.06\fscy100.06\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(961.34,739.605)\fscx100.06\fscy100.06\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(961.34,739.605)\fscx100.06\fscy100.06\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.885)\fscx100.04\fscy100.04\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(965,742.695)\fscx100.04\fscy100.04\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(961.34,739.53)\fscx100.04\fscy100.04\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(961.34,739.53)\fscx100.04\fscy100.04\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.87)\fscx100.03\fscy100.03\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(965,742.635)\fscx100.03\fscy100.03\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(961.34,739.47)\fscx100.03\fscy100.03\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(961.34,739.47)\fscx100.03\fscy100.03\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(973.335,375.87)\fscx100.02\fscy100.02\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(965,742.59)\fscx100.02\fscy100.02\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(961.33,739.425)\fscx100.02\fscy100.02\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(961.33,739.425)\fscx100.02\fscy100.02\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(973.335,375.855)\fscx100.01\fscy100.01\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(965,742.545)\fscx100.01\fscy100.01\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx100.01\fscy100.01\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx100.01\fscy100.01\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.50,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.50,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.50,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.50,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(965,742.5)\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.50,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.50,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 0,0:24:03.30,0:24:03.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.30,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.30,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.34,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.34,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.38,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:04.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:01:53.80,0:01:56.30,Ep Title,,0,0,0,,{\pos(930,895)\bord6\blur4\fad(0,900)\clip(920,0,920,1080)\t(0,689,\clip(920,0,1838,1080))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF}Quite the Crappy Kyoto Quagmire
 Dialogue: 1,0:01:53.80,0:01:56.30,Ep Title,,0,0,0,,{\pos(930,895)\c&H000000&\blur0.6\fad(0,900)\clip(920,0,920,1080)\t(0,689,\clip(920,0,1838,1080))}Quite the Cr{\c&H00CBFF&}a{\c&H000000&}ppy Ky{\c&H0100FF&}o{\c&H000000&}t{\c&H986599&}o {\c&H000000&}Qu{\c&H00CC98&}a{\c&H000000&}gm{\c&HFE9803&}i{\c&H000000&}re
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
