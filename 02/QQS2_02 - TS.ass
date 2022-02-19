@@ -21,9 +21,10 @@ Audio File: QQS2_02_premux.mkv
 Video File: QQS2_02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 5476
-Active Line: 5666
-Video Position: 34550
+Video Zoom Percent: 0.500000
+Scroll Position: 5665
+Active Line: 5668
+Video Position: 58
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5728,5 +5729,5 @@ Dialogue: 0,0:24:04.46,0:24:04.51,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78
 Dialogue: 0,0:24:04.46,0:24:04.51,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.51,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.51,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:00:01.60,0:00:04.27,Ep Title,,0,0,0,,{\pos(795,100)\bord6\1a&H30&\3a&H30&\blur4\fad(0,900)\clip(785,0,785,1080)\t(0,736,\clip(785,0,1405,1080))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF}Seven Goodbyes Part 1
-Dialogue: 1,0:00:01.60,0:00:04.27,Ep Title,,0,0,0,,{\pos(795,100)\c&H000000&\blur0.6\fad(0,900)\clip(785,0,785,1080)\t(0,736,\clip(785,0,1405,1080))}S{\c&H01CF99&}e{\c&H000000&}v{\c&H00CCFF&}e{\c&H000000&}n G{\c&HFD9902&}o{\c&H966598&}o{\c&H000000&}dby{\c&H0300FE&}e{\c&H000000&}s Part 1
+Dialogue: 0,0:00:01.60,0:00:04.27,Ep Title,,0,0,0,,{\pos(805,100)\bord6\1a&H30&\3a&H30&\blur4\fad(0,900)\clip(799,24,801,106)\t(0,570,1,\clip(799,24,1411.5,106))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF}Seven Goodbyes Part 1
+Dialogue: 1,0:00:01.60,0:00:04.27,Ep Title,,0,0,0,,{\pos(805,100)\c&H000000&\blur0.6\fad(0,900)\clip(805,30,807,100)\t(0,570,1,\clip(805,30,1405.5,100))}S{\c&H01CF99&}e{\c&H000000&}v{\c&H00CCFF&}e{\c&H000000&}n G{\c&HFD9902&}o{\c&H966598&}o{\c&H000000&}dby{\c&H0300FE&}e{\c&H000000&}s Part 1
