@@ -15,10 +15,17 @@ Audio File: QQS2_04_premux.mkv
 Video File: QQS2_04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+<<<<<<< Updated upstream
 Video Zoom Percent: 1.125000
 Scroll Position: 47
 Active Line: 60
 Video Position: 7034
+=======
+Video Zoom Percent: 0.500000
+Scroll Position: 543
+Active Line: 550
+Video Position: 34577
+>>>>>>> Stashed changes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -347,312 +354,309 @@ Dialogue: 0,0:17:54.72,0:17:54.76,Signs,Itsuki,0,0,0,,{=6}{\an5\fs85\fax-0.1\c&H
 Dialogue: 0,0:17:54.76,0:17:54.80,Signs,Itsuki,0,0,0,,{=6}{\an5\fs85\fax-0.1\c&H000000&\blur1\fnphitradesign Handwritten Thin\org(-525.66,-351)\fry0.51\frx-0.43\frz0.22\pos(751.38,710.01)\1a&H1E&}But it was a pretty fun hell. Later.
 Dialogue: 0,0:17:54.80,0:17:54.84,Signs,Itsuki,0,0,0,,{=6}{\an5\fs85\fax-0.1\c&H000000&\blur1\fnphitradesign Handwritten Thin\org(-526.75,-350.99)\fry0.51\frx-0.43\frz0.22\pos(750.29,710.01)\1a&H1E&}But it was a pretty fun hell. Later.
 Dialogue: 0,0:17:54.84,0:17:54.88,Signs,Itsuki,0,0,0,,{=6}{\an5\fs85\fax-0.1\c&H000000&\blur1\fnphitradesign Handwritten Thin\org(-527.62,-350.99)\fry0.51\frx-0.43\frz0.22\pos(749.42,710.01)\1a&H1E&}But it was a pretty fun hell. Later.
-Dialogue: 0,0:24:00.54,0:24:00.58,NextEp,SIGN,0,0,0,,{\fscx102.16\fscy102.16\frz0\alpha&HFF&\fs78\bord0\blur3\c&HB0AECC&\pos(973.71,377.805)}Episode
-Dialogue: 0,0:24:00.54,0:24:00.58,NextEp,SIGN,0,0,0,,{\bord0.765\fscx102.16\fscy102.16\frz0\alpha&HFF&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.96,374.58)\1a&HFF&}Episode
-Dialogue: 1,0:24:00.54,0:24:00.58,NextEp,SIGN,0,0,0,,{\fscx102.16\fscy102.16\frz0\alpha&HFF&\bord0\fs78\blur0.75\1c&HD9E3F2&\pos(969.96,374.58)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.54,0:24:00.58,NextEp,SIGN,0,0,0,,{=6}{\fscx102.16\fscy102.16\frz0\alpha&HFF&\bord0\blur3\pos(972.345,752.415)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.54,0:24:00.58,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx102.16\fscy102.16\frz0\alpha&HFF&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.595,749.175)\1a&HFF&}Good Work Today
-Dialogue: 1,0:24:00.54,0:24:00.58,NextEp,SIGN,0,0,0,,{=4}{\fscx102.16\fscy102.16\frz0\alpha&HFF&\bord0\blur0.75\pos(968.595,749.175)\1c&HD9E3F2&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.58,0:24:00.62,NextEp,SIGN,0,0,0,,{\fscx102.06\fscy102.06\frz0\alpha&HF1&\fs78\bord0\blur3\c&HB0AECC&\pos(973.68,377.715)}Episode
-Dialogue: 0,0:24:00.58,0:24:00.62,NextEp,SIGN,0,0,0,,{\bord0.765\fscx102.06\fscy102.06\frz0\alpha&HCC&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.945,374.49)\1a&HFF&}Episode
-Dialogue: 1,0:24:00.58,0:24:00.62,NextEp,SIGN,0,0,0,,{\fscx102.06\fscy102.06\frz0\alpha&HCC&\bord0\fs78\blur0.75\1c&HCED8EA&\pos(969.945,374.49)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.58,0:24:00.62,NextEp,SIGN,0,0,0,,{=6}{\fscx102.06\fscy102.06\frz0\alpha&HF1&\bord0\blur3\pos(972.315,751.92)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.58,0:24:00.62,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx102.06\fscy102.06\frz0\alpha&HCC&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.58,748.695)\1a&HFF&}Good Work Today
-Dialogue: 1,0:24:00.58,0:24:00.62,NextEp,SIGN,0,0,0,,{=4}{\fscx102.06\fscy102.06\frz0\alpha&HCC&\bord0\blur0.75\pos(968.58,748.695)\1c&HCED8EA&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.62,0:24:00.67,NextEp,SIGN,0,0,0,,{\fscx101.94\fscy101.94\frz0\alpha&HE3&\fs78\bord0\blur3\c&HB0AECC&\pos(973.65,377.58)}Episode
-Dialogue: 0,0:24:00.62,0:24:00.67,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.94\fscy101.94\frz0\alpha&H99&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.915,374.355)\1a&HFF&}Episode
-Dialogue: 1,0:24:00.62,0:24:00.67,NextEp,SIGN,0,0,0,,{\fscx101.94\fscy101.94\frz0\alpha&H99&\bord0\fs78\blur0.75\1c&HC2CDE3&\pos(969.915,374.355)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.62,0:24:00.67,NextEp,SIGN,0,0,0,,{=6}{\fscx101.94\fscy101.94\frz0\alpha&HE3&\bord0\blur3\pos(972.285,751.35)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.62,0:24:00.67,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.94\fscy101.94\frz0\alpha&H99&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.55,748.11)\1a&HFF&}Good Work Today
-Dialogue: 1,0:24:00.62,0:24:00.67,NextEp,SIGN,0,0,0,,{=4}{\fscx101.94\fscy101.94\frz0\alpha&H99&\bord0\blur0.75\pos(968.55,748.11)\1c&HC2CDE3&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\fscx101.88\fscy101.88\frz0\alpha&HD2&\fs78\bord0\blur3\c&HB0AECC&\pos(973.635,377.52)}Episode
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.88\fscy101.88\frz0\alpha&H59&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.9,374.295)\1a&HFF&}Episode
-Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\fscx101.88\fscy101.88\frz0\alpha&H59&\bord0\fs78\blur0.75\1c&HB7C2DB&\pos(969.9,374.295)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{=6}{\fscx101.88\fscy101.88\frz0\alpha&HD2&\bord0\blur3\pos(972.27,751.065)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.88\fscy101.88\frz0\alpha&H59&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.535,747.84)\1a&HFF&}Good Work Today
-Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{=4}{\fscx101.88\fscy101.88\frz0\alpha&H59&\bord0\blur0.75\pos(968.535,747.84)\1c&HB7C2DB&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\fscx101.77\fscy101.77\frz0\alpha&HC4&\fs78\bord0\blur3\c&HB0AECC&\pos(973.605,377.415)}Episode
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.77\fscy101.77\frz0\alpha&H26&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.87,374.205)\1a&H4D&}Episode
-Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\fscx101.77\fscy101.77\frz0\alpha&H26&\bord0\fs78\blur0.75\1c&HACB7D3&\pos(969.87,374.205)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{=6}{\fscx101.77\fscy101.77\frz0\alpha&HC4&\bord0\blur3\pos(972.24,750.585)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.77\fscy101.77\frz0\alpha&H26&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.505,747.375)\1a&H4D&}Good Work Today
-Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{=4}{\fscx101.77\fscy101.77\frz0\alpha&H26&\bord0\blur0.75\pos(968.505,747.375)\1c&HACB7D3&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\fscx101.72\fscy101.72\frz0\alpha&HB6&\fs78\bord0\blur3\c&HB0AECC&\pos(973.59,377.385)}Episode
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.72\fscy101.72\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.87,374.16)\1a&H00&}Episode
-Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\fscx101.72\fscy101.72\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&HA0ABCB&\pos(969.87,374.16)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{=6}{\fscx101.72\fscy101.72\frz0\alpha&HB6&\bord0\blur3\pos(972.24,750.36)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.72\fscy101.72\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.505,747.15)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{=4}{\fscx101.72\fscy101.72\frz0\alpha&H00&\bord0\blur0.75\pos(968.505,747.15)\1c&HA0ABCB&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.79,0:24:00.83,NextEp,SIGN,0,0,0,,{\fscx101.64\fscy101.64\frz0\alpha&HA8&\fs78\bord0\blur3\c&HB0AECC&\pos(973.575,377.31)}Episode
-Dialogue: 0,0:24:00.79,0:24:00.83,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.64\fscy101.64\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.855,374.085)\1a&H00&}Episode
-Dialogue: 1,0:24:00.79,0:24:00.83,NextEp,SIGN,0,0,0,,{\fscx101.64\fscy101.64\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H95A0C3&\pos(969.855,374.085)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.79,0:24:00.83,NextEp,SIGN,0,0,0,,{=6}{\fscx101.64\fscy101.64\frz0\alpha&HA8&\bord0\blur3\pos(972.225,750)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.79,0:24:00.83,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.64\fscy101.64\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.49,746.775)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:00.79,0:24:00.83,NextEp,SIGN,0,0,0,,{=4}{\fscx101.64\fscy101.64\frz0\alpha&H00&\bord0\blur0.75\pos(968.49,746.775)\1c&H95A0C3&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.83,0:24:00.87,NextEp,SIGN,0,0,0,,{\fscx101.59\fscy101.59\frz0\alpha&H9A&\fs78\bord0\blur3\c&HB0AECC&\pos(973.56,377.265)}Episode
-Dialogue: 0,0:24:00.83,0:24:00.87,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.59\fscy101.59\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.84,374.04)\1a&H00&}Episode
-Dialogue: 1,0:24:00.83,0:24:00.87,NextEp,SIGN,0,0,0,,{\fscx101.59\fscy101.59\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H8A95BC&\pos(969.84,374.04)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.83,0:24:00.87,NextEp,SIGN,0,0,0,,{=6}{\fscx101.59\fscy101.59\frz0\alpha&H9A&\bord0\blur3\pos(972.21,749.745)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.83,0:24:00.87,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.59\fscy101.59\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.475,746.52)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:00.83,0:24:00.87,NextEp,SIGN,0,0,0,,{=4}{\fscx101.59\fscy101.59\frz0\alpha&H00&\bord0\blur0.75\pos(968.475,746.52)\1c&H8A95BC&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.87,0:24:00.92,NextEp,SIGN,0,0,0,,{\fscx101.52\fscy101.52\frz0\alpha&H8C&\fs78\bord0\blur3\c&HB0AECC&\pos(973.545,377.205)}Episode
-Dialogue: 0,0:24:00.87,0:24:00.92,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.52\fscy101.52\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.81,373.995)\1a&H00&}Episode
-Dialogue: 1,0:24:00.87,0:24:00.92,NextEp,SIGN,0,0,0,,{\fscx101.52\fscy101.52\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H7E8AB4&\pos(969.81,373.995)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.87,0:24:00.92,NextEp,SIGN,0,0,0,,{=6}{\fscx101.52\fscy101.52\frz0\alpha&H8C&\bord0\blur3\pos(972.18,749.43)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.87,0:24:00.92,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.52\fscy101.52\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.46,746.22)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:00.87,0:24:00.92,NextEp,SIGN,0,0,0,,{=4}{\fscx101.52\fscy101.52\frz0\alpha&H00&\bord0\blur0.75\pos(968.46,746.22)\1c&H7E8AB4&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\fscx101.43\fscy101.43\frz0\alpha&H7B&\fs78\bord0\blur3\c&HB0AECC&\pos(973.53,377.13)}Episode
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.43\fscy101.43\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.81,373.92)\1a&H00&}Episode
-Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\fscx101.43\fscy101.43\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H737FAC&\pos(969.81,373.92)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{=6}{\fscx101.43\fscy101.43\frz0\alpha&H7B&\bord0\blur3\pos(972.18,749.04)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.43\fscy101.43\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.46,745.83)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{=4}{\fscx101.43\fscy101.43\frz0\alpha&H00&\bord0\blur0.75\pos(968.46,745.83)\1c&H737FAC&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\fscx101.34\fscy101.34\frz0\alpha&H6D&\fs78\bord0\blur3\c&HB0AECC&\pos(973.53,377.055)}Episode
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.34\fscy101.34\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.81,373.845)\1a&H00&}Episode
-Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\fscx101.34\fscy101.34\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H6873A4&\pos(969.81,373.845)\4a&HFF&}Episode
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{=6}{\fscx101.34\fscy101.34\frz0\alpha&H6D&\bord0\blur3\pos(972.18,748.62)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.34\fscy101.34\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.46,745.41)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{=4}{\fscx101.34\fscy101.34\frz0\alpha&H00&\bord0\blur0.75\pos(968.46,745.41)\1c&H6873A4&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\fscx101.28\fscy101.28\frz0\alpha&H5F&\fs78\bord0\blur3\c&HB0AECC&\pos(973.515,376.995)}Episode
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.28\fscy101.28\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.795,373.8)\1a&H00&}Episode
-Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\fscx101.28\fscy101.28\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H5C689C&\pos(969.795,373.8)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{=6}{\fscx101.28\fscy101.28\frz0\alpha&H5F&\bord0\blur3\pos(972.165,748.35)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.28\fscy101.28\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.445,745.14)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{=4}{\fscx101.28\fscy101.28\frz0\alpha&H00&\bord0\blur0.75\pos(968.445,745.14)\1c&H5C689C&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.04,0:24:01.08,NextEp,SIGN,0,0,0,,{\fscx101.2\fscy101.2\frz0\alpha&H51&\fs78\bord0\blur3\c&HB0AECC&\pos(973.5,376.935)}Episode
-Dialogue: 0,0:24:01.04,0:24:01.08,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.2\fscy101.2\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.795,373.725)\1a&H00&}Episode
-Dialogue: 1,0:24:01.04,0:24:01.08,NextEp,SIGN,0,0,0,,{\fscx101.2\fscy101.2\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H515D95&\pos(969.795,373.725)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.04,0:24:01.08,NextEp,SIGN,0,0,0,,{=6}{\fscx101.2\fscy101.2\frz0\alpha&H51&\bord0\blur3\pos(972.15,748.005)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.04,0:24:01.08,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.2\fscy101.2\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.445,744.81)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.04,0:24:01.08,NextEp,SIGN,0,0,0,,{=4}{\fscx101.2\fscy101.2\frz0\alpha&H00&\bord0\blur0.75\pos(968.445,744.81)\1c&H515D95&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.08,0:24:01.12,NextEp,SIGN,0,0,0,,{\fscx101.15\fscy101.15\frz0\alpha&H43&\fs78\bord0\blur3\c&HB0AECC&\pos(973.485,376.875)}Episode
-Dialogue: 0,0:24:01.08,0:24:01.12,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.15\fscy101.15\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.78,373.665)\1a&H00&}Episode
-Dialogue: 1,0:24:01.08,0:24:01.12,NextEp,SIGN,0,0,0,,{\fscx101.15\fscy101.15\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H46528D&\pos(969.78,373.665)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.08,0:24:01.12,NextEp,SIGN,0,0,0,,{=6}{\fscx101.15\fscy101.15\frz0\alpha&H43&\bord0\blur3\pos(972.135,747.735)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.08,0:24:01.12,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.15\fscy101.15\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.43,744.54)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.08,0:24:01.12,NextEp,SIGN,0,0,0,,{=4}{\fscx101.15\fscy101.15\frz0\alpha&H00&\bord0\blur0.75\pos(968.43,744.54)\1c&H46528D&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.12,0:24:01.17,NextEp,SIGN,0,0,0,,{\fscx101.08\fscy101.08\frz0\alpha&H36&\fs78\bord0\blur3\c&HB0AECC&\pos(973.485,376.815)}Episode
-Dialogue: 0,0:24:01.12,0:24:01.17,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.08\fscy101.08\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.78,373.605)\1a&H00&}Episode
-Dialogue: 1,0:24:01.12,0:24:01.17,NextEp,SIGN,0,0,0,,{\fscx101.08\fscy101.08\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H3A4785&\pos(969.78,373.605)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.12,0:24:01.17,NextEp,SIGN,0,0,0,,{=6}{\fscx101.08\fscy101.08\frz0\alpha&H36&\bord0\blur3\pos(972.135,747.435)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.12,0:24:01.17,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.08\fscy101.08\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.43,744.225)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.12,0:24:01.17,NextEp,SIGN,0,0,0,,{=4}{\fscx101.08\fscy101.08\frz0\alpha&H00&\bord0\blur0.75\pos(968.43,744.225)\1c&H3A4785&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\fscx101.02\fscy101.02\frz0\alpha&H24&\fs78\bord0\blur3\c&HB0AECC&\pos(973.47,376.755)}Episode
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\bord0.765\fscx101.02\fscy101.02\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.765,373.56)\1a&H00&}Episode
-Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\fscx101.02\fscy101.02\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H2F3C7D&\pos(969.765,373.56)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{=6}{\fscx101.02\fscy101.02\frz0\alpha&H24&\bord0\blur3\pos(972.135,747.18)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{=5}{\bord0.765\fscx101.02\fscy101.02\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.43,743.985)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{=4}{\fscx101.02\fscy101.02\frz0\alpha&H00&\bord0\blur0.75\pos(968.43,743.985)\1c&H2F3C7D&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\fscx100.96\fscy100.96\frz0\alpha&H16&\fs78\bord0\blur3\c&HB0AECC&\pos(973.47,376.695)}Episode
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.96\fscy100.96\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.765,373.5)\1a&H00&}Episode
-Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\fscx100.96\fscy100.96\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H243175&\pos(969.765,373.5)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{=6}{\fscx100.96\fscy100.96\frz0\alpha&H16&\bord0\blur3\pos(972.12,746.91)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.96\fscy100.96\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.415,743.7)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{=4}{\fscx100.96\fscy100.96\frz0\alpha&H00&\bord0\blur0.75\pos(968.415,743.7)\1c&H243175&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\fscx100.91\fscy100.91\frz0\alpha&H08&\fs78\bord0\blur3\c&HB0AECC&\pos(973.455,376.665)}Episode
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.91\fscy100.91\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.765,373.47)\1a&H00&}Episode
-Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\fscx100.91\fscy100.91\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.765,373.47)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{=6}{\fscx100.91\fscy100.91\frz0\alpha&H08&\bord0\blur3\pos(972.105,746.655)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.91\fscy100.91\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.415,743.46)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{=4}{\fscx100.91\fscy100.91\frz0\alpha&H00&\bord0\blur0.75\pos(968.415,743.46)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.29,0:24:01.33,NextEp,SIGN,0,0,0,,{\fscx100.85\fscy100.85\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.455,376.62)}Episode
-Dialogue: 0,0:24:01.29,0:24:01.33,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.85\fscy100.85\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.75,373.425)\1a&H00&}Episode
-Dialogue: 1,0:24:01.29,0:24:01.33,NextEp,SIGN,0,0,0,,{\fscx100.85\fscy100.85\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.75,373.425)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.29,0:24:01.33,NextEp,SIGN,0,0,0,,{=6}{\fscx100.85\fscy100.85\frz0\alpha&H00&\bord0\blur3\pos(972.105,746.415)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.29,0:24:01.33,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.85\fscy100.85\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.415,743.22)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.29,0:24:01.33,NextEp,SIGN,0,0,0,,{=4}{\fscx100.85\fscy100.85\frz0\alpha&H00&\bord0\blur0.75\pos(968.415,743.22)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.33,0:24:01.37,NextEp,SIGN,0,0,0,,{\fscx100.8\fscy100.8\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.44,376.575)}Episode
-Dialogue: 0,0:24:01.33,0:24:01.37,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.8\fscy100.8\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.75,373.38)\1a&H00&}Episode
-Dialogue: 1,0:24:01.33,0:24:01.37,NextEp,SIGN,0,0,0,,{\fscx100.8\fscy100.8\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.75,373.38)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.33,0:24:01.37,NextEp,SIGN,0,0,0,,{=6}{\fscx100.8\fscy100.8\frz0\alpha&H00&\bord0\blur3\pos(972.105,746.175)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.33,0:24:01.37,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.8\fscy100.8\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.4,742.98)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.33,0:24:01.37,NextEp,SIGN,0,0,0,,{=4}{\fscx100.8\fscy100.8\frz0\alpha&H00&\bord0\blur0.75\pos(968.4,742.98)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.37,0:24:01.42,NextEp,SIGN,0,0,0,,{\fscx100.75\fscy100.75\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.44,376.53)}Episode
-Dialogue: 0,0:24:01.37,0:24:01.42,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.75\fscy100.75\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.735,373.335)\1a&H00&}Episode
-Dialogue: 1,0:24:01.37,0:24:01.42,NextEp,SIGN,0,0,0,,{\fscx100.75\fscy100.75\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.735,373.335)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.37,0:24:01.42,NextEp,SIGN,0,0,0,,{=6}{\fscx100.75\fscy100.75\frz0\alpha&H00&\bord0\blur3\pos(972.09,745.935)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.37,0:24:01.42,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.75\fscy100.75\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.4,742.74)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.37,0:24:01.42,NextEp,SIGN,0,0,0,,{=4}{\fscx100.75\fscy100.75\frz0\alpha&H00&\bord0\blur0.75\pos(968.4,742.74)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\fscx100.7\fscy100.7\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.425,376.485)}Episode
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.7\fscy100.7\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.735,373.29)\1a&H00&}Episode
-Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\fscx100.7\fscy100.7\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.735,373.29)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{=6}{\fscx100.7\fscy100.7\frz0\alpha&H00&\bord0\blur3\pos(972.09,745.71)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.7\fscy100.7\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.4,742.515)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{=4}{\fscx100.7\fscy100.7\frz0\alpha&H00&\bord0\blur0.75\pos(968.4,742.515)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\fscx100.65\fscy100.65\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.425,376.44)}Episode
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.65\fscy100.65\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.735,373.26)\1a&H00&}Episode
-Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\fscx100.65\fscy100.65\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.735,373.26)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{=6}{\fscx100.65\fscy100.65\frz0\alpha&H00&\bord0\blur3\pos(972.075,745.5)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.65\fscy100.65\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.385,742.305)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{=4}{\fscx100.65\fscy100.65\frz0\alpha&H00&\bord0\blur0.75\pos(968.385,742.305)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\fscx100.61\fscy100.61\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.41,376.395)}Episode
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.61\fscy100.61\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.72,373.215)\1a&H00&}Episode
-Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\fscx100.61\fscy100.61\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.72,373.215)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{=6}{\fscx100.61\fscy100.61\frz0\alpha&H00&\bord0\blur3\pos(972.075,745.29)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.61\fscy100.61\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.385,742.11)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{=4}{\fscx100.61\fscy100.61\frz0\alpha&H00&\bord0\blur0.75\pos(968.385,742.11)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.54,0:24:01.58,NextEp,SIGN,0,0,0,,{\fscx100.56\fscy100.56\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.41,376.365)}Episode
-Dialogue: 0,0:24:01.54,0:24:01.58,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.56\fscy100.56\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.72,373.185)\1a&H00&}Episode
-Dialogue: 1,0:24:01.54,0:24:01.58,NextEp,SIGN,0,0,0,,{\fscx100.56\fscy100.56\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.72,373.185)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.54,0:24:01.58,NextEp,SIGN,0,0,0,,{=6}{\fscx100.56\fscy100.56\frz0\alpha&H00&\bord0\blur3\pos(972.06,745.095)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.54,0:24:01.58,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.56\fscy100.56\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.385,741.915)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.54,0:24:01.58,NextEp,SIGN,0,0,0,,{=4}{\fscx100.56\fscy100.56\frz0\alpha&H00&\bord0\blur0.75\pos(968.385,741.915)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.58,0:24:01.62,NextEp,SIGN,0,0,0,,{\fscx100.52\fscy100.52\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.395,376.32)}Episode
-Dialogue: 0,0:24:01.58,0:24:01.62,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.52\fscy100.52\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.72,373.14)\1a&H00&}Episode
-Dialogue: 1,0:24:01.58,0:24:01.62,NextEp,SIGN,0,0,0,,{\fscx100.52\fscy100.52\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.72,373.14)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.58,0:24:01.62,NextEp,SIGN,0,0,0,,{=6}{\fscx100.52\fscy100.52\frz0\alpha&H00&\bord0\blur3\pos(972.06,744.9)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.58,0:24:01.62,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.52\fscy100.52\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.37,741.72)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.58,0:24:01.62,NextEp,SIGN,0,0,0,,{=4}{\fscx100.52\fscy100.52\frz0\alpha&H00&\bord0\blur0.75\pos(968.37,741.72)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.62,0:24:01.67,NextEp,SIGN,0,0,0,,{\fscx100.48\fscy100.48\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.395,376.29)}Episode
-Dialogue: 0,0:24:01.62,0:24:01.67,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.48\fscy100.48\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.72,373.11)\1a&H00&}Episode
-Dialogue: 1,0:24:01.62,0:24:01.67,NextEp,SIGN,0,0,0,,{\fscx100.48\fscy100.48\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.72,373.11)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.62,0:24:01.67,NextEp,SIGN,0,0,0,,{=6}{\fscx100.48\fscy100.48\frz0\alpha&H00&\bord0\blur3\pos(972.06,744.72)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.62,0:24:01.67,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.48\fscy100.48\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.37,741.54)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.62,0:24:01.67,NextEp,SIGN,0,0,0,,{=4}{\fscx100.48\fscy100.48\frz0\alpha&H00&\bord0\blur0.75\pos(968.37,741.54)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\fscx100.44\fscy100.44\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.395,376.26)}Episode
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.44\fscy100.44\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.705,373.08)\1a&H00&}Episode
-Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\fscx100.44\fscy100.44\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.705,373.08)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{=6}{\fscx100.44\fscy100.44\frz0\alpha&H00&\bord0\blur3\pos(972.06,744.555)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.44\fscy100.44\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.37,741.375)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{=4}{\fscx100.44\fscy100.44\frz0\alpha&H00&\bord0\blur0.75\pos(968.37,741.375)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\fscx100.41\fscy100.41\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.395,376.215)}Episode
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.41\fscy100.41\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.705,373.05)\1a&H00&}Episode
-Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\fscx100.41\fscy100.41\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.705,373.05)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{=6}{\fscx100.41\fscy100.41\frz0\alpha&H00&\bord0\blur3\pos(972.045,744.39)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.41\fscy100.41\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.37,741.21)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{=4}{\fscx100.41\fscy100.41\frz0\alpha&H00&\bord0\blur0.75\pos(968.37,741.21)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.75,0:24:01.79,NextEp,SIGN,0,0,0,,{\fscx100.37\fscy100.37\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.38,376.185)}Episode
-Dialogue: 0,0:24:01.75,0:24:01.79,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.37\fscy100.37\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.705,373.005)\1a&H00&}Episode
-Dialogue: 1,0:24:01.75,0:24:01.79,NextEp,SIGN,0,0,0,,{\fscx100.37\fscy100.37\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.705,373.005)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.75,0:24:01.79,NextEp,SIGN,0,0,0,,{=6}{\fscx100.37\fscy100.37\frz0\alpha&H00&\bord0\blur3\pos(972.045,744.21)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.75,0:24:01.79,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.37\fscy100.37\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.37,741.045)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.75,0:24:01.79,NextEp,SIGN,0,0,0,,{=4}{\fscx100.37\fscy100.37\frz0\alpha&H00&\bord0\blur0.75\pos(968.37,741.045)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.79,0:24:01.83,NextEp,SIGN,0,0,0,,{\fscx100.34\fscy100.34\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.38,376.155)}Episode
-Dialogue: 0,0:24:01.79,0:24:01.83,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.34\fscy100.34\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.705,372.99)\1a&H00&}Episode
-Dialogue: 1,0:24:01.79,0:24:01.83,NextEp,SIGN,0,0,0,,{\fscx100.34\fscy100.34\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.705,372.99)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.79,0:24:01.83,NextEp,SIGN,0,0,0,,{=6}{\fscx100.34\fscy100.34\frz0\alpha&H00&\bord0\blur3\pos(972.045,744.075)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.79,0:24:01.83,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.34\fscy100.34\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.37,740.895)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.79,0:24:01.83,NextEp,SIGN,0,0,0,,{=4}{\fscx100.34\fscy100.34\frz0\alpha&H00&\bord0\blur0.75\pos(968.37,740.895)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.83,0:24:01.88,NextEp,SIGN,0,0,0,,{\fscx100.31\fscy100.31\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.38,376.125)}Episode
-Dialogue: 0,0:24:01.83,0:24:01.88,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.31\fscy100.31\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.705,372.96)\1a&H00&}Episode
-Dialogue: 1,0:24:01.83,0:24:01.88,NextEp,SIGN,0,0,0,,{\fscx100.31\fscy100.31\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.705,372.96)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.83,0:24:01.88,NextEp,SIGN,0,0,0,,{=6}{\fscx100.31\fscy100.31\frz0\alpha&H00&\bord0\blur3\pos(972.045,743.925)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.83,0:24:01.88,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.31\fscy100.31\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.355,740.745)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.83,0:24:01.88,NextEp,SIGN,0,0,0,,{=4}{\fscx100.31\fscy100.31\frz0\alpha&H00&\bord0\blur0.75\pos(968.355,740.745)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\fscx100.28\fscy100.28\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.365,376.11)}Episode
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.28\fscy100.28\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.69,372.93)\1a&H00&}Episode
-Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\fscx100.28\fscy100.28\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.69,372.93)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{=6}{\fscx100.28\fscy100.28\frz0\alpha&H00&\bord0\blur3\pos(972.03,743.79)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.28\fscy100.28\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.355,740.61)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{=4}{\fscx100.28\fscy100.28\frz0\alpha&H00&\bord0\blur0.75\pos(968.355,740.61)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\fscx100.25\fscy100.25\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.365,376.08)}Episode
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.25\fscy100.25\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.69,372.915)\1a&H00&}Episode
-Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\fscx100.25\fscy100.25\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.69,372.915)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{=6}{\fscx100.25\fscy100.25\frz0\alpha&H00&\bord0\blur3\pos(972.03,743.655)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.25\fscy100.25\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.355,740.475)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{=4}{\fscx100.25\fscy100.25\frz0\alpha&H00&\bord0\blur0.75\pos(968.355,740.475)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\fscx100.22\fscy100.22\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.365,376.065)}Episode
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.22\fscy100.22\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.69,372.885)\1a&H00&}Episode
-Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\fscx100.22\fscy100.22\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.69,372.885)\4a&HFF&}Episode
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{=6}{\fscx100.22\fscy100.22\frz0\alpha&H00&\bord0\blur3\pos(972.03,743.535)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.22\fscy100.22\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.355,740.37)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{=4}{\fscx100.22\fscy100.22\frz0\alpha&H00&\bord0\blur0.75\pos(968.355,740.37)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.00,0:24:02.04,NextEp,SIGN,0,0,0,,{\fscx100.2\fscy100.2\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.365,376.035)}Episode
-Dialogue: 0,0:24:02.00,0:24:02.04,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.2\fscy100.2\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.69,372.87)\1a&H00&}Episode
-Dialogue: 1,0:24:02.00,0:24:02.04,NextEp,SIGN,0,0,0,,{\fscx100.2\fscy100.2\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.69,372.87)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.00,0:24:02.04,NextEp,SIGN,0,0,0,,{=6}{\fscx100.2\fscy100.2\frz0\alpha&H00&\bord0\blur3\pos(972.03,743.415)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.00,0:24:02.04,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.2\fscy100.2\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.355,740.25)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.00,0:24:02.04,NextEp,SIGN,0,0,0,,{=4}{\fscx100.2\fscy100.2\frz0\alpha&H00&\bord0\blur0.75\pos(968.355,740.25)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.04,0:24:02.08,NextEp,SIGN,0,0,0,,{\fscx100.17\fscy100.17\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.35,376.02)}Episode
-Dialogue: 0,0:24:02.04,0:24:02.08,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.17\fscy100.17\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.69,372.84)\1a&H00&}Episode
-Dialogue: 1,0:24:02.04,0:24:02.08,NextEp,SIGN,0,0,0,,{\fscx100.17\fscy100.17\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.69,372.84)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.04,0:24:02.08,NextEp,SIGN,0,0,0,,{=6}{\fscx100.17\fscy100.17\frz0\alpha&H00&\bord0\blur3\pos(972.015,743.31)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.04,0:24:02.08,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.17\fscy100.17\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.355,740.145)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.04,0:24:02.08,NextEp,SIGN,0,0,0,,{=4}{\fscx100.17\fscy100.17\frz0\alpha&H00&\bord0\blur0.75\pos(968.355,740.145)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.08,0:24:02.13,NextEp,SIGN,0,0,0,,{\fscx100.15\fscy100.15\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.35,375.99)}Episode
-Dialogue: 0,0:24:02.08,0:24:02.13,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.15\fscy100.15\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.825)\1a&H00&}Episode
-Dialogue: 1,0:24:02.08,0:24:02.13,NextEp,SIGN,0,0,0,,{\fscx100.15\fscy100.15\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.825)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.08,0:24:02.13,NextEp,SIGN,0,0,0,,{=6}{\fscx100.15\fscy100.15\frz0\alpha&H00&\bord0\blur3\pos(972.015,743.205)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.08,0:24:02.13,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.15\fscy100.15\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,740.04)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.08,0:24:02.13,NextEp,SIGN,0,0,0,,{=4}{\fscx100.15\fscy100.15\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,740.04)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\fscx100.13\fscy100.13\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.35,375.975)}Episode
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.13\fscy100.13\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.81)\1a&H00&}Episode
-Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\fscx100.13\fscy100.13\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.81)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{=6}{\fscx100.13\fscy100.13\frz0\alpha&H00&\bord0\blur3\pos(972.015,743.115)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.13\fscy100.13\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.95)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{=4}{\fscx100.13\fscy100.13\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.95)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\fscx100.11\fscy100.11\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.35,375.945)}Episode
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.11\fscy100.11\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.78)\1a&H00&}Episode
-Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\fscx100.11\fscy100.11\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.78)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{=6}{\fscx100.11\fscy100.11\frz0\alpha&H00&\bord0\blur3\pos(972.015,743.025)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.11\fscy100.11\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.845)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{=4}{\fscx100.11\fscy100.11\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.845)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\fscx100.09\fscy100.09\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.35,375.93)}Episode
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.09\fscy100.09\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.765)\1a&H00&}Episode
-Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\fscx100.09\fscy100.09\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.765)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{=6}{\fscx100.09\fscy100.09\frz0\alpha&H00&\bord0\blur3\pos(972.015,742.92)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.09\fscy100.09\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.755)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{=4}{\fscx100.09\fscy100.09\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.755)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.25,0:24:02.29,NextEp,SIGN,0,0,0,,{\fscx100.07\fscy100.07\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.35,375.915)}Episode
-Dialogue: 0,0:24:02.25,0:24:02.29,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.07\fscy100.07\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.75)\1a&H00&}Episode
-Dialogue: 1,0:24:02.25,0:24:02.29,NextEp,SIGN,0,0,0,,{\fscx100.07\fscy100.07\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.75)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.25,0:24:02.29,NextEp,SIGN,0,0,0,,{=6}{\fscx100.07\fscy100.07\frz0\alpha&H00&\bord0\blur3\pos(972.015,742.845)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.25,0:24:02.29,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.07\fscy100.07\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.665)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.25,0:24:02.29,NextEp,SIGN,0,0,0,,{=4}{\fscx100.07\fscy100.07\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.665)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.29,0:24:02.33,NextEp,SIGN,0,0,0,,{\fscx100.06\fscy100.06\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.9)}Episode
-Dialogue: 0,0:24:02.29,0:24:02.33,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.06\fscy100.06\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.735)\1a&H00&}Episode
-Dialogue: 1,0:24:02.29,0:24:02.33,NextEp,SIGN,0,0,0,,{\fscx100.06\fscy100.06\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.735)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.29,0:24:02.33,NextEp,SIGN,0,0,0,,{=6}{\fscx100.06\fscy100.06\frz0\alpha&H00&\bord0\blur3\pos(972,742.77)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.29,0:24:02.33,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.06\fscy100.06\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.605)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.29,0:24:02.33,NextEp,SIGN,0,0,0,,{=4}{\fscx100.06\fscy100.06\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.605)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.33,0:24:02.38,NextEp,SIGN,0,0,0,,{\fscx100.04\fscy100.04\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.885)}Episode
-Dialogue: 0,0:24:02.33,0:24:02.38,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.04\fscy100.04\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.72)\1a&H00&}Episode
-Dialogue: 1,0:24:02.33,0:24:02.38,NextEp,SIGN,0,0,0,,{\fscx100.04\fscy100.04\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.72)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.33,0:24:02.38,NextEp,SIGN,0,0,0,,{=6}{\fscx100.04\fscy100.04\frz0\alpha&H00&\bord0\blur3\pos(972,742.695)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.33,0:24:02.38,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.04\fscy100.04\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.53)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.33,0:24:02.38,NextEp,SIGN,0,0,0,,{=4}{\fscx100.04\fscy100.04\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.53)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\fscx100.03\fscy100.03\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.87)}Episode
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.03\fscy100.03\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.66,372.705)\1a&H00&}Episode
-Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\fscx100.03\fscy100.03\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.66,372.705)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{=6}{\fscx100.03\fscy100.03\frz0\alpha&H00&\bord0\blur3\pos(972,742.635)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.03\fscy100.03\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.47)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{=4}{\fscx100.03\fscy100.03\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.47)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\fscx100.02\fscy100.02\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.87)}Episode
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.02\fscy100.02\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.66,372.705)\1a&H00&}Episode
-Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\fscx100.02\fscy100.02\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.66,372.705)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{=6}{\fscx100.02\fscy100.02\frz0\alpha&H00&\bord0\blur3\pos(972,742.59)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.02\fscy100.02\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.325,739.425)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{=4}{\fscx100.02\fscy100.02\frz0\alpha&H00&\bord0\blur0.75\pos(968.325,739.425)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\fscx100.01\fscy100.01\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.855)}Episode
-Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100.01\fscy100.01\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.66,372.69)\1a&H00&}Episode
-Dialogue: 1,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\fscx100.01\fscy100.01\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.66,372.69)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{=6}{\fscx100.01\fscy100.01\frz0\alpha&H00&\bord0\blur3\pos(972,742.545)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100.01\fscy100.01\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.38)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{=4}{\fscx100.01\fscy100.01\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.38)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:02.50,0:24:03.29,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.84)}Episode
-Dialogue: 0,0:24:02.50,0:24:03.29,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.675)\1a&H00&}Episode
-Dialogue: 1,0:24:02.50,0:24:03.29,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.675)\4a&HFF&}Episode
-Dialogue: 0,0:24:02.50,0:24:05.00,NextEp,SIGN,0,0,0,,{=6}{\fscx100\fscy100\frz0\alpha&H00&\bord0\blur3\pos(972,742.5)\c&HB0AECC&}Good Work Today
-Dialogue: 0,0:24:02.50,0:24:05.00,NextEp,SIGN,0,0,0,,{=5}{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\blur0.75\pos(968.34,739.335)\1a&H00&}Good Work Today
-Dialogue: 1,0:24:02.50,0:24:05.00,NextEp,SIGN,0,0,0,,{=4}{\fscx100\fscy100\frz0\alpha&H00&\bord0\blur0.75\pos(968.34,739.335)\1c&H233075&\4a&HFF&}Good Work Today
-Dialogue: 0,0:24:03.29,0:24:03.38,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.825)}Episode
-Dialogue: 0,0:24:03.29,0:24:03.33,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.66)\1a&H00&}Episode
-Dialogue: 1,0:24:03.29,0:24:03.33,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.66)\4a&HFF&}Episode
-Dialogue: 0,0:24:03.33,0:24:03.59,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.675)\1a&H00&}Episode
-Dialogue: 1,0:24:03.33,0:24:03.59,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.675)\4a&HFF&}Episode
-Dialogue: 0,0:24:03.38,0:24:03.59,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.84)}Episode
-Dialogue: 0,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.825)}Episode
-Dialogue: 0,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.66)\1a&H00&}Episode
-Dialogue: 1,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.66)\4a&HFF&}Episode
-Dialogue: 0,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.84)}Episode
-Dialogue: 0,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.675)\1a&H00&}Episode
-Dialogue: 1,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.675)\4a&HFF&}Episode
-Dialogue: 0,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.825)}Episode
-Dialogue: 0,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.66)\1a&H00&}Episode
-Dialogue: 1,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.66)\4a&HFF&}Episode
-Dialogue: 0,0:24:04.46,0:24:05.00,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\fs78\bord0\blur3\c&HB0AECC&\pos(973.335,375.84)}Episode
-Dialogue: 0,0:24:04.46,0:24:05.00,NextEp,SIGN,0,0,0,,{\bord0.75\fscx100\fscy100\frz0\alpha&H00&\3c&HFAFBF9&\c&HFAFBF9&\fs78\blur0.75\pos(969.675,372.675)\1a&H00&}Episode
-Dialogue: 1,0:24:04.46,0:24:05.00,NextEp,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord0\fs78\blur0.75\1c&H233075&\pos(969.675,372.675)\4a&HFF&}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF5&\blur3\1a&HF5&}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Episode
+Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(965.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF5&\blur3}Good Work Today
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF1&\blur3}Episode
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HCC&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(965.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF1&\blur3}Good Work Today
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCDD8EA&\alpha&HCC&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(973.65,377.58)\fscx101.94\fscy101.94\fs78\bord0\c&HB0AECC&\alpha&HE0&\blur3}Episode
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0.77\c&HFFFFFF&\alpha&H8C&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0\1c&HC2CCE2&\alpha&H8C&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(965.29,751.35)\fscx101.94\fscy101.94\bord0\c&HB0AECC&\alpha&HE0&\blur3}Good Work Today
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(961.55,748.11)\fscx101.94\fscy101.94\bord0.77\c&HFFFFFF&\alpha&H8C&\1a&HFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(961.55,748.11)\fscx101.94\fscy101.94\bord0\1c&HC2CCE2&\alpha&H8C&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(973.635,377.52)\fscx101.88\fscy101.88\fs78\bord0\c&HB0AECC&\alpha&HD2&\blur3}Episode
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0\1c&HB7C1DB&\alpha&H59&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(965.27,751.065)\fscx101.88\fscy101.88\bord0\c&HB0AECC&\alpha&HD2&\blur3}Good Work Today
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(961.54,747.84)\fscx101.88\fscy101.88\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(961.54,747.84)\fscx101.88\fscy101.88\bord0\1c&HB7C1DB&\alpha&H59&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(973.605,377.415)\fscx101.77\fscy101.77\fs78\bord0\c&HB0AECC&\alpha&HC4&\blur3}Episode
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H43&\blur0.75}Episode
+Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0\1c&HABB6D3&\alpha&H26&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(965.24,750.585)\fscx101.77\fscy101.77\bord0\c&HB0AECC&\alpha&HC4&\blur3}Good Work Today
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(961.51,747.375)\fscx101.77\fscy101.77\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H43&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(961.51,747.375)\fscx101.77\fscy101.77\bord0\1c&HABB6D3&\alpha&H26&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(973.59,377.385)\fscx101.72\fscy101.72\fs78\bord0\c&HB0AECC&\alpha&HB6&\blur3}Episode
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(965.24,750.36)\fscx101.72\fscy101.72\bord0\c&HB0AECC&\alpha&HB6&\blur3}Good Work Today
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(961.51,747.15)\fscx101.72\fscy101.72\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(961.51,747.15)\fscx101.72\fscy101.72\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(973.575,377.31)\fscx101.64\fscy101.64\fs78\bord0\c&HB0AECC&\alpha&HA8&\blur3}Episode
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0\1c&H94A0C3&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(965.23,750)\fscx101.64\fscy101.64\bord0\c&HB0AECC&\alpha&HA8&\blur3}Good Work Today
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(961.49,746.775)\fscx101.64\fscy101.64\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(961.49,746.775)\fscx101.64\fscy101.64\bord0\1c&H94A0C3&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(973.56,377.265)\fscx101.59\fscy101.59\fs78\bord0\c&HB0AECC&\alpha&H9A&\blur3}Episode
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0\1c&H8995BB&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(965.21,749.745)\fscx101.59\fscy101.59\bord0\c&HB0AECC&\alpha&H9A&\blur3}Good Work Today
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(961.48,746.52)\fscx101.59\fscy101.59\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(961.48,746.52)\fscx101.59\fscy101.59\bord0\1c&H8995BB&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(973.545,377.205)\fscx101.52\fscy101.52\fs78\bord0\c&HB0AECC&\alpha&H89&\blur3}Episode
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0\1c&H7E89B3&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(965.18,749.43)\fscx101.52\fscy101.52\bord0\c&HB0AECC&\alpha&H89&\blur3}Good Work Today
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(961.46,746.22)\fscx101.52\fscy101.52\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(961.46,746.22)\fscx101.52\fscy101.52\bord0\1c&H7E89B3&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(973.53,377.13)\fscx101.43\fscy101.43\fs78\bord0\c&HB0AECC&\alpha&H7B&\blur3}Episode
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0\1c&H727EAC&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(965.18,749.04)\fscx101.43\fscy101.43\bord0\c&HB0AECC&\alpha&H7B&\blur3}Good Work Today
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(961.46,745.83)\fscx101.43\fscy101.43\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(961.46,745.83)\fscx101.43\fscy101.43\bord0\1c&H727EAC&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(973.53,377.055)\fscx101.34\fscy101.34\fs78\bord0\c&HB0AECC&\alpha&H6D&\blur3}Episode
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0\1c&H6773A4&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(965.18,748.62)\fscx101.34\fscy101.34\bord0\c&HB0AECC&\alpha&H6D&\blur3}Good Work Today
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(961.46,745.41)\fscx101.34\fscy101.34\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(961.46,745.41)\fscx101.34\fscy101.34\bord0\1c&H6773A4&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(973.515,376.995)\fscx101.28\fscy101.28\fs78\bord0\c&HB0AECC&\alpha&H5F&\blur3}Episode
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(965.17,748.35)\fscx101.28\fscy101.28\bord0\c&HB0AECC&\alpha&H5F&\blur3}Good Work Today
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(961.45,745.14)\fscx101.28\fscy101.28\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(961.45,745.14)\fscx101.28\fscy101.28\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(973.5,376.935)\fscx101.2\fscy101.2\fs78\bord0\c&HB0AECC&\alpha&H51&\blur3}Episode
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0\1c&H505D94&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(965.15,748.005)\fscx101.2\fscy101.2\bord0\c&HB0AECC&\alpha&H51&\blur3}Good Work Today
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(961.45,744.81)\fscx101.2\fscy101.2\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(961.45,744.81)\fscx101.2\fscy101.2\bord0\1c&H505D94&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(973.485,376.875)\fscx101.15\fscy101.15\fs78\bord0\c&HB0AECC&\alpha&H43&\blur3}Episode
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0\1c&H45528D&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(965.14,747.735)\fscx101.15\fscy101.15\bord0\c&HB0AECC&\alpha&H43&\blur3}Good Work Today
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(961.43,744.54)\fscx101.15\fscy101.15\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(961.43,744.54)\fscx101.15\fscy101.15\bord0\1c&H45528D&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(973.485,376.815)\fscx101.08\fscy101.08\fs78\bord0\c&HB0AECC&\alpha&H32&\blur3}Episode
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0\1c&H3A4685&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(965.14,747.435)\fscx101.08\fscy101.08\bord0\c&HB0AECC&\alpha&H32&\blur3}Good Work Today
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(961.43,744.225)\fscx101.08\fscy101.08\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(961.43,744.225)\fscx101.08\fscy101.08\bord0\1c&H3A4685&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(973.47,376.755)\fscx101.02\fscy101.02\fs78\bord0\c&HB0AECC&\alpha&H24&\blur3}Episode
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0\1c&H2E3B7D&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(965.14,747.18)\fscx101.02\fscy101.02\bord0\c&HB0AECC&\alpha&H24&\blur3}Good Work Today
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(961.43,743.985)\fscx101.02\fscy101.02\bord0.77\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(961.43,743.985)\fscx101.02\fscy101.02\bord0\1c&H2E3B7D&\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(973.47,376.695)\fscx100.96\fscy100.96\fs78\bord0\c&HB0AECC&\alpha&H16&\blur3}Episode
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(965.12,746.91)\fscx100.96\fscy100.96\bord0\c&HB0AECC&\alpha&H16&\blur3}Good Work Today
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(961.42,743.7)\fscx100.96\fscy100.96\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(961.42,743.7)\fscx100.96\fscy100.96\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(973.455,376.665)\fscx100.91\fscy100.91\fs78\bord0\c&HB0AECC&\alpha&H08&\blur3}Episode
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(965.11,746.655)\fscx100.91\fscy100.91\bord0\c&HB0AECC&\alpha&H08&\blur3}Good Work Today
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(961.42,743.46)\fscx100.91\fscy100.91\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(961.42,743.46)\fscx100.91\fscy100.91\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(973.455,376.62)\fscx100.85\fscy100.85\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(965.11,746.415)\fscx100.85\fscy100.85\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(961.42,743.22)\fscx100.85\fscy100.85\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(961.42,743.22)\fscx100.85\fscy100.85\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(973.44,376.575)\fscx100.8\fscy100.8\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(965.11,746.175)\fscx100.8\fscy100.8\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(961.4,742.98)\fscx100.8\fscy100.8\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(961.4,742.98)\fscx100.8\fscy100.8\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(973.44,376.53)\fscx100.75\fscy100.75\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,Toutes,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(965.09,745.935)\fscx100.75\fscy100.75\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(961.4,742.74)\fscx100.75\fscy100.75\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(961.4,742.74)\fscx100.75\fscy100.75\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(973.425,376.485)\fscx100.7\fscy100.7\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(965.09,745.71)\fscx100.7\fscy100.7\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(961.4,742.515)\fscx100.7\fscy100.7\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(961.4,742.515)\fscx100.7\fscy100.7\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(973.425,376.44)\fscx100.65\fscy100.65\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(965.08,745.5)\fscx100.65\fscy100.65\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(961.39,742.305)\fscx100.65\fscy100.65\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(961.39,742.305)\fscx100.65\fscy100.65\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(973.41,376.395)\fscx100.61\fscy100.61\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(965.08,745.29)\fscx100.61\fscy100.61\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(961.39,742.11)\fscx100.61\fscy100.61\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(961.39,742.11)\fscx100.61\fscy100.61\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(973.41,376.365)\fscx100.56\fscy100.56\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(965.06,745.095)\fscx100.56\fscy100.56\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(961.39,741.915)\fscx100.56\fscy100.56\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(961.39,741.915)\fscx100.56\fscy100.56\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(973.395,376.32)\fscx100.52\fscy100.52\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(965.06,744.9)\fscx100.52\fscy100.52\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(961.37,741.72)\fscx100.52\fscy100.52\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(961.37,741.72)\fscx100.52\fscy100.52\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(973.395,376.29)\fscx100.48\fscy100.48\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(965.06,744.72)\fscx100.48\fscy100.48\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(961.37,741.54)\fscx100.48\fscy100.48\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(961.37,741.54)\fscx100.48\fscy100.48\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(973.395,376.26)\fscx100.44\fscy100.44\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(965.06,744.555)\fscx100.44\fscy100.44\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(961.37,741.375)\fscx100.44\fscy100.44\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(961.37,741.375)\fscx100.44\fscy100.44\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(973.395,376.215)\fscx100.41\fscy100.41\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(965.05,744.39)\fscx100.41\fscy100.41\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(961.37,741.21)\fscx100.41\fscy100.41\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(961.37,741.21)\fscx100.41\fscy100.41\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(973.38,376.185)\fscx100.37\fscy100.37\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(965.05,744.21)\fscx100.37\fscy100.37\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(961.37,741.045)\fscx100.37\fscy100.37\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(961.37,741.045)\fscx100.37\fscy100.37\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(973.38,376.155)\fscx100.34\fscy100.34\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(965.05,744.075)\fscx100.34\fscy100.34\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(961.37,740.895)\fscx100.34\fscy100.34\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(961.37,740.895)\fscx100.34\fscy100.34\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(973.38,376.125)\fscx100.31\fscy100.31\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(965.05,743.925)\fscx100.31\fscy100.31\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(961.36,740.745)\fscx100.31\fscy100.31\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(961.36,740.745)\fscx100.31\fscy100.31\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(973.365,376.11)\fscx100.28\fscy100.28\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(965.03,743.79)\fscx100.28\fscy100.28\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(961.36,740.61)\fscx100.28\fscy100.28\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(961.36,740.61)\fscx100.28\fscy100.28\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(973.365,376.08)\fscx100.25\fscy100.25\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(965.03,743.655)\fscx100.25\fscy100.25\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(961.36,740.475)\fscx100.25\fscy100.25\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(961.36,740.475)\fscx100.25\fscy100.25\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(973.365,376.065)\fscx100.22\fscy100.22\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(965.03,743.535)\fscx100.22\fscy100.22\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(961.36,740.37)\fscx100.22\fscy100.22\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(961.36,740.37)\fscx100.22\fscy100.22\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(973.365,376.035)\fscx100.2\fscy100.2\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(965.03,743.415)\fscx100.2\fscy100.2\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(961.36,740.25)\fscx100.2\fscy100.2\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(961.36,740.25)\fscx100.2\fscy100.2\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(973.35,376.02)\fscx100.17\fscy100.17\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(965.02,743.31)\fscx100.17\fscy100.17\bord0\c&HB0AECC&\blur3\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Good Work Today
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(961.36,740.145)\fscx100.17\fscy100.17\c&HFFFFFF&\blur0.75\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Good Work Today
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(961.36,740.145)\fscx100.17\fscy100.17\bord0\4a&HFF&\blur0.75\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Good Work Today
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(973.35,375.99)\fscx100.15\fscy100.15\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(965.02,743.205)\fscx100.15\fscy100.15\bord0\c&HB0AECC&\blur3\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Good Work Today
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(961.34,740.04)\fscx100.15\fscy100.15\c&HFFFFFF&\blur0.75\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Good Work Today
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(961.34,740.04)\fscx100.15\fscy100.15\bord0\4a&HFF&\blur0.75\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Good Work Today
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\iclip(m 769 689 l 791 685 813 683 823 685 843 683 864 683 879 685 893 688 862 692 808 693 792 693)}
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(973.35,375.975)\fscx100.13\fscy100.13\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(965.02,743.115)\fscx100.13\fscy100.13\bord0\c&HB0AECC&\blur3\iclip(m 855 666 l 875.33 675 897.33 677.67 930 675 954 665 929 650 871 651)}Good Work Today
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(961.34,739.95)\fscx100.13\fscy100.13\c&HFFFFFF&\blur0.75\iclip(m 855 666 l 875.33 675 897.33 677.67 930 675 954 665 929 650 871 651)}Good Work Today
+Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(961.34,739.95)\fscx100.13\fscy100.13\bord0\4a&HFF&\blur0.75\iclip(m 855 666 l 875.33 675 897.33 677.67 930 675 954 665 929 650 871 651)}Good Work Today
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(973.35,375.945)\fscx100.11\fscy100.11\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(965.02,743.025)\fscx100.11\fscy100.11\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(961.34,739.845)\fscx100.11\fscy100.11\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(961.34,739.845)\fscx100.11\fscy100.11\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(973.35,375.93)\fscx100.09\fscy100.09\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(965.02,742.92)\fscx100.09\fscy100.09\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(961.34,739.755)\fscx100.09\fscy100.09\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(961.34,739.755)\fscx100.09\fscy100.09\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(973.35,375.915)\fscx100.07\fscy100.07\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(965.02,742.845)\fscx100.07\fscy100.07\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(961.34,739.665)\fscx100.07\fscy100.07\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(961.34,739.665)\fscx100.07\fscy100.07\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.9)\fscx100.06\fscy100.06\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(965,742.77)\fscx100.06\fscy100.06\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(961.34,739.605)\fscx100.06\fscy100.06\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(961.34,739.605)\fscx100.06\fscy100.06\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.885)\fscx100.04\fscy100.04\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(965,742.695)\fscx100.04\fscy100.04\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(961.34,739.53)\fscx100.04\fscy100.04\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(961.34,739.53)\fscx100.04\fscy100.04\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.87)\fscx100.03\fscy100.03\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(965,742.635)\fscx100.03\fscy100.03\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(961.34,739.47)\fscx100.03\fscy100.03\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(961.34,739.47)\fscx100.03\fscy100.03\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(973.335,375.87)\fscx100.02\fscy100.02\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(965,742.59)\fscx100.02\fscy100.02\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(961.33,739.425)\fscx100.02\fscy100.02\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(961.33,739.425)\fscx100.02\fscy100.02\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(973.335,375.855)\fscx100.01\fscy100.01\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(965,742.545)\fscx100.01\fscy100.01\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx100.01\fscy100.01\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.46,0:24:02.50,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx100.01\fscy100.01\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:02.50,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.50,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.50,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.50,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(965,742.5)\bord0\c&HB0AECC&\blur3}Good Work Today
+Dialogue: 0,0:24:02.50,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\c&HFFFFFF&\blur0.75}Good Work Today
+Dialogue: 1,0:24:02.50,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\bord0\4a&HFF&\blur0.75}Good Work Today
+Dialogue: 0,0:24:03.30,0:24:03.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.30,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.30,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.34,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.34,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.38,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.59,0:24:03.63,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.63,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.42,0:24:04.46,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:04.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 
 [Aegisub Extradata]
