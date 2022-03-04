@@ -16,19 +16,19 @@ Video File: QQS2_07_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 5462
-Active Line: 5470
-Video Position: 34589
+Scroll Position: 69
+Active Line: 72
+Video Position: 8458
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000046,&HA0000000,-1,0,0,0,100,100,0,0,1,4,1,2,225,225,60,1
 Style: Italics,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000046,&HA0000000,-1,-1,0,0,100,100,0,0,1,4,1,2,225,225,60,1
-Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
 Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: SignG,Bahnschrift,60,&H00000000,&H000000FF,&H00393D4D,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,38,1
 Style: NextEp,Adobe Garamond Pro,96,&H00233075,&H00233075,&H00FFFFFF,&H00C4C3D2,0,0,0,0,100,100,0,0,1,0.75,0,2,30,60,30,1
 Style: Anime title,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: TitleEp,Adobe Garamond Pro,84,&H00000000,&H000000FF,&H00FFFFFF,&H002B9B9E,0,0,0,0,100,100,0,0,1,4.5,0,2,30,60,225,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -104,8 +104,7 @@ Dialogue: 0,0:03:19.17,0:03:19.22,Signs,Text,0,0,0,,{=0}{\alpha&H00&\c&H584E41&\
 Dialogue: 0,0:03:19.22,0:03:19.26,Signs,Text,0,0,0,,{=0}{\alpha&H00&\c&H584E41&\fnEstandarRoundedSemiBold\b1\org(642.62,576.42)\fry-0.38\frx-0.76\frz44.55\fax0.28\fscx71\fscy104\blur1\pos(547.95,559.08)}F{*\frz44.426\fax0.269}u{*\frz44.302\fax0.258}t{*\frz44.177\fax0.248}a{*\frz44.053\fax0.237}r{*\frz43.929\fax0.226}o {*\frz43.681\fax0.204}U{*\frz43.557\fax0.193}e{*\frz43.433\fax0.182}s{*\frz43.308\fax0.172}u{*\frz43.184\fax0.161}g{\frz43.06\fax0.15}i
 Dialogue: 0,0:03:19.26,0:03:19.30,Signs,Text,0,0,0,,{=0}{\alpha&H00&\c&H584E41&\fnEstandarRoundedSemiBold\b1\org(639.95,581.52)\fry-0.38\frx-0.76\frz44.55\fax0.28\fscx71\fscy104\blur1\pos(545.29,564.18)}F{*\frz44.426\fax0.269}u{*\frz44.302\fax0.258}t{*\frz44.177\fax0.248}a{*\frz44.053\fax0.237}r{*\frz43.929\fax0.226}o {*\frz43.681\fax0.204}U{*\frz43.557\fax0.193}e{*\frz43.433\fax0.182}s{*\frz43.308\fax0.172}u{*\frz43.184\fax0.161}g{\frz43.06\fax0.15}i
 Dialogue: 0,0:03:19.30,0:03:19.34,Signs,Text,0,0,0,,{=0}{\alpha&H00&\c&H584E41&\fnEstandarRoundedSemiBold\b1\org(637.52,586.2)\fry-0.38\frx-0.76\frz44.55\fax0.28\fscx71\fscy104\blur1\pos(542.85,568.87)}F{*\frz44.426\fax0.269}u{*\frz44.302\fax0.258}t{*\frz44.177\fax0.248}a{*\frz44.053\fax0.237}r{*\frz43.929\fax0.226}o {*\frz43.681\fax0.204}U{*\frz43.557\fax0.193}e{*\frz43.433\fax0.182}s{*\frz43.308\fax0.172}u{*\frz43.184\fax0.161}g{\frz43.06\fax0.15}i
-Dialogue: 0,0:05:48.74,0:05:51.29,Ep Title,Text,0,0,0,,{\bord6\c&HE5E8E7&\3c&HE5E8E7&\blur4\fad(0,970)\clip(382.88,28.1,384.88,110.1)\t(0,525,1,\clip(382.88,28.1,907.2,110.1))\t(2100,3000,\1a&HFF&)\pos(388.88,104.06)}Begin the Offensive
-Dialogue: 1,0:05:48.74,0:05:51.29,Ep Title,,0,0,0,,{\c&H000000&\blur0.6\fad(0,970)\pos(389.21,103.73)\clip(389.21,33.7,391.21,103.7)\t(0,525,1,\clip(389.21,33.7,901.6,103.7))}B{\c&H01CF99&}e{\c&H000000&}g{\c&H00CCFF&}i{\c&H000000&}n the {\c&HFD9902&}O{\c&H000000&}ff{\c&H966598&}e{\c&H000000&}ns{\c&H0300FE&}i{\c&H000000&}ve
+Dialogue: 1,0:05:48.74,0:05:51.29,TitleEp,,0,0,0,,{\fad(0,970)\c&H000000&\bord5\blur4\pos(638.81,103.73)\clip(381,14.7,383,108.7)\t(0,525,1,\clip(381,14.7,896.7,108.7))}B{\c&H01CF99&}e{\c&H000000&}g{\c&H00CCFF&}i{\c&H000000&}n the {\c&HFD9902&}O{\c&H000000&}ff{\c&H966598&}e{\c&H000000&}ns{\c&H0300FE&}i{\c&H000000&}ve
 Dialogue: 0,0:08:40.29,0:08:43.54,Signs,Text,0,0,0,,{\fad(780,0)\c&H3E3F40&\fnKozuka Gothic Mikakunin\b1\org(850.4,371.6)\fry-0.76\frx0.02\frz9.96\fax0.11\fscx80\fscy80\blur1\1a&H1E&\pos(823.74,370.27)}Ichika Nakano
 Comment: 0,0:11:02.55,0:11:04.56,Signs,Text,0,0,0,,{\blur0.8\fn@FOT-CezanneBokutoh Pro B\b1\frz9.35\bord5\3c&HF2F2F2&\xshad2\yshad2\4c&H000000&\4a&HC8&\3a&H14&\fscx61\fscy67\pos(706.71,308.75)}Submit a receipt for over 3,000 yen in purchases
 Comment: 1,0:11:02.55,0:11:04.56,Signs,Text,0,0,0,,{\blur0.8\fn@FOT-CezanneBokutoh Pro B\b1\c&H333434&\frz9.35\bord0\shad0\fscx61\fscy67\pos(706.71,308.75)}Submit a receipt for over 3,000 yen in purchases

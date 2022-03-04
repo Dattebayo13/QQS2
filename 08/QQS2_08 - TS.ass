@@ -16,26 +16,24 @@ Video File: QQS2_08_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 301
-Active Line: 376
-Video Position: 34645
+Active Line: 1
+Video Position: 116
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000046,&HA0000000,-1,0,0,0,100,100,0,0,1,4,1,2,225,225,60,1
 Style: Italics,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000046,&HA0000000,-1,-1,0,0,100,100,0,0,1,4,1,2,225,225,60,1
-Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
 Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: SignG,Bahnschrift,60,&H00000000,&H000000FF,&H00393D4D,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,38,1
 Style: NextEp,Adobe Garamond Pro,96,&H00233075,&H00233075,&H00FFFFFF,&H00C4C3D2,0,0,0,0,100,100,0,0,1,0.75,0,2,30,60,30,1
 Style: Anime title,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: SignsG2,Bleeker,60,&H0025071E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,2,15,15,38,1
+Style: TitleEp,Adobe Garamond Pro,84,&H00000000,&H000000FF,&H00FFFFFF,&H002B9B9E,0,0,0,0,100,100,0,0,1,4.5,0,1,30,60,225,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
-Dialogue: 0,0:00:01.52,0:00:04.07,Ep Title,,0,0,0,,{\bord6\blur4\fad(0,900)\clip(325.6,35,327.6,117)\t(0,345,1,\clip(325.6,35,755.8,117))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF\pos(331.6,111)}Scrambled Eggs
-Dialogue: 1,0:00:01.52,0:00:04.07,Ep Title,,0,0,0,,{\c&H000000&\blur0.6\fad(0,900)\pos(331.6,111)\clip(331.6,41,333.6,111)\t(0,345,1,\clip(331.6,41,749.8,111))}S{\c&H986599&}c{\c&H000000&}r{\c&H00CBFF&}a{\c&H000000&}m{\c&HFE9803&}b{\c&H000000&}l{\c&H00CC98&}e{\c&H000000&}d E{\c&H0100FF&}g{\c&H000000&}g{\c&H000000&}s
+Dialogue: 1,0:00:01.52,0:00:04.07,TitleEp,,0,0,0,,{\c&H000000&\bord5\blur4\fad(0,900)\pos(331.6,111)\clip(326.6,22,328.6,116)\t(0,345,1,\clip(326.6,22,740.6,116))}S{\c&H986599&}c{\c&H000000&}r{\c&H00CBFF&}a{\c&H000000&}m{\c&HFE9803&}b{\c&H000000&}l{\c&H00CC98&}e{\c&H000000&}d E{\c&H0100FF&}g{\c&H000000&}g{\c&H000000&}s
 Dialogue: 0,0:01:35.99,0:01:36.99,SignsG2,SIGN,0,0,0,,{\shad4.5\fs135\bord7.5\fsp6\blur1.5\4c&HE7BBB8&\pos(958.001,943.5)\c&HFFFFFF&}The First One
 Dialogue: 1,0:01:35.99,0:01:36.99,SignsG2,SIGN,0,0,0,,{\c&H798BF4&\fs135\bord0\fsp6\blur.7\4c&HE7BBB8&\pos(958.001,943.5)\shad4.5\4a&HFF&}The First One
 Dialogue: 0,0:01:43.24,0:01:44.25,SignsG2,SIGN,0,0,0,,{\shad4.5\fs135\bord7.5\fsp6\blur1.5\4c&HE7BBB8&\pos(958.001,943.5)\c&HFFFFFF&}The Second One
