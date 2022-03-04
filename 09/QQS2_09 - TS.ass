@@ -15,10 +15,10 @@ Audio File: QQS2_09_premux.mkv
 Video File: QQS2_09_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1872
+Video Zoom Percent: 0.500000
+Scroll Position: 1877
 Active Line: 1878
-Video Position: 8074
+Video Position: 8096
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1914,8 +1914,8 @@ Dialogue: 0,0:04:02.80,0:04:02.84,SignG,SIGN,0,0,0,,{\pos(1447.61,882.395)\fnA-O
 Dialogue: 0,0:04:02.84,0:04:02.88,SignG,SIGN,0,0,0,,{\pos(1447.61,878.21)\fnA-OTF Folk Pro H\fs95\c&H40413B&\blur0.75}Yotsuba \NNakano
 Dialogue: 0,0:04:02.88,0:04:02.93,SignG,SIGN,0,0,0,,{\pos(1447.61,874.055)\fnA-OTF Folk Pro H\fs95\c&H40413B&\blur0.75}Yotsuba \NNakano
 Dialogue: 0,0:04:02.93,0:04:02.97,SignG,SIGN,0,0,0,,{\pos(1447.61,869.9)\fnA-OTF Folk Pro H\fs95\c&H40413B&\blur0.75}Yotsuba \NNakano
-Dialogue: 0,0:05:34.69,0:05:37.19,Ep Title,,0,0,0,,{\pos(945,895)\bord6\blur4\fad(0,900)\clip(939,819,941,901)\t(0,689,1,\clip(939,819,1513.9,901))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF}Welcome to Class 3-1
-Dialogue: 1,0:05:34.69,0:05:37.19,Ep Title,,0,0,0,,{\pos(945,895)\c&H000000&\blur0.6\fad(0,900)\clip(945,825,947,895)\t(0,689,1,\clip(945,825,1507.9,895))}W{\c&H00CBFF&}e{\c&H000000&}lc{\c&H0100FF&}o{\c&H000000&}me t{\c&H986599&}o {\c&H000000&}Cl{\c&H00CC98&}a{\c&H000000&}ss 3{\c&HFE9803&}-{\c&H000000&}1
+Dialogue: 0,0:05:34.69,0:05:37.19,Ep Title,,0,0,0,,{\pos(945,895)\bord6\blur4\fad(0,900)\clip(939,819,941,901)\t(0,350,1,\clip(939,819,1513.9,901))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF}Welcome to Class 3-1
+Dialogue: 1,0:05:34.69,0:05:37.19,Ep Title,,0,0,0,,{\pos(945,895)\c&H000000&\blur0.6\fad(0,900)\clip(945,825,947,895)\t(0,350,1,\clip(945,825,1507.9,895))}W{\c&H00CBFF&}e{\c&H000000&}lc{\c&H0100FF&}o{\c&H000000&}me t{\c&H986599&}o {\c&H000000&}Cl{\c&H00CC98&}a{\c&H000000&}ss 3{\c&HFE9803&}-{\c&H000000&}1
 Dialogue: 0,0:10:16.97,0:10:17.01,Sign-Brush,SIGN,0,0,0,,{=16=281}{\alpha&H00&\frz8.725\fax0.25\fs80\blur1\pos(589.74,376.05)}F
 Dialogue: 0,0:10:17.01,0:10:17.05,Sign-Brush,SIGN,0,0,0,,{=16=281}{\alpha&H00&\frz8.725\fax0.25\fs80\blur1\pos(589.74,374.35)}F
 Dialogue: 0,0:10:17.05,0:10:17.09,Sign-Brush,SIGN,0,0,0,,{=16=281}{\alpha&H00&\frz8.725\fax0.25\fs80\blur1\pos(589.74,372.64)}F
@@ -9236,288 +9236,309 @@ Dialogue: 0,0:10:21.80,0:10:21.85,Sign-Brush,SIGN,0,0,0,,{=35=221}{\alpha&H00&\f
 Dialogue: 0,0:10:21.85,0:10:21.89,Sign-Brush,SIGN,0,0,0,,{=35=221}{\alpha&H00&\frz2.75\fax0.2\blur1\pos(1321.66,903.48)}k
 Dialogue: 0,0:10:21.89,0:10:21.93,Sign-Brush,SIGN,0,0,0,,{=35=221}{\alpha&H00&\frz2.75\fax0.2\blur1\pos(1321.66,901.77)}k
 Dialogue: 0,0:10:21.93,0:10:21.97,Sign-Brush,SIGN,0,0,0,,{=35=221}{\alpha&H00&\frz2.75\fax0.2\blur1\pos(1321.66,900.06)}k
-Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF1&\blur3}Episode
-Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,,0,0,0,,{\pos(973.65,377.58)\fscx101.94\fscy101.94\fs78\bord0\c&HB0AECC&\alpha&HE3&\blur3}Episode
-Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,,0,0,0,,{\pos(973.635,377.52)\fscx101.88\fscy101.88\fs78\bord0\c&HB0AECC&\alpha&HD2&\blur3}Episode
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,,0,0,0,,{\pos(973.605,377.415)\fscx101.77\fscy101.77\fs78\bord0\c&HB0AECC&\alpha&HC4&\blur3}Episode
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,,0,0,0,,{\pos(973.59,377.385)\fscx101.72\fscy101.72\fs78\bord0\c&HB0AECC&\alpha&HB6&\blur3}Episode
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,,0,0,0,,{\pos(973.575,377.31)\fscx101.64\fscy101.64\fs78\bord0\c&HB0AECC&\alpha&HA8&\blur3}Episode
-Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,,0,0,0,,{\pos(973.56,377.265)\fscx101.59\fscy101.59\fs78\bord0\c&HB0AECC&\alpha&H9A&\blur3}Episode
-Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,,0,0,0,,{\pos(973.545,377.205)\fscx101.52\fscy101.52\fs78\bord0\c&HB0AECC&\alpha&H8C&\blur3}Episode
-Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,,0,0,0,,{\pos(973.53,377.13)\fscx101.43\fscy101.43\fs78\bord0\c&HB0AECC&\alpha&H7B&\blur3}Episode
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,,0,0,0,,{\pos(973.53,377.055)\fscx101.34\fscy101.34\fs78\bord0\c&HB0AECC&\alpha&H6D&\blur3}Episode
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,,0,0,0,,{\pos(973.515,376.995)\fscx101.28\fscy101.28\fs78\bord0\c&HB0AECC&\alpha&H5F&\blur3}Episode
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,,0,0,0,,{\pos(973.5,376.935)\fscx101.2\fscy101.2\fs78\bord0\c&HB0AECC&\alpha&H51&\blur3}Episode
-Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,,0,0,0,,{\pos(973.485,376.875)\fscx101.15\fscy101.15\fs78\bord0\c&HB0AECC&\alpha&H43&\blur3}Episode
-Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,,0,0,0,,{\pos(973.485,376.815)\fscx101.08\fscy101.08\fs78\bord0\c&HB0AECC&\alpha&H36&\blur3}Episode
-Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,,0,0,0,,{\pos(973.47,376.755)\fscx101.02\fscy101.02\fs78\bord0\c&HB0AECC&\alpha&H24&\blur3}Episode
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,,0,0,0,,{\pos(973.47,376.695)\fscx100.96\fscy100.96\fs78\bord0\c&HB0AECC&\alpha&H16&\blur3}Episode
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,,0,0,0,,{\pos(973.455,376.665)\fscx100.91\fscy100.91\fs78\bord0\c&HB0AECC&\alpha&H08&\blur3}Episode
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,,0,0,0,,{\pos(973.455,376.62)\fscx100.85\fscy100.85\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,,0,0,0,,{\pos(973.44,376.575)\fscx100.8\fscy100.8\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,,0,0,0,,{\pos(973.44,376.53)\fscx100.75\fscy100.75\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,,0,0,0,,{\pos(973.425,376.485)\fscx100.7\fscy100.7\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,,0,0,0,,{\pos(973.425,376.44)\fscx100.65\fscy100.65\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,,0,0,0,,{\pos(973.41,376.395)\fscx100.61\fscy100.61\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,,0,0,0,,{\pos(973.41,376.365)\fscx100.56\fscy100.56\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,,0,0,0,,{\pos(973.395,376.32)\fscx100.52\fscy100.52\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,,0,0,0,,{\pos(973.395,376.29)\fscx100.48\fscy100.48\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,,0,0,0,,{\pos(973.395,376.26)\fscx100.44\fscy100.44\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,,0,0,0,,{\pos(973.395,376.215)\fscx100.41\fscy100.41\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,,0,0,0,,{\pos(973.38,376.185)\fscx100.37\fscy100.37\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,,0,0,0,,{\pos(973.38,376.155)\fscx100.34\fscy100.34\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,,0,0,0,,{\pos(973.38,376.125)\fscx100.31\fscy100.31\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,,0,0,0,,{\pos(973.365,376.11)\fscx100.28\fscy100.28\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,,0,0,0,,{\pos(973.365,376.08)\fscx100.25\fscy100.25\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,,0,0,0,,{\pos(973.365,376.065)\fscx100.22\fscy100.22\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,,0,0,0,,{\pos(973.365,376.035)\fscx100.2\fscy100.2\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,,0,0,0,,{\pos(973.35,376.02)\fscx100.17\fscy100.17\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,,0,0,0,,{\pos(973.35,375.99)\fscx100.15\fscy100.15\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,,0,0,0,,{\pos(973.35,375.975)\fscx100.13\fscy100.13\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,,0,0,0,,{\pos(973.35,375.945)\fscx100.11\fscy100.11\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,,0,0,0,,{\pos(973.35,375.93)\fscx100.09\fscy100.09\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,,0,0,0,,{\pos(973.35,375.915)\fscx100.07\fscy100.07\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,,0,0,0,,{\pos(973.335,375.9)\fscx100.06\fscy100.06\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,,0,0,0,,{\pos(973.335,375.885)\fscx100.04\fscy100.04\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,,0,0,0,,{\pos(973.335,375.87)\fscx100.03\fscy100.03\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,,0,0,0,,{\pos(973.335,375.87)\fscx100.02\fscy100.02\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,,0,0,0,,{\pos(973.335,375.855)\fscx100.01\fscy100.01\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0.77\c&HFFFFFF&\alpha&H99&\1a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H4D&\blur0.75}Episode
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCED8EA&\alpha&HCC&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0\1c&HC2CDE3&\alpha&H99&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0\1c&HB7C2DB&\alpha&H59&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0\1c&HACB7D3&\alpha&H26&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0\1c&H95A0C3&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0\1c&H8A95BC&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0\1c&H7E8AB4&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0\1c&H737FAC&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0\1c&H6873A4&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0\1c&H515D95&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0\1c&H46528D&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0\1c&H3A4785&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0\1c&H2F3C7D&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\bord0\1c&H243175&\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 1,0:24:02.46,0:24:04.96,NextEp,,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,,0,0,0,,{\pos(942.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF1&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,,0,0,0,,{\pos(942.29,751.35)\fscx101.94\fscy101.94\bord0\c&HB0AECC&\alpha&HE3&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,,0,0,0,,{\pos(942.27,751.065)\fscx101.88\fscy101.88\bord0\c&HB0AECC&\alpha&HD2&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,,0,0,0,,{\pos(942.24,750.585)\fscx101.77\fscy101.77\bord0\c&HB0AECC&\alpha&HC4&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,,0,0,0,,{\pos(942.24,750.36)\fscx101.72\fscy101.72\bord0\c&HB0AECC&\alpha&HB6&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,,0,0,0,,{\pos(942.23,750)\fscx101.64\fscy101.64\bord0\c&HB0AECC&\alpha&HA8&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,,0,0,0,,{\pos(942.21,749.745)\fscx101.59\fscy101.59\bord0\c&HB0AECC&\alpha&H9A&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,,0,0,0,,{\pos(942.18,749.43)\fscx101.52\fscy101.52\bord0\c&HB0AECC&\alpha&H8C&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,,0,0,0,,{\pos(942.18,749.04)\fscx101.43\fscy101.43\bord0\c&HB0AECC&\alpha&H7B&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,,0,0,0,,{\pos(942.18,748.62)\fscx101.34\fscy101.34\bord0\c&HB0AECC&\alpha&H6D&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,,0,0,0,,{\pos(942.17,748.35)\fscx101.28\fscy101.28\bord0\c&HB0AECC&\alpha&H5F&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,,0,0,0,,{\pos(942.15,748.005)\fscx101.2\fscy101.2\bord0\c&HB0AECC&\alpha&H51&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,,0,0,0,,{\pos(942.14,747.735)\fscx101.15\fscy101.15\bord0\c&HB0AECC&\alpha&H43&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,,0,0,0,,{\pos(942.14,747.435)\fscx101.08\fscy101.08\bord0\c&HB0AECC&\alpha&H36&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,,0,0,0,,{\pos(942.14,747.18)\fscx101.02\fscy101.02\bord0\c&HB0AECC&\alpha&H24&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,,0,0,0,,{\pos(942.12,746.91)\fscx100.96\fscy100.96\bord0\c&HB0AECC&\alpha&H16&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,,0,0,0,,{\pos(942.11,746.655)\fscx100.91\fscy100.91\bord0\c&HB0AECC&\alpha&H08&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,,0,0,0,,{\pos(942.11,746.415)\fscx100.85\fscy100.85\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,,0,0,0,,{\pos(942.11,746.175)\fscx100.8\fscy100.8\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,,0,0,0,,{\pos(942.09,745.935)\fscx100.75\fscy100.75\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,,0,0,0,,{\pos(942.09,745.71)\fscx100.7\fscy100.7\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,,0,0,0,,{\pos(942.08,745.5)\fscx100.65\fscy100.65\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,,0,0,0,,{\pos(942.08,745.29)\fscx100.61\fscy100.61\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,,0,0,0,,{\pos(942.06,745.095)\fscx100.56\fscy100.56\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,,0,0,0,,{\pos(942.06,744.9)\fscx100.52\fscy100.52\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,,0,0,0,,{\pos(942.06,744.72)\fscx100.48\fscy100.48\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,,0,0,0,,{\pos(942.06,744.555)\fscx100.44\fscy100.44\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,,0,0,0,,{\pos(942.05,744.39)\fscx100.41\fscy100.41\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,,0,0,0,,{\pos(942.05,744.21)\fscx100.37\fscy100.37\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,,0,0,0,,{\pos(942.05,744.075)\fscx100.34\fscy100.34\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,,0,0,0,,{\pos(942.05,743.925)\fscx100.31\fscy100.31\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,,0,0,0,,{\pos(942.03,743.79)\fscx100.28\fscy100.28\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,,0,0,0,,{\pos(942.03,743.655)\fscx100.25\fscy100.25\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,,0,0,0,,{\pos(942.03,743.535)\fscx100.22\fscy100.22\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,,0,0,0,,{\pos(942.03,743.415)\fscx100.2\fscy100.2\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,,0,0,0,,{\pos(942.02,743.31)\fscx100.17\fscy100.17\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,,0,0,0,,{\pos(942.02,743.205)\fscx100.15\fscy100.15\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,,0,0,0,,{\pos(942.02,743.115)\fscx100.13\fscy100.13\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,,0,0,0,,{\pos(942.02,743.025)\fscx100.11\fscy100.11\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,,0,0,0,,{\pos(942.02,742.92)\fscx100.09\fscy100.09\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,,0,0,0,,{\pos(942.02,742.845)\fscx100.07\fscy100.07\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,,0,0,0,,{\pos(942,742.77)\fscx100.06\fscy100.06\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,,0,0,0,,{\pos(942,742.695)\fscx100.04\fscy100.04\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,,0,0,0,,{\pos(942,742.635)\fscx100.03\fscy100.03\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,,0,0,0,,{\pos(942,742.59)\fscx100.02\fscy100.02\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,,0,0,0,,{\pos(942,742.545)\fscx100.01\fscy100.01\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,,0,0,0,,{\pos(942,742.5)\bord0\c&HB0AECC&\blur3}Five Cranes in Return
-Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,,0,0,0,,{\pos(938.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,,0,0,0,,{\pos(938.55,748.11)\fscx101.94\fscy101.94\bord0.77\c&HFFFFFF&\alpha&H99&\1a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,,0,0,0,,{\pos(938.54,747.84)\fscx101.88\fscy101.88\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,,0,0,0,,{\pos(938.51,747.375)\fscx101.77\fscy101.77\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H4D&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,,0,0,0,,{\pos(938.51,747.15)\fscx101.72\fscy101.72\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,,0,0,0,,{\pos(938.49,746.775)\fscx101.64\fscy101.64\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,,0,0,0,,{\pos(938.48,746.52)\fscx101.59\fscy101.59\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,,0,0,0,,{\pos(938.46,746.22)\fscx101.52\fscy101.52\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,,0,0,0,,{\pos(938.46,745.83)\fscx101.43\fscy101.43\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,,0,0,0,,{\pos(938.46,745.41)\fscx101.34\fscy101.34\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,,0,0,0,,{\pos(938.45,745.14)\fscx101.28\fscy101.28\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,,0,0,0,,{\pos(938.45,744.81)\fscx101.2\fscy101.2\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,,0,0,0,,{\pos(938.43,744.54)\fscx101.15\fscy101.15\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,,0,0,0,,{\pos(938.43,744.225)\fscx101.08\fscy101.08\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,,0,0,0,,{\pos(938.43,743.985)\fscx101.02\fscy101.02\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,,0,0,0,,{\pos(938.42,743.7)\fscx100.96\fscy100.96\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,,0,0,0,,{\pos(938.42,743.46)\fscx100.91\fscy100.91\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,,0,0,0,,{\pos(938.42,743.22)\fscx100.85\fscy100.85\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,,0,0,0,,{\pos(938.4,742.98)\fscx100.8\fscy100.8\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,,0,0,0,,{\pos(938.4,742.74)\fscx100.75\fscy100.75\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,,0,0,0,,{\pos(938.4,742.515)\fscx100.7\fscy100.7\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,,0,0,0,,{\pos(938.39,742.305)\fscx100.65\fscy100.65\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,,0,0,0,,{\pos(938.39,742.11)\fscx100.61\fscy100.61\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,,0,0,0,,{\pos(938.39,741.915)\fscx100.56\fscy100.56\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,,0,0,0,,{\pos(938.37,741.72)\fscx100.52\fscy100.52\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,,0,0,0,,{\pos(938.37,741.54)\fscx100.48\fscy100.48\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,,0,0,0,,{\pos(938.37,741.375)\fscx100.44\fscy100.44\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,,0,0,0,,{\pos(938.37,741.21)\fscx100.41\fscy100.41\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,,0,0,0,,{\pos(938.37,741.045)\fscx100.37\fscy100.37\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,,0,0,0,,{\pos(938.37,740.895)\fscx100.34\fscy100.34\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,,0,0,0,,{\pos(938.36,740.745)\fscx100.31\fscy100.31\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,,0,0,0,,{\pos(938.36,740.61)\fscx100.28\fscy100.28\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,,0,0,0,,{\pos(938.36,740.475)\fscx100.25\fscy100.25\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,,0,0,0,,{\pos(938.36,740.37)\fscx100.22\fscy100.22\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,,0,0,0,,{\pos(938.36,740.25)\fscx100.2\fscy100.2\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,,0,0,0,,{\pos(938.36,740.145)\fscx100.17\fscy100.17\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,,0,0,0,,{\pos(938.34,740.04)\fscx100.15\fscy100.15\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,,0,0,0,,{\pos(938.34,739.95)\fscx100.13\fscy100.13\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,,0,0,0,,{\pos(938.34,739.845)\fscx100.11\fscy100.11\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,,0,0,0,,{\pos(938.34,739.755)\fscx100.09\fscy100.09\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,,0,0,0,,{\pos(938.34,739.665)\fscx100.07\fscy100.07\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,,0,0,0,,{\pos(938.34,739.605)\fscx100.06\fscy100.06\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,,0,0,0,,{\pos(938.34,739.53)\fscx100.04\fscy100.04\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,,0,0,0,,{\pos(938.34,739.47)\fscx100.03\fscy100.03\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,,0,0,0,,{\pos(938.33,739.425)\fscx100.02\fscy100.02\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,,0,0,0,,{\pos(938.34,739.38)\fscx100.01\fscy100.01\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,,0,0,0,,{\pos(938.34,739.335)\c&HFFFFFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,,0,0,0,,{\pos(938.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCED8EA&\alpha&HCC&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,,0,0,0,,{\pos(938.55,748.11)\fscx101.94\fscy101.94\bord0\1c&HC2CDE3&\alpha&H99&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,,0,0,0,,{\pos(938.54,747.84)\fscx101.88\fscy101.88\bord0\1c&HB7C2DB&\alpha&H59&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,,0,0,0,,{\pos(938.51,747.375)\fscx101.77\fscy101.77\bord0\1c&HACB7D3&\alpha&H26&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,,0,0,0,,{\pos(938.51,747.15)\fscx101.72\fscy101.72\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,,0,0,0,,{\pos(938.49,746.775)\fscx101.64\fscy101.64\bord0\1c&H95A0C3&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,,0,0,0,,{\pos(938.48,746.52)\fscx101.59\fscy101.59\bord0\1c&H8A95BC&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,,0,0,0,,{\pos(938.46,746.22)\fscx101.52\fscy101.52\bord0\1c&H7E8AB4&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,,0,0,0,,{\pos(938.46,745.83)\fscx101.43\fscy101.43\bord0\1c&H737FAC&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,,0,0,0,,{\pos(938.46,745.41)\fscx101.34\fscy101.34\bord0\1c&H6873A4&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,,0,0,0,,{\pos(938.45,745.14)\fscx101.28\fscy101.28\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,,0,0,0,,{\pos(938.45,744.81)\fscx101.2\fscy101.2\bord0\1c&H515D95&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,,0,0,0,,{\pos(938.43,744.54)\fscx101.15\fscy101.15\bord0\1c&H46528D&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,,0,0,0,,{\pos(938.43,744.225)\fscx101.08\fscy101.08\bord0\1c&H3A4785&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,,0,0,0,,{\pos(938.43,743.985)\fscx101.02\fscy101.02\bord0\1c&H2F3C7D&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,,0,0,0,,{\pos(938.42,743.7)\fscx100.96\fscy100.96\bord0\1c&H243175&\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,,0,0,0,,{\pos(938.42,743.46)\fscx100.91\fscy100.91\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,,0,0,0,,{\pos(938.42,743.22)\fscx100.85\fscy100.85\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,,0,0,0,,{\pos(938.4,742.98)\fscx100.8\fscy100.8\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,,0,0,0,,{\pos(938.4,742.74)\fscx100.75\fscy100.75\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,,0,0,0,,{\pos(938.4,742.515)\fscx100.7\fscy100.7\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,,0,0,0,,{\pos(938.39,742.305)\fscx100.65\fscy100.65\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,,0,0,0,,{\pos(938.39,742.11)\fscx100.61\fscy100.61\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,,0,0,0,,{\pos(938.39,741.915)\fscx100.56\fscy100.56\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,,0,0,0,,{\pos(938.37,741.72)\fscx100.52\fscy100.52\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,,0,0,0,,{\pos(938.37,741.54)\fscx100.48\fscy100.48\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,,0,0,0,,{\pos(938.37,741.375)\fscx100.44\fscy100.44\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,,0,0,0,,{\pos(938.37,741.21)\fscx100.41\fscy100.41\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,,0,0,0,,{\pos(938.37,741.045)\fscx100.37\fscy100.37\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,,0,0,0,,{\pos(938.37,740.895)\fscx100.34\fscy100.34\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,,0,0,0,,{\pos(938.36,740.745)\fscx100.31\fscy100.31\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,,0,0,0,,{\pos(938.36,740.61)\fscx100.28\fscy100.28\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,,0,0,0,,{\pos(938.36,740.475)\fscx100.25\fscy100.25\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,,0,0,0,,{\pos(938.36,740.37)\fscx100.22\fscy100.22\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,,0,0,0,,{\pos(938.36,740.25)\fscx100.2\fscy100.2\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,,0,0,0,,{\pos(938.36,740.145)\fscx100.17\fscy100.17\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,,0,0,0,,{\pos(938.34,740.04)\fscx100.15\fscy100.15\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,,0,0,0,,{\pos(938.34,739.95)\fscx100.13\fscy100.13\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,,0,0,0,,{\pos(938.34,739.845)\fscx100.11\fscy100.11\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,,0,0,0,,{\pos(938.34,739.755)\fscx100.09\fscy100.09\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,,0,0,0,,{\pos(938.34,739.665)\fscx100.07\fscy100.07\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,,0,0,0,,{\pos(938.34,739.605)\fscx100.06\fscy100.06\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,,0,0,0,,{\pos(938.34,739.53)\fscx100.04\fscy100.04\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,,0,0,0,,{\pos(938.34,739.47)\fscx100.03\fscy100.03\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,,0,0,0,,{\pos(938.33,739.425)\fscx100.02\fscy100.02\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,,0,0,0,,{\pos(938.34,739.38)\fscx100.01\fscy100.01\bord0\4a&HFF&\blur0.75}Five Cranes in Return
-Dialogue: 1,0:24:02.46,0:24:04.96,NextEp,,0,0,0,,{\pos(938.34,739.335)\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF5&\blur3\1a&HF5&}Episode
+Dialogue: 0,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Episode
+Dialogue: 1,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Episode
+Dialogue: 0,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(965.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF5&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF1&\blur3}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HCC&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(965.32,751.92)\fscx102.06\fscy102.06\bord0\c&HB0AECC&\alpha&HF1&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0.77\c&HFFFFFF&\alpha&HCC&\1a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.54,0:24:00.59,NextEp,SIGN,0,0,0,,{\pos(961.58,748.695)\fscx102.06\fscy102.06\bord0\1c&HCDD8EA&\alpha&HCC&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(973.65,377.58)\fscx101.94\fscy101.94\fs78\bord0\c&HB0AECC&\alpha&HE0&\blur3}Episode
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0.77\c&HFFFFFF&\alpha&H8C&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(969.915,374.355)\fscx101.94\fscy101.94\fs78\bord0\1c&HC2CCE2&\alpha&H8C&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(965.29,751.35)\fscx101.94\fscy101.94\bord0\c&HB0AECC&\alpha&HE0&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(961.55,748.11)\fscx101.94\fscy101.94\bord0.77\c&HFFFFFF&\alpha&H8C&\1a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.59,0:24:00.63,NextEp,SIGN,0,0,0,,{\pos(961.55,748.11)\fscx101.94\fscy101.94\bord0\1c&HC2CCE2&\alpha&H8C&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(973.635,377.52)\fscx101.88\fscy101.88\fs78\bord0\c&HB0AECC&\alpha&HD2&\blur3}Episode
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(969.9,374.295)\fscx101.88\fscy101.88\fs78\bord0\1c&HB7C1DB&\alpha&H59&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(965.27,751.065)\fscx101.88\fscy101.88\bord0\c&HB0AECC&\alpha&HD2&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(961.54,747.84)\fscx101.88\fscy101.88\bord0.77\c&HFFFFFF&\alpha&H59&\1a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.63,0:24:00.67,NextEp,SIGN,0,0,0,,{\pos(961.54,747.84)\fscx101.88\fscy101.88\bord0\1c&HB7C1DB&\alpha&H59&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(973.605,377.415)\fscx101.77\fscy101.77\fs78\bord0\c&HB0AECC&\alpha&HC4&\blur3}Episode
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H43&\blur0.75}Episode
+Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(969.87,374.205)\fscx101.77\fscy101.77\fs78\bord0\1c&HABB6D3&\alpha&H26&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(965.24,750.585)\fscx101.77\fscy101.77\bord0\c&HB0AECC&\alpha&HC4&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(961.51,747.375)\fscx101.77\fscy101.77\bord0.77\c&HFFFFFF&\alpha&H26&\1a&H43&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.67,0:24:00.71,NextEp,SIGN,0,0,0,,{\pos(961.51,747.375)\fscx101.77\fscy101.77\bord0\1c&HABB6D3&\alpha&H26&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(973.59,377.385)\fscx101.72\fscy101.72\fs78\bord0\c&HB0AECC&\alpha&HB6&\blur3}Episode
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(969.87,374.16)\fscx101.72\fscy101.72\fs78\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(965.24,750.36)\fscx101.72\fscy101.72\bord0\c&HB0AECC&\alpha&HB6&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(961.51,747.15)\fscx101.72\fscy101.72\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.71,0:24:00.75,NextEp,SIGN,0,0,0,,{\pos(961.51,747.15)\fscx101.72\fscy101.72\bord0\1c&HA0ABCB&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(973.575,377.31)\fscx101.64\fscy101.64\fs78\bord0\c&HB0AECC&\alpha&HA8&\blur3}Episode
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(969.855,374.085)\fscx101.64\fscy101.64\fs78\bord0\1c&H94A0C3&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(965.23,750)\fscx101.64\fscy101.64\bord0\c&HB0AECC&\alpha&HA8&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(961.49,746.775)\fscx101.64\fscy101.64\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.75,0:24:00.79,NextEp,SIGN,0,0,0,,{\pos(961.49,746.775)\fscx101.64\fscy101.64\bord0\1c&H94A0C3&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(973.56,377.265)\fscx101.59\fscy101.59\fs78\bord0\c&HB0AECC&\alpha&H9A&\blur3}Episode
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(969.84,374.04)\fscx101.59\fscy101.59\fs78\bord0\1c&H8995BB&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(965.21,749.745)\fscx101.59\fscy101.59\bord0\c&HB0AECC&\alpha&H9A&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(961.48,746.52)\fscx101.59\fscy101.59\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.79,0:24:00.84,NextEp,SIGN,0,0,0,,{\pos(961.48,746.52)\fscx101.59\fscy101.59\bord0\1c&H8995BB&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(973.545,377.205)\fscx101.52\fscy101.52\fs78\bord0\c&HB0AECC&\alpha&H89&\blur3}Episode
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(969.81,373.995)\fscx101.52\fscy101.52\fs78\bord0\1c&H7E89B3&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(965.18,749.43)\fscx101.52\fscy101.52\bord0\c&HB0AECC&\alpha&H89&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(961.46,746.22)\fscx101.52\fscy101.52\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.84,0:24:00.88,NextEp,SIGN,0,0,0,,{\pos(961.46,746.22)\fscx101.52\fscy101.52\bord0\1c&H7E89B3&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(973.53,377.13)\fscx101.43\fscy101.43\fs78\bord0\c&HB0AECC&\alpha&H7B&\blur3}Episode
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(969.81,373.92)\fscx101.43\fscy101.43\fs78\bord0\1c&H727EAC&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(965.18,749.04)\fscx101.43\fscy101.43\bord0\c&HB0AECC&\alpha&H7B&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(961.46,745.83)\fscx101.43\fscy101.43\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.88,0:24:00.92,NextEp,SIGN,0,0,0,,{\pos(961.46,745.83)\fscx101.43\fscy101.43\bord0\1c&H727EAC&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(973.53,377.055)\fscx101.34\fscy101.34\fs78\bord0\c&HB0AECC&\alpha&H6D&\blur3}Episode
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(969.81,373.845)\fscx101.34\fscy101.34\fs78\bord0\1c&H6773A4&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(965.18,748.62)\fscx101.34\fscy101.34\bord0\c&HB0AECC&\alpha&H6D&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(961.46,745.41)\fscx101.34\fscy101.34\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.92,0:24:00.96,NextEp,SIGN,0,0,0,,{\pos(961.46,745.41)\fscx101.34\fscy101.34\bord0\1c&H6773A4&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(973.515,376.995)\fscx101.28\fscy101.28\fs78\bord0\c&HB0AECC&\alpha&H5F&\blur3}Episode
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(969.795,373.8)\fscx101.28\fscy101.28\fs78\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(965.17,748.35)\fscx101.28\fscy101.28\bord0\c&HB0AECC&\alpha&H5F&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(961.45,745.14)\fscx101.28\fscy101.28\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:00.96,0:24:01.00,NextEp,SIGN,0,0,0,,{\pos(961.45,745.14)\fscx101.28\fscy101.28\bord0\1c&H5C689C&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(973.5,376.935)\fscx101.2\fscy101.2\fs78\bord0\c&HB0AECC&\alpha&H51&\blur3}Episode
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(969.795,373.725)\fscx101.2\fscy101.2\fs78\bord0\1c&H505D94&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(965.15,748.005)\fscx101.2\fscy101.2\bord0\c&HB0AECC&\alpha&H51&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(961.45,744.81)\fscx101.2\fscy101.2\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.00,0:24:01.04,NextEp,SIGN,0,0,0,,{\pos(961.45,744.81)\fscx101.2\fscy101.2\bord0\1c&H505D94&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(973.485,376.875)\fscx101.15\fscy101.15\fs78\bord0\c&HB0AECC&\alpha&H43&\blur3}Episode
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(969.78,373.665)\fscx101.15\fscy101.15\fs78\bord0\1c&H45528D&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(965.14,747.735)\fscx101.15\fscy101.15\bord0\c&HB0AECC&\alpha&H43&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(961.43,744.54)\fscx101.15\fscy101.15\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.04,0:24:01.09,NextEp,SIGN,0,0,0,,{\pos(961.43,744.54)\fscx101.15\fscy101.15\bord0\1c&H45528D&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(973.485,376.815)\fscx101.08\fscy101.08\fs78\bord0\c&HB0AECC&\alpha&H32&\blur3}Episode
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(969.78,373.605)\fscx101.08\fscy101.08\fs78\bord0\1c&H3A4685&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(965.14,747.435)\fscx101.08\fscy101.08\bord0\c&HB0AECC&\alpha&H32&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(961.43,744.225)\fscx101.08\fscy101.08\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.09,0:24:01.13,NextEp,SIGN,0,0,0,,{\pos(961.43,744.225)\fscx101.08\fscy101.08\bord0\1c&H3A4685&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(973.47,376.755)\fscx101.02\fscy101.02\fs78\bord0\c&HB0AECC&\alpha&H24&\blur3}Episode
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0.77\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(969.765,373.56)\fscx101.02\fscy101.02\fs78\bord0\1c&H2E3B7D&\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(965.14,747.18)\fscx101.02\fscy101.02\bord0\c&HB0AECC&\alpha&H24&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(961.43,743.985)\fscx101.02\fscy101.02\bord0.77\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.13,0:24:01.17,NextEp,SIGN,0,0,0,,{\pos(961.43,743.985)\fscx101.02\fscy101.02\bord0\1c&H2E3B7D&\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(973.47,376.695)\fscx100.96\fscy100.96\fs78\bord0\c&HB0AECC&\alpha&H16&\blur3}Episode
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(969.765,373.5)\fscx100.96\fscy100.96\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(965.12,746.91)\fscx100.96\fscy100.96\bord0\c&HB0AECC&\alpha&H16&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(961.42,743.7)\fscx100.96\fscy100.96\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.17,0:24:01.21,NextEp,SIGN,0,0,0,,{\pos(961.42,743.7)\fscx100.96\fscy100.96\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(973.455,376.665)\fscx100.91\fscy100.91\fs78\bord0\c&HB0AECC&\alpha&H08&\blur3}Episode
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(969.765,373.47)\fscx100.91\fscy100.91\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(965.11,746.655)\fscx100.91\fscy100.91\bord0\c&HB0AECC&\alpha&H08&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(961.42,743.46)\fscx100.91\fscy100.91\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.21,0:24:01.25,NextEp,SIGN,0,0,0,,{\pos(961.42,743.46)\fscx100.91\fscy100.91\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(973.455,376.62)\fscx100.85\fscy100.85\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(969.75,373.425)\fscx100.85\fscy100.85\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(965.11,746.415)\fscx100.85\fscy100.85\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(961.42,743.22)\fscx100.85\fscy100.85\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.25,0:24:01.29,NextEp,SIGN,0,0,0,,{\pos(961.42,743.22)\fscx100.85\fscy100.85\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(973.44,376.575)\fscx100.8\fscy100.8\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(969.75,373.38)\fscx100.8\fscy100.8\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(965.11,746.175)\fscx100.8\fscy100.8\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(961.4,742.98)\fscx100.8\fscy100.8\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.29,0:24:01.34,NextEp,SIGN,0,0,0,,{\pos(961.4,742.98)\fscx100.8\fscy100.8\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(973.44,376.53)\fscx100.75\fscy100.75\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,Toutes,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(969.735,373.335)\fscx100.75\fscy100.75\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(965.09,745.935)\fscx100.75\fscy100.75\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(961.4,742.74)\fscx100.75\fscy100.75\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.34,0:24:01.38,NextEp,SIGN,0,0,0,,{\pos(961.4,742.74)\fscx100.75\fscy100.75\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(973.425,376.485)\fscx100.7\fscy100.7\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(969.735,373.29)\fscx100.7\fscy100.7\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(965.09,745.71)\fscx100.7\fscy100.7\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(961.4,742.515)\fscx100.7\fscy100.7\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.38,0:24:01.42,NextEp,SIGN,0,0,0,,{\pos(961.4,742.515)\fscx100.7\fscy100.7\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(973.425,376.44)\fscx100.65\fscy100.65\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(969.735,373.26)\fscx100.65\fscy100.65\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(965.08,745.5)\fscx100.65\fscy100.65\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(961.39,742.305)\fscx100.65\fscy100.65\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.42,0:24:01.46,NextEp,SIGN,0,0,0,,{\pos(961.39,742.305)\fscx100.65\fscy100.65\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(973.41,376.395)\fscx100.61\fscy100.61\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(969.72,373.215)\fscx100.61\fscy100.61\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(965.08,745.29)\fscx100.61\fscy100.61\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(961.39,742.11)\fscx100.61\fscy100.61\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.46,0:24:01.50,NextEp,SIGN,0,0,0,,{\pos(961.39,742.11)\fscx100.61\fscy100.61\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(973.41,376.365)\fscx100.56\fscy100.56\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(969.72,373.185)\fscx100.56\fscy100.56\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(965.06,745.095)\fscx100.56\fscy100.56\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(961.39,741.915)\fscx100.56\fscy100.56\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.50,0:24:01.54,NextEp,SIGN,0,0,0,,{\pos(961.39,741.915)\fscx100.56\fscy100.56\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(973.395,376.32)\fscx100.52\fscy100.52\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(969.72,373.14)\fscx100.52\fscy100.52\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(965.06,744.9)\fscx100.52\fscy100.52\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(961.37,741.72)\fscx100.52\fscy100.52\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.54,0:24:01.59,NextEp,SIGN,0,0,0,,{\pos(961.37,741.72)\fscx100.52\fscy100.52\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(973.395,376.29)\fscx100.48\fscy100.48\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(969.72,373.11)\fscx100.48\fscy100.48\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(965.06,744.72)\fscx100.48\fscy100.48\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(961.37,741.54)\fscx100.48\fscy100.48\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.59,0:24:01.63,NextEp,SIGN,0,0,0,,{\pos(961.37,741.54)\fscx100.48\fscy100.48\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(973.395,376.26)\fscx100.44\fscy100.44\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(969.705,373.08)\fscx100.44\fscy100.44\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(965.06,744.555)\fscx100.44\fscy100.44\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(961.37,741.375)\fscx100.44\fscy100.44\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.63,0:24:01.67,NextEp,SIGN,0,0,0,,{\pos(961.37,741.375)\fscx100.44\fscy100.44\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(973.395,376.215)\fscx100.41\fscy100.41\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(969.705,373.05)\fscx100.41\fscy100.41\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(965.05,744.39)\fscx100.41\fscy100.41\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(961.37,741.21)\fscx100.41\fscy100.41\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.67,0:24:01.71,NextEp,SIGN,0,0,0,,{\pos(961.37,741.21)\fscx100.41\fscy100.41\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(973.38,376.185)\fscx100.37\fscy100.37\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(969.705,373.005)\fscx100.37\fscy100.37\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(965.05,744.21)\fscx100.37\fscy100.37\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(961.37,741.045)\fscx100.37\fscy100.37\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.71,0:24:01.75,NextEp,SIGN,0,0,0,,{\pos(961.37,741.045)\fscx100.37\fscy100.37\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(973.38,376.155)\fscx100.34\fscy100.34\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(969.705,372.99)\fscx100.34\fscy100.34\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(965.05,744.075)\fscx100.34\fscy100.34\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(961.37,740.895)\fscx100.34\fscy100.34\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.75,0:24:01.80,NextEp,SIGN,0,0,0,,{\pos(961.37,740.895)\fscx100.34\fscy100.34\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(973.38,376.125)\fscx100.31\fscy100.31\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(969.705,372.96)\fscx100.31\fscy100.31\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(965.05,743.925)\fscx100.31\fscy100.31\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(961.36,740.745)\fscx100.31\fscy100.31\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.80,0:24:01.84,NextEp,SIGN,0,0,0,,{\pos(961.36,740.745)\fscx100.31\fscy100.31\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(973.365,376.11)\fscx100.28\fscy100.28\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(969.69,372.93)\fscx100.28\fscy100.28\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(965.03,743.79)\fscx100.28\fscy100.28\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(961.36,740.61)\fscx100.28\fscy100.28\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.84,0:24:01.88,NextEp,SIGN,0,0,0,,{\pos(961.36,740.61)\fscx100.28\fscy100.28\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(973.365,376.08)\fscx100.25\fscy100.25\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(969.69,372.915)\fscx100.25\fscy100.25\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(965.03,743.655)\fscx100.25\fscy100.25\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(961.36,740.475)\fscx100.25\fscy100.25\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.88,0:24:01.92,NextEp,SIGN,0,0,0,,{\pos(961.36,740.475)\fscx100.25\fscy100.25\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(973.365,376.065)\fscx100.22\fscy100.22\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(969.69,372.885)\fscx100.22\fscy100.22\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(965.03,743.535)\fscx100.22\fscy100.22\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(961.36,740.37)\fscx100.22\fscy100.22\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.92,0:24:01.96,NextEp,SIGN,0,0,0,,{\pos(961.36,740.37)\fscx100.22\fscy100.22\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(973.365,376.035)\fscx100.2\fscy100.2\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(969.69,372.87)\fscx100.2\fscy100.2\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(965.03,743.415)\fscx100.2\fscy100.2\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(961.36,740.25)\fscx100.2\fscy100.2\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:01.96,0:24:02.00,NextEp,SIGN,0,0,0,,{\pos(961.36,740.25)\fscx100.2\fscy100.2\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(973.35,376.02)\fscx100.17\fscy100.17\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(969.69,372.84)\fscx100.17\fscy100.17\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(965.02,743.31)\fscx100.17\fscy100.17\bord0\c&HB0AECC&\blur3\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Five Cranes in Return
+Dialogue: 0,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(961.36,740.145)\fscx100.17\fscy100.17\c&HFFFFFF&\blur0.75\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Five Cranes in Return
+Dialogue: 1,0:24:02.00,0:24:02.05,NextEp,SIGN,0,0,0,,{\pos(961.36,740.145)\fscx100.17\fscy100.17\bord0\4a&HFF&\blur0.75\iclip(m 694 712 b 725 705 792 702 821 713 805 719 715 725 696 712)}Five Cranes in Return
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(973.35,375.99)\fscx100.15\fscy100.15\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(969.675,372.825)\fscx100.15\fscy100.15\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(965.02,743.205)\fscx100.15\fscy100.15\bord0\c&HB0AECC&\blur3\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Five Cranes in Return
+Dialogue: 0,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(961.34,740.04)\fscx100.15\fscy100.15\c&HFFFFFF&\blur0.75\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Five Cranes in Return
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\pos(961.34,740.04)\fscx100.15\fscy100.15\bord0\4a&HFF&\blur0.75\iclip(m 768 688 b 798 682 859 681 891 687 856 697 798 695 768 688)}Five Cranes in Return
+Dialogue: 1,0:24:02.05,0:24:02.09,NextEp,SIGN,0,0,0,,{\iclip(m 769 689 l 791 685 813 683 823 685 843 683 864 683 879 685 893 688 862 692 808 693 792 693)}
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(973.35,375.975)\fscx100.13\fscy100.13\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.81)\fscx100.13\fscy100.13\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(965.02,743.115)\fscx100.13\fscy100.13\bord0\c&HB0AECC&\blur3\iclip(m 868 676 l 925.33 680 881.33 646.67)}Five Cranes in Return
+Dialogue: 0,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(961.34,739.95)\fscx100.13\fscy100.13\c&HFFFFFF&\blur0.75\iclip(m 868 676 l 925.33 680 881.33 646.67)}Five Cranes in Return
+Dialogue: 1,0:24:02.09,0:24:02.13,NextEp,SIGN,0,0,0,,{\pos(961.34,739.95)\fscx100.13\fscy100.13\bord0\4a&HFF&\blur0.75\iclip(m 868 676 l 925.33 680 881.33 646.67)}Five Cranes in Return
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(973.35,375.945)\fscx100.11\fscy100.11\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(969.675,372.78)\fscx100.11\fscy100.11\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(965.02,743.025)\fscx100.11\fscy100.11\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(961.34,739.845)\fscx100.11\fscy100.11\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.13,0:24:02.17,NextEp,SIGN,0,0,0,,{\pos(961.34,739.845)\fscx100.11\fscy100.11\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(973.35,375.93)\fscx100.09\fscy100.09\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.765)\fscx100.09\fscy100.09\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(965.02,742.92)\fscx100.09\fscy100.09\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(961.34,739.755)\fscx100.09\fscy100.09\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.17,0:24:02.21,NextEp,SIGN,0,0,0,,{\pos(961.34,739.755)\fscx100.09\fscy100.09\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(973.35,375.915)\fscx100.07\fscy100.07\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.75)\fscx100.07\fscy100.07\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(965.02,742.845)\fscx100.07\fscy100.07\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(961.34,739.665)\fscx100.07\fscy100.07\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.21,0:24:02.25,NextEp,SIGN,0,0,0,,{\pos(961.34,739.665)\fscx100.07\fscy100.07\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(973.335,375.9)\fscx100.06\fscy100.06\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.735)\fscx100.06\fscy100.06\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(965,742.77)\fscx100.06\fscy100.06\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(961.34,739.605)\fscx100.06\fscy100.06\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.25,0:24:02.30,NextEp,SIGN,0,0,0,,{\pos(961.34,739.605)\fscx100.06\fscy100.06\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.885)\fscx100.04\fscy100.04\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.72)\fscx100.04\fscy100.04\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(965,742.695)\fscx100.04\fscy100.04\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(961.34,739.53)\fscx100.04\fscy100.04\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.30,0:24:02.34,NextEp,SIGN,0,0,0,,{\pos(961.34,739.53)\fscx100.04\fscy100.04\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.87)\fscx100.03\fscy100.03\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.03\fscy100.03\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(965,742.635)\fscx100.03\fscy100.03\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(961.34,739.47)\fscx100.03\fscy100.03\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.34,0:24:02.38,NextEp,SIGN,0,0,0,,{\pos(961.34,739.47)\fscx100.03\fscy100.03\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.87)\fscx100.02\fscy100.02\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(969.66,372.705)\fscx100.02\fscy100.02\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(965,742.59)\fscx100.02\fscy100.02\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(961.33,739.425)\fscx100.02\fscy100.02\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(961.33,739.425)\fscx100.02\fscy100.02\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(973.335,375.855)\fscx100.01\fscy100.01\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(969.66,372.69)\fscx100.01\fscy100.01\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(965,742.545)\fscx100.01\fscy100.01\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx100.01\fscy100.01\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx100.01\fscy100.01\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:02.46,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.46,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:02.46,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(965,742.5)\bord0\c&HB0AECC&\blur3}Five Cranes in Return
+Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\c&HFFFFFF&\blur0.75}Five Cranes in Return
+Dialogue: 1,0:24:02.46,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\bord0\4a&HFF&\blur0.75}Five Cranes in Return
+Dialogue: 0,0:24:03.25,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.25,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.25,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.30,0:24:03.55,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.30,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.34,0:24:03.55,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.55,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.55,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.59,0:24:04.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:03.59,0:24:04.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 
 [Aegisub Extradata]
