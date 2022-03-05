@@ -57,7 +57,7 @@ subs {
 
         from(get("premux")) {
             video {
-			    name("[Vardë]")
+			    name("HEVC BDRip by Vardë@Raws-Maji")
                 lang("jpn")
                 default(true)
             }
@@ -126,7 +126,7 @@ subs {
 
             from(get("ncpremux")) {
                 video {
-				    name("[Vardë]")
+				    name("HEVC BDRip by Vardë@Raws-Maji")
                     lang("jpn")
                     default(true)
                 }
