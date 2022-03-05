@@ -16,9 +16,9 @@ Video File: QQS2_11_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 561
-Active Line: 568
-Video Position: 31696
+Scroll Position: 470
+Active Line: 472
+Video Position: 18928
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -508,107 +508,108 @@ Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78
 Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur0.5\fs46\3c&HF7FDF8&\c&H789376&\b1\org(538.1,972.0)\fry6.77\frx2.56\frz-6.48\pos(854,80)\fnDoppio One\1a&H31&}Keihan Bus
-Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur0.5\fs46\3c&HF7FDF8&\c&H789376&\b1\org(538.1,972.0)\fry6.77\frx2.56\frz-6.48\fnDoppio One\pos(868,440)}Inari-Taisha
-Comment: 0,0:10:53.76,0:10:57.46,SignG,,0,0,0,,{\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.7\pos(1758,154)}Mountain Peak
-Dialogue: 0,0:10:53.75,0:10:53.79,SignG,,0,0,0,,{=20}{\fscy108.14\fscx108.14\blur1.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz326.7\pos(1850.08,78.91)}Mountain Peak
-Dialogue: 0,0:10:53.79,0:10:53.84,SignG,,0,0,0,,{=20}{\fscy107.17\fscx107.17\blur1.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz326.38\pos(1839.4,87.73)}Mountain Peak
-Dialogue: 0,0:10:53.84,0:10:53.88,SignG,,0,0,0,,{=20}{\fscy106.64\fscx106.64\blur1.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz326.16\pos(1833.57,92.56)}Mountain Peak
-Dialogue: 0,0:10:53.88,0:10:53.92,SignG,,0,0,0,,{=20}{\fscy106.35\fscx106.35\blur1.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz326.06\pos(1830.3,95.26)}Mountain Peak
-Dialogue: 0,0:10:53.92,0:10:53.96,SignG,,0,0,0,,{=20}{\fscy106.14\fscx106.14\blur1.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz326.03\pos(1828.2,96.85)}Mountain Peak
-Dialogue: 0,0:10:53.96,0:10:54.00,SignG,,0,0,0,,{=20}{\fscy106\fscx106\blur1.48\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.92\pos(1826.55,98.38)}Mountain Peak
-Dialogue: 0,0:10:54.00,0:10:54.04,SignG,,0,0,0,,{=20}{\fscy105.93\fscx105.93\blur1.48\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.88\pos(1824.98,99.64)}Mountain Peak
-Dialogue: 0,0:10:54.04,0:10:54.09,SignG,,0,0,0,,{=20}{\fscy105.73\fscx105.73\blur1.48\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.83\pos(1823.32,100.99)}Mountain Peak
-Dialogue: 0,0:10:54.09,0:10:54.13,SignG,,0,0,0,,{=20}{\fscy105.62\fscx105.62\blur1.48\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.8\pos(1821.74,102.22)}Mountain Peak
-Dialogue: 0,0:10:54.13,0:10:54.17,SignG,,0,0,0,,{=20}{\fscy105.45\fscx105.45\blur1.48\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.77\pos(1820.06,103.55)}Mountain Peak
-Dialogue: 0,0:10:54.17,0:10:54.21,SignG,,0,0,0,,{=20}{\fscy105.26\fscx105.26\blur1.47\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.71\pos(1818.44,104.88)}Mountain Peak
-Dialogue: 0,0:10:54.21,0:10:54.25,SignG,,0,0,0,,{=20}{\fscy105.17\fscx105.17\blur1.47\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.64\pos(1816.9,106.19)}Mountain Peak
-Dialogue: 0,0:10:54.25,0:10:54.30,SignG,,0,0,0,,{=20}{\fscy105.01\fscx105.01\blur1.47\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.57\pos(1815.35,107.52)}Mountain Peak
-Dialogue: 0,0:10:54.30,0:10:54.34,SignG,,0,0,0,,{=20}{\fscy104.9\fscx104.9\blur1.47\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.53\pos(1813.83,108.74)}Mountain Peak
-Dialogue: 0,0:10:54.34,0:10:54.38,SignG,,0,0,0,,{=20}{\fscy104.76\fscx104.76\blur1.47\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.5\pos(1812.29,109.97)}Mountain Peak
-Dialogue: 0,0:10:54.38,0:10:54.42,SignG,,0,0,0,,{=20}{\fscy104.58\fscx104.58\blur1.46\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.47\pos(1810.69,111.2)}Mountain Peak
-Dialogue: 0,0:10:54.42,0:10:54.46,SignG,,0,0,0,,{=20}{\fscy104.52\fscx104.52\blur1.46\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.38\pos(1809.29,112.44)}Mountain Peak
-Dialogue: 0,0:10:54.46,0:10:54.50,SignG,,0,0,0,,{=20}{\fscy104.34\fscx104.34\blur1.46\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.39\pos(1807.69,113.61)}Mountain Peak
-Dialogue: 0,0:10:54.50,0:10:54.55,SignG,,0,0,0,,{=20}{\fscy104.23\fscx104.23\blur1.46\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.29\pos(1806.24,114.92)}Mountain Peak
-Dialogue: 0,0:10:54.55,0:10:54.59,SignG,,0,0,0,,{=20}{\fscy104.11\fscx104.11\blur1.46\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.23\pos(1804.79,116.11)}Mountain Peak
-Dialogue: 0,0:10:54.59,0:10:54.63,SignG,,0,0,0,,{=20}{\fscy104\fscx104\blur1.46\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.16\pos(1803.38,117.33)}Mountain Peak
-Dialogue: 0,0:10:54.63,0:10:54.67,SignG,,0,0,0,,{=20}{\fscy103.86\fscx103.86\blur1.45\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.14\pos(1801.9,118.46)}Mountain Peak
-Dialogue: 0,0:10:54.67,0:10:54.71,SignG,,0,0,0,,{=20}{\fscy103.75\fscx103.75\blur1.45\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.1\pos(1800.47,119.63)}Mountain Peak
-Dialogue: 0,0:10:54.71,0:10:54.75,SignG,,0,0,0,,{=20}{\fscy103.62\fscx103.62\blur1.45\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.11\pos(1799.01,120.66)}Mountain Peak
-Dialogue: 0,0:10:54.75,0:10:54.80,SignG,,0,0,0,,{=20}{\fscy103.46\fscx103.46\blur1.45\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz325.02\pos(1797.62,121.89)}Mountain Peak
-Dialogue: 0,0:10:54.80,0:10:54.84,SignG,,0,0,0,,{=20}{\fscy103.32\fscx103.32\blur1.45\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.98\pos(1796.19,123.07)}Mountain Peak
-Dialogue: 0,0:10:54.84,0:10:54.88,SignG,,0,0,0,,{=20}{\fscy103.22\fscx103.22\blur1.45\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.92\pos(1794.83,124.21)}Mountain Peak
-Dialogue: 0,0:10:54.88,0:10:54.92,SignG,,0,0,0,,{=20}{\fscy103.06\fscx103.06\blur1.44\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.93\pos(1793.4,125.23)}Mountain Peak
-Dialogue: 0,0:10:54.92,0:10:54.96,SignG,,0,0,0,,{=20}{\fscy102.98\fscx102.98\blur1.44\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.86\pos(1792.07,126.35)}Mountain Peak
-Dialogue: 0,0:10:54.96,0:10:55.00,SignG,,0,0,0,,{=20}{\fscy102.77\fscx102.77\blur1.44\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.8\pos(1790.62,127.55)}Mountain Peak
-Dialogue: 0,0:10:55.00,0:10:55.05,SignG,,0,0,0,,{=20}{\fscy102.73\fscx102.73\blur1.44\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.75\pos(1789.37,128.6)}Mountain Peak
-Dialogue: 0,0:10:55.05,0:10:55.09,SignG,,0,0,0,,{=20}{\fscy102.58\fscx102.58\blur1.44\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.71\pos(1788.03,129.67)}Mountain Peak
-Dialogue: 0,0:10:55.09,0:10:55.13,SignG,,0,0,0,,{=20}{\fscy102.5\fscx102.5\blur1.44\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.66\pos(1786.79,130.75)}Mountain Peak
-Dialogue: 0,0:10:55.13,0:10:55.17,SignG,,0,0,0,,{=20}{\fscy102.42\fscx102.42\blur1.43\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.61\pos(1785.51,131.76)}Mountain Peak
-Dialogue: 0,0:10:55.17,0:10:55.21,SignG,,0,0,0,,{=20}{\fscy102.29\fscx102.29\blur1.43\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.59\pos(1784.22,132.76)}Mountain Peak
-Dialogue: 0,0:10:55.21,0:10:55.25,SignG,,0,0,0,,{=20}{\fscy102.18\fscx102.18\blur1.43\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.54\pos(1782.97,133.8)}Mountain Peak
-Dialogue: 0,0:10:55.25,0:10:55.30,SignG,,0,0,0,,{=20}{\fscy102.06\fscx102.06\blur1.43\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.53\pos(1781.69,134.74)}Mountain Peak
-Dialogue: 0,0:10:55.30,0:10:55.34,SignG,,0,0,0,,{=20}{\fscy101.93\fscx101.93\blur1.43\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.5\pos(1780.4,135.75)}Mountain Peak
-Dialogue: 0,0:10:55.34,0:10:55.38,SignG,,0,0,0,,{=20}{\fscy101.82\fscx101.82\blur1.43\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.44\pos(1779.21,136.78)}Mountain Peak
-Dialogue: 0,0:10:55.38,0:10:55.42,SignG,,0,0,0,,{=20}{\fscy101.75\fscx101.75\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.38\pos(1778.06,137.79)}Mountain Peak
-Dialogue: 0,0:10:55.42,0:10:55.46,SignG,,0,0,0,,{=20}{\fscy101.64\fscx101.64\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.35\pos(1776.85,138.72)}Mountain Peak
-Dialogue: 0,0:10:55.46,0:10:55.50,SignG,,0,0,0,,{=20}{\fscy101.5\fscx101.5\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.29\pos(1775.63,139.72)}Mountain Peak
-Dialogue: 0,0:10:55.50,0:10:55.55,SignG,,0,0,0,,{=20}{\fscy101.42\fscx101.42\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.26\pos(1774.49,140.67)}Mountain Peak
-Dialogue: 0,0:10:55.55,0:10:55.59,SignG,,0,0,0,,{=20}{\fscy101.32\fscx101.32\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.2\pos(1773.36,141.63)}Mountain Peak
-Dialogue: 0,0:10:55.59,0:10:55.63,SignG,,0,0,0,,{=20}{\fscy101.26\fscx101.26\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.18\pos(1772.25,142.5)}Mountain Peak
-Dialogue: 0,0:10:55.63,0:10:55.67,SignG,,0,0,0,,{=20}{\fscy101.16\fscx101.16\blur1.42\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.15\pos(1771.11,143.41)}Mountain Peak
-Dialogue: 0,0:10:55.67,0:10:55.71,SignG,,0,0,0,,{=20}{\fscy101.03\fscx101.03\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.1\pos(1769.99,144.31)}Mountain Peak
-Dialogue: 0,0:10:55.71,0:10:55.75,SignG,,0,0,0,,{=20}{\fscy100.98\fscx100.98\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.06\pos(1768.96,145.19)}Mountain Peak
-Dialogue: 0,0:10:55.75,0:10:55.80,SignG,,0,0,0,,{=20}{\fscy100.86\fscx100.86\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz324.01\pos(1767.87,146.09)}Mountain Peak
-Dialogue: 0,0:10:55.80,0:10:55.84,SignG,,0,0,0,,{=20}{\fscy100.8\fscx100.8\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.95\pos(1766.83,146.98)}Mountain Peak
-Dialogue: 0,0:10:55.84,0:10:55.88,SignG,,0,0,0,,{=20}{\fscy100.69\fscx100.69\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.91\pos(1765.8,147.85)}Mountain Peak
-Dialogue: 0,0:10:55.88,0:10:55.92,SignG,,0,0,0,,{=20}{\fscy100.58\fscx100.58\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.92\pos(1764.73,148.57)}Mountain Peak
-Dialogue: 0,0:10:55.92,0:10:55.96,SignG,,0,0,0,,{=20}{\fscy100.51\fscx100.51\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.89\pos(1763.73,149.38)}Mountain Peak
-Dialogue: 0,0:10:55.96,0:10:56.01,SignG,,0,0,0,,{=20}{\fscy100.41\fscx100.41\blur1.41\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.85\pos(1762.71,150.22)}Mountain Peak
-Dialogue: 0,0:10:56.01,0:10:56.05,SignG,,0,0,0,,{=20}{\fscy100.31\fscx100.31\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.84\pos(1761.71,150.98)}Mountain Peak
-Dialogue: 0,0:10:56.05,0:10:56.09,SignG,,0,0,0,,{=20}{\fscy100.22\fscx100.22\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.82\pos(1760.75,151.71)}Mountain Peak
-Dialogue: 0,0:10:56.09,0:10:56.13,SignG,,0,0,0,,{=20}{\fscy100.14\fscx100.14\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.81\pos(1759.79,152.43)}Mountain Peak
-Dialogue: 0,0:10:56.13,0:10:56.17,SignG,,0,0,0,,{=20}{\fscy100.08\fscx100.08\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.74\pos(1758.91,153.25)}Mountain Peak
-Dialogue: 0,0:10:56.17,0:10:56.21,SignG,,0,0,0,,{=20}{\fscy100\fscx100\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.7\pos(1758,154)}Mountain Peak
-Dialogue: 0,0:10:56.21,0:10:56.26,SignG,,0,0,0,,{=20}{\fscy99.9\fscx99.9\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.66\pos(1757.09,154.76)}Mountain Peak
-Dialogue: 0,0:10:56.26,0:10:56.30,SignG,,0,0,0,,{=20}{\fscy99.87\fscx99.87\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.63\pos(1756.27,155.42)}Mountain Peak
-Dialogue: 0,0:10:56.30,0:10:56.34,SignG,,0,0,0,,{=20}{\fscy99.76\fscx99.76\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.63\pos(1755.38,156.05)}Mountain Peak
-Dialogue: 0,0:10:56.34,0:10:56.38,SignG,,0,0,0,,{=20}{\fscy99.66\fscx99.66\blur1.4\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.64\pos(1754.51,156.68)}Mountain Peak
-Dialogue: 0,0:10:56.38,0:10:56.42,SignG,,0,0,0,,{=20}{\fscy99.59\fscx99.59\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.61\pos(1753.68,157.36)}Mountain Peak
-Dialogue: 0,0:10:56.42,0:10:56.46,SignG,,0,0,0,,{=20}{\fscy99.51\fscx99.51\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.57\pos(1752.91,158)}Mountain Peak
-Dialogue: 0,0:10:56.46,0:10:56.51,SignG,,0,0,0,,{=20}{\fscy99.47\fscx99.47\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.54\pos(1752.17,158.64)}Mountain Peak
-Dialogue: 0,0:10:56.51,0:10:56.55,SignG,,0,0,0,,{=20}{\fscy99.43\fscx99.43\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.49\pos(1751.46,159.28)}Mountain Peak
-Dialogue: 0,0:10:56.55,0:10:56.59,SignG,,0,0,0,,{=20}{\fscy99.34\fscx99.34\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.48\pos(1750.68,159.87)}Mountain Peak
-Dialogue: 0,0:10:56.59,0:10:56.63,SignG,,0,0,0,,{=20}{\fscy99.28\fscx99.28\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.45\pos(1749.95,160.43)}Mountain Peak
-Dialogue: 0,0:10:56.63,0:10:56.67,SignG,,0,0,0,,{=20}{\fscy99.3\fscx99.3\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.45\pos(1749.36,160.9)}Mountain Peak
-Dialogue: 0,0:10:56.67,0:10:56.71,SignG,,0,0,0,,{=20}{\fscy99.26\fscx99.26\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.4\pos(1748.75,161.45)}Mountain Peak
-Dialogue: 0,0:10:56.71,0:10:56.76,SignG,,0,0,0,,{=20}{\fscy99.17\fscx99.17\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.4\pos(1748.08,161.96)}Mountain Peak
-Dialogue: 0,0:10:56.76,0:10:56.80,SignG,,0,0,0,,{=20}{\fscy99.12\fscx99.12\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.38\pos(1747.46,162.42)}Mountain Peak
-Dialogue: 0,0:10:56.80,0:10:56.84,SignG,,0,0,0,,{=20}{\fscy99.06\fscx99.06\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.37\pos(1746.84,162.92)}Mountain Peak
-Dialogue: 0,0:10:56.84,0:10:56.88,SignG,,0,0,0,,{=20}{\fscy99.04\fscx99.04\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.36\pos(1746.29,163.34)}Mountain Peak
-Dialogue: 0,0:10:56.88,0:10:56.92,SignG,,0,0,0,,{=20}{\fscy98.98\fscx98.98\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.33\pos(1745.73,163.8)}Mountain Peak
-Dialogue: 0,0:10:56.92,0:10:56.96,SignG,,0,0,0,,{=20}{\fscy99.01\fscx99.01\blur1.39\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.28\pos(1745.35,164.27)}Mountain Peak
-Dialogue: 0,0:10:56.96,0:10:57.01,SignG,,0,0,0,,{=20}{\fscy98.88\fscx98.88\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.3\pos(1744.75,164.58)}Mountain Peak
-Dialogue: 0,0:10:57.01,0:10:57.05,SignG,,0,0,0,,{=20}{\fscy98.86\fscx98.86\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.3\pos(1744.33,164.89)}Mountain Peak
-Dialogue: 0,0:10:57.05,0:10:57.09,SignG,,0,0,0,,{=20}{\fscy98.84\fscx98.84\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.27\pos(1743.97,165.27)}Mountain Peak
-Dialogue: 0,0:10:57.09,0:10:57.13,SignG,,0,0,0,,{=20}{\fscy98.77\fscx98.77\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.26\pos(1743.51,165.59)}Mountain Peak
-Dialogue: 0,0:10:57.13,0:10:57.17,SignG,,0,0,0,,{=20}{\fscy98.77\fscx98.77\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.22\pos(1743.18,165.93)}Mountain Peak
-Dialogue: 0,0:10:57.17,0:10:57.21,SignG,,0,0,0,,{=20}{\fscy98.74\fscx98.74\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.22\pos(1742.87,166.2)}Mountain Peak
-Dialogue: 0,0:10:57.21,0:10:57.26,SignG,,0,0,0,,{=20}{\fscy98.72\fscx98.72\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.21\pos(1742.6,166.39)}Mountain Peak
-Dialogue: 0,0:10:57.26,0:10:57.30,SignG,,0,0,0,,{=20}{\fscy98.68\fscx98.68\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.2\pos(1742.3,166.56)}Mountain Peak
-Dialogue: 0,0:10:57.30,0:10:57.34,SignG,,0,0,0,,{=20}{\fscy98.73\fscx98.73\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.13\pos(1742.18,166.84)}Mountain Peak
-Dialogue: 0,0:10:57.34,0:10:57.38,SignG,,0,0,0,,{=20}{\fscy98.72\fscx98.72\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.17\pos(1742.04,166.89)}Mountain Peak
-Dialogue: 0,0:10:57.38,0:10:57.42,SignG,,0,0,0,,{=20}{\fscy98.7\fscx98.7\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.17\pos(1741.96,166.96)}Mountain Peak
-Dialogue: 0,0:10:57.42,0:10:57.46,SignG,,0,0,0,,{=20}{\fscy98.67\fscx98.67\blur1.38\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.18\pos(1741.86,166.99)}Mountain Peak
+Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur1\fs46\3c&HF7FDF8&\c&H789376&\b1\org(538.1,972.0)\fry6.77\frx2.56\fnDoppio One\1a&H00&\frz352.8\pos(850,80)}Keihan Bus
+Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur1\fs46\3c&HF7FDF8&\c&H6D856B&\b1\org(538.1,972.0)\fry6.77\frx2.56\frz-6.48\fnDoppio One\pos(868,440)}Inari-Taisha
+Comment: 0,0:10:53.76,0:10:57.46,SignG,,0,0,0,,{\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.7\pos(1758,154)}Mountain Peak
+Dialogue: 0,0:10:53.72,0:10:53.76,SignG,,0,0,0,,{=39}{\fscy108.02\fscx108.02\blur3.7\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\pos(1890.16,64.49)\frz330.3}Mountain Peak
+Dialogue: 0,0:10:53.75,0:10:53.79,SignG,,0,0,0,,{=39}{\fscy108.02\fscx108.02\blur0.54\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz326.7\pos(1848.16,80.49)}Mountain Peak
+Dialogue: 0,0:10:53.79,0:10:53.84,SignG,,0,0,0,,{=39}{\fscy107.04\fscx107.04\blur0.54\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz326.33\pos(1837.54,89.39)}Mountain Peak
+Dialogue: 0,0:10:53.84,0:10:53.88,SignG,,0,0,0,,{=39}{\fscy106.49\fscx106.49\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz326.11\pos(1831.69,94.19)}Mountain Peak
+Dialogue: 0,0:10:53.88,0:10:53.92,SignG,,0,0,0,,{=39}{\fscy106.23\fscx106.23\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz326.05\pos(1828.41,96.8)}Mountain Peak
+Dialogue: 0,0:10:53.92,0:10:53.96,SignG,,0,0,0,,{=39}{\fscy106.04\fscx106.04\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz326.02\pos(1826.32,98.4)}Mountain Peak
+Dialogue: 0,0:10:53.96,0:10:54.00,SignG,,0,0,0,,{=39}{\fscy105.88\fscx105.88\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.89\pos(1824.66,99.95)}Mountain Peak
+Dialogue: 0,0:10:54.00,0:10:54.04,SignG,,0,0,0,,{=39}{\fscy105.82\fscx105.82\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.84\pos(1823.12,101.23)}Mountain Peak
+Dialogue: 0,0:10:54.04,0:10:54.09,SignG,,0,0,0,,{=39}{\fscy105.6\fscx105.6\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.79\pos(1821.44,102.59)}Mountain Peak
+Dialogue: 0,0:10:54.09,0:10:54.13,SignG,,0,0,0,,{=39}{\fscy105.5\fscx105.5\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.8\pos(1819.84,103.74)}Mountain Peak
+Dialogue: 0,0:10:54.13,0:10:54.17,SignG,,0,0,0,,{=39}{\fscy105.32\fscx105.32\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.76\pos(1818.17,105.09)}Mountain Peak
+Dialogue: 0,0:10:54.17,0:10:54.21,SignG,,0,0,0,,{=39}{\fscy105.13\fscx105.13\blur0.53\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.68\pos(1816.56,106.47)}Mountain Peak
+Dialogue: 0,0:10:54.21,0:10:54.25,SignG,,0,0,0,,{=39}{\fscy104.98\fscx104.98\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.55\pos(1815.01,107.87)}Mountain Peak
+Dialogue: 0,0:10:54.25,0:10:54.30,SignG,,0,0,0,,{=39}{\fscy104.9\fscx104.9\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.57\pos(1813.49,109.02)}Mountain Peak
+Dialogue: 0,0:10:54.30,0:10:54.34,SignG,,0,0,0,,{=39}{\fscy104.76\fscx104.76\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.55\pos(1811.92,110.2)}Mountain Peak
+Dialogue: 0,0:10:54.34,0:10:54.38,SignG,,0,0,0,,{=39}{\fscy104.62\fscx104.62\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.46\pos(1810.41,111.54)}Mountain Peak
+Dialogue: 0,0:10:54.38,0:10:54.42,SignG,,0,0,0,,{=39}{\fscy104.44\fscx104.44\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.48\pos(1808.79,112.65)}Mountain Peak
+Dialogue: 0,0:10:54.42,0:10:54.46,SignG,,0,0,0,,{=39}{\fscy104.38\fscx104.38\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.38\pos(1807.41,113.93)}Mountain Peak
+Dialogue: 0,0:10:54.46,0:10:54.50,SignG,,0,0,0,,{=39}{\fscy104.21\fscx104.21\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.4\pos(1805.79,115.09)}Mountain Peak
+Dialogue: 0,0:10:54.50,0:10:54.55,SignG,,0,0,0,,{=39}{\fscy104.07\fscx104.07\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.26\pos(1804.35,116.44)}Mountain Peak
+Dialogue: 0,0:10:54.55,0:10:54.59,SignG,,0,0,0,,{=39}{\fscy103.96\fscx103.96\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.25\pos(1802.87,117.55)}Mountain Peak
+Dialogue: 0,0:10:54.59,0:10:54.63,SignG,,0,0,0,,{=39}{\fscy103.84\fscx103.84\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.15\pos(1801.5,118.81)}Mountain Peak
+Dialogue: 0,0:10:54.63,0:10:54.67,SignG,,0,0,0,,{=39}{\fscy103.67\fscx103.67\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.11\pos(1799.99,120)}Mountain Peak
+Dialogue: 0,0:10:54.67,0:10:54.71,SignG,,0,0,0,,{=39}{\fscy103.57\fscx103.57\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.07\pos(1798.57,121.14)}Mountain Peak
+Dialogue: 0,0:10:54.71,0:10:54.75,SignG,,0,0,0,,{=39}{\fscy103.46\fscx103.46\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz325.1\pos(1797.09,122.15)}Mountain Peak
+Dialogue: 0,0:10:54.75,0:10:54.80,SignG,,0,0,0,,{=39}{\fscy103.27\fscx103.27\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.98\pos(1795.71,123.45)}Mountain Peak
+Dialogue: 0,0:10:54.80,0:10:54.84,SignG,,0,0,0,,{=39}{\fscy103.14\fscx103.14\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.96\pos(1794.28,124.58)}Mountain Peak
+Dialogue: 0,0:10:54.84,0:10:54.88,SignG,,0,0,0,,{=39}{\fscy103.03\fscx103.03\blur0.52\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.88\pos(1792.92,125.76)}Mountain Peak
+Dialogue: 0,0:10:54.88,0:10:54.92,SignG,,0,0,0,,{=39}{\fscy102.87\fscx102.87\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.88\pos(1791.48,126.8)}Mountain Peak
+Dialogue: 0,0:10:54.92,0:10:54.96,SignG,,0,0,0,,{=39}{\fscy102.79\fscx102.79\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.8\pos(1790.19,127.93)}Mountain Peak
+Dialogue: 0,0:10:54.96,0:10:55.00,SignG,,0,0,0,,{=39}{\fscy102.59\fscx102.59\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.76\pos(1788.72,129.05)}Mountain Peak
+Dialogue: 0,0:10:55.00,0:10:55.05,SignG,,0,0,0,,{=39}{\fscy102.55\fscx102.55\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.7\pos(1787.48,130.14)}Mountain Peak
+Dialogue: 0,0:10:55.05,0:10:55.09,SignG,,0,0,0,,{=39}{\fscy102.39\fscx102.39\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.66\pos(1786.13,131.2)}Mountain Peak
+Dialogue: 0,0:10:55.09,0:10:55.13,SignG,,0,0,0,,{=39}{\fscy102.3\fscx102.3\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.58\pos(1784.92,132.36)}Mountain Peak
+Dialogue: 0,0:10:55.13,0:10:55.17,SignG,,0,0,0,,{=39}{\fscy102.23\fscx102.23\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.54\pos(1783.65,133.34)}Mountain Peak
+Dialogue: 0,0:10:55.17,0:10:55.21,SignG,,0,0,0,,{=39}{\fscy102.1\fscx102.1\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.51\pos(1782.36,134.35)}Mountain Peak
+Dialogue: 0,0:10:55.21,0:10:55.25,SignG,,0,0,0,,{=39}{\fscy102.01\fscx102.01\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.46\pos(1781.14,135.36)}Mountain Peak
+Dialogue: 0,0:10:55.25,0:10:55.30,SignG,,0,0,0,,{=39}{\fscy101.89\fscx101.89\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.46\pos(1779.85,136.3)}Mountain Peak
+Dialogue: 0,0:10:55.30,0:10:55.34,SignG,,0,0,0,,{=39}{\fscy101.78\fscx101.78\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.45\pos(1778.56,137.26)}Mountain Peak
+Dialogue: 0,0:10:55.34,0:10:55.38,SignG,,0,0,0,,{=39}{\fscy101.65\fscx101.65\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.32\pos(1777.39,138.42)}Mountain Peak
+Dialogue: 0,0:10:55.38,0:10:55.42,SignG,,0,0,0,,{=39}{\fscy101.58\fscx101.58\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.29\pos(1776.23,139.36)}Mountain Peak
+Dialogue: 0,0:10:55.42,0:10:55.46,SignG,,0,0,0,,{=39}{\fscy101.46\fscx101.46\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.24\pos(1775.01,140.34)}Mountain Peak
+Dialogue: 0,0:10:55.46,0:10:55.50,SignG,,0,0,0,,{=39}{\fscy101.33\fscx101.33\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.19\pos(1773.82,141.32)}Mountain Peak
+Dialogue: 0,0:10:55.50,0:10:55.55,SignG,,0,0,0,,{=39}{\fscy101.25\fscx101.25\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.16\pos(1772.68,142.25)}Mountain Peak
+Dialogue: 0,0:10:55.55,0:10:55.59,SignG,,0,0,0,,{=39}{\fscy101.16\fscx101.16\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.12\pos(1771.55,143.19)}Mountain Peak
+Dialogue: 0,0:10:55.59,0:10:55.63,SignG,,0,0,0,,{=39}{\fscy101.09\fscx101.09\blur0.51\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.11\pos(1770.43,144.02)}Mountain Peak
+Dialogue: 0,0:10:55.63,0:10:55.67,SignG,,0,0,0,,{=39}{\fscy100.99\fscx100.99\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324.06\pos(1769.29,144.98)}Mountain Peak
+Dialogue: 0,0:10:55.67,0:10:55.71,SignG,,0,0,0,,{=39}{\fscy100.86\fscx100.86\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz324\pos(1768.18,145.91)}Mountain Peak
+Dialogue: 0,0:10:55.71,0:10:55.75,SignG,,0,0,0,,{=39}{\fscy100.8\fscx100.8\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.96\pos(1767.16,146.79)}Mountain Peak
+Dialogue: 0,0:10:55.75,0:10:55.80,SignG,,0,0,0,,{=39}{\fscy100.69\fscx100.69\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.91\pos(1766.08,147.68)}Mountain Peak
+Dialogue: 0,0:10:55.80,0:10:55.84,SignG,,0,0,0,,{=39}{\fscy100.64\fscx100.64\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.88\pos(1765.03,148.49)}Mountain Peak
+Dialogue: 0,0:10:55.84,0:10:55.88,SignG,,0,0,0,,{=39}{\fscy100.53\fscx100.53\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.81\pos(1764,149.41)}Mountain Peak
+Dialogue: 0,0:10:55.88,0:10:55.92,SignG,,0,0,0,,{=39}{\fscy100.42\fscx100.42\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.82\pos(1762.94,150.14)}Mountain Peak
+Dialogue: 0,0:10:55.92,0:10:55.96,SignG,,0,0,0,,{=39}{\fscy100.37\fscx100.37\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.81\pos(1761.95,150.9)}Mountain Peak
+Dialogue: 0,0:10:55.96,0:10:56.01,SignG,,0,0,0,,{=39}{\fscy100.27\fscx100.27\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.75\pos(1760.94,151.77)}Mountain Peak
+Dialogue: 0,0:10:56.01,0:10:56.05,SignG,,0,0,0,,{=39}{\fscy100.18\fscx100.18\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.74\pos(1759.94,152.51)}Mountain Peak
+Dialogue: 0,0:10:56.05,0:10:56.09,SignG,,0,0,0,,{=39}{\fscy100.08\fscx100.08\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.71\pos(1758.96,153.29)}Mountain Peak
+Dialogue: 0,0:10:56.09,0:10:56.13,SignG,,0,0,0,,{=39}{\fscy100\fscx100\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.7\pos(1758,154)}Mountain Peak
+Dialogue: 0,0:10:56.13,0:10:56.17,SignG,,0,0,0,,{=39}{\fscy99.96\fscx99.96\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.64\pos(1757.14,154.78)}Mountain Peak
+Dialogue: 0,0:10:56.17,0:10:56.21,SignG,,0,0,0,,{=39}{\fscy99.89\fscx99.89\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.6\pos(1756.25,155.53)}Mountain Peak
+Dialogue: 0,0:10:56.21,0:10:56.26,SignG,,0,0,0,,{=39}{\fscy99.79\fscx99.79\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.58\pos(1755.34,156.23)}Mountain Peak
+Dialogue: 0,0:10:56.26,0:10:56.30,SignG,,0,0,0,,{=39}{\fscy99.77\fscx99.77\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.56\pos(1754.51,156.89)}Mountain Peak
+Dialogue: 0,0:10:56.30,0:10:56.34,SignG,,0,0,0,,{=39}{\fscy99.64\fscx99.64\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.54\pos(1753.6,157.57)}Mountain Peak
+Dialogue: 0,0:10:56.34,0:10:56.38,SignG,,0,0,0,,{=39}{\fscy99.54\fscx99.54\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.54\pos(1752.72,158.24)}Mountain Peak
+Dialogue: 0,0:10:56.38,0:10:56.42,SignG,,0,0,0,,{=39}{\fscy99.45\fscx99.45\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.48\pos(1751.9,158.98)}Mountain Peak
+Dialogue: 0,0:10:56.42,0:10:56.46,SignG,,0,0,0,,{=39}{\fscy99.38\fscx99.38\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.45\pos(1751.13,159.6)}Mountain Peak
+Dialogue: 0,0:10:56.46,0:10:56.51,SignG,,0,0,0,,{=39}{\fscy99.34\fscx99.34\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.38\pos(1750.4,160.29)}Mountain Peak
+Dialogue: 0,0:10:56.51,0:10:56.55,SignG,,0,0,0,,{=39}{\fscy99.27\fscx99.27\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.34\pos(1749.69,160.91)}Mountain Peak
+Dialogue: 0,0:10:56.55,0:10:56.59,SignG,,0,0,0,,{=39}{\fscy99.21\fscx99.21\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.35\pos(1748.93,161.44)}Mountain Peak
+Dialogue: 0,0:10:56.59,0:10:56.63,SignG,,0,0,0,,{=39}{\fscy99.14\fscx99.14\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.3\pos(1748.2,162.06)}Mountain Peak
+Dialogue: 0,0:10:56.63,0:10:56.67,SignG,,0,0,0,,{=39}{\fscy99.15\fscx99.15\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.29\pos(1747.59,162.54)}Mountain Peak
+Dialogue: 0,0:10:56.67,0:10:56.71,SignG,,0,0,0,,{=39}{\fscy99.08\fscx99.08\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.22\pos(1746.98,163.16)}Mountain Peak
+Dialogue: 0,0:10:56.71,0:10:56.76,SignG,,0,0,0,,{=39}{\fscy99.02\fscx99.02\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.25\pos(1746.3,163.58)}Mountain Peak
+Dialogue: 0,0:10:56.76,0:10:56.80,SignG,,0,0,0,,{=39}{\fscy98.95\fscx98.95\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.23\pos(1745.68,164.05)}Mountain Peak
+Dialogue: 0,0:10:56.80,0:10:56.84,SignG,,0,0,0,,{=39}{\fscy98.91\fscx98.91\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.21\pos(1745.06,164.56)}Mountain Peak
+Dialogue: 0,0:10:56.84,0:10:56.88,SignG,,0,0,0,,{=39}{\fscy98.86\fscx98.86\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.18\pos(1744.51,165.04)}Mountain Peak
+Dialogue: 0,0:10:56.88,0:10:56.92,SignG,,0,0,0,,{=39}{\fscy98.8\fscx98.8\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.15\pos(1743.95,165.5)}Mountain Peak
+Dialogue: 0,0:10:56.92,0:10:56.96,SignG,,0,0,0,,{=39}{\fscy98.82\fscx98.82\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.08\pos(1743.58,166)}Mountain Peak
+Dialogue: 0,0:10:56.96,0:10:57.01,SignG,,0,0,0,,{=39}{\fscy98.71\fscx98.71\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.15\pos(1742.96,166.21)}Mountain Peak
+Dialogue: 0,0:10:57.01,0:10:57.05,SignG,,0,0,0,,{=39}{\fscy98.69\fscx98.69\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.18\pos(1742.51,166.45)}Mountain Peak
+Dialogue: 0,0:10:57.05,0:10:57.09,SignG,,0,0,0,,{=39}{\fscy98.67\fscx98.67\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.14\pos(1742.16,166.85)}Mountain Peak
+Dialogue: 0,0:10:57.09,0:10:57.13,SignG,,0,0,0,,{=39}{\fscy98.6\fscx98.6\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.12\pos(1741.72,167.18)}Mountain Peak
+Dialogue: 0,0:10:57.13,0:10:57.17,SignG,,0,0,0,,{=39}{\fscy98.58\fscx98.58\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.06\pos(1741.38,167.57)}Mountain Peak
+Dialogue: 0,0:10:57.17,0:10:57.21,SignG,,0,0,0,,{=39}{\fscy98.55\fscx98.55\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.1\pos(1741.03,167.78)}Mountain Peak
+Dialogue: 0,0:10:57.21,0:10:57.26,SignG,,0,0,0,,{=39}{\fscy98.51\fscx98.51\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.11\pos(1740.75,167.94)}Mountain Peak
+Dialogue: 0,0:10:57.26,0:10:57.30,SignG,,0,0,0,,{=39}{\fscy98.43\fscx98.43\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.05\pos(1740.43,168.21)}Mountain Peak
+Dialogue: 0,0:10:57.30,0:10:57.34,SignG,,0,0,0,,{=39}{\fscy98.5\fscx98.5\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.03\pos(1740.32,168.39)}Mountain Peak
+Dialogue: 0,0:10:57.34,0:10:57.38,SignG,,0,0,0,,{=39}{\fscy98.49\fscx98.49\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.11\pos(1740.12,168.37)}Mountain Peak
+Dialogue: 0,0:10:57.38,0:10:57.42,SignG,,0,0,0,,{=39}{\fscy98.48\fscx98.48\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.11\pos(1740.05,168.43)}Mountain Peak
+Dialogue: 0,0:10:57.42,0:10:57.46,SignG,,0,0,0,,{=39}{\fscy98.44\fscx98.44\blur0.49\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2B4E&\frx4.08\fry6.53\frz323.12\pos(1739.94,168.47)}Mountain Peak
 Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift SemiCondensed\fs40\c&H76796A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(372,670)}Long Life
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift SemiCondensed\fs30\c&H76796A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(1216,868)}Success in love
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift SemiCondensed\fs32\c&H76796A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz11.04\pos(1746,742)}Academic success
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift SemiCondensed\fs30\c&H6F7D82&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(1216,868)}Success in love
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift SemiCondensed\fs32\c&H6E7A7A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz11.04\pos(1746,742)}Academic success
 Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift SemiCondensed\fs25\c&H4D5562&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(838,1150)}Core Strength
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\fscx104\blur1\fnBahnschrift SemiCondensed\fs37\c&H76796A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(2274,542)}Happiness
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\fscx104\blur1\fnBahnschrift SemiCondensed\fs37\c&H8A8E8A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(2274,542)}Happiness
 Dialogue: 0,0:17:54.76,0:17:57.76,SignG,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 18,l0.MoveAlongPath,e{"orgLine"#3A"{\\blur0.9\\fnTragic Marker\\fs80\\bord0\\b0\\c&H131D23&\\4a&HFF&\\3c&HFAFAFC&\\frz16.51\\pos(403.3#2C426.23)\\iclip(m 226 614 b 327.5 408 584.5 438 682 520)}I'm already finished!"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"0a3eb5f3-ce2c-404e-b0b8-27e95e76f101"}
-Data: 20,a-mo,e{"uuid"#3A"ad57dd00-a52f-4751-8a66-db6cd613ebd2"#2C"originalText"#3A"{\\blur1.4\\fn@Hiragino Kaku Gothic StdN W8\\b0\\fs38\\c&H2C2A4D&\\frx4.08\\fry6.53\\frz323.7\\pos(1758#2C154)}Mountain Peak"}
 Data: 35,l0.MoveAlongPath,e{"orgLine"#3A"{\\fnTragic Marker\\fs80\\b0\\c&H131D23&\\3c&HFAFAFC&\\4a&HFF&\\blur0.9\\pos(267.46#2C433.58)\\frz28.93\\clip(m 248 670 b 359.5 541 500.5 509 664 542)}I'm already finished!"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"0f8306bf-d213-45ce-b2db-f889daba082a"}
 Data: 36,l0.MoveAlongPath,e{"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"0f8306bf-d213-45ce-b2db-f889daba082a"}
+Data: 39,a-mo,e{"uuid"#3A"0eb7d18a-21e9-43b7-84f9-76ac0bfcbb89"#2C"originalText"#3A"{\\blur0.5\\fn@Hiragino Kaku Gothic StdN W8\\b0\\fs38\\c&H2C2B4E&\\frx4.08\\fry6.53\\frz323.7\\pos(1758#2C154)}Mountain Peak"}
