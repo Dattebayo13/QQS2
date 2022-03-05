@@ -114,8 +114,10 @@ subs {
         }
 		
 		onMissingGlyphs(ErrorMode.IGNORE)
+		mkvmerge("mkvmerge65.exe")
 
         out(get("muxout"))
+		
     }
 
 
