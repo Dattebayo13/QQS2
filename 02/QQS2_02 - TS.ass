@@ -23,8 +23,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 5665
-Active Line: 5668
-Video Position: 58
+Active Line: 5667
+Video Position: 66
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,8 +57,8 @@ Style: ed translation - 3,Hotel Suite,74,&H00FEFDF8,&H000000FF,&H32000000,&H9600
 Style: ed kanji - 9,FOT-Matisse Pro DB,60,&H00FFFFFF,&H78FFFFFF,&H32000000,&H96000000,0,0,0,0,100,100,0,0,1,1.5,0,9,100,100,120,1
 Style: ed translation - 1,Hotel Suite,74,&H00FEFDF8,&H000000FF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,2,100,200,50,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
 Style: NextEp,Adobe Garamond Pro,96,&H00233075,&H00233075,&H00FFFFFF,&H00C4C3D2,0,0,0,0,100,100,0,0,1,0.75,0,2,30,60,30,1
+Style: TitleEp,Heuristica,70,&H00000000,&H000000FF,&H00FFFFFF,&H002B9B9E,0,0,0,0,100,100,0,0,1,4.5,0,1,30,60,225,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -5729,5 +5729,4 @@ Dialogue: 0,0:24:04.46,0:24:04.51,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78
 Dialogue: 0,0:24:04.46,0:24:04.51,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.51,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.51,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:00:01.60,0:00:04.27,Ep Title,,0,0,0,,{\pos(805,100)\bord6\1a&H30&\3a&H30&\blur4\fad(0,900)\clip(799,24,801,106)\t(0,570,1,\clip(799,24,1411.5,106))\t(2100,3000,\1a&HFF&)\3c&HFFFFFF}Seven Goodbyes Part 1
-Dialogue: 1,0:00:01.60,0:00:04.27,Ep Title,,0,0,0,,{\pos(805,100)\c&H000000&\blur0.6\fad(0,900)\clip(805,30,807,100)\t(0,570,1,\clip(805,30,1405.5,100))}S{\c&H01CF99&}e{\c&H000000&}v{\c&H00CCFF&}e{\c&H000000&}n G{\c&HFD9902&}o{\c&H966598&}o{\c&H000000&}dby{\c&H0300FE&}e{\c&H000000&}s Part 1
+Dialogue: 1,0:00:01.60,0:00:04.27,TitleEp,,0,0,0,,{\pos(825,100)\c&H000000&\blur4\bord5\fad(0,900)\clip(820,25,822,105)\t(0,570,1,\clip(820,25,1430.5,105))}S{\c&H01CF99&}e{\c&H000000&}v{\c&H00CCFF&}e{\c&H000000&}n G{\c&HFD9902&}o{\c&H966598&}o{\c&H000000&}dby{\c&H0300FE&}e{\c&H000000&}s Part 1
