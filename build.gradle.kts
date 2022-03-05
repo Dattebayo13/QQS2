@@ -119,6 +119,46 @@ subs {
         out(get("muxout"))
 		
     }
+ tasks(getList("ncs")) {
+ 
+ mux {
+            title(get("title"))
+
+            from(get("ncpremux")) {
+                video {
+				    name("[Vardë]")
+                    lang("jpn")
+                    default(true)
+                }
+                audio {
+                    lang("jpn")
+                    default(true)
+                }
+				audio { include(false) }
+				subtitles { include(false) }
+                includeChapters(false)
+                attachments { include(false) }
+            }
+		    from(get("nc_audio")) {
+                audio {
+                name("")
+				lang("jpn")
+                default(true)
+        }}
+			from(get("nc_subs")) {
+                tracks {
+                    lang("eng")
+                    name(get("subtitle_full"))
+                    default(true)
+                    forced(false)
+               
+                }
+            }
+			attach(get("ncfonts"))
+			out(get("muxout"))
+
+        }
 
 
+}
 }
