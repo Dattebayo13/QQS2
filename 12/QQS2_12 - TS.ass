@@ -16,8 +16,8 @@ Video File: QQS2_12_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 99
-Active Line: 103
+Scroll Position: 96
+Active Line: 104
 Video Position: 20096
 
 [V4+ Styles]
@@ -136,8 +136,8 @@ Dialogue: 0,0:13:58.15,0:14:04.53,SignG,,0,0,0,,{\an7\c&HD3E7F0&\p1\bord0\shad0\
 Dialogue: 0,0:13:58.15,0:14:04.53,SignG,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(652.8,142.4)\p1\c&HE9EEF0&}m 391 774 l 405 764 415 788 399 792
 Dialogue: 0,0:13:58.15,0:14:04.53,SignG,SIGN,0,0,0,,{\fnBrush Japanese_hun\fs27\c&HA693E2&\3c&HDDE7F1&\blur1.7\pos(1018,829.5)}Currently\Nunder\N maintenance.\NPlease keep\Nout.
 Dialogue: 0,0:13:58.15,0:14:04.53,SignG,SIGN,0,0,0,,{\fnBrush Japanese_hun\fs27\c&H8B7A78&\3c&HDDE7F1&\blur1.7\frz76.66\pos(978,965.5)}Sorry
-Dialogue: 0,0:23:07.24,0:23:08.74,Sings 12,,0,0,0,,{\pos(1152.44,388.64)\org(1152.44,388.64)\frz-13.83\fry-4.6\frx-2.64\fax0.21\fs35\bord1\c&HA8AFB4&\3c&HC2D3E4&\blur0.6\fad(0,200)}Waiting Room
-Dialogue: 0,0:23:07.24,0:23:08.74,Sings 12,,0,0,0,,{\pos(1138.61,669.2)\org(1138.61,669.2)\frz-17\fry-4.68\frx-3.21\fax0.27\fs35\bord1\c&HA8AFB4&\3c&HC2D3E4&\blur0.6\fad(0,200)}Nakano Family
+Dialogue: 0,0:23:07.24,0:23:08.74,Sings 12,,0,0,0,,{\pos(1152.44,388.64)\org(1152.44,388.64)\frz-13.83\fry-4.6\frx-2.64\fax0.21\fs35\bord1\c&HA8AFB4&\3c&HC2D3E4&\blur1.6\fad(0,200)}Waiting Room
+Dialogue: 0,0:23:07.24,0:23:08.74,Sings 12,,0,0,0,,{\pos(1138.61,669.2)\org(1138.61,669.2)\frz-17\fry-4.68\frx-3.21\fax0.27\fs35\bord1\c&HA8AFB4&\3c&HC2D3E4&\blur1.6\fad(0,200)}Nakano Family
 Dialogue: 0,0:22:50.22,0:22:52.72,Sings 12,Text,0,0,0,,{\pos(808.33,685.168)\fs120\b0\bord4.5\3c&HFFFFFF&\1a&HFF&\2a&HFF&\3a&H50&\blur3\fad(500,350)\clip(291.8,560.7,293.8,689.7)\t(0,525,1,\clip(291.8,560.7,1324.9,689.7))\t(455,500,\1a&H00&)\t(2150,2195,\1a&HFF&)}« Oh, the kiss is coming up. »
 Dialogue: 1,0:22:50.22,0:22:52.72,Sings 12,Text,0,0,0,,{\pos(808.33,685.168)\fs120\b0\bord0\c&H000000&\2a&HFF&\3a&H50&\4a&HFF&\blur0.75\fad(500,350)\clip(296.3,565.2,298.3,685.2)\t(0,525,1,\clip(296.3,565.2,1320.4,685.2))}« Oh, the kiss is coming up. »
 Dialogue: 0,0:22:52.97,0:22:55.72,Sings 12,Text,0,0,0,,{\pos(840.33,687.168)\fs120\b0\bord4.5\3c&HFFFFFF&\1a&HFF&\2a&HFF&\3a&H50&\blur3\fad(500,350)\clip(280.6,562.7,282.6,691.7)\t(0,525,1,\clip(280.6,562.7,1400.2,691.7))\t(455,500,\1a&H00&)\t(2400,2445,\1a&HFF&)}« Ahaha, I bet they're nervous. »
