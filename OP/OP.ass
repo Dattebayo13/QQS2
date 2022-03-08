@@ -25,29 +25,13 @@ Video Zoom Percent: 0.375000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000046,&HA0000000,-1,0,0,0,100,100,0,0,1,4,1,2,225,225,60,1
-Style: Italics,LTFinnegan Medium,75,&H00FFFFFF,&H000000FF,&H00000046,&HA0000000,-1,-1,0,0,100,100,0,0,1,4,1,2,225,225,60,1
-Style: speech kanji-furigana,FOT-Matisse Pro EB,30,&H00FFFFFF,&H00DDC598,&H00A48E1C,&H96000000,0,0,0,0,100,100,0,0,1,0,1,8,100,100,124,1
-Style: speech translation-furigana,Mermaid,36,&H00FEFDF8,&H000000FF,&H00A69637,&H96000000,0,0,0,0,100,100,0,0,1,0,1,2,100,100,42,1
-Style: speech romaji-furigana,Mermaid,36,&H00FFFFFF,&H00DDC598,&H00A48E1C,&H96000000,0,0,0,0,100,100,0,0,1,0,1,8,100,100,60,1
-Style: op kanji-furigana,FOT-Matisse Pro EB,30,&H00FFFFFF,&H50FFFFFF,&H00A48E1C,&H64000000,0,0,0,0,100,100,0,0,1,0,1.2,8,100,100,124,1
-Style: op translation-furigana,Mermaid,36,&H00FEFDF8,&H000000FF,&H00A69637,&H64000000,0,0,0,0,100,100,0,0,1,0,1.2,2,100,100,42,1
-Style: op romaji-furigana,Mermaid,36,&H00FFFFFF,&H50FFFFFF,&H00A48E1C,&H64000000,0,0,0,0,100,100,0,0,1,0,1.2,8,100,100,60,1
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,40,1
 Style: op romaji,Mermaid,72,&H00FFFFFF,&H50FFFFFF,&H00A48E1C,&H64000000,0,0,0,0,100,100,0,0,1,0,2.4,8,100,100,60,1
 Style: op translation,Mermaid,72,&H00FEFDF8,&H000000FF,&H00A69637,&H64000000,0,0,0,0,100,100,0,0,1,0,2.4,2,100,100,42,1
 Style: op kanji,FOT-Matisse Pro EB,60,&H00FFFFFF,&H50FFFFFF,&H00A48E1C,&H64000000,0,0,0,0,100,100,0,0,1,0,2.4,8,100,100,124,1
 Style: speech romaji,Mermaid,72,&H00FFFFFF,&H00DDC598,&H00A48E1C,&H96000000,0,0,0,0,100,100,0,0,1,0,2,8,100,100,60,1
 Style: speech translation,Mermaid,72,&H00FEFDF8,&H000000FF,&H00A69637,&H96000000,0,0,0,0,100,100,0,0,1,0,2,2,100,100,42,1
 Style: speech kanji,FOT-Matisse Pro EB,60,&H00FFFFFF,&H00DDC598,&H00A48E1C,&H96000000,0,0,0,0,100,100,0,0,1,0,2,8,100,100,124,1
-Style: ed romaji,Hotel Suite,74,&H00FFFFFF,&H78FFFFFF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,8,100,100,40,1
-Style: ed translation,Hotel Suite,74,&H00FEFDF8,&H000000FF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,2,100,100,50,1
-Style: ed kanji,FOT-Matisse Pro DB,60,&H00FFFFFF,&H78FFFFFF,&H32000000,&H96000000,0,0,0,0,100,100,0,0,1,1.5,0,8,100,100,120,1
-Style: ed romaji - 9,Hotel Suite,74,&H00FFFFFF,&H78FFFFFF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,9,100,100,40,1
-Style: ed translation - 3,Hotel Suite,74,&H00FEFDF8,&H000000FF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,3,100,100,50,1
-Style: ed kanji - 9,FOT-Matisse Pro DB,60,&H00FFFFFF,&H78FFFFFF,&H32000000,&H96000000,0,0,0,0,100,100,0,0,1,1.5,0,9,100,100,120,1
-Style: ed translation - 1,Hotel Suite,74,&H00FEFDF8,&H000000FF,&H32000000,&H96000000,0,0,0,0,113,100,0,0,1,1.5,0,2,100,200,50,1
-Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: Ep Title,Heuristica,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,10,10,10,1
 Style: OPSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -1121,7 +1105,7 @@ Dialogue: 2,0:00:38.50,0:00:43.71,op translation,,0,0,0,fx,{\an2\pos(835.77,1038
 Dialogue: 2,0:00:38.50,0:00:38.91,op kanji,,0,0,0,fx,{\an8\pos(594.33,124.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}3
 Dialogue: 2,0:00:38.50,0:00:38.79,op romaji,,0,0,0,fx,{\an8\pos(449.04,60.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}S
 Dialogue: 2,0:00:38.50,0:00:43.71,op translation,,0,0,0,fx,{\an2\pos(857.79,1038.00)\fad(100,300)}
-Dialogue: 2,0:00:38.50,0:00:41.21,op kanji,,0,0,0,fx,{\an8\pos(1031.25,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}　
+Dialogue: 2,0:00:38.50,0:00:41.21,op kanji,,0,0,0,fx,{\an8\pos(1031.25,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:38.50,0:00:41.58,op romaji,,0,0,0,fx,{\an8\pos(1023.53,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}w
 Dialogue: 2,0:00:38.50,0:00:43.75,op translation,,0,0,0,fx,{\an2\pos(879.60,1038.00)\fad(100,300)}b
 Dialogue: 2,0:00:38.54,0:00:41.67,op romaji,,0,0,0,fx,{\an8\pos(1057.41,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}a
@@ -1232,9 +1216,9 @@ Dialogue: 2,0:00:41.04,0:00:43.75,op romaji,,0,0,0,fx,{\an8\pos(931.93,60.00)\fa
 Dialogue: 2,0:00:41.04,0:00:43.84,op kanji,,0,0,0,fx,{\an8\pos(935.78,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}な
 Dialogue: 2,0:00:41.12,0:00:43.79,op romaji,,0,0,0,fx,{\an8\pos(962.13,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}a
 Dialogue: 2,0:00:41.21,0:00:43.88,op kanji,,0,0,0,fx,{\an8\pos(983.52,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}い
-Dialogue: 2,0:00:41.21,0:00:41.58,op kanji,,0,0,0,fx,{\an8\pos(1031.25,124.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}　
+Dialogue: 2,0:00:41.21,0:00:41.58,op kanji,,0,0,0,fx,{\an8\pos(1031.25,124.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:41.21,0:00:43.79,op romaji,,0,0,0,fx,{\an8\pos(984.16,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}i
-Dialogue: 2,0:00:41.58,0:00:43.88,op kanji,,0,0,0,fx,{\an8\pos(1031.25,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}　
+Dialogue: 2,0:00:41.58,0:00:43.88,op kanji,,0,0,0,fx,{\an8\pos(1031.25,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
 Dialogue: 2,0:00:41.58,0:00:42.50,op kanji,,0,0,0,fx,{\an8\pos(1078.98,124.00)\1c&HCCCCFF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}私
 Dialogue: 2,0:00:41.58,0:00:41.87,op romaji,,0,0,0,fx,{\an8\pos(1023.53,60.00)\1c&HCCCCFF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}w
 Dialogue: 2,0:00:41.67,0:00:41.96,op romaji,,0,0,0,fx,{\an8\pos(1057.41,60.00)\1c&HAADDEA&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}a
@@ -1717,7 +1701,7 @@ Dialogue: 2,0:00:53.51,0:00:54.10,op romaji,,0,0,0,fx,{\an8\pos(629.13,60.00)\fa
 Dialogue: 2,0:00:53.51,0:00:56.14,op translation,,0,0,0,fx,{\an2\pos(490.45,1038.00)\fad(100,300)}h
 Dialogue: 2,0:00:53.55,0:00:54.14,op romaji,,0,0,0,fx,{\an8\pos(659.97,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}o
 Dialogue: 2,0:00:53.55,0:00:56.14,op translation,,0,0,0,fx,{\an2\pos(515.20,1038.00)\fad(100,300)}i
-Dialogue: 2,0:00:53.55,0:00:54.14,op kanji,,0,0,0,fx,{\an8\pos(688.37,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}　
+Dialogue: 2,0:00:53.55,0:00:54.14,op kanji,,0,0,0,fx,{\an8\pos(688.37,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:53.55,0:00:54.18,op romaji,,0,0,0,fx,{\an8\pos(680.02,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:53.55,0:00:56.18,op translation,,0,0,0,fx,{\an2\pos(535.28,1038.00)\fad(100,300)}s
 Dialogue: 2,0:00:53.55,0:00:54.30,op romaji,,0,0,0,fx,{\an8\pos(697.49,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}s
@@ -1737,7 +1721,7 @@ Dialogue: 2,0:00:53.59,0:00:54.68,op romaji,,0,0,0,fx,{\an8\pos(818.06,60.00)\fa
 Dialogue: 2,0:00:53.59,0:00:56.22,op translation,,0,0,0,fx,{\an2\pos(663.02,1038.00)\fad(100,300)},
 Dialogue: 2,0:00:53.64,0:00:54.72,op romaji,,0,0,0,fx,{\an8\pos(848.91,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}o
 Dialogue: 2,0:00:53.64,0:00:56.22,op translation,,0,0,0,fx,{\an2\pos(675.73,1038.00)\fad(100,300)}
-Dialogue: 2,0:00:53.64,0:00:54.72,op kanji,,0,0,0,fx,{\an8\pos(879.30,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}　
+Dialogue: 2,0:00:53.64,0:00:54.72,op kanji,,0,0,0,fx,{\an8\pos(879.30,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:53.64,0:00:54.76,op romaji,,0,0,0,fx,{\an8\pos(868.96,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:53.64,0:00:56.26,op translation,,0,0,0,fx,{\an2\pos(690.98,1038.00)\fad(100,300)}t
 Dialogue: 2,0:00:53.64,0:00:54.85,op romaji,,0,0,0,fx,{\an8\pos(886.43,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}s
@@ -1780,7 +1764,7 @@ Dialogue: 2,0:00:53.76,0:00:55.85,op romaji,,0,0,0,fx,{\an8\pos(1195.94,60.00)\f
 Dialogue: 2,0:00:53.76,0:00:56.39,op translation,,0,0,0,fx,{\an2\pos(988.78,1038.00)\fad(100,300)}s
 Dialogue: 2,0:00:53.76,0:00:55.89,op romaji,,0,0,0,fx,{\an8\pos(1226.78,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}o
 Dialogue: 2,0:00:53.76,0:00:56.39,op translation,,0,0,0,fx,{\an2\pos(1006.25,1038.00)\fad(100,300)}
-Dialogue: 2,0:00:53.80,0:00:55.89,op kanji,,0,0,0,fx,{\an8\pos(1231.63,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}　
+Dialogue: 2,0:00:53.80,0:00:55.89,op kanji,,0,0,0,fx,{\an8\pos(1231.63,124.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:53.80,0:00:55.93,op romaji,,0,0,0,fx,{\an8\pos(1246.84,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}
 Dialogue: 2,0:00:53.80,0:00:56.39,op translation,,0,0,0,fx,{\an2\pos(1020.08,1038.00)\fad(100,300)}l
 Dialogue: 2,0:00:53.80,0:00:56.01,op romaji,,0,0,0,fx,{\an8\pos(1264.30,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}s
@@ -1831,12 +1815,12 @@ Dialogue: 2,0:00:54.10,0:00:54.26,op kanji,,0,0,0,fx,{\an8\pos(640.63,124.00)\1c
 Dialogue: 2,0:00:54.10,0:00:56.31,op romaji,,0,0,0,fx,{\an8\pos(593.44,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}i
 Dialogue: 2,0:00:54.10,0:00:54.26,op romaji,,0,0,0,fx,{\an8\pos(629.13,60.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}n
 Dialogue: 2,0:00:54.10,0:00:56.31,op romaji,,0,0,0,fx,{\an8\pos(607.20,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
-Dialogue: 2,0:00:54.14,0:00:54.30,op kanji,,0,0,0,fx,{\an8\pos(688.37,124.00)\1c&HA5E4D4&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}　
+Dialogue: 2,0:00:54.14,0:00:54.30,op kanji,,0,0,0,fx,{\an8\pos(688.37,124.00)\1c&HA5E4D4&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:54.14,0:00:54.30,op romaji,,0,0,0,fx,{\an8\pos(659.97,60.00)\1c&HCCCCFF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}o
 Dialogue: 2,0:00:54.18,0:00:54.30,op romaji,,0,0,0,fx,{\an8\pos(680.02,60.00)\1c&HAADDEA&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(2,\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:54.26,0:00:56.35,op kanji,,0,0,0,fx,{\an8\pos(640.63,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}の
 Dialogue: 2,0:00:54.26,0:00:56.35,op romaji,,0,0,0,fx,{\an8\pos(629.13,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}n
-Dialogue: 2,0:00:54.30,0:00:56.35,op kanji,,0,0,0,fx,{\an8\pos(688.37,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}　
+Dialogue: 2,0:00:54.30,0:00:56.35,op kanji,,0,0,0,fx,{\an8\pos(688.37,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
 Dialogue: 2,0:00:54.30,0:00:54.47,op kanji,,0,0,0,fx,{\an8\pos(736.10,124.00)\1c&HFFE3B9&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}好
 Dialogue: 2,0:00:54.30,0:00:56.35,op romaji,,0,0,0,fx,{\an8\pos(659.97,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}o
 Dialogue: 2,0:00:54.30,0:00:54.43,op romaji,,0,0,0,fx,{\an8\pos(697.49,60.00)\1c&HA5E4D4&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}s
@@ -1855,12 +1839,12 @@ Dialogue: 2,0:00:54.68,0:00:54.80,op kanji,,0,0,0,fx,{\an8\pos(831.57,124.00)\1c
 Dialogue: 2,0:00:54.68,0:00:56.39,op romaji,,0,0,0,fx,{\an8\pos(782.38,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}i
 Dialogue: 2,0:00:54.68,0:00:54.80,op romaji,,0,0,0,fx,{\an8\pos(818.06,60.00)\1c&HA5E4D4&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}n
 Dialogue: 2,0:00:54.68,0:00:56.39,op romaji,,0,0,0,fx,{\an8\pos(796.13,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
-Dialogue: 2,0:00:54.72,0:00:54.85,op kanji,,0,0,0,fx,{\an8\pos(879.30,124.00)\1c&HAADDEA&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}　
+Dialogue: 2,0:00:54.72,0:00:54.85,op kanji,,0,0,0,fx,{\an8\pos(879.30,124.00)\1c&HAADDEA&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:54.72,0:00:54.85,op romaji,,0,0,0,fx,{\an8\pos(848.91,60.00)\1c&HFFE3B9&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}o
 Dialogue: 2,0:00:54.76,0:00:54.85,op romaji,,0,0,0,fx,{\an8\pos(868.96,60.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(2,\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:54.80,0:00:56.43,op kanji,,0,0,0,fx,{\an8\pos(831.57,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}の
 Dialogue: 2,0:00:54.80,0:00:56.39,op romaji,,0,0,0,fx,{\an8\pos(818.06,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}n
-Dialogue: 2,0:00:54.85,0:00:56.43,op kanji,,0,0,0,fx,{\an8\pos(879.30,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}　
+Dialogue: 2,0:00:54.85,0:00:56.43,op kanji,,0,0,0,fx,{\an8\pos(879.30,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
 Dialogue: 2,0:00:54.85,0:00:55.05,op kanji,,0,0,0,fx,{\an8\pos(927.04,124.00)\1c&HA5E4D4&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}好
 Dialogue: 2,0:00:54.85,0:00:56.43,op romaji,,0,0,0,fx,{\an8\pos(848.91,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}o
 Dialogue: 2,0:00:54.85,0:00:54.97,op romaji,,0,0,0,fx,{\an8\pos(886.43,60.00)\1c&HCCCCFF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}s
@@ -1903,12 +1887,12 @@ Dialogue: 2,0:00:55.85,0:00:55.97,op kanji,,0,0,0,fx,{\an8\pos(1183.90,124.00)\1
 Dialogue: 2,0:00:55.85,0:00:56.56,op romaji,,0,0,0,fx,{\an8\pos(1160.25,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}i
 Dialogue: 2,0:00:55.85,0:00:55.97,op romaji,,0,0,0,fx,{\an8\pos(1195.94,60.00)\1c&HFFE3B9&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}n
 Dialogue: 2,0:00:55.85,0:00:56.56,op romaji,,0,0,0,fx,{\an8\pos(1174.01,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
-Dialogue: 2,0:00:55.89,0:00:56.01,op kanji,,0,0,0,fx,{\an8\pos(1231.63,124.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}　
+Dialogue: 2,0:00:55.89,0:00:56.01,op kanji,,0,0,0,fx,{\an8\pos(1231.63,124.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:55.89,0:00:56.01,op romaji,,0,0,0,fx,{\an8\pos(1226.78,60.00)\1c&HEFC9FF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(2,\1c&HFFFFFF&\3a&HA0&)}o
 Dialogue: 2,0:00:55.93,0:00:56.01,op romaji,,0,0,0,fx,{\an8\pos(1246.84,60.00)\1c&HCCCCFF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(2,\1c&HFFFFFF&\3a&HA0&)}
 Dialogue: 2,0:00:55.97,0:00:56.60,op kanji,,0,0,0,fx,{\an8\pos(1183.90,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}の
 Dialogue: 2,0:00:55.97,0:00:56.56,op romaji,,0,0,0,fx,{\an8\pos(1195.94,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}n
-Dialogue: 2,0:00:56.01,0:00:56.60,op kanji,,0,0,0,fx,{\an8\pos(1231.63,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}　
+Dialogue: 2,0:00:56.01,0:00:56.60,op kanji,,0,0,0,fx,{\an8\pos(1231.63,124.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}
 Dialogue: 2,0:00:56.01,0:00:56.14,op kanji,,0,0,0,fx,{\an8\pos(1279.37,124.00)\1c&HCCCCFF&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(\1c&HFFFFFF&\3a&HA0&)}好
 Dialogue: 2,0:00:56.01,0:00:56.60,op romaji,,0,0,0,fx,{\an8\pos(1226.78,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}o
 Dialogue: 2,0:00:56.01,0:00:56.10,op romaji,,0,0,0,fx,{\an8\pos(1264.30,60.00)\1c&HAADDEA&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(2,\1c&HFFFFFF&\3a&HA0&)}s
