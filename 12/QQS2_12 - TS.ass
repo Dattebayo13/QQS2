@@ -16,9 +16,9 @@ Video File: QQS2_12_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 96
-Active Line: 104
-Video Position: 20096
+Scroll Position: 13669
+Active Line: 13671
+Video Position: 13266
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -13702,15 +13702,18 @@ Dialogue: 0,0:09:14.03,0:09:14.16,SignG,Text,0,0,0,,{\blur1.5\fnBrushStrokes Hea
 Dialogue: 0,0:09:14.16,0:09:14.41,SignG,Text,0,0,0,,{\blur1.5\fnBrushStrokes Heavy ModByArmonth\b0\c&H39383B&\3c&HE4D2BF&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1244.54,822.8)\clip(m 685 596 l 690 591 703 579 711 562 634 504)}Lantern Shop
 Dialogue: 0,0:09:14.41,0:09:14.53,SignG,Text,0,0,0,,{\blur1.5\fnBrushStrokes Heavy ModByArmonth\b0\c&H39383B&\3c&HE4D2BF&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1244.54,822.8)\iclip(m 690 607 l 700 621 709 634 716 649 721 673 726 707 730 754 731 803 653 788)}Lantern Shop
 Dialogue: 0,0:09:14.53,0:09:17.54,SignG,Text,0,0,0,,{\blur1.5\fnBrushStrokes Heavy ModByArmonth\b0\c&H39383B&\3c&HE4D2BF&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1244.54,822.8)}Lantern Shop
-Dialogue: 0,0:09:13.28,0:09:13.78,SignG,Text,0,0,0,,{\bord6\be4\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HE5E7E3&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)}Parasols
-Dialogue: 1,0:09:13.28,0:09:13.78,SignG,Text,0,0,0,,{\bord0\blur1\fnBrushStrokes Heavy ModByArmonth\b0\c&H5C545F&\3c&HEEDFCC&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)}Parasols
-Dialogue: 2,0:09:13.28,0:09:13.78,SignG,Text,0,0,0,,{\bord0\blur1\fnBrushStrokes Heavy ModByArmonth\b0\c&H63403E&\3c&HEEDFCC&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)\clip(m 914 400 l 972 386 976 328 916 336)}Parasols
-Dialogue: 0,0:09:13.78,0:09:13.91,SignG,Text,0,0,0,,{\bord6\be4\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HE5E7E3&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)\iclip(m 959 460 b 935.75 454.25 936.25 422.75 944 396 l 949 373 946 341 946 322 985 317)}Parasols
-Dialogue: 1,0:09:13.78,0:09:13.91,SignG,Text,0,0,0,,{\bord0\blur1\fnBrushStrokes Heavy ModByArmonth\b0\c&H5C545F&\3c&HEEDFCC&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)\iclip(m 959 460 b 935.75 454.25 936.25 422.75 944 396 l 949 373 946 341 946 322 985 317)}Parasols
-Dialogue: 2,0:09:13.78,0:09:13.91,SignG,Text,0,0,0,,{\bord0\blur1\fnBrushStrokes Heavy ModByArmonth\b0\c&H63403E&\3c&HEEDFCC&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)\iclip(m 917 580 b 935.75 454.25 853.25 389.75 944 396 l 949 373 946 341 946 322 985 317 981 558)}Parasols
-Dialogue: 0,0:09:14.16,0:09:17.54,SignG,Text,0,0,0,,{\bord6\be4\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HE5E7E3&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)}Parasols
-Dialogue: 1,0:09:14.16,0:09:17.54,SignG,Text,0,0,0,,{\bord0\blur1\fnBrushStrokes Heavy ModByArmonth\b0\c&H5C545F&\3c&HEEDFCC&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)}Parasols
-Dialogue: 2,0:09:14.16,0:09:17.54,SignG,Text,0,0,0,,{\bord0\blur1\fnBrushStrokes Heavy ModByArmonth\b0\c&H63403E&\3c&HEEDFCC&\fs70\fry-4.49\frx-0.32\pos(1059.99,1476)\frz270.9\org(1487.21,817.47)\clip(m 914 400 l 972 386 976 328 916 336)}Parasols
+Dialogue: 0,0:09:13.28,0:09:13.66,SignG,Text,0,0,0,,{\bord3.5\be3\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HFDFDFB&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1017.99,512)}Parasols
+Dialogue: 1,0:09:13.28,0:09:13.66,SignG,Text,0,0,0,,{\bord0\be2.2\fnBrushStrokes Heavy ModByArmonth\b0\c&H534550&\3c&HEEDFCC&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1018.99,512)}Parasols
+Dialogue: 0,0:09:13.66,0:09:13.78,SignG,Text,0,0,0,,{\bord3.5\be3\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HFDFDFB&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1017.99,512)\iclip(m 1061 571 l 1062 544 1104 517 1113 567)}Parasols
+Dialogue: 1,0:09:13.66,0:09:13.78,SignG,Text,0,0,0,,{\bord0\be2.2\fnBrushStrokes Heavy ModByArmonth\b0\c&H534550&\3c&HEEDFCC&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1018.99,512)\iclip(m 1061 571 l 1062 544 1104 517 1113 567)}Parasols
+Dialogue: 0,0:09:13.78,0:09:13.91,SignG,Text,0,0,0,,{\bord3.5\be3\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HFDFDFB&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1017.99,512)\clip(m 969 568 l 991 555 1008 549 982 526)}Parasols
+Dialogue: 1,0:09:13.78,0:09:13.91,SignG,Text,0,0,0,,{\bord0\be2.2\fnBrushStrokes Heavy ModByArmonth\b0\c&H534550&\3c&HEEDFCC&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1018.99,512)\clip(m 969 568 l 991 555 1008 549 982 526)}Parasols
+Dialogue: 0,0:09:13.91,0:09:14.03,SignG,Text,0,0,0,,{\bord3.5\be3\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HFDFDFB&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1017.99,512)\clip(m 1088 548 l 1095 568 1127 554 1108 521)}Parasols
+Dialogue: 1,0:09:13.91,0:09:14.03,SignG,Text,0,0,0,,{\bord0\be2.2\fnBrushStrokes Heavy ModByArmonth\b0\c&H534550&\3c&HEEDFCC&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1018.99,512)\clip(m 1088 548 l 1095 568 1127 554 1108 521)}Parasols
+Dialogue: 0,0:09:14.03,0:09:14.16,SignG,Text,0,0,0,,{\bord3.5\be3\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HFDFDFB&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1017.99,512)\iclip(m 1021 546 l 1032 557 1043 573 1053 592 964 599 953 537)}Parasols
+Dialogue: 1,0:09:14.03,0:09:14.16,SignG,Text,0,0,0,,{\bord0\be2.2\fnBrushStrokes Heavy ModByArmonth\b0\c&H534550&\3c&HEEDFCC&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1018.99,512)\iclip(m 1021 546 l 1032 557 1043 573 1053 592 964 599 953 537)}Parasols
+Dialogue: 0,0:09:14.16,0:09:17.54,SignG,Text,0,0,0,,{\bord3.5\be3\fnBrushStrokes Heavy ModByArmonth\b0\c&HFDF9F5&\3c&HFDFDFB&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1017.99,512)}Parasols
+Dialogue: 1,0:09:14.16,0:09:17.54,SignG,Text,0,0,0,,{\bord0\be2.2\fnBrushStrokes Heavy ModByArmonth\b0\c&H534550&\3c&HEEDFCC&\fs55\fry-4.49\frx-0.32\org(1487.21,817.47)\frz5.332\pos(1018.99,512)}Parasols
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"638a1d94-9d60-48c1-ba1f-2d5363781605"#2C"originalText"#3A"{\\pos(938.4#2C679.07)\\fnCaveat brush\\fs50\\c&H13192D&\\blur0.5}The Costume House"}
