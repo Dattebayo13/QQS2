@@ -55,7 +55,7 @@ Dialogue: 10,0:03:26.27,0:03:31.10,Default,,0,0,0,,I never thought you of all pe
 Dialogue: 10,0:03:33.24,0:03:34.21,Default,,0,0,0,,I guess...
 Dialogue: 10,0:03:34.21,0:03:37.22,Default,,0,0,0,,Shoot, I have to get going!
 Dialogue: 10,0:03:38.61,0:03:41.91,Default,,0,0,0,,Don't you dare tell anyone about this, all right?
-Dialogue: 10,0:03:42.86,0:03:46.62,Default,,0,0,0,,Uesugi-san, was Nino just here?
+Dialogue: 10,0:03:42.86,0:03:46.62,Default,,0,0,0,,Uesugi{**-san}, was Nino just here?
 Dialogue: 10,0:03:47.55,0:03:48.74,Default,,0,0,0,,Yotsuba?
 Dialogue: 10,0:03:49.27,0:03:50.64,Default,,0,0,0,,Hey.
 Dialogue: 10,0:03:50.64,0:03:52.35,Default,,0,0,0,,Haven't seen you since the school trip.
@@ -77,7 +77,7 @@ Dialogue: 10,0:04:28.48,0:04:30.45,Default,,0,0,0,,We'll come take care of you.
 Dialogue: 10,0:04:30.75,0:04:31.80,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:04:31.80,0:04:33.25,Default,,0,0,0,,But I prefer being by myself.
 Dialogue: 10,0:04:33.25,0:04:33.96,Default,,0,0,0,,Ow!
-Dialogue: 10,0:04:34.34,0:04:37.31,Default,,0,0,0,,Wrong answer, Futaro-kun.
+Dialogue: 10,0:04:34.34,0:04:37.31,Default,,0,0,0,,Wrong answer, Futaro{**-kun}.
 Dialogue: 10,0:04:37.31,0:04:38.48,Default,,0,0,0,,Also, here.
 Dialogue: 10,0:04:38.48,0:04:40.37,Default,,0,0,0,,Handouts from class while you were sick.{That's a lot of freaking printouts.}
 Dialogue: 10,0:04:40.37,0:04:43.00,Default,,0,0,0,,Good thing I finally got them to you.
@@ -105,7 +105,7 @@ Dialogue: 10,0:06:07.04,0:06:09.63,Default,,0,0,0,,I hope you get better soon.
 Dialogue: 10,0:06:13.80,0:06:14.43,Default,,0,0,0,,Huh?
 Dialogue: 10,0:06:15.12,0:06:16.32,Default,,0,0,0,,What happened?
 Dialogue: 10,0:06:16.92,0:06:19.44,Default,,0,0,0,,I feel a little better.
-Dialogue: 10,0:06:20.49,0:06:23.94,Default,,0,0,0,,You're being discharged tomorrow, aren't you, Uesugi-kun?
+Dialogue: 10,0:06:20.49,0:06:23.94,Default,,0,0,0,,You're being discharged tomorrow, aren't you, Uesugi{**-kun}?
 Dialogue: 10,0:06:24.55,0:06:25.41,Default,,0,0,0,,Yes.
 Dialogue: 10,0:06:26.02,0:06:28.69,Default,,0,0,0,,Are you worried about your studies?
 Dialogue: 10,0:06:28.69,0:06:30.24,Default,,0,0,0,,Well...
@@ -121,22 +121,22 @@ Dialogue: 10,0:06:50.93,0:06:52.68,Default,,0,0,0,,Those girls...
 Dialogue: 10,0:06:52.68,0:06:55.65,Default,,0,0,0,,I guess I should thank them for coming to visit.
 Dialogue: 10,0:06:56.47,0:07:00.85,Default,,0,0,0,,You're never going to get your ears pierced if you're afraid of needles.
 Dialogue: 10,0:07:01.71,0:07:02.61,Default,,0,0,0,,Needles?
-Dialogue: 10,0:07:03.33,0:07:04.68,Default,,0,0,0,,Uesugi-san.
+Dialogue: 10,0:07:03.33,0:07:04.68,Default,,0,0,0,,Uesugi{**-san}.
 Dialogue: 10,0:07:04.68,0:07:07.76,Default,,0,0,0,,What are you guys actually here for?
 Dialogue: 10,0:07:07.76,0:07:08.86,Default,,0,0,0,,What for?
 Dialogue: 10,0:07:09.45,0:07:10.86,Default,,0,0,0,,Vaccinations.
 Dialogue: 10,0:07:11.44,0:07:14.21,Default,,0,0,0,,We always get vaccinated around this time every year.
 Dialogue: 10,0:07:14.21,0:07:17.07,Default,,0,0,0,,But Itsuki and Nino keep running away.
 Dialogue: 10,0:07:17.07,0:07:18.88,Default,,0,0,0,,I hate pain.
-Dialogue: 10,0:07:18.88,0:07:23.06,Default,,0,0,0,,I'm glad we got to see Uesugi-san while we were at it, though.
+Dialogue: 10,0:07:18.88,0:07:23.06,Default,,0,0,0,,I'm glad we got to see Uesugi{**-san} while we were at it, though.
 Dialogue: 10,0:07:23.89,0:07:24.58,Default,,0,0,0,,You what...
 Dialogue: 10,0:07:25.38,0:07:28.01,Default,,0,0,0,,Damn you all! You're going to get it!
 Dialogue: 10,0:07:28.01,0:07:28.81,Default,,0,0,0,,You!
 Dialogue: 10,0:07:28.81,0:07:30.88,Default,,0,0,0,,No shouting in the hospital!
 Dialogue: 10,0:07:31.47,0:07:33.69,Default,,0,0,0,,You're sick! Rest up!
-Dialogue: 10,0:07:36.11,0:07:37.41,Default,,0,0,0,,Uesugi-kun...
+Dialogue: 10,0:07:36.11,0:07:37.41,Default,,0,0,0,,Uesugi{**-kun}...
 Dialogue: 10,0:07:38.17,0:07:40.39,Default,,0,0,0,,I expect great things from you.
-Dialogue: 10,0:08:04.49,0:08:06.25,Default,,0,0,0,,Uesugi Futaro-kun.
+Dialogue: 10,0:08:04.49,0:08:06.25,Default,,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro-kun}.
 Dialogue: 10,0:08:07.00,0:08:08.01,Default,,0,0,0,,Bye-bye.
 Dialogue: 10,0:08:10.46,0:08:11.76,Default,,0,0,0,,Why?
 Dialogue: 10,0:08:11.76,0:08:13.35,Default,,0,0,0,,Why did I remember that?
@@ -169,7 +169,7 @@ Dialogue: 10,0:09:35.92,0:09:38.34,Default,,0,0,0,,We're in the train. Be quiet.
 Dialogue: 10,0:09:39.26,0:09:40.79,Default,,0,0,0,,Come on, Takebayashi!
 Dialogue: 10,0:09:40.79,0:09:46.13,Default,,0,0,0,,We're on a school trip!\N Stop being a goody-two-shoes and join us!
 Dialogue: 10,0:09:46.13,0:09:48.02,Default,,0,0,0,,Oh, fine, I will.
-Dialogue: 10,0:09:48.45,0:09:51.17,Default,,0,0,0,,You should invite Sanada-kun too, though.
+Dialogue: 10,0:09:48.45,0:09:51.17,Default,,0,0,0,,You should invite Sanada{**-kun} too, though.
 Dialogue: 10,0:09:51.17,0:09:53.06,Default,,0,0,0,,It's the five of us in this group.
 Dialogue: 10,0:09:53.06,0:09:54.78,Default,,0,0,0,,I'll pass.
 Dialogue: 10,0:09:54.78,0:09:56.28,Default,,0,0,0,,Dude...
@@ -298,7 +298,7 @@ Dialogue: 10,0:16:42.67,0:16:45.20,Default,,0,0,0,,No one else but Nino has such
 Dialogue: 10,0:16:46.23,0:16:47.68,Default,,0,0,0,,What do you mean, "bland"?
 Dialogue: 10,0:16:47.68,0:16:49.30,Default,,0,0,0,,And what do you mean by "annoying"?
 Dialogue: 10,0:16:49.30,0:16:50.76,Default,,0,0,0,,{\an8}By "annoying", I mean annoying.
-Dialogue: 10,0:16:49.87,0:16:53.07,Default,,0,0,0,,Uesugi-san, let me tell you something useful.
+Dialogue: 10,0:16:49.87,0:16:53.07,Default,,0,0,0,,Uesugi{**-san}, let me tell you something useful.
 Dialogue: 10,0:16:50.76,0:16:53.07,Default,,0,0,0,,{\an8}You're bland because you're bland!
 Dialogue: 10,0:16:54.05,0:16:58.08,Default,,0,0,0,,Our mother taught us how to tell each other apart a long time ago.
 Dialogue: 10,0:16:58.59,0:17:02.00,Default,,0,0,0,,Love will show you the way!
@@ -322,7 +322,7 @@ Dialogue: 10,0:17:49.65,0:17:52.80,Default,,0,0,0,,I wouldn't mind showing you, 
 Dialogue: 10,0:17:52.80,0:17:54.05,Default,,0,0,0,,No!
 Dialogue: 10,0:17:54.05,0:17:57.74,Default,,0,0,0,,It's not going to help if you haven't seen the culprit's mole, is it?
 Dialogue: 10,0:17:57.74,0:17:59.05,Default,,0,0,0,,That's true.
-Dialogue: 10,0:17:59.44,0:18:04.81,Default,,0,0,0,,Futaro-kun, it could be that the culprit isn't among us.
+Dialogue: 10,0:17:59.44,0:18:04.81,Default,,0,0,0,,Futaro{**-kun}, it could be that the culprit isn't among us.
 Dialogue: 10,0:18:05.16,0:18:07.02,Default,,0,0,0,,Explain.
 Dialogue: 10,0:18:07.02,0:18:08.56,Default,,0,0,0,,Don't be shocked, okay?
 Dialogue: 10,0:18:08.85,0:18:13.69,Default,,0,0,0,,We are sextuplets and have a secret sixth sister, Mutsumi!
@@ -363,7 +363,7 @@ Dialogue: 10,0:20:46.16,0:20:48.80,Default,,0,0,0,,You were supposed to hide the
 Dialogue: 10,0:20:48.80,0:20:49.93,Default,,0,0,0,,Sorry.
 Dialogue: 10,0:20:49.93,0:20:53.04,Default,,0,0,0,,I'm stuck in hospital for a while,\N and this is what happens?
 Dialogue: 10,0:20:53.04,0:20:54.67,Default,,0,0,0,,I don't know if you're all...
-Dialogue: 10,0:20:54.67,0:20:56.00,Default,,0,0,0,,Uesugi-kun.
+Dialogue: 10,0:20:54.67,0:20:56.00,Default,,0,0,0,,Uesugi{**-kun}.
 Dialogue: 10,0:20:56.91,0:21:00.56,Default,,0,0,0,,The reason you were trying so hard to tell us apart...
 Dialogue: 10,0:21:00.56,0:21:05.53,Default,,0,0,0,,It has something to do with that girl from five years ago you mentioned, right? {itsuki sure isn't stupid lmao}
 Dialogue: 10,0:21:05.53,0:21:09.58,Default,,0,0,0,,You think it's one of us, don't you?
@@ -384,7 +384,7 @@ Dialogue: 10,0:21:55.04,0:21:56.20,Default,,0,0,0,,Itsuki...
 Dialogue: 10,0:21:57.86,0:22:00.38,Default,,0,0,0,,Was that on purpose?
 Dialogue: 10,0:22:02.61,0:22:05.21,Default,,0,0,0,,I don't care about you anymore, Futaro.
 Dialogue: 10,0:22:05.60,0:22:06.90,Default,,0,0,0,,S-Sorry!
-Dialogue: 10,0:22:07.84,0:22:11.81,Default,,0,0,0,,It looks like you need to do some studying first, Uesugi-san.
+Dialogue: 10,0:22:07.84,0:22:11.81,Default,,0,0,0,,It looks like you need to do some studying first, Uesugi{**-san}.
 Dialogue: 10,0:24:00.92,0:24:03.93,Default,,0,0,0,,"Seven Goodbyes, Part 1."
 Dialogue: 10,0:00:02.25,0:00:04.24,Italics,,0,0,0,,I was dreaming...
 Dialogue: 10,0:00:15.44,0:00:20.10,Italics,,0,0,0,,Dreaming about the day we first met.
@@ -419,7 +419,7 @@ Dialogue: 10,0:15:02.83,0:15:05.97,Italics,,0,0,0,,It has to be a coincidence, r
 Dialogue: 10,0:15:52.15,0:15:55.37,Italics,,0,0,0,,This happened just ten minutes ago.
 Dialogue: 10,0:18:31.51,0:18:35.80,Italics,,0,0,0,,This problem set has questions from the earlier exams.
 Dialogue: 10,0:18:36.16,0:18:39.47,Italics,,0,0,0,,The one who does the worst is the culprit.
-Dialogue: 10,0:18:52.45,0:18:55.07,Italics,,0,0,0,,You're stuck now, Futaro-kun.
+Dialogue: 10,0:18:52.45,0:18:55.07,Italics,,0,0,0,,You're stuck now, Futaro{**-kun}.
 Dialogue: 10,0:18:55.67,0:19:00.29,Italics,,0,0,0,,I panicked and kicked you out in a hurry,
 Dialogue: 10,0:19:00.29,0:19:02.82,Italics,,0,0,0,,but that seems to have worked to my advantage.
 Dialogue: 10,0:19:03.34,0:19:08.41,Italics,,0,0,0,,I'd let my guard down on the quiz,\N but I can do well if I try.
@@ -427,7 +427,7 @@ Dialogue: 10,0:19:09.11,0:19:12.58,Italics,,0,0,0,,Sorry everyone, let's get thi
 Dialogue: 10,0:19:14.96,0:19:15.84,Italics,,0,0,0,,Wait...
 Dialogue: 10,0:19:16.24,0:19:17.59,Italics,,0,0,0,,My handwriting!
 Dialogue: 10,0:19:18.33,0:19:22.20,Italics,,0,0,0,,He's casually going to compare our handwriting.
-Dialogue: 10,0:19:22.20,0:19:24.60,Italics,,0,0,0,,Not bad, Futaro-kun.
+Dialogue: 10,0:19:22.20,0:19:24.60,Italics,,0,0,0,,Not bad, Futaro{**-kun}.
 Dialogue: 10,0:19:24.60,0:19:26.60,Italics,,0,0,0,,Close call.
 Dialogue: 10,0:19:27.16,0:19:30.54,Italics,,0,0,0,,I'm the only one who can dry my hair so quickly.
 Dialogue: 10,0:19:31.10,0:19:34.86,Italics,,0,0,0,,I wish I'd had some more time to get dressed, but...

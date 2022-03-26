@@ -54,7 +54,7 @@ Dialogue: 0,0:12:10.96,0:12:11.00,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:23:59.96,0:24:00.00,Default,chptr,0,0,0,,{Epilogue}
 Dialogue: 0,0:00:00.84,0:00:02.31,Default,Dad,0,0,0,,This is your last chance.
 Dialogue: 0,0:00:06.72,0:00:07.73,Default,Futaro,0,0,0,,He's gone.
-Dialogue: 0,0:00:08.02,0:00:10.99,Default,Itsuki,0,0,0,,Uesugi-kun! Did you see all that?
+Dialogue: 0,0:00:08.02,0:00:10.99,Default,Itsuki,0,0,0,,Uesugi{**-kun}! Did you see all that?
 Dialogue: 0,0:00:11.35,0:00:14.70,Default,Futaro,0,0,0,,He's as scary a dad as I imagined.
 Dialogue: 0,0:00:14.70,0:00:15.82,Default,Nino,0,0,0,,Yeah.
 Dialogue: 0,0:00:16.15,0:00:18.24,Default,Nino,0,0,0,,He's absolutely in the right.
@@ -108,7 +108,7 @@ Dialogue: 0,0:02:37.76,0:02:39.22,Default,Futaro,0,0,0,,What kind of punishment 
 Dialogue: 0,0:02:46.22,0:02:48.35,Default,Ichika,0,0,0,,You're still up?
 Dialogue: 0,0:02:48.35,0:02:49.35,Default,Miku,0,0,0,,Ichika.
 Dialogue: 0,0:02:49.35,0:02:50.48,Default,Miku,0,0,0,,Did I wake you? Sorry.
-Dialogue: 0,0:02:51.47,0:02:55.15,Default,Ichika,0,0,0,,You must have a good idea of \NFutaro-kun's tastes by now.
+Dialogue: 0,0:02:51.47,0:02:55.15,Default,Ichika,0,0,0,,You must have a good idea of \NFutaro{**-kun}'s tastes by now.
 Dialogue: 0,0:02:55.98,0:02:57.61,Default,Miku,0,0,0,,So you realized.
 Dialogue: 0,0:02:58.10,0:03:01.61,Default,Miku,0,0,0,,I don't like sweet stuff, \Nso I don't know what to do.
 Dialogue: 0,0:03:02.06,0:03:04.24,Default,Miku,0,0,0,,I'm making test batches.
@@ -157,8 +157,8 @@ Dialogue: 0,0:04:50.55,0:04:53.97,Default,Itsuki,0,0,0,,Am I ever going to be li
 Dialogue: 0,0:04:55.51,0:04:58.60,Default,Shimoda,0,0,0,,Hey, I don't see other people here often.
 Dialogue: 0,0:04:59.85,0:05:01.15,Default,Itsuki,0,0,0,,Um...
 Dialogue: 0,0:05:01.15,0:05:02.36,Default,Itsuki,0,0,0,,Nice to meet you.
-Dialogue: 0,0:05:03.81,0:05:05.28,Default,Shimoda,0,0,0,,Sensei?
-Dialogue: 0,0:05:07.81,0:05:13.54,Default,Shimoda,0,0,0,,Sorry, you look so much like Sensei, \NI thought you were her.
+Dialogue: 0,0:05:03.81,0:05:05.28,Default,Shimoda,0,0,0,,{*}Teacher{*Sensei}?
+Dialogue: 0,0:05:07.81,0:05:13.54,Default,Shimoda,0,0,0,,Sorry, you look so much like {*}Teacher{*Sensei}, \NI thought you were her.
 Dialogue: 0,0:05:13.54,0:05:16.88,Default,Shimoda,0,0,0,,But thinking about it, \Nshe's been dead for a long time.
 Dialogue: 0,0:05:17.53,0:05:20.63,Default,Shimoda,0,0,0,,That's not a nice thing to say \Nin front of her daughter, huh?
 Dialogue: 0,0:05:20.63,0:05:21.63,Default,Shimoda,0,0,0,,Forgive me.
@@ -182,7 +182,7 @@ Dialogue: 0,0:06:15.47,0:06:18.98,Default,Itsuki,0,0,0,,The students must have b
 Dialogue: 0,0:06:18.98,0:06:22.15,Default,Shimoda,0,0,0,,Nope. Believe it or not, we weren't.
 Dialogue: 0,0:06:22.15,0:06:26.40,Default,Shimoda,0,0,0,,She could be as fierce\Nand expressionless as she pleased.
 Dialogue: 0,0:06:26.40,0:06:27.73,Default,Shimoda,0,0,0,,Hell, we loved her for it.
-Dialogue: 0,0:06:27.98,0:06:33.66,Default,Shimoda,0,0,0,,Sensei was just that damn {\i1}super{\i0} beautiful.
+Dialogue: 0,0:06:27.98,0:06:33.66,Default,Shimoda,0,0,0,,{*}Teacher{*Sensei} was just that damn {\i1}super{\i0} beautiful.
 Dialogue: 0,0:06:33.66,0:06:35.33,Default,Itsuki,0,0,0,,Super beautiful?
 Dialogue: 0,0:06:36.57,0:06:38.83,Default,Shimoda,0,0,0,,She even had a fan club.
 Dialogue: 0,0:06:38.83,0:06:41.25,Default,Shimoda,0,0,0,,The boys at school were utterly smitten.
@@ -216,7 +216,7 @@ Dialogue: 0,0:08:19.34,0:08:21.89,Default,Nino,0,0,0,,Ichika made me come back.
 Dialogue: 0,0:08:21.89,0:08:24.68,Default,Miku,0,0,0,,Wait, are you the person \Nshe was talking about?
 Dialogue: 0,0:08:25.35,0:08:27.06,Italics,Ichika,0,0,0,,Go get 'em, Miku.
 Dialogue: 0,0:08:27.06,0:08:29.61,Italics,Ichika,0,0,0,,Now she'll have no trouble\Ngiving him V-Day chocolates.
-Dialogue: 0,0:08:31.85,0:08:35.24,Default,Ichika,0,0,0,,As dense as he is,\Neven Futaro-kun's sure to be surprised.
+Dialogue: 0,0:08:31.85,0:08:35.24,Default,Ichika,0,0,0,,As dense as he is,\Neven Futaro{**-kun}'s sure to be surprised.
 Dialogue: 0,0:08:36.94,0:08:39.03,Default,Ichika,0,0,0,,Why did I end up liking him?
 Dialogue: 0,0:08:39.03,0:08:40.08,Default,Futaro,0,0,0,,What are you doing?
 Dialogue: 0,0:08:40.08,0:08:41.16,Default,Futaro,0,0,0,,Are you all right?
@@ -284,7 +284,7 @@ Dialogue: 0,0:11:03.00,0:11:04.26,Default,Futaro,0,0,0,,"This time"?
 Dialogue: 0,0:11:04.26,0:11:06.76,Default,Ichika,0,0,0,,Huh? Don't you know?
 Dialogue: 0,0:11:09.55,0:11:11.27,Italics,Ichika,0,0,0,,It really was expensive.
 Dialogue: 0,0:11:11.68,0:11:14.02,Italics,Ichika,0,0,0,,I don't have much left in savings, too.
-Dialogue: 0,0:11:14.31,0:11:18.15,Italics,Ichika,0,0,0,,But if it'll make Futaro-kun happy...
+Dialogue: 0,0:11:14.31,0:11:18.15,Italics,Ichika,0,0,0,,But if it'll make Futaro{**-kun} happy...
 Dialogue: 0,0:11:18.44,0:11:20.03,Italics,Ichika,0,0,0,,No, no!
 Dialogue: 0,0:11:20.03,0:11:21.95,Italics,Ichika,0,0,0,,This isn't a healthy relationship.
 Dialogue: 0,0:11:22.23,0:11:24.99,Italics,Ichika,0,0,0,,If we were to start going out,
@@ -360,7 +360,7 @@ Dialogue: 0,0:15:05.34,0:15:07.05,Default,Futaro,0,0,0,,Don't make it sound natu
 Dialogue: 0,0:15:07.05,0:15:11.93,Default,Yotsuba,0,0,0,,We were given a chance to retake\Nthe exams, so we all tried our best.
 Dialogue: 0,0:15:12.75,0:15:13.68,Default,Futaro,0,0,0,,Don't tell me...
 Dialogue: 0,0:15:15.09,0:15:16.93,Default,Futaro,0,0,0,,You were the only one who failed?
-Dialogue: 0,0:15:16.93,0:15:18.93,Default,Yotsuba,0,0,0,,That's our Uesugi-san.
+Dialogue: 0,0:15:16.93,0:15:18.93,Default,Yotsuba,0,0,0,,That's our Uesugi{**-san}.
 Dialogue: 0,0:15:19.22,0:15:21.44,Default,Yotsuba,0,0,0,,You get everything right.
 Dialogue: 0,0:15:21.76,0:15:24.40,Italics,Futaro,0,0,0,,Yotsuba was the only one who failed.
 Dialogue: 0,0:15:24.68,0:15:27.94,Italics,Futaro,0,0,0,,And yet they all transferred.
@@ -494,7 +494,7 @@ Dialogue: 0,0:21:42.85,0:21:44.03,Default,Ichika,0,0,0,,A little more!
 Dialogue: 0,0:21:46.02,0:21:49.03,Default,Ichika,0,0,0,,Just a little more.
 Dialogue: 0,0:21:59.88,0:22:01.07,Default,Futaro,0,0,0,,Yotsuba!
 Dialogue: 0,0:22:01.07,0:22:02.80,Default,Futaro,0,0,0,,How did the exams go?
-Dialogue: 0,0:22:04.29,0:22:05.53,Default,Yotsuba,0,0,0,,Uesugi-san.
+Dialogue: 0,0:22:04.29,0:22:05.53,Default,Yotsuba,0,0,0,,Uesugi{**-san}.
 Dialogue: 0,0:22:06.32,0:22:08.30,Default,Yotsuba,0,0,0,,Thank you.
 Dialogue: 0,0:22:08.30,0:22:12.86,Default,Yotsuba,0,0,0,,I feel vindicated for the first time.
 Dialogue: 0,0:22:16.65,0:22:17.69,Default,Ichika,0,0,0,,Yotsuba!
@@ -523,7 +523,7 @@ Dialogue: 0,0:23:08.53,0:23:10.11,Default,Ichika,0,0,0,,Oh, did I?
 Dialogue: 0,0:23:10.89,0:23:12.00,Default,Ichika,0,0,0,,Yay.
 Dialogue: 0,0:23:14.35,0:23:16.95,Default,Cake Boss,0,0,0,,Congratulations on passing your exams.
 Dialogue: 0,0:23:16.95,0:23:18.55,Default,Cake Boss,0,0,0,,Let's celebrate.
-Dialogue: 0,0:23:18.55,0:23:22.44,Default,Cake Boss,0,0,0,,Have as much as you like.\NI'll deduct the bill from Uesugi-kun's pay.
+Dialogue: 0,0:23:18.55,0:23:22.44,Default,Cake Boss,0,0,0,,Have as much as you like.\NI'll deduct the bill from Uesugi{**-kun}'s pay.
 Dialogue: 0,0:23:22.44,0:23:25.13,Default,Futaro,0,0,0,,Oh, boss, you're so funny.
 Dialogue: 0,0:23:25.13,0:23:27.02,Default,Yotsuba,0,0,0,,Thank you.
 Dialogue: 0,0:23:27.02,0:23:29.47,Default,Ichika,0,0,0,,We're still missing one person, though.

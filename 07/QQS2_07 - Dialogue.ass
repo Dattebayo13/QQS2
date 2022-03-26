@@ -71,7 +71,7 @@ Dialogue: 0,0:00:04.03,0:00:05.66,Italics,Nino,0,0,0,,Don't try to remember.
 Dialogue: 0,0:00:09.98,0:00:11.36,Italics,Nino,0,0,0,,He doesn't
 Dialogue: 0,0:00:12.98,0:00:17.58,Italics,,0,0,0,,think anything of me.
 Dialogue: 0,0:00:18.88,0:00:21.83,Italics,Nino,0,0,0,,So I'm not going to see him anymore.
-Dialogue: 0,0:00:23.17,0:00:25.38,Default,Q's Dad,0,0,0,,You're back, Nino-kun.
+Dialogue: 0,0:00:23.17,0:00:25.38,Default,Q's Dad,0,0,0,,You're back, Nino{**-kun}.
 Dialogue: 0,0:00:25.79,0:00:26.96,Default,Nino,0,0,0,,Dad.
 Dialogue: 0,0:00:26.96,0:00:30.72,Default,Nino,0,0,0,,I told you to stop calling me that.\NIt creeps me out.
 Dialogue: 0,0:00:30.72,0:00:32.20,Default,Q's Dad,0,0,0,,Sorry about that, Nino.
@@ -79,7 +79,7 @@ Dialogue: 0,0:00:32.59,0:00:35.99,Default,Q's Dad,0,0,0,,I just received word th
 Dialogue: 0,0:00:36.41,0:00:39.01,Default,Q's Dad,0,0,0,,The six of you managed to pull it off.
 Dialogue: 0,0:00:39.67,0:00:40.52,Default,Q's Dad,0,0,0,,Congratulations.
 Dialogue: 0,0:00:40.52,0:00:42.27,Default,Nino,0,0,0,,Th-Thanks.
-Dialogue: 0,0:00:42.58,0:00:45.86,Default,Q's Dad,0,0,0,,It seems I have no choice but \Nto approve of Uesugi-kun.
+Dialogue: 0,0:00:42.58,0:00:45.86,Default,Q's Dad,0,0,0,,It seems I have no choice but \Nto approve of Uesugi{**-kun}.
 Dialogue: 0,0:00:45.86,0:00:47.60,Default,Q's Dad,0,0,0,,So from tomorrow on,\Nhe can come here to...
 Dialogue: 0,0:00:47.60,0:00:49.15,Default,Nino,0,0,0,,I'm not going to see him anymore.
 Dialogue: 0,0:00:49.75,0:00:53.49,Default,Nino,0,0,0,,Also, we've decided to stay at \Nour new place for a while longer.
@@ -152,7 +152,7 @@ Dialogue: 0,0:04:01.98,0:04:04.26,Default,Nino,0,0,0,,You've always been like th
 Dialogue: 0,0:04:04.26,0:04:06.22,Default,Nino,0,0,0,,A jerk of the highest order.
 Dialogue: 0,0:04:07.15,0:04:09.14,Default,Nino,0,0,0,,And, also...
 Dialogue: 0,0:04:11.98,0:04:12.98,Default,Nino,0,0,0,,I love you.
-Dialogue: 0,0:05:51.90,0:05:53.24,Default,Yotsuba,0,0,0,,Uesugi-san!
+Dialogue: 0,0:05:51.90,0:05:53.24,Default,Yotsuba,0,0,0,,Uesugi{**-san}!
 Dialogue: 0,0:05:53.24,0:05:55.37,Default,Yotsuba,0,0,0,,You brought Nino back?
 Dialogue: 0,0:05:55.37,0:05:56.87,Default,Yotsuba,0,0,0,,We're over here.
 Dialogue: 0,0:05:56.87,0:05:58.00,Default,Futaro,0,0,0,,Okay.
@@ -339,16 +339,16 @@ Dialogue: 0,0:13:37.62,0:13:40.21,Default,Futaro,0,0,0,,Shoot, I forgot to charg
 Dialogue: 0,0:13:40.21,0:13:41.17,Default,Raiha,0,0,0,,Come on!
 Dialogue: 0,0:13:41.17,0:13:42.34,Default,Fu's Dad,0,0,0,,Oh, well.
 Dialogue: 0,0:13:42.34,0:13:43.63,Default,Fu's Dad,0,0,0,,Let's move on.
-Dialogue: 0,0:13:43.63,0:13:45.22,Default,Raiha,0,0,0,,Come with us, brother.
+Dialogue: 0,0:13:43.63,0:13:45.22,Default,Raiha,0,0,0,,Come with us, {*}brother{*Onii-chan}.
 Dialogue: 0,0:13:46.33,0:13:47.63,Italics,Futaro,0,0,0,,Yeah.
 Dialogue: 0,0:13:47.63,0:13:51.97,Italics,Futaro,0,0,0,,I'll forget about those girls \Nand enjoy this family vacation.
 Dialogue: 0,0:13:52.38,0:13:53.35,Default,Futaro,0,0,0,,All right.
-Dialogue: 0,0:14:01.64,0:14:02.78,Default,Ichika,0,0,0,,Uesugi-kun?!
+Dialogue: 0,0:14:01.64,0:14:02.78,Default,Ichika,0,0,0,,Uesugi{**-kun}?!
 Dialogue: 0,0:14:02.78,0:14:03.73,Default,Ichika,0,0,0,,Why are you here?
 Dialogue: 0,0:14:03.73,0:14:04.65,Default,Futaro,0,0,0,,Why are {\i1}you{\i0} here?
 Dialogue: 0,0:14:04.65,0:14:06.86,Default,Yotsuba,0,0,0,,You're so fast, Itsuki.
 Dialogue: 0,0:14:06.86,0:14:08.20,Default,Yotsuba,0,0,0,,Wait, what?
-Dialogue: 0,0:14:08.20,0:14:09.74,Default,Yotsuba,0,0,0,,It's Uesugi-san!
+Dialogue: 0,0:14:08.20,0:14:09.74,Default,Yotsuba,0,0,0,,It's Uesugi{**-san}!
 Dialogue: 0,0:14:10.02,0:14:10.95,Default,Ichika,0,0,0,,No way.
 Dialogue: 0,0:14:12.28,0:14:14.33,Default,Miku,0,0,0,,You won, too, Futaro?
 Dialogue: 0,0:14:14.33,0:14:16.50,Default,Futaro,0,0,0,,You guys are all here on \Na family vacation, too?
@@ -379,8 +379,8 @@ Dialogue: 0,0:15:03.66,0:15:05.59,Default,Nino,0,0,0,,Miku, think of something.
 Dialogue: 0,0:15:05.59,0:15:06.30,Default,Miku,0,0,0,,Me?
 Dialogue: 0,0:15:06.71,0:15:07.59,Default,Miku,0,0,0,,Ue...
 Dialogue: 0,0:15:07.59,0:15:08.51,Default,Miku,0,0,0,,Fu...
-Dialogue: 0,0:15:08.51,0:15:11.30,Default,Miku,0,0,0,,Fu-ta-kun.
-Dialogue: 0,0:15:11.59,0:15:12.63,Default,Miku,0,0,0,,Fu-kun.
+Dialogue: 0,0:15:08.51,0:15:11.30,Default,Miku,0,0,0,,Fu-ta{**-kun}.
+Dialogue: 0,0:15:11.59,0:15:12.63,Default,Miku,0,0,0,,Fu{**-kun}.
 Dialogue: 0,0:15:12.92,0:15:13.68,Default,Miku,0,0,0,,Nah.
 Dialogue: 0,0:15:13.96,0:15:15.68,Default,Nino,0,0,0,,Hey, that's not bad.
 Dialogue: 0,0:15:16.38,0:15:18.35,Default,Miku,0,0,0,,Never mind that, let's get ready for lunch.
@@ -394,7 +394,7 @@ Dialogue: 0,0:15:33.86,0:15:36.70,Default,Ichika,0,0,0,,Sorry, I'm in the middle
 Dialogue: 0,0:15:37.61,0:15:38.45,Italics,Futaro,0,0,0,,What is this?
 Dialogue: 0,0:15:38.86,0:15:42.67,Italics,Futaro,0,0,0,,We've only been apart for a short while,\Nand they're all being distant.
 Dialogue: 0,0:15:44.58,0:15:45.17,Default,Futaro,0,0,0,,Itsuki...
-Dialogue: 0,0:15:45.17,0:15:48.16,Default,Q's Dad,0,0,0,,Itsuki-kun, what are you doing?
+Dialogue: 0,0:15:45.17,0:15:48.16,Default,Q's Dad,0,0,0,,Itsuki{**-kun}, what are you doing?
 Dialogue: 0,0:15:48.16,0:15:50.92,Default,Q's Dad,0,0,0,,Go retrieve our lunch boxes from Ebata.
 Dialogue: 0,0:15:50.92,0:15:51.97,Default,Itsuki,0,0,0,,Okay.
 Dialogue: 0,0:15:51.97,0:15:53.39,Default,Futaro,0,0,0,,U-Um...
@@ -404,7 +404,7 @@ Dialogue: 0,0:15:56.46,0:15:58.68,Default,Q's Dad,0,0,0,,All of us are together 
 Dialogue: 0,0:16:00.01,0:16:02.56,Default,Q's Dad,0,0,0,,I'm spending quality time \Nwith my family, privately.
 Dialogue: 0,0:16:04.76,0:16:06.23,Default,Miku,0,0,0,,See you, Futaro.
 Dialogue: 0,0:16:06.23,0:16:07.94,Default,Nino,0,0,0,,We're probably at the same hotel.
-Dialogue: 0,0:16:08.27,0:16:09.32,Default,Itsuki,0,0,0,,Uesugi-kun.
+Dialogue: 0,0:16:08.27,0:16:09.32,Default,Itsuki,0,0,0,,Uesugi{**-kun}.
 Dialogue: 0,0:16:10.52,0:16:12.32,Default,Itsuki,0,0,0,,I need to speak with you later.
 Dialogue: 0,0:16:16.86,0:16:18.83,Default,Yotsuba,0,0,0,,It's like a haunted house.
 Dialogue: 0,0:16:19.15,0:16:20.83,Default,Fu's Dad,0,0,0,,They're open, right?
@@ -465,7 +465,7 @@ Dialogue: 0,0:18:47.89,0:18:49.65,Default,Futaro,0,0,0,,Let me keep sleeping.
 Dialogue: 0,0:18:49.65,0:18:52.86,Default,Futaro,0,0,0,,I'm going to sleep forever \Nand fly off into the future.
 Dialogue: 0,0:18:52.86,0:18:54.15,Default,Raiha,0,0,0,,Jeez.
 Dialogue: 0,0:18:54.15,0:18:55.40,Default,Raiha,0,0,0,,Hello?
-Dialogue: 0,0:18:55.40,0:18:57.78,Default,Raiha,0,0,0,,My brother is flying off into the future.
+Dialogue: 0,0:18:55.40,0:18:57.78,Default,Raiha,0,0,0,,{*}My brother is{*Onii-chan's} flying off into the future.
 Dialogue: 0,0:18:57.78,0:19:00.91,Default,Raiha,0,0,0,,Sorry to disappoint you, Itsuki-san.
 Dialogue: 0,0:19:00.91,0:19:01.78,Default,Futaro,0,0,0,,Good morning!
 Dialogue: 0,0:19:01.78,0:19:04.16,Default,Futaro,0,0,0,,Itsuki! What was that about yesterday?

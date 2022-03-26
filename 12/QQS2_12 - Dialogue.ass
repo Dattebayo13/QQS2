@@ -99,7 +99,7 @@ Dialogue: 0,0:02:00.64,0:02:02.22,Default,Futaro,0,0,0,,What's gotten into you,
 Dialogue: 0,0:02:02.22,0:02:03.31,Default,Futaro,0,0,0,,Miku?
 Dialogue: 0,0:02:03.91,0:02:06.35,Default,Ichika,0,0,0,,There's something I want \Nto talk to you about.
 Dialogue: 0,0:02:06.68,0:02:08.85,Default,Ichika,0,0,0,,I want you to hear Miku out.
-Dialogue: 0,0:02:09.40,0:02:12.82,Italics,Ichika,0,0,0,,So long as Futaro-kun knows \Nthat Miku likes him,
+Dialogue: 0,0:02:09.40,0:02:12.82,Italics,Ichika,0,0,0,,So long as Futaro{**-kun} knows \Nthat Miku likes him,
 Dialogue: 0,0:02:12.82,0:02:14.86,Italics,,0,0,0,,my lie doesn't make any sense.
 Dialogue: 0,0:02:15.75,0:02:17.61,Italics,Ichika,0,0,0,,I'm going to use everything I can.
 Dialogue: 0,0:02:18.38,0:02:20.49,Italics,Ichika,0,0,0,,This is the only way I can do it.
@@ -148,7 +148,7 @@ Dialogue: 0,0:04:23.28,0:04:24.22,Default,Futaro,0,0,0,,Sorry.
 Dialogue: 0,0:04:24.58,0:04:26.45,Default,Futaro,0,0,0,,I can't trust you right now.
 Dialogue: 0,0:04:27.27,0:04:28.93,Default,Futaro,0,0,0,,Let's go back before we catch a cold.
 Dialogue: 0,0:04:32.74,0:04:35.83,Default,Maeda,0,0,0,,Man, didn't the weather forecast \Nsay it was going to be clear?
-Dialogue: 0,0:04:36.31,0:04:38.62,Default,Takeda,0,0,0,,Where've you been, Uesugi-kun?
+Dialogue: 0,0:04:36.31,0:04:38.62,Default,Takeda,0,0,0,,Where've you been, Uesugi{**-kun}?
 Dialogue: 0,0:04:38.62,0:04:40.09,Default,Futaro,0,0,0,,Oh, you know.
 Dialogue: 0,0:04:41.38,0:04:42.89,Default,Takeda,0,0,0,,You were lost, weren't you?
 Dialogue: 0,0:04:42.89,0:04:44.86,Default,Maeda,0,0,0,,Also, what's the plan tomorrow?
@@ -186,12 +186,12 @@ Dialogue: 0,0:06:10.20,0:06:13.06,Default,Futaro,0,0,0,,Apparently, we're decidi
 Dialogue: 0,0:06:13.06,0:06:14.12,Default,Futaro,0,0,0,,Give it some thought.
 Dialogue: 0,0:06:16.46,0:06:18.44,Default,Ichika,0,0,0,,Sorry for talking out of turn.
 Dialogue: 0,0:06:18.44,0:06:19.56,Default,Nino,0,0,0,,It's fine.
-Dialogue: 0,0:06:19.56,0:06:22.71,Default,Nino,0,0,0,,Making Fu-kun worry is the last thing I want.
+Dialogue: 0,0:06:19.56,0:06:22.71,Default,Nino,0,0,0,,Making Fu{**-kun} worry is the last thing I want.
 Dialogue: 0,0:06:23.00,0:06:25.24,Default,Nino,0,0,0,,And you need to stop running away like that.
 Dialogue: 0,0:06:25.24,0:06:26.55,Default,Miku,0,0,0,,But...
 Dialogue: 0,0:06:27.97,0:06:31.71,Default,Itsuki,0,0,0,,Miku, you can't keep this up forever.
 Dialogue: 0,0:06:32.00,0:06:34.08,Default,Ichika,0,0,0,,Guys, let's make things clear.
-Dialogue: 0,0:06:34.76,0:06:39.29,Default,Ichika,0,0,0,,All of us are looking for a chance \Nto be alone with Futaro-kun.
+Dialogue: 0,0:06:34.76,0:06:39.29,Default,Ichika,0,0,0,,All of us are looking for a chance \Nto be alone with Futaro{**-kun}.
 Dialogue: 0,0:06:39.69,0:06:42.58,Default,Nino,0,0,0,,That's what I've been saying this whole time.
 Dialogue: 0,0:06:42.58,0:06:44.30,Default,Nino,0,0,0,,You too, Itsuki?
 Dialogue: 0,0:06:44.86,0:06:46.76,Default,Itsuki,0,0,0,,I can't deny it.
@@ -204,7 +204,7 @@ Dialogue: 0,0:07:01.30,0:07:04.44,Default,Ichika,0,0,0,,We have elective field t
 Dialogue: 0,0:07:04.75,0:07:07.69,Default,Ichika,0,0,0,,We're choosing from one of five courses.
 Dialogue: 0,0:07:08.12,0:07:12.08,Default,Ichika,0,0,0,,Why don't we each choose one of the five?
 Dialogue: 0,0:07:12.37,0:07:13.66,Default,Ichika,0,0,0,,The only person who gets a chance
-Dialogue: 0,0:07:13.66,0:07:16.70,Default,,0,0,0,,is the one who happens to be on \Nthe same course as Futaro-kun.
+Dialogue: 0,0:07:13.66,0:07:16.70,Default,,0,0,0,,is the one who happens to be on \Nthe same course as Futaro{**-kun}.
 Dialogue: 0,0:07:17.15,0:07:18.58,Default,Ichika,0,0,0,,Let's leave it all to luck.
 Dialogue: 0,0:07:18.58,0:07:19.91,Default,Yotsuba,0,0,0,,Agreed!
 Dialogue: 0,0:07:19.91,0:07:21.72,Default,Yotsuba,0,0,0,,There won't be any hard feelings that way.
@@ -212,7 +212,7 @@ Dialogue: 0,0:07:21.72,0:07:23.16,Default,Nino,0,0,0,,I don't like it.
 Dialogue: 0,0:07:23.16,0:07:25.94,Default,Nino,0,0,0,,Are really we really gonna do this\Nafter all that scheming?
 Dialogue: 0,0:07:25.94,0:07:27.19,Default,Nino,0,0,0,,Are you happy with this?
 Dialogue: 0,0:07:27.19,0:07:28.72,Default,Nino,0,0,0,,It's only a one in five chance.
-Dialogue: 0,0:07:29.07,0:07:34.00,Default,Miku,0,0,0,,I don't know how to face \NFutaro-kun right now.
+Dialogue: 0,0:07:29.07,0:07:34.00,Default,Miku,0,0,0,,I don't know how to face \NFutaro{**-kun} right now.
 Dialogue: 0,0:07:34.00,0:07:36.60,Default,Miku,0,0,0,,So I want my odds to be lower.
 Dialogue: 0,0:07:37.05,0:07:39.80,Default,Itsuki,0,0,0,,I think this is the best option.
 Dialogue: 0,0:07:39.80,0:07:41.73,Default,Itsuki,0,0,0,,We should have done this from the beginning.
@@ -291,7 +291,7 @@ Dialogue: 0,0:11:37.86,0:11:40.34,Default,Futaro,0,0,0,,Y-You look good.
 Dialogue: 0,0:11:40.61,0:11:42.59,Default,Miku,0,0,0,,Wh-Where are your friends?
 Dialogue: 0,0:11:42.59,0:11:45.08,Default,Futaro,0,0,0,,Th-They're taking forever.
 Dialogue: 0,0:11:45.08,0:11:47.35,Default,Futaro,0,0,0,,I don't know what to do with them.
-Dialogue: 0,0:11:48.44,0:11:52.13,Default,Maeda,0,0,0,,Uesugi-kun! Are you really here?!
+Dialogue: 0,0:11:48.44,0:11:52.13,Default,Maeda,0,0,0,,Uesugi{**-kun}! Are you really here?!
 Dialogue: 0,0:11:52.54,0:11:54.36,Default,Nino,0,0,0,,Lured them in good.
 Dialogue: 0,0:11:55.88,0:11:58.23,Default,Nino,0,0,0,,Looks like Ichika managed to do her part.
 Dialogue: 0,0:11:59.08,0:12:00.36,Default,Nino,0,0,0,,Huh...
@@ -394,7 +394,7 @@ Dialogue: 0,0:17:05.33,0:17:06.50,Default,Futaro,0,0,0,,Not that I didn't know.
 Dialogue: 0,0:17:13.62,0:17:14.64,Default,Miku,0,0,0,,And I love you...
 Dialogue: 0,0:17:18.73,0:17:20.81,Italics,Ichika,0,0,0,,I'm sorry, Miku.
 Dialogue: 0,0:17:21.09,0:17:22.86,Italics,Ichika,0,0,0,,I'm sorry I kept getting in your way.
-Dialogue: 0,0:17:23.58,0:17:27.61,Italics,Ichika,0,0,0,,Futaro-kun, I'm sorry I kept lying.
+Dialogue: 0,0:17:23.58,0:17:27.61,Italics,Ichika,0,0,0,,Futaro{**-kun}, I'm sorry I kept lying.
 Dialogue: 0,0:17:28.14,0:17:30.48,Italics,Ichika,0,0,0,,But what I said...
 Dialogue: 0,0:17:30.48,0:17:34.63,Default,Yotsuba,0,0,0,,I met this really interesting boy today.
 Dialogue: 0,0:17:34.63,0:17:37.74,Default,Yotsuba,0,0,0,,And we bought all these \Ngood luck charms together.
@@ -406,7 +406,7 @@ Dialogue: 0,0:17:46.40,0:17:47.38,Default,Futaro,0,0,0,,Let's play something.
 Dialogue: 0,0:17:48.42,0:17:50.99,Default,Ichika,0,0,0,,H-How about Sevens?
 Dialogue: 0,0:17:51.62,0:17:55.41,Italics,Ichika,0,0,0,,It was just for a short while.
 Dialogue: 0,0:17:55.79,0:18:00.27,Italics,Ichika,0,0,0,,But I'm sure I fell in love with you\Nbecause of that moment.
-Dialogue: 0,0:18:01.41,0:18:05.31,Italics,Ichika,0,0,0,,Futaro-kun, you might \Nnot believe me anymore,
+Dialogue: 0,0:18:01.41,0:18:05.31,Italics,Ichika,0,0,0,,Futaro{**-kun}, you might \Nnot believe me anymore,
 Dialogue: 0,0:18:06.24,0:18:07.48,Italics,,0,0,0,,but that moment...
 Dialogue: 0,0:18:08.88,0:18:12.82,Italics,Ichika,0,0,0,,That memory isn't a lie.
 Dialogue: 0,0:18:13.73,0:18:16.07,Default,Nino,0,0,0,,Ichika, you know...
@@ -472,7 +472,7 @@ Dialogue: 0,0:21:03.99,0:21:07.39,Default,Miku,0,0,0,,I guess falling in love is
 Dialogue: 0,0:21:08.52,0:21:11.00,Default,Miku,0,0,0,,Thanks, Ichika.
 Dialogue: 0,0:21:13.21,0:21:20.76,Italics,Futaro,0,0,0,,What they did and talked about\N from then until our meeting time
 Dialogue: 0,0:21:21.29,0:21:23.80,Italics,Futaro,0,0,0,,is something only they would know.
-Dialogue: 0,0:21:29.74,0:21:31.15,Default,Ichika,0,0,0,,Futaro-kun.
+Dialogue: 0,0:21:29.74,0:21:31.15,Default,Ichika,0,0,0,,Futaro{**-kun}.
 Dialogue: 0,0:21:32.50,0:21:35.26,Default,Ichika,0,0,0,,I caused you trouble, too.
 Dialogue: 0,0:21:35.69,0:21:36.73,Default,Ichika,0,0,0,,Sorry.
 Dialogue: 0,0:21:38.18,0:21:39.19,Default,Futaro,0,0,0,,Well, uh...
@@ -488,7 +488,7 @@ Dialogue: 0,0:21:59.56,0:22:00.81,Default,Ichika,0,0,0,,I'm kidding.
 Dialogue: 0,0:22:02.77,0:22:04.51,Default,Ichika,0,0,0,,It's all a lie.
 Dialogue: 0,0:22:07.01,0:22:08.30,Default,Futaro,0,0,0,,All?
 Dialogue: 0,0:22:08.98,0:22:09.99,Default,Ichika,0,0,0,,All of it.
-Dialogue: 0,0:22:17.90,0:22:19.95,Default,Takeda,0,0,0,,Did you hear, Uesugi-kun?
+Dialogue: 0,0:22:17.90,0:22:19.95,Default,Takeda,0,0,0,,Did you hear, Uesugi{**-kun}?
 Dialogue: 0,0:22:19.95,0:22:21.80,Default,Takeda,0,0,0,,About that sneak photographer.
 Dialogue: 0,0:22:21.80,0:22:23.72,Default,Maeda,0,0,0,,Sorry, I screwed up.
 Dialogue: 0,0:22:23.72,0:22:25.11,Default,Futaro,0,0,0,,So it {\i1}was{\i0} you.

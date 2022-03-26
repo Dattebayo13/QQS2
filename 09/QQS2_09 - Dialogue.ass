@@ -69,7 +69,7 @@ Dialogue: 0,0:00:29.38,0:00:35.01,Default,Boss,0,0,0,,{\an8}I'm glad you saw the
 Dialogue: 0,0:00:35.25,0:00:38.09,Default,Futaro,0,0,0,,Why are you trying to work here?!
 Dialogue: 0,0:00:38.38,0:00:41.02,Default,Nino,0,0,0,,I want to know why she's here, too.
 Dialogue: 0,0:00:41.30,0:00:46.15,Default,Boss,0,0,0,,I'd love to hire both of you, \Nbut we only need one.
-Dialogue: 0,0:00:46.60,0:00:48.61,Default,Boss,0,0,0,,If Uesugi-kun were to quit...
+Dialogue: 0,0:00:46.60,0:00:48.61,Default,Boss,0,0,0,,If Uesugi{**-kun} were to quit...
 Dialogue: 0,0:00:48.61,0:00:50.52,Default,Futaro,0,0,0,,Oh, come on, Boss...
 Dialogue: 0,0:00:51.68,0:00:53.03,Default,Miku,0,0,0,,I'd like to make cakes.
 Dialogue: 0,0:00:53.90,0:00:56.11,Default,Boss,0,0,0,,You're good at it, huh?
@@ -119,7 +119,7 @@ Dialogue: 0,0:02:53.81,0:02:55.07,Default,Ichika,0,0,0,,so she's already an expe
 Dialogue: 0,0:02:55.52,0:03:00.85,Default,Ichika,0,0,0,,Itsuki-chan's still struggling to make \Nher first move, but she'll be fine.
 Dialogue: 0,0:03:00.85,0:03:04.62,Default,Futaro,0,0,0,,I don't care what you do, \Nas long as you don't fail.
 Dialogue: 0,0:03:05.61,0:03:07.87,Default,Ichika,0,0,0,,I wouldn't want to fail \Nafter we've come so far.
-Dialogue: 0,0:03:08.90,0:03:12.13,Default,Ichika,0,0,0,,I'm counting on you, Sensei.
+Dialogue: 0,0:03:08.90,0:03:12.13,Default,Ichika,0,0,0,,I'm counting on you, {*}Teacher{*Sensei}.
 Dialogue: 0,0:03:15.38,0:03:16.34,Default,Ichika,0,0,0,,Is something wrong?
 Dialogue: 0,0:03:17.83,0:03:18.50,Default,,0,0,0,,No.
 Dialogue: 0,0:03:20.21,0:03:21.30,Default,Ichika,0,0,0,,You know, though...
@@ -146,14 +146,14 @@ Dialogue: 0,0:05:56.12,0:05:57.79,Default,Person B,0,0,0,,Show me your face more
 Dialogue: 0,0:06:00.12,0:06:02.09,Default,Itsuki,0,0,0,,Please, everyone, calm down.
 Dialogue: 0,0:06:02.09,0:06:03.46,Default,Futaro,0,0,0,,Move.
 Dialogue: 0,0:06:04.62,0:06:05.76,Default,Person A,0,0,0,,What?
-Dialogue: 0,0:06:05.76,0:06:08.72,Default,Person A,0,0,0,,Are you curious about them, too, Uesugi-kun?
+Dialogue: 0,0:06:05.76,0:06:08.72,Default,Person A,0,0,0,,Are you curious about them, too, Uesugi{**-kun}?
 Dialogue: 0,0:06:08.72,0:06:09.80,Default,Futaro,0,0,0,,Bathroom.
 Dialogue: 0,0:06:09.80,0:06:11.68,Default,Futaro,0,0,0,,You're in my way. Move.
 Dialogue: 0,0:06:12.50,0:06:13.56,Default,Person A,0,0,0,,What's wrong with him?
 Dialogue: 0,0:06:13.56,0:06:14.72,Default,Person A,0,0,0,,What an ass.
 Dialogue: 0,0:06:17.26,0:06:18.77,Default,Ichika,0,0,0,,He walked right past us.
 Dialogue: 0,0:06:18.77,0:06:20.36,Default,Itsuki,0,0,0,,Business as usual.
-Dialogue: 0,0:06:20.68,0:06:23.86,Default,Itsuki,0,0,0,,Uesugi-kun's been like \Nthat since second year.
+Dialogue: 0,0:06:20.68,0:06:23.86,Default,Itsuki,0,0,0,,Uesugi{**-kun}'s been like \Nthat since second year.
 Dialogue: 0,0:06:23.86,0:06:27.57,Default,Itsuki,0,0,0,,He seems to be deliberately trying not \Nto involve himself with his classmates.
 Dialogue: 0,0:06:27.57,0:06:31.62,Default,Yotsuba,0,0,0,,Oh, yeah, he tried to do his duties \Nat school camp on his own.
 Dialogue: 0,0:06:31.62,0:06:33.58,Default,Itsuki,0,0,0,,That's just how he is.
@@ -179,15 +179,15 @@ Dialogue: 0,0:07:23.54,0:07:26.42,Default,Person A,0,0,0,,It's obvious who's goi
 Dialogue: 0,0:07:26.42,0:07:28.59,Default,Person B,0,0,0,,It's definitely going to be Takeda.
 Dialogue: 0,0:07:28.59,0:07:30.43,Default,Person B,0,0,0,,He had the highest grade on the finals, too.
 Dialogue: 0,0:07:31.13,0:07:33.43,Default,Takeda,0,0,0,,Sheesh, you guys.
-Dialogue: 0,0:07:33.43,0:07:37.47,Default,Yotsuba,0,0,0,,Sensei, I know someone perfectly \Nsuited for the role.
+Dialogue: 0,0:07:33.43,0:07:37.47,Default,Yotsuba,0,0,0,,{*}Teacher{*Sensei}, I know someone perfectly \Nsuited for the role.
 Dialogue: 0,0:07:37.47,0:07:37.93,Default,Sensei,0,0,0,,Oh?
-Dialogue: 0,0:07:40.81,0:07:42.98,Default,Yotsuba,0,0,0,,Uesugi Futaro-san!
+Dialogue: 0,0:07:40.81,0:07:42.98,Default,Yotsuba,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro-san}!
 Dialogue: 0,0:07:43.30,0:07:44.35,Default,Futaro,0,0,0,,Huh?!
-Dialogue: 0,0:07:45.14,0:07:47.07,Default,Person A,0,0,0,,Is Uesugi-kun really cut out for it?
-Dialogue: 0,0:07:47.07,0:07:49.36,Default,Person B,0,0,0,,She's not going to even consider Takeda-kun?
+Dialogue: 0,0:07:45.14,0:07:47.07,Default,Person A,0,0,0,,Is Uesugi{**-kun} really cut out for it?
+Dialogue: 0,0:07:47.07,0:07:49.36,Default,Person B,0,0,0,,She's not going to even consider Takeda{**-kun}?
 Dialogue: 0,0:07:49.81,0:07:52.03,Italics,Futaro,0,0,0,,Yotsuba... What have you done?!
 Dialogue: 0,0:07:52.27,0:07:54.57,Default,Sensei,0,0,0,,All right, shall we move on to our next role?
-Dialogue: 0,0:07:54.57,0:07:57.53,Default,Futaro,0,0,0,,Sensei, I never said I'd do it.
+Dialogue: 0,0:07:54.57,0:07:57.53,Default,Futaro,0,0,0,,{*}Teacher{*Sensei}, I never said I'd do it.
 Dialogue: 0,0:08:00.70,0:08:04.08,Italics,Futaro,0,0,0,,Damn that Yotsuba! Who asked her?!
 Dialogue: 0,0:08:04.08,0:08:08.55,Default,Miku,0,0,0,,Futaro, do you have a minute? \NI want to ask you something.
 Dialogue: 0,0:08:09.25,0:08:11.55,Default,Miku,0,0,0,,There's a magic lamp here.
@@ -215,7 +215,7 @@ Dialogue: 0,0:08:54.92,0:08:55.76,Default,Futaro,0,0,0,,Huh?
 Dialogue: 0,0:08:55.76,0:08:57.34,Default,Futaro,0,0,0,,Why won't you tell me?
 Dialogue: 0,0:08:57.63,0:08:58.80,Default,Person A,0,0,0,,There you are!
 Dialogue: 0,0:08:58.80,0:09:00.10,Default,Person A,0,0,0,,Yotsuba-chan!
-Dialogue: 0,0:09:00.10,0:09:01.89,Default,Person B,0,0,0,,Sensei was calling you.
+Dialogue: 0,0:09:00.10,0:09:01.89,Default,Person B,0,0,0,,{*}Teacher{*Sensei} was calling you.
 Dialogue: 0,0:09:02.73,0:09:04.52,Default,Person A,0,0,0,,Come on!
 Dialogue: 0,0:09:04.52,0:09:05.27,Default,Miku,0,0,0,,Uh...
 Dialogue: 0,0:09:05.27,0:09:07.10,Default,Futaro,0,0,0,,That's not Yotsuba.
@@ -223,7 +223,7 @@ Dialogue: 0,0:09:07.10,0:09:08.48,Default,Futaro,0,0,0,,That's Miku, the middle 
 Dialogue: 0,0:09:09.31,0:09:10.52,Default,Person A,0,0,0,,Really?
 Dialogue: 0,0:09:11.73,0:09:14.40,Default,Person B,0,0,0,,Sorry. We're still learning who's who.
 Dialogue: 0,0:09:14.40,0:09:16.24,Default,Miku,0,0,0,,It's okay, I'm used to it.
-Dialogue: 0,0:09:16.24,0:09:18.87,Default,Person A,0,0,0,,Hey, Yotsuba-chan, Sensei's calling.
+Dialogue: 0,0:09:16.24,0:09:18.87,Default,Person A,0,0,0,,Hey, Yotsuba-chan, {*}Teacher{*Sensei}'s calling.
 Dialogue: 0,0:09:18.87,0:09:20.37,Default,Futaro,0,0,0,,They get it wrong without fail!
 Dialogue: 0,0:09:20.61,0:09:24.12,Default,Futaro,0,0,0,,Listen, to make it easy, just remember \Nwho they are by their accessories.
 Dialogue: 0,0:09:24.12,0:09:27.58,Default,Futaro,0,0,0,,This utterly tacky hairpin \Nis the fifth sister, Itsuki.
@@ -231,7 +231,7 @@ Dialogue: 0,0:09:27.58,0:09:29.88,Default,Itsuki,0,0,0,,That was completely unca
 Dialogue: 0,0:09:30.12,0:09:32.59,Default,Futaro,0,0,0,,Yotsuba is the one with \Nthe gaudy ribbon.
 Dialogue: 0,0:09:32.59,0:09:34.76,Default,Futaro,0,0,0,,Keep that in mind, and you'll be fine.
 Dialogue: 0,0:09:35.08,0:09:38.47,Italics,Futaro,0,0,0,,Not that I'm in any position \Nto lecture them...
-Dialogue: 0,0:09:39.39,0:09:41.56,Default,Person A,0,0,0,,Wow, Uesugi-kun.
+Dialogue: 0,0:09:39.39,0:09:41.56,Default,Person A,0,0,0,,Wow, Uesugi{**-kun}.
 Dialogue: 0,0:09:41.56,0:09:42.43,Default,Person B,0,0,0,,Thanks.
 Dialogue: 0,0:09:42.43,0:09:43.89,Default,Person B,0,0,0,,No wonder you're the class rep.
 Dialogue: 0,0:09:44.17,0:09:46.14,Default,Person B,0,0,0,,Teach us more about the five!
@@ -385,11 +385,11 @@ Dialogue: 0,0:16:13.48,0:16:14.49,Default,Futaro,0,0,0,,That so?
 Dialogue: 0,0:16:17.82,0:16:19.66,Default,Boss,0,0,0,,Perfect timing, you two.
 Dialogue: 0,0:16:19.95,0:16:22.04,Default,Boss,0,0,0,,May-san has arrived.
 Dialogue: 0,0:16:22.04,0:16:24.29,Default,Futaro,0,0,0,,Got it. I'll be right there.
-Dialogue: 0,0:16:25.78,0:16:27.92,Default,Boss,0,0,0,,What's wrong, Uesugi-kun?
+Dialogue: 0,0:16:25.78,0:16:27.92,Default,Boss,0,0,0,,What's wrong, Uesugi{**-kun}?
 Dialogue: 0,0:16:27.92,0:16:29.67,Default,Boss,0,0,0,,Your face is red up to your ears.
 Dialogue: 0,0:16:29.67,0:16:31.63,Default,Futaro,0,0,0,,No, this is...
 Dialogue: 0,0:16:33.96,0:16:35.43,Default,Nino,0,0,0,,Best be ready,
-Dialogue: 0,0:16:35.75,0:16:37.18,Default,Nino,0,0,0,,Fu-kun.
+Dialogue: 0,0:16:35.75,0:16:37.18,Default,Nino,0,0,0,,Fu{**-kun}.
 Dialogue: 0,0:16:40.09,0:16:41.89,Default,Futaro,0,0,0,,That's May-san.
 Dialogue: 0,0:16:50.73,0:16:52.70,Default,Nino,0,0,0,,I'll go take her order.
 Dialogue: 0,0:16:57.40,0:16:59.12,Default,Futaro,0,0,0,,We're in the middle of work!
@@ -456,7 +456,7 @@ Dialogue: 0,0:19:45.78,0:19:46.87,Default,Futaro,0,0,0,,No way.
 Dialogue: 0,0:19:48.71,0:19:50.33,Default,Ichika,0,0,0,,Why not?! Just a little!
 Dialogue: 0,0:19:50.33,0:19:52.04,Default,Futaro,0,0,0,,That's crazy!
 Dialogue: 0,0:19:54.66,0:19:57.96,Default,Futaro,0,0,0,,We're going to be late \Nthanks to your whining!
-Dialogue: 0,0:19:57.96,0:20:00.38,Default,Ichika,0,0,0,,Jeez, you're so proper, Futaro-kun.
+Dialogue: 0,0:19:57.96,0:20:00.38,Default,Ichika,0,0,0,,Jeez, you're so proper, Futaro{**-kun}.
 Dialogue: 0,0:20:00.38,0:20:03.55,Default,Futaro,0,0,0,,You already skip tutoring \Nsessions enough as it is.
 Dialogue: 0,0:20:03.55,0:20:04.55,Default,Futaro,0,0,0,,Get your act together!
 Dialogue: 0,0:20:04.96,0:20:06.47,Default,Ichika,0,0,0,,{\i1}Skip{\i0}?

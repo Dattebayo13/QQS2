@@ -178,7 +178,7 @@ Dialogue: 0,0:06:34.41,0:06:36.37,Default,Yotsuba,0,0,0,,Gotcha!
 Dialogue: 0,0:06:38.21,0:06:41.13,Default,Yotsuba,0,0,0,,I caught the groper!
 Dialogue: 0,0:06:41.13,0:06:42.75,Default,Yotsuba,0,0,0,,This smell...
 Dialogue: 0,0:06:42.75,0:06:43.71,Default,Futaro,0,0,0,,You're too heavy.
-Dialogue: 0,0:06:43.71,0:06:45.30,Default,Yotsuba,0,0,0,,U-Uesugi-san?!
+Dialogue: 0,0:06:43.71,0:06:45.30,Default,Yotsuba,0,0,0,,U-Uesugi{**-san}?!
 Dialogue: 0,0:06:45.30,0:06:46.30,Default,Yotsuba,0,0,0,,Why?!
 Dialogue: 0,0:06:46.30,0:06:48.97,Default,Futaro,0,0,0,,Well, there you have it.
 Dialogue: 0,0:06:48.97,0:06:50.93,Default,Yotsuba,0,0,0,,Why did you stoop to groping?
@@ -245,7 +245,7 @@ Dialogue: 0,0:09:25.79,0:09:26.71,Default,Miku,0,0,0,,I don't.
 Dialogue: 0,0:09:26.71,0:09:28.96,Default,Nino,0,0,0,,Just so you know, it wasn't you.
 Dialogue: 0,0:09:28.96,0:09:30.84,Default,Futaro,0,0,0,,R-Right.
 Dialogue: 0,0:09:30.84,0:09:31.96,Default,Nino,0,0,0,,Got it?
-Dialogue: 0,0:09:34.05,0:09:36.93,Italics,Nino,0,0,0,,Goodbye, Kintaro-kun.
+Dialogue: 0,0:09:34.05,0:09:36.93,Italics,Nino,0,0,0,,Goodbye, Kintaro{**-kun}.
 Dialogue: 0,0:09:36.93,0:09:39.72,Italics,Nino,0,0,0,,And goodbye.
 Dialogue: 0,0:09:42.26,0:09:43.98,Default,Nino,0,0,0,,Yotsuba.
 Dialogue: 0,0:09:43.98,0:09:46.94,Default,Nino,0,0,0,,I just did as I was asked.
@@ -312,9 +312,9 @@ Dialogue: 0,0:12:52.62,0:12:55.54,Default,Futaro,0,0,0,,Not yet. We're just gett
 Dialogue: 0,0:12:57.13,0:12:59.31,Default,Miku,0,0,0,,Today's the day.
 Dialogue: 0,0:12:59.31,0:13:01.02,Default,Ichika,0,0,0,,I'm worried.
 Dialogue: 0,0:13:01.02,0:13:02.98,Default,Yotsuba,0,0,0,,We did everything we could.
-Dialogue: 0,0:13:02.98,0:13:04.54,Default,Yotsuba,0,0,0,,Right, Uesugi-san?
+Dialogue: 0,0:13:02.98,0:13:04.54,Default,Yotsuba,0,0,0,,Right, Uesugi{**-san}?
 Dialogue: 0,0:13:04.54,0:13:05.49,Default,Yotsuba,0,0,0,,Huh?
-Dialogue: 0,0:13:05.49,0:13:06.81,Default,Yotsuba,0,0,0,,Where's Uesugi-san?
+Dialogue: 0,0:13:05.49,0:13:06.81,Default,Yotsuba,0,0,0,,Where's Uesugi{**-san}?
 Dialogue: 0,0:13:06.81,0:13:09.24,Default,Itsuki,0,0,0,,He said he's calling Raiha-chan.
 Dialogue: 0,0:13:09.24,0:13:10.87,Default,Ichika,0,0,0,,{\i1}Now{\i0}?
 Dialogue: 0,0:13:10.87,0:13:13.66,Default,Itsuki,0,0,0,,It must be something urgent.
@@ -337,7 +337,7 @@ Dialogue: 0,0:14:03.25,0:14:05.25,Default,Nino,0,0,0,,Why do you sound so happy 
 Dialogue: 0,0:14:06.71,0:14:08.89,Default,Yotsuba,0,0,0,,It's too bad we didn't do better,
 Dialogue: 0,0:14:08.89,0:14:12.17,Default,,0,0,0,,but I can't wait to work with you guys again.
 Dialogue: 0,0:14:12.17,0:14:13.29,Default,Itsuki,0,0,0,,Huh?
-Dialogue: 0,0:14:15.18,0:14:17.80,Default,Itsuki,0,0,0,,It wasn't Uesugi-kun.
+Dialogue: 0,0:14:15.18,0:14:17.80,Default,Itsuki,0,0,0,,It wasn't Uesugi{**-kun}.
 Dialogue: 0,0:14:18.60,0:14:20.86,Default,Ebata,0,0,0,,Pardon me.
 Dialogue: 0,0:14:21.21,0:14:23.86,Default,Ichika,0,0,0,,Hey, it's Ebata-san.
 Dialogue: 0,0:14:23.86,0:14:26.09,Default,Miku,0,0,0,,Are you not driving for Dad today?
@@ -346,11 +346,11 @@ Dialogue: 0,0:14:31.60,0:14:33.57,Default,Itsuki,0,0,0,,Y-You are?
 Dialogue: 0,0:14:33.57,0:14:36.45,Default,Ichika,0,0,0,,Ebata-san used to be a teacher, after all.
 Dialogue: 0,0:14:36.45,0:14:37.91,Default,Nino,0,0,0,,Is he skimping?
 Dialogue: 0,0:14:37.91,0:14:40.33,Default,Miku,0,0,0,,I wonder if he's sick or something.
-Dialogue: 0,0:14:41.71,0:14:46.62,Default,Ebata,0,0,0,,Uesugi Futaro has quit tutoring.
+Dialogue: 0,0:14:41.71,0:14:46.62,Default,Ebata,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro} has quit tutoring.
 Dialogue: 0,0:14:48.92,0:14:51.84,Default,Ebata,0,0,0,,I received word from your father, the other day
 Dialogue: 0,0:14:51.84,0:14:56.87,Default,,0,0,0,,that Uesugi terminated his contract\Nas of the exam the other day.
 Dialogue: 0,0:14:58.06,0:14:59.64,Default,Ichika,0,0,0,,Do you mean...
-Dialogue: 0,0:14:59.64,0:15:01.88,Default,Ichika,0,0,0,,Futaro-kun's not coming anymore?
+Dialogue: 0,0:14:59.64,0:15:01.88,Default,Ichika,0,0,0,,Futaro{**-kun}'s not coming anymore?
 Dialogue: 0,0:15:05.86,0:15:07.25,Default,Miku,0,0,0,,No way...
 Dialogue: 0,0:15:08.48,0:15:10.64,Default,Nino,0,0,0,,It's because of how we did on the exam.
 Dialogue: 0,0:15:10.64,0:15:11.78,Default,Nino,0,0,0,,Dad said he would...
@@ -392,7 +392,7 @@ Dialogue: 0,0:16:51.85,0:16:54.07,Default,Itsuki,0,0,0,,We should all have it in
 Dialogue: 0,0:16:54.07,0:16:56.37,Default,Yotsuba,0,0,0,,A-Are you sure about this?
 Dialogue: 0,0:16:56.37,0:16:57.88,Default,Itsuki,0,0,0,,This is an emergency.
 Dialogue: 0,0:16:57.88,0:16:59.58,Default,Itsuki,0,0,0,,The ends will justify the means.
-Dialogue: 0,0:16:59.58,0:17:02.14,Default,Yotsuba,0,0,0,,Itsuki looks like Uesugi-san!
+Dialogue: 0,0:16:59.58,0:17:02.14,Default,Yotsuba,0,0,0,,Itsuki looks like Uesugi{**-san}!
 Dialogue: 0,0:17:02.14,0:17:04.09,Default,Nino,0,0,0,,You sure have changed.
 Dialogue: 0,0:17:04.38,0:17:06.29,Default,Ichika,0,0,0,,I guess I will, too, then.
 Dialogue: 0,0:17:08.73,0:17:13.09,Default,Ichika,0,0,0,,"Don't try to take shortcuts \Nto the answer, fools."
@@ -408,7 +408,7 @@ Dialogue: 0,0:17:35.26,0:17:38.67,Default,Miku,0,0,0,,"You have to get there you
 Dialogue: 0,0:17:38.67,0:17:43.71,Default,Yotsuba,0,0,0,,"I'm glad I'm finally done\Nwith this hell job."
 Dialogue: 0,0:17:47.60,0:17:48.63,Default,Ichika,0,0,0,,Itsuki?
 Dialogue: 0,0:17:49.51,0:17:54.88,Default,Itsuki,0,0,0,,"But it was a pretty fun hell. Later."
-Dialogue: 0,0:17:57.74,0:18:02.14,Default,Yotsuba,0,0,0,,I still want Uesugi-san to teach me.
+Dialogue: 0,0:17:57.74,0:18:02.14,Default,Yotsuba,0,0,0,,I still want Uesugi{**-san} to teach me.
 Dialogue: 0,0:18:04.16,0:18:05.89,Default,Miku,0,0,0,,So do I.
 Dialogue: 0,0:18:06.37,0:18:09.79,Default,Miku,0,0,0,,I need Futaro.
 Dialogue: 0,0:18:09.79,0:18:14.09,Default,Nino,0,0,0,,But he can't come here anymore.
@@ -427,12 +427,12 @@ Dialogue: 0,0:19:14.31,0:19:16.19,Default,Ichika,0,0,0,,Do you deliver cakes?
 Dialogue: 0,0:19:16.56,0:19:18.59,Default,Ichika,0,0,0,,We'd like one delivered to our home.
 Dialogue: 0,0:19:18.59,0:19:19.94,Default,Futaro,0,0,0,,What?
 Dialogue: 0,0:19:19.94,0:19:21.90,Default,Futaro,0,0,0,,We don't do deliveries.
-Dialogue: 0,0:19:22.82,0:19:24.30,Default,Cake Boss,0,0,0,,Uesugi-kun.
+Dialogue: 0,0:19:22.82,0:19:24.30,Default,Cake Boss,0,0,0,,Uesugi{**-kun}.
 Dialogue: 0,0:19:24.62,0:19:26.24,Default,Cake Boss,0,0,0,,I'll handle it from here.
 Dialogue: 0,0:19:26.24,0:19:27.35,Default,Cake Boss,0,0,0,,You should go.
 Dialogue: 0,0:19:27.35,0:19:28.95,Default,Futaro,0,0,0,,Wait, Boss!
 Dialogue: 0,0:19:28.95,0:19:29.50,Default,Futaro,0,0,0,,I don't...
-Dialogue: 0,0:19:29.50,0:19:30.60,Default,Cake Boss,0,0,0,,Uesugi-kun.
+Dialogue: 0,0:19:29.50,0:19:30.60,Default,Cake Boss,0,0,0,,Uesugi{**-kun}.
 Dialogue: 0,0:19:32.39,0:19:34.74,Default,Cake Boss,0,0,0,,Merry Christmas.
 Dialogue: 0,0:19:40.84,0:19:42.34,Default,Futaro,0,0,0,,Hey.
 Dialogue: 0,0:19:42.34,0:19:44.92,Default,Futaro,0,0,0,,This isn't the way to your place.

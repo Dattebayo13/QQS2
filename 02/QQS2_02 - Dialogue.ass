@@ -21,8 +21,8 @@ Audio File: [Raws-Maji] Gotoubun no Hanayome ∬ - 02  [BD 1920x1080p HEVC AAC].
 Video File: [Raws-Maji] Gotoubun no Hanayome ∬ - 02  [BD 1920x1080p HEVC AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 196
-Active Line: 223
+Scroll Position: 112
+Active Line: 139
 Video Position: 34581
 
 [V4+ Styles]
@@ -46,7 +46,7 @@ Dialogue: 10,0:00:24.27,0:00:27.13,Default,,0,0,0,,That's right, if {\i1}nothing
 Dialogue: 10,0:00:27.74,0:00:29.63,Default,,0,0,0,,He's late.
 Dialogue: 10,0:00:30.01,0:00:32.03,Default,,0,0,0,,Saturday is tutoring day.
 Dialogue: 10,0:00:32.03,0:00:35.46,Default,,0,0,0,,Everyone's here and waiting. What is he doing?
-Dialogue: 10,0:00:36.14,0:00:38.14,Default,,0,0,0,,Uesugi-kun?!
+Dialogue: 10,0:00:36.14,0:00:38.14,Default,,0,0,0,,Uesugi{**-kun}?!
 Dialogue: 10,0:00:39.89,0:00:41.06,Default,,0,0,0,,He's dead!
 Dialogue: 10,0:00:44.16,0:00:46.31,Default,,0,0,0,,He's sleeping like he's dead.
 Dialogue: 10,0:00:46.90,0:00:48.82,Default,,0,0,0,,I've done it again.
@@ -88,7 +88,7 @@ Dialogue: 10,0:03:50.41,0:03:51.82,Default,,0,0,0,,Especially Nino.
 Dialogue: 10,0:03:51.82,0:03:55.35,Default,,0,0,0,,Believe it or not, she's the most sensitive of all of us.
 Dialogue: 10,0:03:55.35,0:03:57.38,Default,,0,0,0,,So she butts heads a lot.
 Dialogue: 10,0:03:57.38,0:04:00.21,Default,,0,0,0,,Okay everyone, let's continue.
-Dialogue: 10,0:04:01.06,0:04:02.88,Default,,0,0,0,,Well then, Futaro-kun,
+Dialogue: 10,0:04:01.06,0:04:02.88,Default,,0,0,0,,Well then, Futaro{**-kun},
 Dialogue: 10,0:04:03.46,0:04:07.51,Default,,0,0,0,,we'll be in your care for the next week.
 Dialogue: 10,0:04:07.51,0:04:10.14,Default,,0,0,0,,Yeah. Time for a rematch.
 Dialogue: 10,0:04:15.36,0:04:17.56,Default,,0,0,0,,Hey, that's my eraser.
@@ -102,7 +102,7 @@ Dialogue: 10,0:04:33.77,0:04:35.79,Italics,,0,0,0,,But now we have a new problem
 Dialogue: 10,0:04:36.57,0:04:38.17,Default,,0,0,0,,Ideas welcome.
 Dialogue: 10,0:04:38.17,0:04:40.92,Default,,0,0,0,,Okay, how about this plan?
 Dialogue: 10,0:04:40.92,0:04:43.43,Default,,0,0,0,,Operation Everyone-Gets-Along!
-Dialogue: 10,0:04:44.17,0:04:47.24,Default,,0,0,0,,If you can get those two in a good mood, Uesugi-san,
+Dialogue: 10,0:04:44.17,0:04:47.24,Default,,0,0,0,,If you can get those two in a good mood, Uesugi{**-san},
 Dialogue: 10,0:04:47.24,0:04:49.43,Default,,0,0,0,,they should stop fighting too.
 Dialogue: 10,0:04:50.89,0:04:52.31,Default,,0,0,0,,Wow, amazing!
 Dialogue: 10,0:04:52.31,0:04:53.56,Default,,0,0,0,,I'm impressed.
@@ -245,7 +245,7 @@ Dialogue: 10,0:11:33.64,0:11:38.80,Default,,0,0,0,,Especially when this was all 
 Dialogue: 10,0:11:39.18,0:11:41.55,Default,,0,0,0,,You should never have come into our lives!
 Dialogue: 10,0:11:50.43,0:11:52.82,Default,,0,0,0,,Give that back! It's mine!
 Dialogue: 10,0:11:53.23,0:11:54.18,Default,,0,0,0,,Hey!
-Dialogue: 10,0:12:03.34,0:12:04.96,Default,,0,0,0,,Kintaro-kun...
+Dialogue: 10,0:12:03.34,0:12:04.96,Default,,0,0,0,,Kintaro{**-kun}...
 Dialogue: 10,0:12:09.74,0:12:11.71,Default,,0,0,0,,We figured out where Nino is,
 Dialogue: 10,0:12:11.71,0:12:14.85,Default,,0,0,0,,but Itsuki is nowhere to be found.
 Dialogue: 10,0:12:14.85,0:12:15.96,Default,,0,0,0,,Not much we can do now.
@@ -255,19 +255,19 @@ Dialogue: 10,0:12:20.62,0:12:23.22,Default,,0,0,0,,Actually, about that...
 Dialogue: 10,0:12:23.59,0:12:26.84,Default,,0,0,0,,She forgot her purse at home.
 Dialogue: 10,0:12:26.84,0:12:28.47,Default,,0,0,0,,Seriously?
 Dialogue: 10,0:12:29.05,0:12:30.47,Default,,0,0,0,,I'm home.
-Dialogue: 10,0:12:30.94,0:12:32.98,Default,,0,0,0,,Welcome home, Big Brother.
+Dialogue: 10,0:12:30.94,0:12:32.98,Default,,0,0,0,,Welcome home, {*}Big Brother{*Onii-chan}.
 Dialogue: 10,0:12:34.08,0:12:35.17,Default,,0,0,0,,This smell...
 Dialogue: 10,0:12:35.17,0:12:36.22,Default,,0,0,0,,Curry, huh?
 Dialogue: 10,0:12:36.22,0:12:37.00,Default,,0,0,0,,Yup.
 Dialogue: 10,0:12:37.00,0:12:38.96,Default,,0,0,0,,We've already started eating.
 Dialogue: 10,0:12:39.86,0:12:44.01,Italics,,0,0,0,,I bet she's hungry, too.
-Dialogue: 10,0:12:45.83,0:12:47.37,Default,,0,0,0,,Raiha-chan,
+Dialogue: 10,0:12:45.83,0:12:47.37,Default,,0,0,0,,Raiha{**-chan},
 Dialogue: 10,0:12:47.93,0:12:50.12,Default,,0,0,0,,may I have seconds?
 Dialogue: 10,0:12:51.87,0:12:53.48,Default,,0,0,0,,Sure.
 Dialogue: 10,0:12:53.48,0:12:54.37,Default,,0,0,0,,Th—
 Dialogue: 10,0:12:54.37,0:12:56.40,Default,,0,0,0,,Thanks for having me.{WOW without the wow...}
 Dialogue: 10,0:13:00.62,0:13:04.63,Default,,0,0,0,,Thanks for letting me use the bath first.
-Dialogue: 10,0:13:05.01,0:13:08.22,Default,,0,0,0,,Well, Itsuki-chan, what do you think of our huge bath?
+Dialogue: 10,0:13:05.01,0:13:08.22,Default,,0,0,0,,Well, Itsuki{**-chan}, what do you think of our huge bath?
 Dialogue: 10,0:13:08.22,0:13:13.14,Default,,0,0,0,,Oh, it was very cram—cozy and relaxing.
 Dialogue: 10,0:13:14.57,0:13:15.93,Default,,0,0,0,,I know, right?
 Dialogue: 10,0:13:15.93,0:13:18.24,Default,,0,0,0,,Raiha, we're taking a bath next.
@@ -282,7 +282,7 @@ Dialogue: 10,0:13:29.36,0:13:30.97,Default,,0,0,0,,G-Go ahead.
 Dialogue: 10,0:13:33.26,0:13:35.60,Italics,,0,0,0,,Why are you here?
 Dialogue: 10,0:13:35.60,0:13:37.68,Italics,,0,0,0,,This is so awkward. {shit u rite, feels like 01 all over again}
 Dialogue: 10,0:13:37.68,0:13:40.17,Italics,,0,0,0,,I know how Nino feels now.
-Dialogue: 10,0:13:41.01,0:13:43.96,Default,,0,0,0,,Brother, can you bring the bedding out?
+Dialogue: 10,0:13:41.01,0:13:43.96,Default,,0,0,0,,{*}Brother{*Onii-chan}, can you bring the bedding out?
 Dialogue: 10,0:13:43.96,0:13:46.43,Default,,0,0,0,,Oh, I'll do it.
 Dialogue: 10,0:13:48.16,0:13:50.68,Italics,,0,0,0,,Is she actually staying over?
 Dialogue: 10,0:13:50.68,0:13:51.98,Italics,,0,0,0,,Wait a second...
@@ -290,7 +290,7 @@ Dialogue: 10,0:13:51.98,0:13:55.10,Italics,,0,0,0,,Dad's leaving for work soon.
 Dialogue: 10,0:13:56.84,0:13:59.78,Default,,0,0,0,,Let's all sleep together tonight.
 Dialogue: 10,0:14:00.69,0:14:02.51,Italics,,0,0,0,,This can't go on.
 Dialogue: 10,0:14:02.51,0:14:04.24,Italics,,0,0,0,,What am I supposed to say?
-Dialogue: 10,0:14:04.94,0:14:07.30,Default,,0,0,0,,Uesugi-kun, are you awake?
+Dialogue: 10,0:14:04.94,0:14:07.30,Default,,0,0,0,,Uesugi{**-kun}, are you awake?
 Dialogue: 10,0:14:07.30,0:14:09.24,Default,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:14:09.24,0:14:10.45,Default,,0,0,0,,I'm up.
 Dialogue: 10,0:14:10.45,0:14:13.27,Default,,0,0,0,,Sorry for barging in today.
@@ -377,7 +377,7 @@ Dialogue: 10,0:18:27.83,0:18:29.79,Default,,0,0,0,,Go quit right now.
 Dialogue: 10,0:18:29.79,0:18:32.25,Default,,0,0,0,,Stop causing more problems.
 Dialogue: 10,0:18:32.25,0:18:34.68,Default,,0,0,0,,Sorry for keeping it a secret.
 Dialogue: 10,0:18:34.68,0:18:38.32,Default,,0,0,0,,But I am working on your problem set when I'm at home.
-Dialogue: 10,0:18:38.32,0:18:41.09,Default,,0,0,0,,Nakano-san, practice is about to resume.
+Dialogue: 10,0:18:38.32,0:18:41.09,Default,,0,0,0,,Nakano{**-san}, practice is about to resume.
 Dialogue: 10,0:18:41.09,0:18:42.59,Default,,0,0,0,,Okay.
 Dialogue: 10,0:18:42.59,0:18:44.85,Default,,0,0,0,,I'll do my best, okay?
 Dialogue: 10,0:18:44.85,0:18:48.35,Default,,0,0,0,,We're not done talking here! You're not getting away!
@@ -425,9 +425,9 @@ Dialogue: 10,0:20:48.48,0:20:50.22,Default,,0,0,0,,I can't make myself useful.
 Dialogue: 10,0:20:51.57,0:20:54.73,Default,,0,0,0,,They don't need me.
 Dialogue: 10,0:21:00.06,0:21:01.74,Default,,0,0,0,,There you are, down in the dumps again.
 Dialogue: 10,0:21:04.71,0:21:07.02,Default,,0,0,0,,You haven't changed, have you...
-Dialogue: 10,0:21:07.02,0:21:08.89,Default,,0,0,0,,Uesugi Futaro-kun?
+Dialogue: 10,0:21:07.02,0:21:08.89,Default,,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro-kun}?
 Dialogue: 10,0:21:16.17,0:21:17.41,Default,,0,0,0,,It's been a while.
-Dialogue: 10,0:21:29.80,0:21:31.85,Default,,0,0,0,,Uesugi-san?
+Dialogue: 10,0:21:29.80,0:21:31.85,Default,,0,0,0,,Uesugi{**-san}?
 Dialogue: 10,0:21:31.85,0:21:33.82,Default,,0,0,0,,What are you doing here?
 Dialogue: 10,0:21:34.34,0:21:35.56,Default,,0,0,0,,Yotsuba?
 Dialogue: 10,0:21:35.56,0:21:37.37,Default,,0,0,0,,U-Uh...
