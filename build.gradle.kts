@@ -31,6 +31,11 @@ subs {
 		out(get("mergedname"))
     }
 	
+	swap {
+        from(merge.item())
+        out(get("mergednameswap"))
+    }
+	
     val merge_ss by task<Merge> {
         if (propertyExists("OP")) {
             from(get("OP")) { syncTargetTime(getAs<Duration>("opsync")) }
@@ -85,6 +90,16 @@ subs {
                 lang("eng")
                 name(get("subtitle_full"))
                 default(true)
+                forced(false)
+				
+            }
+        }
+
+		from(swap.item()) {
+            tracks {
+                lang("enm")
+                name(get("subtitle_enm"))
+                default(false)
                 forced(false)
 				
             }
