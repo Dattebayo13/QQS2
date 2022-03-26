@@ -22,7 +22,8 @@ Video File: QQS2_03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 5
+Scroll Position: 132
+Active Line: 159
 Video Position: 34524
 
 [V4+ Styles]
@@ -191,7 +192,7 @@ Dialogue: 10,0:08:38.95,0:08:41.10,Default,,0,0,0,,Nino apologized?
 Dialogue: 10,0:08:41.49,0:08:43.46,Default,,0,0,0,,I'm having a hard time believing that.
 Dialogue: 10,0:08:43.46,0:08:45.00,Default,,0,0,0,,It's true.
 Dialogue: 10,0:08:45.00,0:08:47.71,Default,,0,0,0,,You've gotta stop being so stubborn too.
-Dialogue: 10,0:08:47.71,0:08:50.46,Default,,0,0,0,,Your hair's so shiny today, Onii-chan.
+Dialogue: 10,0:08:47.71,0:08:50.46,Default,,0,0,0,,Your hair's so shiny today, Big Brother.
 Dialogue: 10,0:08:50.80,0:08:52.51,Default,,0,0,0,,What happened while you were with Nino?
 Dialogue: 10,0:08:52.51,0:08:56.97,Default,,0,0,0,,A-Anyway, I know you two go out for lunch together and stuff.
 Dialogue: 10,0:08:56.97,0:09:00.47,Default,,0,0,0,,I'm sure you can go back to being close, like-minded sisters once you cool off.
