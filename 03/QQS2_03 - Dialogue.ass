@@ -24,7 +24,7 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 172
 Active Line: 175
-Video Position: 13578
+Video Position: 13549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -208,8 +208,9 @@ Dialogue: 10,0:09:20.49,0:09:21.04,Default,,0,0,0,,What?
 Dialogue: 10,0:09:21.04,0:09:21.95,Default,,0,0,0,,That sounds lame.
 Dialogue: 10,0:09:21.95,0:09:23.75,Default,,0,0,0,,No it doesn't!
 Dialogue: 10,0:09:23.75,0:09:25.08,Default,,0,0,0,,You have bad taste.
-Dialogue: 10,0:09:25.08,0:09:26.33,Default,,0,0,0,,{\t(500,1200,\be28,\3a&H41&)\c&HFFFFFF&\1a&HFF&}So do you!
-Dialogue: 11,0:09:25.08,0:09:26.33,Default,,0,0,0,,{\bord0\t(500,1200,\be28,\1a&H41&)}So do you!
+Dialogue: 10,0:09:25.08,0:09:26.33,Default,,0,0,0,,{\blur0.6\c&H000000&\t(527,1250,\blur6)}So do you!
+Dialogue: 11,0:09:25.08,0:09:26.33,Default,,0,0,0,,{\bord0\blur0.6\shad1.5\4a&HFF&\t(527,1250,\blur6)}So do you!
+Dialogue: 11,0:09:25.08,0:09:26.33,Default,,0,0,0,,{\bord0\blur0.6\shad1.5\4a&HFF&\t(527,1250,\blur6)}So do you!
 Dialogue: 10,0:09:26.76,0:09:28.34,Default,,0,0,0,,See?
 Dialogue: 10,0:09:28.34,0:09:32.21,Default,,0,0,0,,Our tastes have drifted apart over the years.
 Dialogue: 10,0:09:32.21,0:09:35.09,Default,,0,0,0,,I wouldn't want to see either of those movies.
