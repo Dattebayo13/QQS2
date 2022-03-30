@@ -40,7 +40,7 @@ Dialogue: 0,0:00:04.03,0:00:05.66,Italics,Nino,0,0,0,,Don't try to remember.
 Dialogue: 0,0:00:09.98,0:00:11.36,Italics,Nino,0,0,0,,He doesn't
 Dialogue: 0,0:00:12.98,0:00:17.58,Italics,,0,0,0,,think anything of me.
 Dialogue: 0,0:00:18.88,0:00:21.83,Italics,Nino,0,0,0,,So I'm not going to see him anymore.
-Dialogue: 0,0:00:23.17,0:00:25.38,Default,Q's Dad,0,0,0,,You're back, Nino{**-kun}.
+Dialogue: 0,0:00:23.17,0:00:25.38,Default,Q's Dad,0,0,0,,You're back, {*}Daughter{*Nino-kun}.
 Dialogue: 0,0:00:25.79,0:00:26.96,Default,Nino,0,0,0,,Dad.
 Dialogue: 0,0:00:26.96,0:00:30.72,Default,Nino,0,0,0,,I told you to stop calling me that.\NIt creeps me out.
 Dialogue: 0,0:00:30.72,0:00:32.20,Default,Q's Dad,0,0,0,,Sorry about that, Nino.
@@ -49,7 +49,7 @@ Dialogue: 0,0:00:36.41,0:00:39.01,Default,Q's Dad,0,0,0,,The six of you managed 
 Dialogue: 0,0:00:39.67,0:00:40.52,Default,Q's Dad,0,0,0,,Congratulations.
 Dialogue: 0,0:00:40.52,0:00:42.27,Default,Nino,0,0,0,,Th-Thanks.
 Dialogue: 0,0:00:42.58,0:00:45.86,Default,Q's Dad,0,0,0,,It seems I have no choice but \Nto approve of Uesugi{**-kun}.
-Dialogue: 0,0:00:45.86,0:00:47.60,Default,Q's Dad,0,0,0,,So from tomorrow on,\Nhe can come here to...
+Dialogue: 0,0:00:45.86,0:00:47.60,Default,Q's Dad,0,0,0,,So from tomorrow on,\Nhe can come here too—
 Dialogue: 0,0:00:47.60,0:00:49.15,Default,Nino,0,0,0,,I'm not going to see him anymore.
 Dialogue: 0,0:00:49.75,0:00:53.49,Default,Nino,0,0,0,,Also, we've decided to stay at \Nour new place for a while longer.
 Dialogue: 0,0:00:53.81,0:00:54.90,Default,Q's Dad,0,0,0,,What did you say?
@@ -75,7 +75,7 @@ Dialogue: 0,0:01:52.21,0:01:55.09,Default,Futaro,0,0,0,,We need to get back befo
 Dialogue: 0,0:01:56.50,0:01:57.35,Default,Q's Dad,0,0,0,,Nino.
 Dialogue: 0,0:01:57.89,0:02:00.60,Default,Q's Dad,0,0,0,,The path you're about to walk is a thorny one.
 Dialogue: 0,0:02:00.91,0:02:02.35,Default,Q's Dad,0,0,0,,It won't end well.
-Dialogue: 0,0:02:02.86,0:02:05.48,Default,Q's Dad,0,0,0,,You'll certainly going to regret it.
+Dialogue: 0,0:02:02.86,0:02:05.48,Default,Q's Dad,0,0,0,,You're certainly going to regret it.
 Dialogue: 0,0:02:05.87,0:02:07.23,Default,Q's Dad,0,0,0,,Come with me.
 Dialogue: 0,0:02:10.71,0:02:13.68,Default,Nino,0,0,0,,Dad, just watch us.
 Dialogue: 0,0:02:15.74,0:02:16.85,Default,Nino,0,0,0,,Go.
@@ -109,7 +109,7 @@ Dialogue: 0,0:03:25.48,0:03:27.45,Default,Futaro,0,0,0,,Never mind that. I'm goi
 Dialogue: 0,0:03:27.45,0:03:28.56,Default,Futaro,0,0,0,,Hang on tight.
 Dialogue: 0,0:03:32.85,0:03:37.58,Italics,Futaro,0,0,0,,My long job as a tutor \Nhas come to a close today.
 Dialogue: 0,0:03:38.44,0:03:40.60,Italics,Futaro,0,0,0,,Nino's right. I'm not needed anymore.
-Dialogue: 0,0:03:41.20,0:03:44.20,Italics,Futaro,0,0,0,,This is the end of our relationship, too.
+Dialogue: 0,0:03:41.20,0:03:44.20,Italics,Futaro,0,0,0,,This is the end of our relationship too.
 Dialogue: 0,0:03:44.68,0:03:46.05,Default,Futaro,0,0,0,,I'll miss it. Won't you?
 Dialogue: 0,0:03:49.07,0:03:51.14,Default,Nino,0,0,0,,You're going so slow!
 Dialogue: 0,0:03:51.14,0:03:52.65,Default,Nino,0,0,0,,I thought you were going to floor it.
@@ -154,8 +154,8 @@ Dialogue: 0,0:06:55.51,0:06:56.35,Default,Nino,0,0,0,,Me too.
 Dialogue: 0,0:06:56.35,0:06:57.26,Default,Itsuki,0,0,0,,Me too.
 Dialogue: 0,0:06:57.88,0:06:59.14,Default,Yotsuba,0,0,0,,Okay, then...
 Dialogue: 0,0:07:03.81,0:07:04.94,Default,Yotsuba,0,0,0,,It's so good.
-Dialogue: 0,0:07:06.02,0:07:09.49,Default,Yotsuba,0,0,0,,You all helped me out, too, though.\NI have to return the favor.
-Dialogue: 0,0:07:09.49,0:07:11.45,Default,Miku,0,0,0,,We do, too, actually.
+Dialogue: 0,0:07:06.02,0:07:09.49,Default,Yotsuba,0,0,0,,You all helped me out too, though.\NI have to return the favor.
+Dialogue: 0,0:07:09.49,0:07:11.45,Default,Miku,0,0,0,,We do too, actually.
 Dialogue: 0,0:07:11.45,0:07:14.37,Default,Itsuki,0,0,0,,Why don't we all share a little, then?
 Dialogue: 0,0:07:14.37,0:07:17.83,Default,Itsuki,0,0,0,,That's how we made it\Nthrough the exams, after all.
 Dialogue: 0,0:07:17.83,0:07:21.08,Default,Itsuki,0,0,0,,Plus, this way, we can enjoy \Nall the different flavors.
