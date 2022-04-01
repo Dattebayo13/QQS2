@@ -15,9 +15,9 @@ Video File: QQS2_04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 5864
-Active Line: 5865
-Video Position: 19174
+Scroll Position: 5872
+Active Line: 5876
+Video Position: 19124
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5893,8 +5893,23 @@ Dialogue: 1,0:10:57.92,0:10:57.97,Signs,,0,0,0,,{=37=96}{\alpha&H00&\an9\fscx38.
 Dialogue: 1,0:10:57.97,0:10:58.01,Signs,,0,0,0,,{=37=96}{\alpha&H00&\an9\fscx38.85\fscy43.52\frz-103.956\fnAnysome\fs78\fsp2\pos(743.56,627.27)\blur1.049}s
 Dialogue: 1,0:10:58.01,0:10:58.05,Signs,,0,0,0,,{=37=96}{\alpha&H00&\an9\fscx38.85\fscy43.52\frz-103.956\fnAnysome\fs78\fsp2\pos(743.56,627.27)\blur1.008}s
 Dialogue: 1,0:10:58.05,0:10:59.31,Signs,,0,0,0,,{=37=96}{\alpha&H00&\an9\fscx38.85\fscy43.52\frz-103.956\fnAnysome\fs78\fsp2\pos(743.56,627.27)\blur1}s
-Dialogue: 0,0:13:18.27,0:13:19.65,Signs,Text,0,0,0,,{\fad(0,185)\blur3\fnLato\b1\fscx75\fscy75\org(830.001,288)\fry1.22\frx1.77\frz25.79\fax0.08\pos(830.89,280.89)\alpha&HC0&\c&HFFFFFF&}Papa
-Dialogue: 1,0:13:18.27,0:13:19.65,Signs,Text,0,0,0,,{\fad(0,185)\blur0.6\fnLato\b1\fscx75\fscy75\org(830.001,288)\fry1.22\frx1.77\frz25.79\fax0.08\pos(830.89,280.89)}Papa
+Comment: 0,0:13:17.52,0:13:17.56,Signs,Text,0,0,0,,{=155}{\fscx99.82\fscy99.82\alpha&H00&\blur2.99\fs80\fnLato\b1\frz327.5\pos(255.88,792.63)}Dad
+Comment: 0,0:13:17.56,0:13:17.60,Signs,Text,0,0,0,,{=155}{\fscx99.78\fscy99.78\alpha&H00&\blur2.99\fs80\fnLato\b1\frz327.53\pos(254.82,792.53)}Dad
+Comment: 0,0:13:17.60,0:13:17.65,Signs,Text,0,0,0,,{=155}{\fscx99.72\fscy99.72\alpha&H00&\blur2.99\fs80\fnLato\b1\frz327.53\pos(253.69,792.4)}Dad
+Comment: 0,0:13:17.65,0:13:17.69,Signs,Text,0,0,0,,{=155}{\fscx99.85\fscy99.85\alpha&H00&\blur3\fs80\fnLato\b1\frz327.49\pos(55.48,1105.07)}Dad
+Comment: 0,0:13:17.69,0:13:17.73,Signs,Text,0,0,0,,{=155}{\fscx99.69\fscy99.69\alpha&H00&\blur2.99\fs80\fnLato\b1\frz327.54\pos(54.5,1104.73)}Dad
+Comment: 0,0:13:17.73,0:13:17.77,Signs,Text,0,0,0,,{=155}{\fscx99.83\fscy99.83\alpha&H00&\blur2.99\fs80\fnLato\b1\frz327.48\pos(53.15,1105)}Dad
+Dialogue: 1,0:13:17.40,0:13:17.44,Signs,Text,0,0,0,,{=154}{\fscx100\fscy100\alpha&H00&\blur1\fs80\fnLato\b1\frz318.5\pos(700.89,406.89)\c&HA6A5A3&}Dad
+Dialogue: 1,0:13:17.44,0:13:17.48,Signs,Text,0,0,0,,{=154}{\fscx99.95\fscy99.95\alpha&H00&\blur1\fs80\fnLato\b1\frz318.45\pos(699.53,406.77)\c&HA6A5A3&}Dad
+Dialogue: 1,0:13:17.48,0:13:17.52,Signs,Text,0,0,0,,{=154}{\fscx99.86\fscy99.86\alpha&H00&\blur1\fs80\fnLato\b1\frz318.5\pos(698.65,406.6)\c&HA6A5A3&}Dad
+Dialogue: 1,0:13:17.52,0:13:17.56,Signs,Text,0,0,0,,{=154}{\fscx99.82\fscy99.82\alpha&H00&\blur1\fs80\fnLato\b1\frz327.5\pos(255.88,792.63)\c&HF9F9F9&}Dad
+Dialogue: 1,0:13:17.56,0:13:17.60,Signs,Text,0,0,0,,{=154}{\fscx99.78\fscy99.78\alpha&H00&\blur1\fs80\fnLato\b1\frz327.53\pos(254.82,792.53)\c&HF9F9F9&}Dad
+Dialogue: 1,0:13:17.60,0:13:17.65,Signs,Text,0,0,0,,{=154}{\fscx99.72\fscy99.72\alpha&H00&\blur1\fs80\fnLato\b1\frz327.53\pos(253.69,792.4)\c&HF9F9F9&}Dad
+Dialogue: 1,0:13:17.65,0:13:17.69,Signs,Text,0,0,0,,{=154}{\fscx99.85\fscy99.85\alpha&H00&\blur1\fs80\fnLato\b1\frz327.49\pos(55.48,1105.07)\c&HF9F9F9&}Dad
+Dialogue: 1,0:13:17.69,0:13:17.73,Signs,Text,0,0,0,,{=154}{\fscx99.69\fscy99.69\alpha&H00&\blur1\fs80\fnLato\b1\frz327.54\pos(54.5,1104.73)\c&HF9F9F9&}Dad
+Dialogue: 1,0:13:17.73,0:13:17.77,Signs,Text,0,0,0,,{=154}{\fscx99.83\fscy99.83\alpha&H00&\blur1\fs80\fnLato\b1\frz327.48\pos(53.15,1105)\c&HF9F9F9&}Dad
+Dialogue: 0,0:13:18.27,0:13:19.65,Signs,Text,0,0,0,,{\fad(0,185)\blur3\fnLato\b1\fscx75\fscy75\org(830.001,288)\fry1.22\frx1.77\frz25.79\fax0.08\pos(830.89,280.89)\alpha&HC0&\c&HFFFFFF&}Dad
+Dialogue: 1,0:13:18.27,0:13:19.65,Signs,Text,0,0,0,,{\fad(0,185)\blur0.6\fnLato\b1\fscx75\fscy75\org(830.001,288)\fry1.22\frx1.77\frz25.79\fax0.08\pos(830.89,280.89)}Dad
 Comment: 0,0:13:39.04,0:13:45.80,Signs,Text,0,0,0,,Nakano Ichika\NJapanese | Math | Science | Socials | English | Total\N\h\h\h\h\h24\h\h\h\h\h\h\h\h\h\h\h47\h\h\h\h\h\h\h\h\h\h41\h\h\h\h\h\h\h\h\h\h\h28\h\h\h\h\h\h\h\h\h\h36\h\h\h\h\h\h\h\h\h176\NNakano Nino\NJapanese | Math | Science | Socials | English | Total\N\h\h\h\h\h19\h\h\h\h\h\h\h\h\h\h\h22\h\h\h\h\h\h\h\h\h\h38\h\h\h\h\h\h\h\h\h\h\h27\h\h\h\h\h\h\h\h\h\h45\h\h\h\h\h\h\h\h\h151\NNakano Miku\NJapanese | Math | Science | Socials | English | Total\N\h\h\h\h\h35\h\h\h\h\h\h\h\h\h\h\h41\h\h\h\h\h\h\h\h\h\h40\h\h\h\h\h\h\h\h\h\h\h70\h\h\h\h\h\h\h\h\h\h20\h\h\h\h\h\h\h\h\h206\NNakano Yotsuba\NJapanese | Math | Science | Socials | English | Total\N\h\h\h\h\h35\h\h\h\h\h\h\h\h\h\h\h15\h\h\h\h\h\h\h\h\h\h22\h\h\h\h\h\h\h\h\h\h\h30\h\h\h\h\h\h\h\h\h\h26\h\h\h\h\h\h\h\h\h128\NNakano Itsuki\NJapanese | Math | Science | Socials | English | Total\N\h\h\h\h\h43\h\h\h\h\h\h\h\h\h\h\h28\h\h\h\h\h\h\h\h\h\h68\h\h\h\h\h\h\h\h\h\h\h26\h\h\h\h\h\h\h\h\h\h34\h\h\h\h\h\h\h\h\h199
 Dialogue: 0,0:17:08.34,0:17:13.09,Signs,Ichika,0,0,0,,{\an5\fs70\blur1\bord0.1\fax-0.15\fnphitradesign Handwritten Thin\frz4.542\pos(1091.07,612.67)\c&H000000&\1a&H64&}Don't try to take shortcuts to the answer, fools.
 Dialogue: 1,0:17:08.34,0:17:13.09,Signs,Ichika,0,0,0,,{\an5\c&H000000&\fs70\blur1\bord0\fax-0.15\fnphitradesign Handwritten Thin\frz4.542\pos(1091.07,612.67)\4a&HFF&\1a&H64&}Don't try to take shortcuts to the answer, fools.
@@ -6475,3 +6490,5 @@ Data: 150,a-mo,e{"uuid"#3A"d5fae9d7-8c2a-41a8-a6e5-3b6280f2f130"#2C"originalText
 Data: 151,a-mo,e{"uuid"#3A"1e94b456-c26a-4b1b-8947-17b4f2b3f1dc"#2C"originalText"#3A"{\\an9\\fscx70\\fscy75\\frz-79.883\\fnAnysome\\fs78\\fsp2\\bord5\\c&HE89043&\\3c&HE89043&\\blur7\\pos(966.03#2C344.16)}i"}
 Data: 152,a-mo,e{"uuid"#3A"97574f7e-489a-4c65-a59c-57e6e967f553"#2C"originalText"#3A"{\\an9\\fscx70\\fscy75\\frz-76.172\\fnAnysome\\fs78\\fsp2\\bord5\\c&HE89043&\\3c&HE89043&\\blur7\\pos(964.13#2C333.5)}r"}
 Data: 153,a-mo,e{"uuid"#3A"ab2031bd-6428-4418-a9a1-112a122b6f3c"#2C"originalText"#3A"{\\an9\\fscx70\\fscy75\\frz-68.628\\fnAnysome\\fs78\\fsp2\\bord5\\c&HE89043&\\3c&HE89043&\\blur7\\pos(959.7#2C316.01)}O"}
+Data: 154,a-mo,e{"uuid"#3A"c9988c74-c122-42d2-a96c-5e13a439b66d"#2C"originalText"#3A"{\\blur0.6\\fs80\\fnLato\\b1\\frz318.5\\pos(700.89#2C406.89)}Dad"}
+Data: 155,a-mo,e{"uuid"#3A"2ad23955-b032-41ae-abc6-142bec781799"#2C"originalText"#3A"{\\blur3\\fs80\\fnLato\\b1\\frz318.5\\pos(700.89#2C406.89)}Dad"}

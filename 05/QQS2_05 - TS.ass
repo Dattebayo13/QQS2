@@ -169,7 +169,7 @@ Dialogue: 0,0:03:41.70,0:03:41.74,SignG,SIGN,0,0,0,,{\pos(462.21,380.595)\fscx10
 Dialogue: 0,0:03:41.74,0:03:41.78,SignG,SIGN,0,0,0,,{\pos(468.63,380.61)\fscx100.06\fscy100.06\frz357.3\fry10\fax0.05\fnBaqa\b0\c&H0B0D0C&\blur0.75}Nakano
 Dialogue: 0,0:03:41.78,0:03:41.82,SignG,SIGN,0,0,0,,{\pos(474.405,380.64)\frz357.3\fry10\fax0.05\fnBaqa\b0\c&H0B0D0C&\blur0.75}Nakano
 Comment: 0,0:11:50.27,0:11:52.52,SignG,,0,0,0,,{\fs18\fnBaqa\b0\c&H000000&\blur1.2\org(1430.0,359.5)\fry-20.66\frx0.00\frz1.782\pos(1449.63,204.61)}Nakano
-Dialogue: 0,0:12:06.33,0:12:07.53,SignG,SIGN,0,0,0,,{\bord0.7\fax-0.01\fay-0.03\fad(190,0)\blur0.75\fs66\b0\c&HF0EFED&\frz345.6\pos(947.001,473)\3c&H808584&\fnLato}Papa
+Dialogue: 0,0:12:06.33,0:12:07.53,SignG,SIGN,0,0,0,,{\bord0.7\fax-0.01\fay-0.03\fad(190,0)\blur0.75\fs66\b0\c&HF0EFED&\frz345.6\pos(947.001,473)\3c&H808584&\fnLato}Dad
 Dialogue: 0,0:16:00.90,0:16:03.65,SignG,SIGN,0,0,0,,{\pos(660.8,626.799)\frz331.8\fax-0.4\fnBaqa\fs45\b0\c&H29486D&\blur1.05}Ichika Nakano
 Dialogue: 0,0:16:00.90,0:16:03.65,Sings 12,SIGN,0,0,0,,{\pos(524.428,440.857)\frz331.8\fax-0.4\fs42\fsp3\bord0\c&H335B87&\blur0.9}Script
 Dialogue: 0,0:17:24.85,0:17:24.94,SignG,Text,0,0,0,,{\alpha&H00&\blur1\bord1\fs35\c&H414143&\b1\3c&HECEDEF&\shad0\fn0 Buzz DNA\4c&H606779&\\\org(560,212)\pos(526,293)\frx5\fry346\fscx110\fscy115\frz20.89\fsp1.5}Hikarihime\N{\c&H2E2F31&\1a&HFF&}Delicious Rice\NFirst-class
