@@ -15,10 +15,10 @@ Audio File: QQS2_09_premux.mkv
 Video File: QQS2_09_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1870
-Active Line: 1878
-Video Position: 8040
+Video Zoom Percent: 0.500000
+Scroll Position: 9538
+Active Line: 9543
+Video Position: 12694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -815,126 +815,126 @@ Dialogue: 0,0:00:31.46,0:00:31.51,Signs,Text,0,0,0,,{=10}{\alpha&H00&\fnBDBHSC\c
 Dialogue: 0,0:00:31.51,0:00:31.55,Signs,Text,0,0,0,,{=10}{\alpha&H00&\fnBDBHSC\c&H000000&\blur0.84\fscx67.98\fscy73.21\b0\an7\1a&H2D&\pos(740.42,995.5)}At least 4 hours between 8 AM to 8 PM\N(Negotiable)
 Dialogue: 0,0:00:31.55,0:00:31.59,Signs,Text,0,0,0,,{=10}{\alpha&H00&\fnBDBHSC\c&H000000&\blur0.84\fscx68\fscy73.23\b0\an7\1a&H2D&\pos(740.32,995.66)}At least 4 hours between 8 AM to 8 PM\N(Negotiable)
 Dialogue: 0,0:00:31.59,0:00:31.63,Signs,Text,0,0,0,,{=10}{\alpha&H00&\fnBDBHSC\c&H000000&\blur0.84\fscx68.03\fscy73.26\b0\an7\1a&H2D&\pos(740.24,995.86)}At least 4 hours between 8 AM to 8 PM\N(Negotiable)
-Dialogue: 0,0:02:10.48,0:02:10.52,SingsG4,SIGN,0,0,0,,{\pos(1071.73,1003.07)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&HBB&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.52,0:02:10.56,SingsG4,SIGN,0,0,0,,{\pos(1071.83,1004.99)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&HBB&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.56,0:02:10.61,SingsG4,SIGN,0,0,0,,{\pos(1071.93,1006.97)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&HBB&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.61,0:02:10.65,SingsG4,SIGN,0,0,0,,{\pos(1072.04,1008.84)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&H91&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.65,0:02:10.69,SingsG4,SIGN,0,0,0,,{\pos(1072.14,1010.8)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&H6F&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.69,0:02:10.73,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1012.71)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&H4D&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.73,0:02:10.77,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1014.66)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&H2B&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.77,0:02:10.81,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1016.58)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\alpha&H09&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.81,0:02:10.86,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1018.58)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.86,0:02:10.90,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1020.54)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.90,0:02:10.94,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1022.55)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.94,0:02:10.98,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1024.63)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.98,0:02:11.02,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1026.69)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.02,0:02:11.06,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1028.74)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.06,0:02:11.11,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1030.78)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.11,0:02:11.15,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1032.83)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.15,0:02:11.19,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1034.87)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.19,0:02:11.23,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1036.92)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.23,0:02:11.27,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1038.95)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.27,0:02:11.31,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1041.01)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.31,0:02:11.36,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1043.05)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.36,0:02:11.40,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1045.1)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.40,0:02:11.44,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1047.15)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.44,0:02:11.48,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1049.19)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.48,0:02:11.52,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1051.24)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.52,0:02:11.56,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1053.32)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.56,0:02:11.61,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1055.38)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.61,0:02:11.65,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1057.42)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.65,0:02:11.69,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1059.49)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.69,0:02:11.73,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1061.58)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.73,0:02:11.77,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1063.62)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.77,0:02:11.81,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1065.7)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.81,0:02:11.86,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1067.78)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.86,0:02:11.90,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1069.82)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.90,0:02:11.94,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1071.87)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.94,0:02:11.98,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1073.97)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:11.98,0:02:12.02,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1075.99)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.02,0:02:12.07,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1078.07)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.07,0:02:12.11,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1080.16)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.11,0:02:12.15,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1082.19)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.15,0:02:12.19,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1084.26)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.19,0:02:12.23,SingsG4,SIGN,0,0,0,,{\pos(1072.26,1086.33)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.23,0:02:12.27,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1088.37)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.27,0:02:12.32,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1090.41)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.32,0:02:12.36,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1092.51)\fscy100\fnGOODBRUSH\fs96\b1\c&H413E41&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.36,0:02:12.40,SingsG4,SIGN,0,0,0,,{\pos(1072.28,1094.54)\fscy100\fnGOODBRUSH\fs96\b1\c&H535462&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.40,0:02:12.44,SingsG4,SIGN,0,0,0,,{\pos(1072.17,1096.47)\fscy100\fnGOODBRUSH\fs96\b1\c&H6E6F8F&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.44,0:02:12.48,SingsG4,SIGN,0,0,0,,{\pos(1072.07,1098.43)\fscy100\fnGOODBRUSH\fs96\b1\c&H434658&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.48,0:02:12.52,SingsG4,SIGN,0,0,0,,{\pos(1071.96,1100.34)\fscy100\fnGOODBRUSH\fs96\b1\c&H5F6572&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.52,0:02:12.57,SingsG4,SIGN,0,0,0,,{\pos(1071.87,1102.28)\fscy100\fnGOODBRUSH\fs96\b1\c&H5B676F&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.57,0:02:12.61,SingsG4,SIGN,0,0,0,,{\pos(1071.78,1104.22)\fscy100\fnGOODBRUSH\fs96\b1\c&H5D696F&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.61,0:02:12.65,SingsG4,SIGN,0,0,0,,{\pos(1071.86,1106.28)\fscy100\fnGOODBRUSH\fs96\b1\c&H687276&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.65,0:02:12.69,SingsG4,SIGN,0,0,0,,{\pos(1072.01,1108.5)\fscy100\fnGOODBRUSH\fs96\b1\c&H493C40&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.69,0:02:12.73,SingsG4,SIGN,0,0,0,,{\pos(1072.08,1110.6)\fscy100\fnGOODBRUSH\fs96\b1\c&H493C40&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.73,0:02:12.77,SingsG4,SIGN,0,0,0,,{\pos(1072.14,1112.68)\fscy100\fnGOODBRUSH\fs96\b1\c&H45483A&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.77,0:02:12.82,SingsG4,SIGN,0,0,0,,{\pos(1072.21,1114.79)\fscy100\fnGOODBRUSH\fs96\b1\c&H414D2F&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.82,0:02:12.86,SingsG4,SIGN,0,0,0,,{\pos(1072.21,1116.78)\fscy100\fnGOODBRUSH\fs96\b1\c&H404D31&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.86,0:02:12.90,SingsG4,SIGN,0,0,0,,{\pos(1072.2,1118.76)\fscy100\fnGOODBRUSH\fs96\b1\c&H4D5345&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.90,0:02:12.94,SingsG4,SIGN,0,0,0,,{\pos(1071.62,1120.45)\fscy100\fnGOODBRUSH\fs96\b1\c&H92989C&\alpha&H33&\blur1.2}Always cheerful
-Dialogue: 0,0:02:12.94,0:02:12.98,SingsG4,SIGN,0,0,0,,{\pos(1070.34,1118.34)\fscy100\fnGOODBRUSH\fs96\b1\c&HD7D3E0&\alpha&H99&\blur1.2}Always cheerful
-Dialogue: 0,0:02:10.48,0:02:10.52,SingsG4,SIGN,0,0,0,,{\pos(981.735,606.06)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&HDD&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.52,0:02:10.56,SingsG4,SIGN,0,0,0,,{\pos(981.825,607.98)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&HBB&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.56,0:02:10.61,SingsG4,SIGN,0,0,0,,{\pos(981.93,609.96)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&HBB&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.61,0:02:10.65,SingsG4,SIGN,0,0,0,,{\pos(982.035,611.85)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&H91&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.65,0:02:10.69,SingsG4,SIGN,0,0,0,,{\pos(982.14,613.8)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&H6F&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.69,0:02:10.73,SingsG4,SIGN,0,0,0,,{\pos(982.26,615.705)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&H4D&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.73,0:02:10.77,SingsG4,SIGN,0,0,0,,{\pos(982.26,617.655)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&H2B&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.77,0:02:10.81,SingsG4,SIGN,0,0,0,,{\pos(982.275,619.575)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\alpha&H09&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.81,0:02:10.86,SingsG4,SIGN,0,0,0,,{\pos(982.26,621.57)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.86,0:02:10.90,SingsG4,SIGN,0,0,0,,{\pos(982.26,623.535)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.90,0:02:10.94,SingsG4,SIGN,0,0,0,,{\pos(982.26,625.545)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.94,0:02:10.98,SingsG4,SIGN,0,0,0,,{\pos(982.275,627.63)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:10.98,0:02:11.02,SingsG4,SIGN,0,0,0,,{\pos(982.275,629.685)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.02,0:02:11.06,SingsG4,SIGN,0,0,0,,{\pos(982.275,631.74)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.06,0:02:11.11,SingsG4,SIGN,0,0,0,,{\pos(982.275,633.795)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.11,0:02:11.15,SingsG4,SIGN,0,0,0,,{\pos(982.275,635.835)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.15,0:02:11.19,SingsG4,SIGN,0,0,0,,{\pos(982.275,637.875)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.19,0:02:11.23,SingsG4,SIGN,0,0,0,,{\pos(982.26,639.915)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.23,0:02:11.27,SingsG4,SIGN,0,0,0,,{\pos(982.26,641.94)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.27,0:02:11.31,SingsG4,SIGN,0,0,0,,{\pos(982.26,644.01)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.31,0:02:11.36,SingsG4,SIGN,0,0,0,,{\pos(982.26,646.065)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.36,0:02:11.40,SingsG4,SIGN,0,0,0,,{\pos(982.26,648.09)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.40,0:02:11.44,SingsG4,SIGN,0,0,0,,{\pos(982.275,650.145)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.44,0:02:11.48,SingsG4,SIGN,0,0,0,,{\pos(982.26,652.2)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.48,0:02:11.52,SingsG4,SIGN,0,0,0,,{\pos(982.26,654.24)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.52,0:02:11.56,SingsG4,SIGN,0,0,0,,{\pos(982.26,656.325)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.56,0:02:11.61,SingsG4,SIGN,0,0,0,,{\pos(982.26,658.38)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.61,0:02:11.65,SingsG4,SIGN,0,0,0,,{\pos(982.26,660.42)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.65,0:02:11.69,SingsG4,SIGN,0,0,0,,{\pos(982.275,662.49)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.69,0:02:11.73,SingsG4,SIGN,0,0,0,,{\pos(982.26,664.575)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.73,0:02:11.77,SingsG4,SIGN,0,0,0,,{\pos(982.26,666.615)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.77,0:02:11.81,SingsG4,SIGN,0,0,0,,{\pos(982.26,668.7)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.81,0:02:11.86,SingsG4,SIGN,0,0,0,,{\pos(982.26,670.785)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.86,0:02:11.90,SingsG4,SIGN,0,0,0,,{\pos(982.26,672.81)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.90,0:02:11.94,SingsG4,SIGN,0,0,0,,{\pos(982.275,674.88)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.94,0:02:11.98,SingsG4,SIGN,0,0,0,,{\pos(982.26,676.965)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:11.98,0:02:12.02,SingsG4,SIGN,0,0,0,,{\pos(982.26,678.99)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.02,0:02:12.07,SingsG4,SIGN,0,0,0,,{\pos(982.26,681.075)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.07,0:02:12.11,SingsG4,SIGN,0,0,0,,{\pos(982.26,683.16)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.11,0:02:12.15,SingsG4,SIGN,0,0,0,,{\pos(982.26,685.2)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.15,0:02:12.19,SingsG4,SIGN,0,0,0,,{\pos(982.26,687.255)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.19,0:02:12.23,SingsG4,SIGN,0,0,0,,{\pos(982.26,689.325)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.23,0:02:12.27,SingsG4,SIGN,0,0,0,,{\pos(982.275,691.365)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.27,0:02:12.32,SingsG4,SIGN,0,0,0,,{\pos(982.275,693.42)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.32,0:02:12.36,SingsG4,SIGN,0,0,0,,{\pos(982.275,695.505)\fscy100\fnGOODBRUSH\fs90\b1\c&H413E41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.36,0:02:12.40,SingsG4,SIGN,0,0,0,,{\pos(982.275,697.545)\fscy100\fnGOODBRUSH\fs90\b1\c&H565263&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.40,0:02:12.44,SingsG4,SIGN,0,0,0,,{\pos(982.17,699.465)\fscy100\fnGOODBRUSH\fs90\b1\c&H5F6D95&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.44,0:02:12.48,SingsG4,SIGN,0,0,0,,{\pos(982.065,701.43)\fscy100\fnGOODBRUSH\fs90\b1\c&H606A78&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.48,0:02:12.52,SingsG4,SIGN,0,0,0,,{\pos(981.96,703.335)\fscy100\fnGOODBRUSH\fs90\b1\c&H687281&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.52,0:02:12.57,SingsG4,SIGN,0,0,0,,{\pos(981.87,705.27)\fscy100\fnGOODBRUSH\fs90\b1\c&H657277&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.57,0:02:12.61,SingsG4,SIGN,0,0,0,,{\pos(981.78,707.22)\fscy100\fnGOODBRUSH\fs90\b1\c&H6A7278&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.61,0:02:12.65,SingsG4,SIGN,0,0,0,,{\pos(981.855,709.29)\fscy100\fnGOODBRUSH\fs90\b1\c&H767980&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.65,0:02:12.69,SingsG4,SIGN,0,0,0,,{\pos(982.005,711.495)\fscy100\fnGOODBRUSH\fs90\b1\c&H574448&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.69,0:02:12.73,SingsG4,SIGN,0,0,0,,{\pos(982.08,713.61)\fscy100\fnGOODBRUSH\fs90\b1\c&H61494C&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.73,0:02:12.77,SingsG4,SIGN,0,0,0,,{\pos(982.14,715.68)\fscy100\fnGOODBRUSH\fs90\b1\c&H5C4D41&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.77,0:02:12.82,SingsG4,SIGN,0,0,0,,{\pos(982.215,717.795)\fscy100\fnGOODBRUSH\fs90\b1\c&H5E5840&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.82,0:02:12.86,SingsG4,SIGN,0,0,0,,{\pos(982.215,719.79)\fscy100\fnGOODBRUSH\fs90\b1\c&H5C5940&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.86,0:02:12.90,SingsG4,SIGN,0,0,0,,{\pos(982.2,721.755)\fscy100\fnGOODBRUSH\fs90\b1\c&H6B5E51&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.90,0:02:12.94,SingsG4,SIGN,0,0,0,,{\pos(981.615,723.45)\fscy100\fnGOODBRUSH\fs90\b1\c&HA2989B&\alpha&H33&\blur1.2}Good at cooking
-Dialogue: 0,0:02:12.94,0:02:12.98,SingsG4,SIGN,0,0,0,,{\pos(980.34,721.335)\fscy100\fnGOODBRUSH\fs90\b1\c&HD3C8D1&\alpha&H99&\blur1.2}Good at cooking
+Dialogue: 0,0:02:10.48,0:02:10.52,SingsG4,SIGN,0,0,0,,{\pos(935.73,993.07)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&HBB&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.52,0:02:10.56,SingsG4,SIGN,0,0,0,,{\pos(935.83,994.99)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&HBB&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.56,0:02:10.61,SingsG4,SIGN,0,0,0,,{\pos(935.93,996.97)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&HBB&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.61,0:02:10.65,SingsG4,SIGN,0,0,0,,{\pos(936.04,998.84)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&H91&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.65,0:02:10.69,SingsG4,SIGN,0,0,0,,{\pos(936.14,1000.8)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&H6F&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.69,0:02:10.73,SingsG4,SIGN,0,0,0,,{\pos(936.26,1002.71)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&H4D&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.73,0:02:10.77,SingsG4,SIGN,0,0,0,,{\pos(936.26,1004.66)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&H2B&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.77,0:02:10.81,SingsG4,SIGN,0,0,0,,{\pos(936.28,1006.58)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\alpha&H09&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.81,0:02:10.86,SingsG4,SIGN,0,0,0,,{\pos(936.26,1008.58)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.86,0:02:10.90,SingsG4,SIGN,0,0,0,,{\pos(936.26,1010.54)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.90,0:02:10.94,SingsG4,SIGN,0,0,0,,{\pos(936.26,1012.55)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.94,0:02:10.98,SingsG4,SIGN,0,0,0,,{\pos(936.28,1014.63)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.98,0:02:11.02,SingsG4,SIGN,0,0,0,,{\pos(936.28,1016.69)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.02,0:02:11.06,SingsG4,SIGN,0,0,0,,{\pos(936.28,1018.74)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.06,0:02:11.11,SingsG4,SIGN,0,0,0,,{\pos(936.28,1020.78)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.11,0:02:11.15,SingsG4,SIGN,0,0,0,,{\pos(936.28,1022.83)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.15,0:02:11.19,SingsG4,SIGN,0,0,0,,{\pos(936.28,1024.87)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.19,0:02:11.23,SingsG4,SIGN,0,0,0,,{\pos(936.26,1026.92)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.23,0:02:11.27,SingsG4,SIGN,0,0,0,,{\pos(936.26,1028.95)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.27,0:02:11.31,SingsG4,SIGN,0,0,0,,{\pos(936.26,1031.01)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.31,0:02:11.36,SingsG4,SIGN,0,0,0,,{\pos(936.26,1033.05)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.36,0:02:11.40,SingsG4,SIGN,0,0,0,,{\pos(936.26,1035.1)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.40,0:02:11.44,SingsG4,SIGN,0,0,0,,{\pos(936.28,1037.15)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.44,0:02:11.48,SingsG4,SIGN,0,0,0,,{\pos(936.26,1039.19)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.48,0:02:11.52,SingsG4,SIGN,0,0,0,,{\pos(936.26,1041.24)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.52,0:02:11.56,SingsG4,SIGN,0,0,0,,{\pos(936.26,1043.32)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.56,0:02:11.61,SingsG4,SIGN,0,0,0,,{\pos(936.26,1045.38)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.61,0:02:11.65,SingsG4,SIGN,0,0,0,,{\pos(936.26,1047.42)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.65,0:02:11.69,SingsG4,SIGN,0,0,0,,{\pos(936.28,1049.49)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.69,0:02:11.73,SingsG4,SIGN,0,0,0,,{\pos(936.26,1051.58)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.73,0:02:11.77,SingsG4,SIGN,0,0,0,,{\pos(936.26,1053.62)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.77,0:02:11.81,SingsG4,SIGN,0,0,0,,{\pos(936.26,1055.7)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.81,0:02:11.86,SingsG4,SIGN,0,0,0,,{\pos(936.26,1057.78)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.86,0:02:11.90,SingsG4,SIGN,0,0,0,,{\pos(936.26,1059.82)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.90,0:02:11.94,SingsG4,SIGN,0,0,0,,{\pos(936.28,1061.87)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.94,0:02:11.98,SingsG4,SIGN,0,0,0,,{\pos(936.26,1063.97)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:11.98,0:02:12.02,SingsG4,SIGN,0,0,0,,{\pos(936.26,1065.99)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.02,0:02:12.07,SingsG4,SIGN,0,0,0,,{\pos(936.26,1068.07)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.07,0:02:12.11,SingsG4,SIGN,0,0,0,,{\pos(936.26,1070.16)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.11,0:02:12.15,SingsG4,SIGN,0,0,0,,{\pos(936.26,1072.19)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.15,0:02:12.19,SingsG4,SIGN,0,0,0,,{\pos(936.26,1074.26)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.19,0:02:12.23,SingsG4,SIGN,0,0,0,,{\pos(936.26,1076.33)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.23,0:02:12.27,SingsG4,SIGN,0,0,0,,{\pos(936.28,1078.37)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.27,0:02:12.32,SingsG4,SIGN,0,0,0,,{\pos(936.28,1080.41)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.32,0:02:12.36,SingsG4,SIGN,0,0,0,,{\pos(936.28,1082.51)\fscy100\fnPermanent Marker\fs96\b1\c&H454545&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.36,0:02:12.40,SingsG4,SIGN,0,0,0,,{\pos(936.28,1084.54)\fscy100\fnPermanent Marker\fs96\b1\c&H535462&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.40,0:02:12.44,SingsG4,SIGN,0,0,0,,{\pos(936.17,1086.47)\fscy100\fnPermanent Marker\fs96\b1\c&H6E6F8F&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.44,0:02:12.48,SingsG4,SIGN,0,0,0,,{\pos(936.07,1088.43)\fscy100\fnPermanent Marker\fs96\b1\c&H434658&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.48,0:02:12.52,SingsG4,SIGN,0,0,0,,{\pos(935.96,1090.34)\fscy100\fnPermanent Marker\fs96\b1\c&H5F6572&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.52,0:02:12.57,SingsG4,SIGN,0,0,0,,{\pos(935.87,1092.28)\fscy100\fnPermanent Marker\fs96\b1\c&H5B676F&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.57,0:02:12.61,SingsG4,SIGN,0,0,0,,{\pos(935.78,1094.22)\fscy100\fnPermanent Marker\fs96\b1\c&H5D696F&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.61,0:02:12.65,SingsG4,SIGN,0,0,0,,{\pos(935.86,1096.28)\fscy100\fnPermanent Marker\fs96\b1\c&H687276&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.65,0:02:12.69,SingsG4,SIGN,0,0,0,,{\pos(936.01,1098.5)\fscy100\fnPermanent Marker\fs96\b1\c&H493C40&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.69,0:02:12.73,SingsG4,SIGN,0,0,0,,{\pos(936.08,1100.6)\fscy100\fnPermanent Marker\fs96\b1\c&H493C40&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.73,0:02:12.77,SingsG4,SIGN,0,0,0,,{\pos(936.14,1102.68)\fscy100\fnPermanent Marker\fs96\b1\c&H45483A&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.77,0:02:12.82,SingsG4,SIGN,0,0,0,,{\pos(936.21,1104.79)\fscy100\fnPermanent Marker\fs96\b1\c&H414D2F&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.82,0:02:12.86,SingsG4,SIGN,0,0,0,,{\pos(936.21,1106.78)\fscy100\fnPermanent Marker\fs96\b1\c&H404D31&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.86,0:02:12.90,SingsG4,SIGN,0,0,0,,{\pos(936.2,1108.76)\fscy100\fnPermanent Marker\fs96\b1\c&H4D5345&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.90,0:02:12.94,SingsG4,SIGN,0,0,0,,{\pos(935.62,1110.45)\fscy100\fnPermanent Marker\fs96\b1\c&H92989C&\alpha&H33&\blur0.8}Always cheerful
+Dialogue: 0,0:02:12.94,0:02:12.98,SingsG4,SIGN,0,0,0,,{\pos(934.34,1108.34)\fscy100\fnPermanent Marker\fs96\b1\c&HD7D3E0&\alpha&H99&\blur0.8}Always cheerful
+Dialogue: 0,0:02:10.48,0:02:10.52,SingsG4,SIGN,0,0,0,,{\pos(941.74,596.06)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&HDD&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.52,0:02:10.56,SingsG4,SIGN,0,0,0,,{\pos(941.83,597.98)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&HBB&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.56,0:02:10.61,SingsG4,SIGN,0,0,0,,{\pos(941.93,599.96)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&HBB&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.61,0:02:10.65,SingsG4,SIGN,0,0,0,,{\pos(942.04,601.85)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&H91&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.65,0:02:10.69,SingsG4,SIGN,0,0,0,,{\pos(942.14,603.8)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&H6F&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.69,0:02:10.73,SingsG4,SIGN,0,0,0,,{\pos(942.26,605.71)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&H4D&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.73,0:02:10.77,SingsG4,SIGN,0,0,0,,{\pos(942.26,607.66)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&H2B&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.77,0:02:10.81,SingsG4,SIGN,0,0,0,,{\pos(942.28,609.58)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\alpha&H09&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.81,0:02:10.86,SingsG4,SIGN,0,0,0,,{\pos(942.26,611.57)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.86,0:02:10.90,SingsG4,SIGN,0,0,0,,{\pos(942.26,613.54)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.90,0:02:10.94,SingsG4,SIGN,0,0,0,,{\pos(942.26,615.54)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.94,0:02:10.98,SingsG4,SIGN,0,0,0,,{\pos(942.28,617.63)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:10.98,0:02:11.02,SingsG4,SIGN,0,0,0,,{\pos(942.28,619.68)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.02,0:02:11.06,SingsG4,SIGN,0,0,0,,{\pos(942.28,621.74)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.06,0:02:11.11,SingsG4,SIGN,0,0,0,,{\pos(942.28,623.79)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.11,0:02:11.15,SingsG4,SIGN,0,0,0,,{\pos(942.28,625.84)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.15,0:02:11.19,SingsG4,SIGN,0,0,0,,{\pos(942.28,627.88)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.19,0:02:11.23,SingsG4,SIGN,0,0,0,,{\pos(942.26,629.92)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.23,0:02:11.27,SingsG4,SIGN,0,0,0,,{\pos(942.26,631.94)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.27,0:02:11.31,SingsG4,SIGN,0,0,0,,{\pos(942.26,634.01)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.31,0:02:11.36,SingsG4,SIGN,0,0,0,,{\pos(942.26,636.07)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.36,0:02:11.40,SingsG4,SIGN,0,0,0,,{\pos(942.26,638.09)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.40,0:02:11.44,SingsG4,SIGN,0,0,0,,{\pos(942.28,640.15)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.44,0:02:11.48,SingsG4,SIGN,0,0,0,,{\pos(942.26,642.2)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.48,0:02:11.52,SingsG4,SIGN,0,0,0,,{\pos(942.26,644.24)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.52,0:02:11.56,SingsG4,SIGN,0,0,0,,{\pos(942.26,646.33)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.56,0:02:11.61,SingsG4,SIGN,0,0,0,,{\pos(942.26,648.38)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.61,0:02:11.65,SingsG4,SIGN,0,0,0,,{\pos(942.26,650.42)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.65,0:02:11.69,SingsG4,SIGN,0,0,0,,{\pos(942.28,652.49)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.69,0:02:11.73,SingsG4,SIGN,0,0,0,,{\pos(942.26,654.58)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.73,0:02:11.77,SingsG4,SIGN,0,0,0,,{\pos(942.26,656.62)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.77,0:02:11.81,SingsG4,SIGN,0,0,0,,{\pos(942.26,658.7)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.81,0:02:11.86,SingsG4,SIGN,0,0,0,,{\pos(942.26,660.79)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.86,0:02:11.90,SingsG4,SIGN,0,0,0,,{\pos(942.26,662.81)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.90,0:02:11.94,SingsG4,SIGN,0,0,0,,{\pos(942.28,664.88)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.94,0:02:11.98,SingsG4,SIGN,0,0,0,,{\pos(942.26,666.97)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:11.98,0:02:12.02,SingsG4,SIGN,0,0,0,,{\pos(942.26,668.99)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.02,0:02:12.07,SingsG4,SIGN,0,0,0,,{\pos(942.26,671.08)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.07,0:02:12.11,SingsG4,SIGN,0,0,0,,{\pos(942.26,673.16)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.11,0:02:12.15,SingsG4,SIGN,0,0,0,,{\pos(942.26,675.2)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.15,0:02:12.19,SingsG4,SIGN,0,0,0,,{\pos(942.26,677.26)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.19,0:02:12.23,SingsG4,SIGN,0,0,0,,{\pos(942.26,679.33)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.23,0:02:12.27,SingsG4,SIGN,0,0,0,,{\pos(942.28,681.37)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.27,0:02:12.32,SingsG4,SIGN,0,0,0,,{\pos(942.28,683.42)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.32,0:02:12.36,SingsG4,SIGN,0,0,0,,{\pos(942.28,685.51)\fscy100\fnPermanent Marker\fs95\b1\c&H585858&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.36,0:02:12.40,SingsG4,SIGN,0,0,0,,{\pos(942.28,687.55)\fscy100\fnPermanent Marker\fs95\b1\c&H565263&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.40,0:02:12.44,SingsG4,SIGN,0,0,0,,{\pos(942.17,689.47)\fscy100\fnPermanent Marker\fs95\b1\c&H5F6D95&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.44,0:02:12.48,SingsG4,SIGN,0,0,0,,{\pos(942.07,691.43)\fscy100\fnPermanent Marker\fs95\b1\c&H606A78&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.48,0:02:12.52,SingsG4,SIGN,0,0,0,,{\pos(941.96,693.34)\fscy100\fnPermanent Marker\fs95\b1\c&H687281&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.52,0:02:12.57,SingsG4,SIGN,0,0,0,,{\pos(941.87,695.27)\fscy100\fnPermanent Marker\fs95\b1\c&H657277&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.57,0:02:12.61,SingsG4,SIGN,0,0,0,,{\pos(941.78,697.22)\fscy100\fnPermanent Marker\fs95\b1\c&H6A7278&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.61,0:02:12.65,SingsG4,SIGN,0,0,0,,{\pos(941.86,699.29)\fscy100\fnPermanent Marker\fs95\b1\c&H767980&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.65,0:02:12.69,SingsG4,SIGN,0,0,0,,{\pos(942.01,701.5)\fscy100\fnPermanent Marker\fs95\b1\c&H574448&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.69,0:02:12.73,SingsG4,SIGN,0,0,0,,{\pos(942.08,703.61)\fscy100\fnPermanent Marker\fs95\b1\c&H61494C&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.73,0:02:12.77,SingsG4,SIGN,0,0,0,,{\pos(942.14,705.68)\fscy100\fnPermanent Marker\fs95\b1\c&H5C4D41&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.77,0:02:12.82,SingsG4,SIGN,0,0,0,,{\pos(942.22,707.8)\fscy100\fnPermanent Marker\fs95\b1\c&H5E5840&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.82,0:02:12.86,SingsG4,SIGN,0,0,0,,{\pos(942.22,709.79)\fscy100\fnPermanent Marker\fs95\b1\c&H5C5940&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.86,0:02:12.90,SingsG4,SIGN,0,0,0,,{\pos(942.2,711.76)\fscy100\fnPermanent Marker\fs95\b1\c&H6B5E51&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.90,0:02:12.94,SingsG4,SIGN,0,0,0,,{\pos(941.62,713.45)\fscy100\fnPermanent Marker\fs95\b1\c&HA2989B&\alpha&H33&\blur0.8}Good at cooking
+Dialogue: 0,0:02:12.94,0:02:12.98,SingsG4,SIGN,0,0,0,,{\pos(940.34,711.34)\fscy100\fnPermanent Marker\fs95\b1\c&HD3C8D1&\alpha&H99&\blur0.8}Good at cooking
 Dialogue: 0,0:03:50.37,0:03:50.41,SignG,SIGN,0,0,0,,{\pos(1014.995,469.5)\frz355.2\fax0.085\fnA-OTF Folk Pro H\fs70\c&H838073&\blur0.6}Class 1
 Dialogue: 0,0:03:50.41,0:03:50.46,SignG,SIGN,0,0,0,,{\pos(1015,468.87)\frz355.2\fax0.1\fnA-OTF Folk Pro H\fs70\c&H838073&\blur0.6}Class 1
 Dialogue: 0,0:03:50.46,0:03:50.50,SignG,SIGN,0,0,0,,{\pos(1015,468.225)\frz355.2\fax0.1\fnA-OTF Folk Pro H\fs70\c&H838073&\blur0.6}Class 1
@@ -9575,6 +9575,8 @@ Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78
 Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
+Dialogue: 1,0:08:46.05,0:08:48.84,SignG,,0,0,0,,{=287}{\fscy99.84\t(17,2770,\fscy100.01)\fscx99.84\t(17,2770,\fscx100.01)\blur1\t(17,2770,\blur1)\bord0\t(17,2770,\bord0)\fs35\fn0 Buzz DNA\frz27.36\t(17,2770,\frz26.95)\move(-98.42,306.95,208.89,305.92,17,2770)\c&H3F3A34&\3c&H393D4D&\3a&H79&\1a&H00&}Fortune
+Dialogue: 0,0:08:46.05,0:08:48.84,SignG,,0,0,0,,{=286}{\fscy99.84\t(17,2770,\fscy100.01)\fscx99.84\t(17,2770,\fscx100.01)\blur1\t(17,2770,\blur1)\bord0.2\t(17,2770,\bord0.2)\fs35\fn0 Buzz DNA\frz27.36\t(17,2770,\frz26.95)\move(-98.42,306.95,208.89,305.92,17,2770)\c&H342E27&\3c&H393D4D&\3a&H79&\1a&H08&}Fortune
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"80626f27-e8f1-4a84-8c7a-8edcca2a3d67"#2C"originalText"#3A"{\\fs96\\bord0\\c&H73C3E0&\\4a&HFF&\\blur0.6\\pos(964.33#2C698.99)}H{\\c&H78C7E1&}e{\\c&H80CFE3&}l{\\c&H85D3E4&}p {\\c&H92DFE6&}W{\\c&H8EDBE5&}a{\\c&H8AD7E4&}n{\\c&H85D3E4&}t{\\c&H80CFE3&}e{\\c&H7CCBE2&}d"}
@@ -9660,3 +9662,5 @@ Data: 279,a-mo,e{"uuid"#3A"d3540a63-4962-4612-b1d0-ca46a2ddd073"#2C"originalText
 Data: 280,a-mo,e{"uuid"#3A"306b9f86-77d9-4881-b579-e1089d349db2"#2C"originalText"#3A"{\\frz7.873\\fax0.25\\fs80\\blur1\\pos(626#2C370.88)}u"}
 Data: 281,a-mo,e{"uuid"#3A"b156cec3-0220-4cbc-b99e-062c1136b641"#2C"originalText"#3A"{\\frz8.725\\fax0.25\\fs80\\blur1\\pos(589.74#2C376.05)}F"}
 Data: 283,a-mo,e{"uuid"#3A"73f29325-4d89-4eb7-b303-29c883648b03"#2C"originalText"#3A"{\\fnArnold 2.1\\b1\\frz354.2\\c&H2F5CE1&\\blur0.8\\fade(190#2C0)\\fscx170\\fscy170\\pos(1744#2C569.2)}Urgh"}
+Data: 286,a-mo,e{"uuid"#3A"8c384f37-481a-412b-85db-03d215198c4a"#2C"originalText"#3A"{\\blur1\\bord0.2\\fs35\\fn0 Buzz DNA\\frz26.99\\pos(168#2C306)\\c&H342E27&\\3c&H393D4D&\\3a&H79&\\1a&H08&}Fortune"}
+Data: 287,a-mo,e{"uuid"#3A"6cd484e4-d8c3-4361-884d-77b87662abde"#2C"originalText"#3A"{\\blur1\\bord0\\fs35\\fn0 Buzz DNA\\frz26.99\\pos(168#2C306)\\c&H3F3A34&\\3c&H393D4D&\\3a&H79&\\1a&H00&}Fortune"}
