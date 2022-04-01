@@ -180,10 +180,10 @@ Dialogue: 0,0:06:24.15,0:06:28.52,Default,Itsuki,0,0,0,,I've seen pictures of th
 Dialogue: 0,0:06:28.52,0:06:29.91,Default,Nino,0,0,0,,This is so grammable.
 Dialogue: 0,0:06:30.59,0:06:32.91,Default,Nino,0,0,0,,Come on, everyone, peace signs.
 Dialogue: 0,0:06:34.12,0:06:37.11,Default,Yotsuba,0,0,0,,It's kind of rare that we get a \Npicture of just us sisters, huh?
-Dialogue: 0,0:06:37.11,0:06:39.59,Default,Nino,0,0,0,,Oh, we don't have any of just the five of us?
-Dialogue: 0,0:06:39.59,0:06:42.40,Default,Ichika,0,0,0,,We didn't take one of us\Nat the fireworks festival?
+Dialogue: 0,0:06:37.11,0:06:39.59,Default,Nino,0,0,0,,Oh, don't we have any of just the five of us?
+Dialogue: 0,0:06:39.59,0:06:42.40,Default,Ichika,0,0,0,,Didn't we take one \Nat the fireworks festival?
 Dialogue: 0,0:06:42.40,0:06:46.20,Default,Itsuki,0,0,0,,We haven't taken one since we were\Non our field trip back in elementary school.
-Dialogue: 0,0:06:46.20,0:06:48.14,Default,Yotsuba,0,0,0,,Let's get a picture of all \Nof us this time, then.
+Dialogue: 0,0:06:46.20,0:06:48.14,Default,Yotsuba,0,0,0,,Let's get a picture of \Nall of us this time, then.
 Dialogue: 0,0:06:48.14,0:06:50.09,Default,Miku,0,0,0,,Do you think Futaro's at the top already?
 Dialogue: 0,0:06:50.40,0:06:52.38,Default,Nino,0,0,0,,I haven't gotten a glimpse of him.
 Dialogue: 0,0:06:52.38,0:06:54.37,Default,Itsuki,0,0,0,,Guys are fast.
@@ -197,7 +197,7 @@ Dialogue: 0,0:07:11.20,0:07:12.51,Default,Nino,0,0,0,,You're right.
 Dialogue: 0,0:07:12.51,0:07:15.41,Default,Nino,0,0,0,,She's nothing like a certain \Nschemer that I know.
 Dialogue: 0,0:07:15.92,0:07:18.79,Default,Nino,0,0,0,,You're coming up with some \Nnasty plan again, aren't you?
 Dialogue: 0,0:07:20.07,0:07:22.29,Default,Ichika,0,0,0,,Me? I would never!
-Dialogue: 0,0:07:23.19,0:07:25.42,Default,Yotsuba,0,0,0,,There're two ways we can go.
+Dialogue: 0,0:07:23.19,0:07:25.42,Default,Yotsuba,0,0,0,,There are two ways we can go.
 Dialogue: 0,0:07:25.94,0:07:28.90,Default,Itsuki,0,0,0,,It looks like both lead to the peak.
 Dialogue: 0,0:07:28.90,0:07:31.72,Italics,Nino,0,0,0,,Which way has Fu{**-kun} gone?
 Dialogue: 0,0:07:31.72,0:07:34.68,Italics,Nino,0,0,0,,I'll fall behind pretty badly \Nif I don't meet him here.
@@ -217,8 +217,8 @@ Dialogue: 0,0:08:04.81,0:08:05.99,Default,Nino,0,0,0,,Hang on a second.
 Dialogue: 0,0:08:05.99,0:08:07.34,Default,Ichika,0,0,0,,You can't decide that for us.
 Dialogue: 0,0:08:07.61,0:08:10.65,Default,Yotsuba,0,0,0,,I am the victor! My orders are absolute!
 Dialogue: 0,0:08:10.65,0:08:12.83,Default,Yotsuba,0,0,0,,I have the right to order you to do anything!
-Dialogue: 0,0:08:17.02,0:08:21.94,Default,Nino,0,0,0,,{\an8}Look what happened because \Nof your stupid idea.
-Dialogue: 0,0:08:21.94,0:08:25.17,Default,Nino,0,0,0,,Judging from the flow of people, \Nthe other route was the right one.
+Dialogue: 0,0:08:17.02,0:08:21.73,Default,Nino,0,0,0,,{\an8}Look what happened because \Nof your stupid idea.
+Dialogue: 0,0:08:21.77,0:08:25.17,Default,Nino,0,0,0,,Judging from the flow of people, \Nthe other route was the right one.
 Dialogue: 0,0:08:25.86,0:08:27.08,Default,Itsuki,0,0,0,,Um...
 Dialogue: 0,0:08:27.08,0:08:29.37,Default,Itsuki,0,0,0,,What are you two talking about?
 Dialogue: 0,0:08:30.79,0:08:31.95,Default,Itsuki,0,0,0,,It's a washroom.
@@ -260,7 +260,7 @@ Dialogue: 0,0:10:32.58,0:10:35.51,Default,Miku,0,0,0,,If there's a reason for th
 Dialogue: 0,0:10:35.51,0:10:39.49,Default,Yotsuba,0,0,0,,Ichika, this wasn't what I meant.
 Dialogue: 0,0:10:40.04,0:10:41.99,Default,Yotsuba,0,0,0,,Is this what you really wanted to do?
 Dialogue: 0,0:10:43.49,0:10:45.96,Default,Miku,0,0,0,,Yotsuba, what do you mean?
-Dialogue: 0,0:10:45.96,0:10:48.04,Default,Yotsuba,0,0,0,,Ichika is trying to get in the way.
+Dialogue: 0,0:10:45.96,0:10:48.04,Default,Yotsuba,0,0,0,,Ichika's trying to get in the way.
 Dialogue: 0,0:10:48.31,0:10:49.90,Default,Miku,0,0,0,,Get in the way of what?
 Dialogue: 0,0:10:51.02,0:10:51.98,Default,Yotsuba,0,0,0,,In the way of...
 Dialogue: 0,0:10:51.98,0:10:53.20,Default,Ichika,0,0,0,,Yotsuba, wait!
