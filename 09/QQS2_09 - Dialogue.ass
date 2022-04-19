@@ -165,7 +165,7 @@ Dialogue: 0,0:07:28.59,0:07:30.43,Default,Person B,0,0,0,,He had the highest gra
 Dialogue: 0,0:07:31.13,0:07:33.43,Default,Takeda,0,0,0,,Sheesh, you guys.
 Dialogue: 0,0:07:33.43,0:07:37.47,Default,Yotsuba,0,0,0,,{*}Teacher{*Sensei}, I know someone perfectly \Nsuited for the role.
 Dialogue: 0,0:07:37.47,0:07:37.93,Default,Sensei,0,0,0,,Oh?
-Dialogue: 0,0:07:40.81,0:07:42.98,Default,Yotsuba,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro-san}!
+Dialogue: 0,0:07:40.81,0:07:42.98,Default,Yotsuba,0,0,0,,Uesugi Futaro{**-san}!
 Dialogue: 0,0:07:43.30,0:07:44.35,Default,Futaro,0,0,0,,Huh?!
 Dialogue: 0,0:07:45.14,0:07:47.07,Default,Person A,0,0,0,,Is Uesugi{**-kun} really cut out for it?
 Dialogue: 0,0:07:47.07,0:07:49.36,Default,Person B,0,0,0,,She's not going to even consider Takeda{**-kun}?

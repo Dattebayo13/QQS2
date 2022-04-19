@@ -423,7 +423,7 @@ Dialogue: 10,0:20:48.48,0:20:50.22,Default,,0,0,0,,I can't make myself useful.
 Dialogue: 10,0:20:51.57,0:20:54.73,Default,,0,0,0,,They don't need me.
 Dialogue: 10,0:21:00.06,0:21:01.74,Default,,0,0,0,,There you are, down in the dumps again.
 Dialogue: 10,0:21:04.71,0:21:07.02,Default,,0,0,0,,You haven't changed, have you...
-Dialogue: 10,0:21:07.02,0:21:08.89,Default,,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro-kun}?
+Dialogue: 10,0:21:07.02,0:21:08.89,Default,,0,0,0,,Uesugi Futaro{**-kun}?
 Dialogue: 10,0:21:16.17,0:21:17.41,Default,,0,0,0,,It's been a while.
 Dialogue: 10,0:21:29.80,0:21:31.85,Default,,0,0,0,,Uesugi{**-san}?
 Dialogue: 10,0:21:31.85,0:21:33.82,Default,,0,0,0,,What are you doing here?

@@ -95,17 +95,7 @@ subs {
             }
         }
 
-		from(swap.item()) {
-            tracks {
-                lang("enm")
-                name(get("subtitle_enm"))
-                default(false)
-                forced(false)
-				
-            }
-        }
-
-        from(merge_ss.item()) {
+         from(merge_ss.item()) {
             tracks {
                 lang("eng")
                 name(get("subtitle_ss"))
@@ -145,10 +135,6 @@ subs {
                     lang("jpn")
                     default(true)
                 }
-                audio {
-                    lang("jpn")
-                    default(true)
-                }
 				audio { include(false) }
 				subtitles { include(false) }
                 includeChapters(false)
@@ -169,7 +155,7 @@ subs {
                
                 }
             }
-			attach(get("ncfonts"))
+			attach(get("ncfonts")) { includeExtensions("ttf", "otf") }
 			out(get("muxout"))
 
         }

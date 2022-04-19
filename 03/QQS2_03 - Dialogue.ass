@@ -70,7 +70,7 @@ Dialogue: 10,0:01:14.68,0:01:16.55,Default,,0,0,0,,I-I wasn't down.
 Dialogue: 10,0:01:16.55,0:01:18.93,Default,,0,0,0,,Just tell me.
 Dialogue: 10,0:01:18.93,0:01:22.47,Default,,0,0,0,,I like being alone, but I get bored not having anyone to talk to.
 Dialogue: 10,0:01:24.81,0:01:28.80,Italics,,0,0,0,,Five years ago, I met a girl.
-Dialogue: 10,0:01:29.36,0:01:30.98,Default,,0,0,0,,{*}Futaro Uesugi{*Uesugi Futaro-kun}.
+Dialogue: 10,0:01:29.36,0:01:30.98,Default,,0,0,0,,Uesugi Futaro{**-kun}.
 Dialogue: 10,0:01:35.65,0:01:36.88,Default,,0,0,0,,It's been a while.
 Dialogue: 10,0:03:16.34,0:03:17.80,Default,,0,0,0,,Are you....
 Dialogue: 10,0:03:18.42,0:03:19.80,Default,,0,0,0,,The girl from Kyoto?
