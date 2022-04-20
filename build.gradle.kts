@@ -95,6 +95,16 @@ subs {
             }
         }
 
+		from(swap.item()) {
+            tracks {
+                lang("enm")
+                name(get("subtitle_enm"))
+                default(false)
+                forced(false)
+
+            }
+        }
+		
          from(merge_ss.item()) {
             tracks {
                 lang("eng")
