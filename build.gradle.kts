@@ -33,6 +33,7 @@ subs {
 	
 	swap {
         from(merge.item())
+		styles(Regex("Default|Italics"))
         out(get("mergednameswap"))
     }
 	
