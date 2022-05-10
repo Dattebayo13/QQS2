@@ -22,9 +22,9 @@ Video File: QQS2_09_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 309
-Active Line: 326
-Video Position: 22866
+Scroll Position: 12
+Active Line: 13
+Video Position: 630
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:00:12.19,0:00:13.49,Default,Ichika,0,0,0,,Oh, and from next week,
 Dialogue: 0,0:00:14.10,0:00:16.74,Default,Ichika,0,0,0,,we're going to split the rent five ways.
 Dialogue: 0,0:00:17.11,0:00:21.29,Default,Ichika,0,0,0,,If you can't pay, you'll be \Nsent back to our old apartment.
 Dialogue: 0,0:00:21.29,0:00:23.50,Default,Ichika,0,0,0,,Let's all work hard so we can stay together.
-Dialogue: 0,0:00:23.74,0:00:24.82,Default,Ichika,0,0,0,,There you have it!
+Dialogue: 0,0:00:23.74,0:00:24.68,Default,Ichika,0,0,0,,There you have it!
 Dialogue: 0,0:00:26.33,0:00:27.50,Default,Ichika,0,0,0,,Ball's in your court now.
 Dialogue: 0,0:00:28.24,0:00:29.38,Default,Boss,0,0,0,,{\an8}So...
 Dialogue: 0,0:00:29.38,0:00:35.01,Default,Boss,0,0,0,,{\an8}I'm glad you saw the ad and decided \Nto come in for an interview.
