@@ -22,9 +22,9 @@ Video File: QQS2_12_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 332
-Active Line: 347
-Video Position: 25155
+Scroll Position: 335
+Active Line: 345
+Video Position: 25072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -379,7 +379,7 @@ Dialogue: 0,0:17:05.33,0:17:06.50,Default,Futaro,0,0,0,,Not that I didn't know.
 Dialogue: 0,0:17:13.62,0:17:14.64,Default,Miku,0,0,0,,And I love you...
 Dialogue: 0,0:17:18.73,0:17:20.81,Italics,Ichika,0,0,0,,I'm sorry, Miku.
 Dialogue: 0,0:17:21.09,0:17:22.86,Italics,Ichika,0,0,0,,I'm sorry I kept getting in your way.
-Dialogue: 0,0:17:17.72,0:17:27.61,Italics,Ichika,0,0,0,,Futaro{**-kun}, I'm sorry I kept lying.
+Dialogue: 0,0:17:23.58,0:17:27.61,Italics,Ichika,0,0,0,,Futaro{**-kun}, I'm sorry I kept lying.
 Dialogue: 0,0:17:28.14,0:17:30.48,Italics,Ichika,0,0,0,,But what I said...
 Dialogue: 0,0:17:30.48,0:17:34.63,Default,Yotsuba,0,0,0,,I met this really interesting boy today.
 Dialogue: 0,0:17:34.63,0:17:37.74,Default,Yotsuba,0,0,0,,And we bought all these \Ngood luck charms together.
