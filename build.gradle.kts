@@ -14,7 +14,7 @@ subs {
 	    onStyleConflict(ErrorMode.FAIL)
 
         from(get("dialogue")) {
-		    incrementLayer(10)
+		    incrementLayer(20)
 		}
 
         if (propertyExists("OP")) {
