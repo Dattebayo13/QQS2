@@ -150,17 +150,21 @@ subs {
                     lang("jpn")
                     default(true)
                 }
-				audio { include(false) }
+				audio {
+                name("")
+				lang("jpn")
+                default(true)
+        }
 				subtitles { include(false) }
                 includeChapters(false)
                 attachments { include(false) }
             }
-		    from(get("nc_audio")) {
-                audio {
-                name("")
-				lang("jpn")
-                default(true)
-        }}
+//		    from(get("nc_audio")) {
+//                audio {
+//                name("")
+//				lang("jpn")
+//                default(true)
+//        }}
 			from(get("nc_subs")) {
                 tracks {
                     lang("eng")
