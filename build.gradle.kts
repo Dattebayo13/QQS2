@@ -134,8 +134,7 @@ subs {
         }
 		
 		onMissingGlyphs(ErrorMode.IGNORE)
-		mkvmerge("mkvmerge65.exe")
-        skipUnusedFonts(true)
+		skipUnusedFonts(true)
         out(get("muxout"))
 		
     }
