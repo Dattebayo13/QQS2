@@ -17,14 +17,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: QQS2_12_premux.mkv
-Video File: QQS2_12_premux.mkv
+Audio File: E:/Anime/Uploads/[Miku Gang] The Quintessential Quintuplets S2 (BD 1080p HEVC AAC) [Dual-Audio]/[Miku Gang] The Quintessential Quintuplets - S02E12 (BD 1080p HEVC AAC) [Dual-Audio] [92290180].mkv
+Video File: E:/Anime/Uploads/[Miku Gang] The Quintessential Quintuplets S2 (BD 1080p HEVC AAC) [Dual-Audio]/[Miku Gang] The Quintessential Quintuplets - S02E12 (BD 1080p HEVC AAC) [Dual-Audio] [92290180].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 335
-Active Line: 345
-Video Position: 25072
+Video Zoom Percent: 0.750000
+Scroll Position: 127
+Active Line: 131
+Video Position: 8909
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,8 +146,8 @@ Dialogue: 0,0:04:58.55,0:05:00.61,Italics,Nino,0,0,0,,I'm glad I didn't go.
 Dialogue: 0,0:05:05.19,0:05:07.87,Default,Ichika,0,0,0,,Wow, Itsuki{**-chan}.\NYou're really going all-in, huh?
 Dialogue: 0,0:05:07.87,0:05:08.66,Default,Ichika,0,0,0,,Not gonna wear it?
 Dialogue: 0,0:05:08.66,0:05:10.39,Default,Itsuki,0,0,0,,N-No, I'm not.
-Dialogue: 0,0:05:10.39,0:05:13.11,Default,Itsuki,0,0,0,,I'm going to throw it out \Nsince it's too much for me.
-Dialogue: 0,0:05:13.11,0:05:14.50,Default,Nino,0,0,0,,Ichika,
+Dialogue: 0,0:05:10.39,0:05:12.75,Default,Itsuki,0,0,0,,I'm going to throw it out \Nsince it's too much for me.
+Dialogue: 0,0:05:13.03,0:05:13.93,Default,Nino,0,0,0,,Ichika,
 Dialogue: 0,0:05:15.11,0:05:17.25,Default,Nino,0,0,0,,don't you have something to say to Miku?
 Dialogue: 0,0:05:21.62,0:05:23.76,Default,Miku,0,0,0,,Sorry, Ichika.
 Dialogue: 0,0:05:26.07,0:05:27.25,Default,Futaro,0,0,0,,I'm coming in.
@@ -164,8 +164,8 @@ Dialogue: 0,0:05:53.48,0:05:55.04,Default,Ichika,0,0,0,,No, we're, well...
 Dialogue: 0,0:05:55.04,0:05:57.55,Default,Yotsuba,0,0,0,,Man, that was refreshing.
 Dialogue: 0,0:05:59.97,0:06:02.15,Default,Ichika,0,0,0,,I-It's not a big deal, right?
 Dialogue: 0,0:06:02.15,0:06:04.13,Default,Nino,0,0,0,,Yeah, this is just another day for us.
-Dialogue: 0,0:06:04.13,0:06:06.50,Default,Itsuki,0,0,0,,O-Obviously, right?
-Dialogue: 0,0:06:06.50,0:06:07.85,Default,Futaro,0,0,0,,All right, then.
+Dialogue: 0,0:06:04.13,0:06:05.93,Default,Itsuki,0,0,0,,O-Obviously, right?
+Dialogue: 0,0:06:06.34,0:06:07.48,Default,Futaro,0,0,0,,All right, then.
 Dialogue: 0,0:06:08.34,0:06:10.20,Default,Futaro,0,0,0,,Anyway, thirty minutes.
 Dialogue: 0,0:06:10.20,0:06:13.06,Default,Futaro,0,0,0,,Apparently, we're deciding on our \Nelective itinerary for tomorrow, too.
 Dialogue: 0,0:06:13.06,0:06:14.12,Default,Futaro,0,0,0,,Give it some thought.
