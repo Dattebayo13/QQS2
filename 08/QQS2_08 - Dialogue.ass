@@ -23,8 +23,8 @@ Keyframes File: QQS2_08_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 463
-Active Line: 476
+Scroll Position: 391
+Active Line: 396
 Video Position: 34149
 
 [V4+ Styles]
@@ -430,7 +430,7 @@ Dialogue: 0,0:19:09.59,0:19:12.71,Default,Miku,0,0,0,,I love Futaro, and yet...
 Dialogue: 0,0:19:14.09,0:19:16.84,Default,Itsuki,0,0,0,,You have a crush on Uesugi{**-kun}?!
 Dialogue: 0,0:19:16.84,0:19:18.89,Default,Itsuki,0,0,0,,My goodness!
 Dialogue: 0,0:19:18.89,0:19:21.68,Default,Itsuki,0,0,0,,Everyone's going to be \Nshocked when they hear!
-Dialogue: 0,0:19:21.68,0:19:23.60,Default,Miku,0,0,0,,I'm pretty sure everyone knows.
+Dialogue: 0,0:19:21.68,0:19:23.60,Italics,Miku,0,0,0,,I'm pretty sure everyone knows.
 Dialogue: 0,0:19:23.60,0:19:25.69,Default,Itsuki,0,0,0,,But are you sure?
 Dialogue: 0,0:19:25.69,0:19:28.65,Default,Itsuki,0,0,0,,We're technically students and teacher.
 Dialogue: 0,0:19:28.65,0:19:29.65,Default,Miku,0,0,0,,That's why.

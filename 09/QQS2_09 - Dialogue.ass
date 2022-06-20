@@ -23,8 +23,8 @@ Keyframes File: QQS2_09_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 160
-Active Line: 174
+Scroll Position: 446
+Active Line: 465
 Video Position: 13172
 
 [V4+ Styles]
@@ -452,7 +452,7 @@ Dialogue: 0,0:20:03.44,0:20:04.73,Default,Futaro,0,0,0,,Get your act together!
 Dialogue: 0,0:20:04.73,0:20:06.48,Default,Ichika,0,0,0,,{\i1}Skip{\i0}?
 Dialogue: 0,0:20:07.14,0:20:10.03,Default,Ichika,0,0,0,,I've been working, you know.
 Dialogue: 0,0:20:10.03,0:20:11.23,Default,Futaro,0,0,0,,We barely made it.
-Dialogue: 0,0:20:12.40,0:20:14.23,Default,Ichika,0,0,0,,Things just aren't working out.
+Dialogue: 0,0:20:12.40,0:20:14.23,Italics,Ichika,0,0,0,,Things just aren't working out.
 Dialogue: 0,0:20:14.23,0:20:16.57,Default,Person A,0,0,0,,I saw the news this morning, Ichika{**-san}!
 Dialogue: 0,0:20:15.74,0:20:17.20,Default,Person B,0,0,0,,{\an8}Are you actually an actress?!
 Dialogue: 0,0:20:17.20,0:20:18.49,Default,Person C,0,0,0,,I'm so surprised.
@@ -499,4 +499,4 @@ Dialogue: 0,0:22:16.15,0:22:18.23,Default,Ichika,0,0,0,,I think you'd look good 
 Dialogue: 0,0:22:18.86,0:22:20.78,Default,Ichika,0,0,0,,I'm rooting for you two.
 Dialogue: 0,0:22:21.74,0:22:23.73,Default,Futaro,0,0,0,,You're not serious, right?
 Dialogue: 0,0:22:27.04,0:22:28.54,Default,Ichika,0,0,0,,Oh, I'm {\i1}very{\i0} serious.
-Dialogue: 0,0:24:01.63,0:24:03.67,Default,,0,0,0,,{\i1}Five Cranes in Return{\i0}!
+Dialogue: 0,0:24:01.63,0:24:03.67,Default,,0,0,0,,"Five Cranes in Return!"

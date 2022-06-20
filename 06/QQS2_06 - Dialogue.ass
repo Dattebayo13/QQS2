@@ -25,8 +25,8 @@ Keyframes File: QQS2_06_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 463
-Active Line: 471
+Scroll Position: 253
+Active Line: 267
 Video Position: 32850
 
 [V4+ Styles]
@@ -200,7 +200,7 @@ Dialogue: 0,0:07:39.36,0:07:44.19,Default,Shimoda,0,0,0,,And there's nothing wro
 Dialogue: 0,0:07:44.19,0:07:45.78,Default,Shimoda,0,0,0,,That's what I did, too.
 Dialogue: 0,0:07:46.32,0:07:50.07,Default,Shimoda,0,0,0,,But you aren't just trying to \Nbecome your mother, are you?
 Dialogue: 0,0:07:51.08,0:07:53.92,Default,Shimoda,0,0,0,,There are plenty of other ways to do that.
-Dialogue: 0,0:07:53.92,0:07:57.58,Default,Shimoda,0,0,0,,That said, no one has the right to tell \Nyou what what your dreams should be.
+Dialogue: 0,0:07:53.92,0:07:57.58,Default,Shimoda,0,0,0,,That said, no one has the right to tell \Nyou what your dreams should be.
 Dialogue: 0,0:07:58.08,0:08:02.46,Default,Shimoda,0,0,0,,Go for it, if there's a reason \Nyou want to become a teacher.
 Dialogue: 0,0:08:03.21,0:08:04.51,Default,Itsuki,0,0,0,,I...
 Dialogue: 0,0:08:12.18,0:08:13.01,Default,Nino,0,0,0,,Huh?
@@ -277,8 +277,8 @@ Dialogue: 0,0:10:56.64,0:10:58.43,Default,Ichika,0,0,0,,Don't worry about it.
 Dialogue: 0,0:10:58.43,0:11:02.02,Default,Ichika,0,0,0,,We might really end up failing this time.
 Dialogue: 0,0:11:02.98,0:11:04.27,Default,Futaro,0,0,0,,"This time"?
 Dialogue: 0,0:11:04.27,0:11:06.77,Default,Ichika,0,0,0,,Huh? Don't you know?
-Dialogue: 0,0:11:09.52,0:11:11.28,Italics,Ichika,0,0,0,,It really was expensive.
-Dialogue: 0,0:11:11.65,0:11:14.03,Italics,Ichika,0,0,0,,I don't have much left in savings, too.
+Dialogue: 0,0:11:09.52,0:11:11.28,Default,Ichika,0,0,0,,It really was expensive.
+Dialogue: 0,0:11:11.65,0:11:14.03,Default,Ichika,0,0,0,,I don't have much left in savings, too.
 Dialogue: 0,0:11:14.03,0:11:18.10,Italics,Ichika,0,0,0,,But if it'll make Futaro{**-kun} happy...
 Dialogue: 0,0:11:18.91,0:11:19.99,Italics,Ichika,0,0,0,,No, no!
 Dialogue: 0,0:11:19.99,0:11:22.20,Italics,Ichika,0,0,0,,This isn't a healthy relationship.
@@ -302,8 +302,8 @@ Dialogue: 0,0:12:12.42,0:12:13.96,Default,Futaro,0,0,0,,Listen carefully, everyo
 Dialogue: 0,0:12:14.55,0:12:17.47,Default,Futaro,0,0,0,,The point here isn't to answer \Nwith what the author is thinking.
 Dialogue: 0,0:12:17.47,0:12:20.64,Default,Futaro,0,0,0,,It's to write what you, as the readers, feel.
 Dialogue: 0,0:12:22.89,0:12:25.27,Italics,Futaro,0,0,0,,Damn it, we've hit a wall.
-Dialogue: 0,0:12:25.72,0:12:27.27,Italics,Miku,0,0,0,,Um...
-Dialogue: 0,0:12:27.27,0:12:30.35,Italics,Miku,0,0,0,,What is it that I felt?
+Dialogue: 0,0:12:25.72,0:12:27.27,Default,Miku,0,0,0,,Um...
+Dialogue: 0,0:12:27.27,0:12:30.35,Default,Miku,0,0,0,,What is it that I felt?
 Dialogue: 0,0:12:30.35,0:12:33.27,Italics,Futaro,0,0,0,,I did think we'd come to \Nthis point eventually.
 Dialogue: 0,0:12:33.27,0:12:36.74,Italics,Futaro,0,0,0,,This is my limit as someone\Nwho doesn't have the nous of a teacher.
 Dialogue: 0,0:12:36.74,0:12:38.90,Italics,Futaro,0,0,0,,I don't know what it is that they don't know!

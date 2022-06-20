@@ -1,0 +1,43 @@
+EPISODE 4
+
+0:09:18.04   Did you have you{This should be "your"} heart broken or something?
+
+EPISODE 5
+
+0:16:48.90   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+
+EPISODE 6
+
+0:07:53.92   Two "what" words. Delete the other one.
+0:11:09.52   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+0:11:11.65   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+0:12:25.72   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+0:12:27.27   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+
+EPISODE 7
+
+0:06:00.26   I went{Missing "and"} said it!
+0:06:24.66   Why don't we do that when {Missing "we"}get slightly better grades?
+0:14:47.12   The way you said his name, "Futaro"{Missing "..." or "."}
+
+EPISODE 8
+
+0:19:21.68   This was thought. Change style to 'Italics'
+
+EPISODE 9
+
+0:20:12.40   This was thought. Change style to 'Italics'
+0:24:01.63   This should have quotation marks, just like in all the other past episodes
+
+EPISODE 10
+
+0:19:29.27   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+0:19:33.28   This was spoken, so it shouldn't be italicized. Change style to 'Default'
+
+EPISODE 11
+
+0:14:01.16   Use em dash
+
+EPISODE 12
+
+0:07:23.05   Are really{<-Delete this} we really gonna do this after all that scheming?

@@ -23,8 +23,8 @@ Keyframes File: QQS2_07_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 477
-Active Line: 486
+Scroll Position: 303
+Active Line: 314
 Video Position: 32066
 
 [V4+ Styles]
@@ -134,7 +134,7 @@ Dialogue: 0,0:05:53.25,0:05:55.26,Default,Yotsuba,0,0,0,,You brought Nino back?
 Dialogue: 0,0:05:55.26,0:05:56.88,Default,Yotsuba,0,0,0,,We're over here.
 Dialogue: 0,0:05:56.88,0:05:57.88,Default,Futaro,0,0,0,,Okay.
 Dialogue: 0,0:05:59.17,0:06:00.26,Italics,Nino,0,0,0,,I said it!
-Dialogue: 0,0:06:00.26,0:06:01.43,Italics,Nino,0,0,0,,I went said it!
+Dialogue: 0,0:06:00.26,0:06:01.43,Italics,Nino,0,0,0,,I went and said it!
 Dialogue: 0,0:06:01.43,0:06:04.01,Italics,Nino,0,0,0,,What's gotten into me? \NLiking someone like him?!
 Dialogue: 0,0:06:04.72,0:06:06.48,Italics,Nino,0,0,0,,That was my first confession!
 Dialogue: 0,0:06:06.48,0:06:08.89,Italics,Nino,0,0,0,,Why did I do it?
@@ -145,7 +145,7 @@ Dialogue: 0,0:06:15.03,0:06:17.53,Default,Ichika,0,0,0,,Congratulations on makin
 Dialogue: 0,0:06:17.53,0:06:20.66,Default,Miku,0,0,0,,I can't believe we pulled it off.
 Dialogue: 0,0:06:20.66,0:06:21.62,Default,Yotsuba,0,0,0,,I know.
 Dialogue: 0,0:06:21.62,0:06:24.66,Default,Yotsuba,0,0,0,,I want to frame our exam papers.
-Dialogue: 0,0:06:24.66,0:06:27.95,Default,Ichika,0,0,0,,Why don't we do that when \Nget slightly better grades?
+Dialogue: 0,0:06:24.66,0:06:27.95,Default,Ichika,0,0,0,,Why don't we do that when \Nwe get slightly better grades?
 Dialogue: 0,0:06:27.95,0:06:31.96,Default,Nino,0,0,0,,I know we're celebrating, \Nbut can we really afford all this?
 Dialogue: 0,0:06:31.96,0:06:35.92,Default,Itsuki,0,0,0,,The owner is treating us to celebrate.
 Dialogue: 0,0:06:35.92,0:06:37.29,Default,Boss,0,0,0,,Remember to give us five stars.
@@ -348,7 +348,7 @@ Dialogue: 0,0:14:39.61,0:14:40.53,Default,Nino,0,0,0,,What?
 Dialogue: 0,0:14:40.53,0:14:43.03,Default,Nino,0,0,0,,If you have something to say, say it.
 Dialogue: 0,0:14:43.62,0:14:44.41,Default,Nino,0,0,0,,Futaro.
 Dialogue: 0,0:14:45.74,0:14:47.12,Default,Miku,0,0,0,,W-Wait...
-Dialogue: 0,0:14:47.12,0:14:49.16,Default,Miku,0,0,0,,The way you said his name, "Futaro"
+Dialogue: 0,0:14:47.12,0:14:49.16,Default,Miku,0,0,0,,The way you said his name, "Futaro"...
 Dialogue: 0,0:14:49.16,0:14:50.58,Default,Miku,0,0,0,,What's wrong, Nino?
 Dialogue: 0,0:14:50.58,0:14:51.46,Default,Nino,0,0,0,,Huh?
 Dialogue: 0,0:14:51.46,0:14:54.17,Default,Nino,0,0,0,,It's been half a year \Nsince we met each other.

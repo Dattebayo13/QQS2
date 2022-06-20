@@ -25,7 +25,8 @@ Keyframes File: QQS2_05_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 5
+Scroll Position: 315
+Active Line: 332
 Video Position: 31667
 
 [V4+ Styles]
@@ -367,7 +368,7 @@ Dialogue: 0,0:16:39.73,0:16:42.65,Default,Futaro,0,0,0,,I mean, well...
 Dialogue: 0,0:16:42.65,0:16:45.57,Default,Futaro,0,0,0,,Y-You're kind of growing into \Nyour job as an actress.
 Dialogue: 0,0:16:45.57,0:16:47.32,Default,Futaro,0,0,0,,She's asleep!
 Dialogue: 0,0:16:47.32,0:16:48.90,Default,Futaro,0,0,0,,Jeez.
-Dialogue: 0,0:16:48.90,0:16:52.32,Italics,Futaro,0,0,0,,She almost had me saying \Nsomething smug to her.
+Dialogue: 0,0:16:48.90,0:16:52.32,Default,Futaro,0,0,0,,She almost had me saying \Nsomething smug to her.
 Dialogue: 0,0:16:52.32,0:16:57.91,Default,Futaro,0,0,0,,Man, I'm amazed you can hide your\Nembarrassment in front of so many people.
 Dialogue: 0,0:16:57.91,0:17:01.08,Default,Futaro,0,0,0,,I really wish the others could see you.
 Dialogue: 0,0:17:01.92,0:17:04.17,Default,Futaro,0,0,0,,Good work, Ichika.
