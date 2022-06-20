@@ -17,14 +17,15 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E:/Anime/Uploads/[Miku Gang] The Quintessential Quintuplets S2 (BD 1080p HEVC AAC) [Dual-Audio]/[Miku Gang] The Quintessential Quintuplets - S02E12 (BD 1080p HEVC AAC) [Dual-Audio] [92290180].mkv
-Video File: E:/Anime/Uploads/[Miku Gang] The Quintessential Quintuplets S2 (BD 1080p HEVC AAC) [Dual-Audio]/[Miku Gang] The Quintessential Quintuplets - S02E12 (BD 1080p HEVC AAC) [Dual-Audio] [92290180].mkv
+Audio File: QQS2_12_premux.mkv
+Video File: QQS2_12_premux.mkv
+Keyframes File: QQS2_12_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 127
-Active Line: 131
-Video Position: 8909
+Video Zoom Percent: 0.250000
+Scroll Position: 453
+Active Line: 464
+Video Position: 34082
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,459 +37,466 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Prologue}
 Dialogue: 0,0:02:24.00,0:02:24.04,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:08:31.99,0:08:32.03,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:00:00.68,0:00:04.27,Default,Miku,0,0,0,,There's no way he would like someone like me.
-Dialogue: 0,0:00:05.77,0:00:08.36,Default,Nino,0,0,0,,Why are you assuming you've lost?
-Dialogue: 0,0:00:08.36,0:00:11.02,Default,Nino,0,0,0,,You've already lost in spirit.
-Dialogue: 0,0:00:11.02,0:00:13.03,Default,Miku,0,0,0,,It's Ichika I'm up against.
-Dialogue: 0,0:00:13.64,0:00:17.13,Default,Miku,0,0,0,,She's cute and social,\Nand she's popular with the guys.
-Dialogue: 0,0:00:17.13,0:00:19.56,Default,Miku,0,0,0,,And she has the strength to \Nbelieve in her own dreams.
-Dialogue: 0,0:00:19.90,0:00:22.66,Default,Miku,0,0,0,,If I were a guy, I would choose her.
-Dialogue: 0,0:00:23.12,0:00:25.29,Default,Miku,0,0,0,,Besides, there's you, too.
-Dialogue: 0,0:00:26.34,0:00:28.09,Default,Nino,0,0,0,,Gee, thanks.
-Dialogue: 0,0:00:28.09,0:00:31.55,Default,Nino,0,0,0,,Not that I didn't already know that I'm cute.
-Dialogue: 0,0:00:31.89,0:00:37.08,Default,Nino,0,0,0,,That just makes him even more messed up\Nfor not immediately going out with me.
-Dialogue: 0,0:00:37.08,0:00:39.56,Default,Nino,0,0,0,,How much courage does he think it took me?
-Dialogue: 0,0:00:39.83,0:00:41.77,Default,Miku,0,0,0,,You confessed?
-Dialogue: 0,0:00:41.77,0:00:44.06,Default,Miku,0,0,0,,You're amazing, Nino.
-Dialogue: 0,0:00:44.42,0:00:46.91,Default,Nino,0,0,0,,So you haven't yet, have you?
-Dialogue: 0,0:00:46.91,0:00:50.04,Default,Nino,0,0,0,,He'll never get it through his \Nthick skull unless you tell him.
-Dialogue: 0,0:00:50.04,0:00:51.32,Default,Miku,0,0,0,,You're right.
-Dialogue: 0,0:00:51.88,0:00:54.22,Default,Miku,0,0,0,,I said I'd do it if I scored\Nthe highest on our exams.
-Dialogue: 0,0:00:54.22,0:00:56.03,Default,Miku,0,0,0,,Or if I could bake good bread.
-Dialogue: 0,0:00:56.30,0:00:59.50,Default,Miku,0,0,0,,I kept making up excuses to put it off.
-Dialogue: 0,0:01:00.02,0:01:02.03,Default,Miku,0,0,0,,It's not Ichika's fault or anyone else's.
-Dialogue: 0,0:01:02.44,0:01:03.54,Default,Miku,0,0,0,,I did this to myself.
-Dialogue: 0,0:01:03.80,0:01:05.16,Default,Nino,0,0,0,,Okay, then.
-Dialogue: 0,0:01:05.16,0:01:08.00,Default,Nino,0,0,0,,Go ahead and stay cooped up\Nlike this forever.
-Dialogue: 0,0:01:08.00,0:01:09.54,Default,Nino,0,0,0,,Always moping like that...
-Dialogue: 0,0:01:09.84,0:01:12.60,Default,Nino,0,0,0,,You and I really are on completely\Ndifferent wavelengths.
-Dialogue: 0,0:01:13.00,0:01:17.80,Default,Nino,0,0,0,,But still, I thought you were a rival.
-Dialogue: 0,0:01:18.90,0:01:22.17,Default,Nino,0,0,0,,You're no match for me? What?
-Dialogue: 0,0:01:22.17,0:01:24.15,Default,Nino,0,0,0,,You said we're rivals in love, didn't you?
-Dialogue: 0,0:01:24.15,0:01:27.07,Default,Nino,0,0,0,,You had no trouble admitting that I'm cute.
-Dialogue: 0,0:01:27.07,0:01:29.93,Default,Nino,0,0,0,,Seriously, think about it carefully.
-Dialogue: 0,0:01:29.93,0:01:31.19,Default,Nino,0,0,0,,We're quintuplets.
-Dialogue: 0,0:01:31.19,0:01:33.71,Default,Nino,0,0,0,,You're obviously cute, too.
-Dialogue: 0,0:01:36.59,0:01:38.83,Default,Nino,0,0,0,,Wait, don't you think \Nthis is a bit too short?
-Dialogue: 0,0:01:38.83,0:01:40.68,Default,Miku,0,0,0,,You're the one who told me to cut it.
-Dialogue: 0,0:01:40.68,0:01:43.78,Default,Nino,0,0,0,,I know, but I've never \Ncut it this short before.
-Dialogue: 0,0:01:43.78,0:01:45.02,Default,Miku,0,0,0,,Don't worry.
-Dialogue: 0,0:01:45.02,0:01:46.08,Default,Miku,0,0,0,,You look cute.
-Dialogue: 0,0:01:46.08,0:01:48.30,Default,Nino,0,0,0,,Y-You'd better be right.
-Dialogue: 0,0:01:48.30,0:01:49.83,Default,Miku,0,0,0,,Yeah, you're cute.
-Dialogue: 0,0:01:50.11,0:01:51.15,Default,Nino,0,0,0,,Bye.
-Dialogue: 0,0:01:53.47,0:01:55.80,Default,Miku,0,0,0,,Nino, I'm sorry.
-Dialogue: 0,0:01:56.09,0:01:58.95,Default,Futaro,0,0,0,,H-Hey, where are you taking me?
-Dialogue: 0,0:01:58.95,0:02:00.64,Default,Ichika,0,0,0,,Just come with me.
-Dialogue: 0,0:02:00.64,0:02:02.22,Default,Futaro,0,0,0,,What's gotten into you,
-Dialogue: 0,0:02:02.22,0:02:03.31,Default,Futaro,0,0,0,,Miku?
-Dialogue: 0,0:02:03.91,0:02:06.35,Default,Ichika,0,0,0,,There's something I want \Nto talk to you about.
-Dialogue: 0,0:02:06.68,0:02:08.85,Default,Ichika,0,0,0,,I want you to hear Miku out.
-Dialogue: 0,0:02:09.40,0:02:12.82,Italics,Ichika,0,0,0,,So long as Futaro{**-kun} knows \Nthat Miku likes him,
-Dialogue: 0,0:02:12.82,0:02:14.86,Italics,,0,0,0,,my lie doesn't make any sense.
-Dialogue: 0,0:02:15.75,0:02:17.61,Italics,Ichika,0,0,0,,I'm going to use everything I can.
-Dialogue: 0,0:02:18.38,0:02:20.49,Italics,Ichika,0,0,0,,This is the only way I can do it.
-Dialogue: 0,0:02:21.14,0:02:23.11,Italics,Ichika,0,0,0,,It's the only way I can win.
-Dialogue: 0,0:02:27.19,0:02:28.76,Default,Futaro,0,0,0,,Where are we?
-Dialogue: 0,0:02:28.76,0:02:30.46,Default,Ichika,0,0,0,,You've been here before, haven't you?
-Dialogue: 0,0:02:30.77,0:02:31.66,Default,Futaro,0,0,0,,Yeah.
-Dialogue: 0,0:02:31.66,0:02:33.51,Default,Futaro,0,0,0,,When I was in elementary school.
-Dialogue: 0,0:02:33.81,0:02:35.26,Default,Ichika,0,0,0,,When you were in elementary school?
-Dialogue: 0,0:02:36.09,0:02:38.38,Default,Futaro,0,0,0,,I still remember that day.
-Dialogue: 0,0:02:39.10,0:02:45.34,Default,Futaro,0,0,0,,That day, I wandered around this area \Nwith Rena, wherever she wanted to go.
-Dialogue: 0,0:02:46.16,0:02:49.25,Default,Futaro,0,0,0,,There's no way I wouldn't have \Nenjoyed traveling with her,
-Dialogue: 0,0:02:49.25,0:02:50.89,Default,,0,0,0,,after she said she needed me.
-Dialogue: 0,0:02:51.63,0:02:55.15,Default,Futaro,0,0,0,,Before I knew it, the sun set, \Nand it was night.
-Dialogue: 0,0:02:55.56,0:02:57.40,Default,Ichika,0,0,0,,And then what happened?
-Dialogue: 0,0:02:58.23,0:03:01.11,Default,Futaro,0,0,0,,My teacher from school was \Nsupposed to come pick me up.
-Dialogue: 0,0:03:01.81,0:03:05.16,Default,Futaro,0,0,0,,I got to wait in an empty room \Nat the hotel Rena was staying at.
-Dialogue: 0,0:03:05.56,0:03:07.62,Default,Futaro,0,0,0,,I think we played cards.
-Dialogue: 0,0:03:08.15,0:03:09.97,Default,Futaro,0,0,0,,Now it's just a nice memory.
-Dialogue: 0,0:03:11.59,0:03:12.21,Default,Ichika,0,0,0,,Was she...
-Dialogue: 0,0:03:12.21,0:03:12.88,Default,Futaro,0,0,0,,Are we done?
-Dialogue: 0,0:03:14.38,0:03:18.38,Default,Futaro,0,0,0,,I only figured I'd tell you because \Nyou might be plotting something.
-Dialogue: 0,0:03:18.38,0:03:19.88,Default,Futaro,0,0,0,,But I'm tired of that.
-Dialogue: 0,0:03:20.51,0:03:24.01,Default,Futaro,0,0,0,,I'm done playing your little game, Miku.
-Dialogue: 0,0:03:24.58,0:03:25.43,Default,Futaro,0,0,0,,No...
-Dialogue: 0,0:03:26.14,0:03:27.27,Default,Futaro,0,0,0,,Ichika.
-Dialogue: 0,0:03:29.23,0:03:30.77,Default,Futaro,0,0,0,,See, I knew it.
-Dialogue: 0,0:03:31.24,0:03:32.68,Default,Futaro,0,0,0,,What timing.
-Dialogue: 0,0:03:33.19,0:03:37.90,Default,Futaro,0,0,0,,It's safe to assume you were the Miku that \NI met in the school hallway the other day.
-Dialogue: 0,0:03:37.90,0:03:39.78,Default,Ichika,0,0,0,,Th-That wasn't me.
-Dialogue: 0,0:03:39.78,0:03:41.61,Default,Futaro,0,0,0,,Why did you lie to me?
-Dialogue: 0,0:03:46.18,0:03:50.28,Default,Ichika,0,0,0,,You must have figured it out.
-Dialogue: 0,0:03:50.66,0:03:54.44,Default,Ichika,0,0,0,,That girl from six years ago was one of us.
-Dialogue: 0,0:03:54.73,0:03:55.58,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:03:56.18,0:03:57.30,Default,Ichika,0,0,0,,It was me.
-Dialogue: 0,0:03:57.75,0:03:58.77,Default,Ichika,0,0,0,,That was me.
-Dialogue: 0,0:03:59.07,0:04:00.29,Default,Ichika,0,0,0,,Me.
-Dialogue: 0,0:04:00.59,0:04:03.69,Default,Ichika,0,0,0,,We met six years ago.
-Dialogue: 0,0:04:05.01,0:04:06.36,Default,Ichika,0,0,0,,I'm not lying.
-Dialogue: 0,0:04:07.06,0:04:08.18,Default,Ichika,0,0,0,,Believe me.
-Dialogue: 0,0:04:10.39,0:04:14.45,Default,Futaro,0,0,0,,Do you remember which good luck charm \Nwe bought together six years ago?
-Dialogue: 0,0:04:15.25,0:04:18.07,Default,Ichika,0,0,0,,Yeah, I still have it.
-Dialogue: 0,0:04:18.07,0:04:19.82,Default,Ichika,0,0,0,,I'd never forget it.
-Dialogue: 0,0:04:20.37,0:04:22.41,Default,Futaro,0,0,0,,You're lying, aren't you?
-Dialogue: 0,0:04:23.28,0:04:24.22,Default,Futaro,0,0,0,,Sorry.
-Dialogue: 0,0:04:24.58,0:04:26.45,Default,Futaro,0,0,0,,I can't trust you right now.
-Dialogue: 0,0:04:27.27,0:04:28.93,Default,Futaro,0,0,0,,Let's go back before we catch a cold.
-Dialogue: 0,0:04:32.74,0:04:35.83,Default,Maeda,0,0,0,,Man, didn't the weather forecast \Nsay it was going to be clear?
-Dialogue: 0,0:04:36.31,0:04:38.62,Default,Takeda,0,0,0,,Where have you been, Uesugi{**-kun}?
-Dialogue: 0,0:04:38.62,0:04:40.09,Default,Futaro,0,0,0,,Oh, you know.
-Dialogue: 0,0:04:41.38,0:04:42.89,Default,Takeda,0,0,0,,You were lost, weren't you?
-Dialogue: 0,0:04:42.89,0:04:44.86,Default,Maeda,0,0,0,,Also, what's the plan tomorrow?
-Dialogue: 0,0:04:47.89,0:04:49.70,Default,Ichika,0,0,0,,The shower's free now.
-Dialogue: 0,0:04:49.70,0:04:51.35,Default,Ichika,0,0,0,,Sorry for taking it first.
-Dialogue: 0,0:04:52.28,0:04:54.34,Default,Yotsuba,0,0,0,,My underwear's soaked, too.
-Dialogue: 0,0:04:54.34,0:04:56.35,Default,Itsuki,0,0,0,,Y-You can go next, then, Yotsuba.
-Dialogue: 0,0:04:56.66,0:04:57.97,Default,Yotsuba,0,0,0,,Okay.
-Dialogue: 0,0:04:58.55,0:05:00.61,Italics,Nino,0,0,0,,I'm glad I didn't go.
-Dialogue: 0,0:05:05.19,0:05:07.87,Default,Ichika,0,0,0,,Wow, Itsuki{**-chan}.\NYou're really going all-in, huh?
-Dialogue: 0,0:05:07.87,0:05:08.66,Default,Ichika,0,0,0,,Not gonna wear it?
-Dialogue: 0,0:05:08.66,0:05:10.39,Default,Itsuki,0,0,0,,N-No, I'm not.
-Dialogue: 0,0:05:10.39,0:05:12.75,Default,Itsuki,0,0,0,,I'm going to throw it out \Nsince it's too much for me.
-Dialogue: 0,0:05:13.03,0:05:13.93,Default,Nino,0,0,0,,Ichika,
-Dialogue: 0,0:05:15.11,0:05:17.25,Default,Nino,0,0,0,,don't you have something to say to Miku?
-Dialogue: 0,0:05:21.62,0:05:23.76,Default,Miku,0,0,0,,Sorry, Ichika.
-Dialogue: 0,0:05:26.07,0:05:27.25,Default,Futaro,0,0,0,,I'm coming in.
-Dialogue: 0,0:05:28.55,0:05:29.90,Default,Futaro,0,0,0,,Are you all here?
-Dialogue: 0,0:05:30.15,0:05:31.50,Default,Futaro,0,0,0,,Message for everyone.
-Dialogue: 0,0:05:31.50,0:05:34.52,Default,Futaro,0,0,0,,We're assembling in the main hall\Nin thirty minutes.
-Dialogue: 0,0:05:34.90,0:05:36.32,Default,Itsuki,0,0,0,,Why are {\i1}you{\i0} delivering this?
-Dialogue: 0,0:05:36.32,0:05:38.31,Default,Futaro,0,0,0,,I {\i1}am{\i0} a class rep.
-Dialogue: 0,0:05:45.12,0:05:46.22,Default,Futaro,0,0,0,,You guys...
-Dialogue: 0,0:05:46.22,0:05:47.58,Default,Miku,0,0,0,,W-Washroom!
-Dialogue: 0,0:05:49.99,0:05:52.17,Default,Futaro,0,0,0,,Are you still fighting?
-Dialogue: 0,0:05:52.17,0:05:53.48,Default,Futaro,0,0,0,,Tell me what's going on.
-Dialogue: 0,0:05:53.48,0:05:55.04,Default,Ichika,0,0,0,,No, we're, well...
-Dialogue: 0,0:05:55.04,0:05:57.55,Default,Yotsuba,0,0,0,,Man, that was refreshing.
-Dialogue: 0,0:05:59.97,0:06:02.15,Default,Ichika,0,0,0,,I-It's not a big deal, right?
-Dialogue: 0,0:06:02.15,0:06:04.13,Default,Nino,0,0,0,,Yeah, this is just another day for us.
-Dialogue: 0,0:06:04.13,0:06:05.93,Default,Itsuki,0,0,0,,O-Obviously, right?
-Dialogue: 0,0:06:06.34,0:06:07.48,Default,Futaro,0,0,0,,All right, then.
-Dialogue: 0,0:06:08.34,0:06:10.20,Default,Futaro,0,0,0,,Anyway, thirty minutes.
-Dialogue: 0,0:06:10.20,0:06:13.06,Default,Futaro,0,0,0,,Apparently, we're deciding on our \Nelective itinerary for tomorrow, too.
-Dialogue: 0,0:06:13.06,0:06:14.12,Default,Futaro,0,0,0,,Give it some thought.
-Dialogue: 0,0:06:16.46,0:06:18.44,Default,Ichika,0,0,0,,Sorry for talking out of turn.
-Dialogue: 0,0:06:18.44,0:06:19.56,Default,Nino,0,0,0,,It's fine.
-Dialogue: 0,0:06:19.56,0:06:22.07,Default,Nino,0,0,0,,Making Fu{**-kun} worry is the last thing I want.
-Dialogue: 0,0:06:23.00,0:06:25.24,Default,Nino,0,0,0,,And you need to stop running away like that.
-Dialogue: 0,0:06:25.24,0:06:26.55,Default,Miku,0,0,0,,But...
-Dialogue: 0,0:06:27.97,0:06:31.71,Default,Itsuki,0,0,0,,Miku, you can't keep this up forever.
-Dialogue: 0,0:06:32.00,0:06:34.08,Default,Ichika,0,0,0,,Guys, let's make things clear.
-Dialogue: 0,0:06:34.76,0:06:39.29,Default,Ichika,0,0,0,,All of us are looking for a chance \Nto be alone with Futaro{**-kun}.
-Dialogue: 0,0:06:39.69,0:06:42.58,Default,Nino,0,0,0,,That's what I've been saying this whole time.
-Dialogue: 0,0:06:42.58,0:06:44.30,Default,Nino,0,0,0,,You too, Itsuki?
-Dialogue: 0,0:06:44.86,0:06:46.76,Default,Itsuki,0,0,0,,I can't deny it.
-Dialogue: 0,0:06:47.06,0:06:50.57,Default,Ichika,0,0,0,,None of us are going to get what \Nwe want if we keep this up.
-Dialogue: 0,0:06:50.96,0:06:53.30,Default,Ichika,0,0,0,,I'm sure that's not anyone's wish.
-Dialogue: 0,0:06:53.84,0:06:56.00,Default,Nino,0,0,0,,Look who's talking.
-Dialogue: 0,0:06:56.31,0:06:57.43,Default,Ichika,0,0,0,,You hear me out too, Yotsuba.
-Dialogue: 0,0:06:58.45,0:07:00.30,Default,Yotsuba,0,0,0,,He's not here anymore, is he?
-Dialogue: 0,0:07:01.30,0:07:04.44,Default,Ichika,0,0,0,,We have elective field trips on our last day.
-Dialogue: 0,0:07:04.75,0:07:07.69,Default,Ichika,0,0,0,,We're choosing from one of five courses.
-Dialogue: 0,0:07:08.12,0:07:12.08,Default,Ichika,0,0,0,,Why don't we each choose one of the five?
-Dialogue: 0,0:07:12.37,0:07:13.66,Default,Ichika,0,0,0,,The only person who gets a chance
-Dialogue: 0,0:07:13.66,0:07:16.70,Default,,0,0,0,,is the one who happens to be on \Nthe same course as Futaro{**-kun}.
-Dialogue: 0,0:07:17.15,0:07:18.58,Default,Ichika,0,0,0,,Let's leave it all to luck.
-Dialogue: 0,0:07:18.58,0:07:19.91,Default,Yotsuba,0,0,0,,Agreed!
-Dialogue: 0,0:07:19.91,0:07:21.72,Default,Yotsuba,0,0,0,,There won't be any hard feelings that way.
-Dialogue: 0,0:07:21.72,0:07:23.16,Default,Nino,0,0,0,,I don't like it.
-Dialogue: 0,0:07:23.16,0:07:25.94,Default,Nino,0,0,0,,Are really we really gonna do this\Nafter all that scheming?
-Dialogue: 0,0:07:25.94,0:07:27.19,Default,Nino,0,0,0,,Are you happy with this?
-Dialogue: 0,0:07:27.19,0:07:28.72,Default,Nino,0,0,0,,It's only a one in five chance.
-Dialogue: 0,0:07:29.07,0:07:34.00,Default,Miku,0,0,0,,I don't know how to face \NFutaro{**-kun} right now.
-Dialogue: 0,0:07:34.00,0:07:36.60,Default,Miku,0,0,0,,So I want my odds to be lower.
-Dialogue: 0,0:07:37.05,0:07:39.80,Default,Itsuki,0,0,0,,I think this is the best option.
-Dialogue: 0,0:07:39.80,0:07:41.73,Default,Itsuki,0,0,0,,We should have done this from the beginning.
-Dialogue: 0,0:07:43.07,0:07:44.89,Default,Nino,0,0,0,,Can we just point like usual?
-Dialogue: 0,0:07:44.89,0:07:46.98,Default,Nino,0,0,0,,I bet we'll all choose\Nsomething different anyway.
-Dialogue: 0,0:07:47.27,0:07:49.08,Default,Nino,0,0,0,,One, two...
-Dialogue: 0,0:07:52.45,0:07:56.14,Default,Maeda,0,0,0,,Yo, Uesugi, which course \Nare we choosing tomorrow?
-Dialogue: 0,0:07:56.14,0:07:57.93,Default,Futaro,0,0,0,,Let's go for E.
-Dialogue: 0,0:08:03.46,0:08:06.06,Default,Person A,0,0,0,,Course D people, over here.
-Dialogue: 0,0:08:06.06,0:08:08.28,Default,Person B,0,0,0,,What was Course D again?
-Dialogue: 0,0:08:08.28,0:08:10.74,Default,Person C,0,0,0,,You know, like, Honnouji Temple \Nand samurai graves and stuff.
-Dialogue: 0,0:08:10.74,0:08:12.00,Default,,0,0,0,,The historical sites.
-Dialogue: 0,0:08:12.66,0:08:14.78,Default,Person B,0,0,0,,I don't care about that!
-Dialogue: 0,0:08:14.78,0:08:16.80,Default,Person C,0,0,0,,You should have checked.
-Dialogue: 0,0:08:16.80,0:08:20.30,Default,Person C,0,0,0,,You like Japanese history too,\Nhuh, Ichika{**-san}?
-Dialogue: 0,0:08:21.19,0:08:23.10,Default,Ichika,0,0,0,,I have a tummy ache.
-Dialogue: 0,0:08:23.46,0:08:25.10,Default,Person D,0,0,0,,Course E, over here.
-Dialogue: 0,0:08:25.59,0:08:27.52,Default,Person D,0,0,0,,We're leaving now.
-Dialogue: 0,0:08:32.85,0:08:39.12,Default,Person E,0,0,0,,Students on Course E, we've arrived \Nat our destination, the Studio Park.
-Dialogue: 0,0:08:40.44,0:08:42.88,Default,Ichika,0,0,0,,Actually, I want Course D.
-Dialogue: 0,0:08:42.88,0:08:44.87,Default,Ichika,0,0,0,,Miku, can we trade?
-Dialogue: 0,0:08:45.56,0:08:50.38,Italics,Miku,0,0,0,,Why did she decide she wanted \Nto switch courses with me?
-Dialogue: 0,0:08:50.77,0:08:54.19,Italics,Miku,0,0,0,,Ichika was supposed to be the one here.
-Dialogue: 0,0:08:54.19,0:08:55.89,Default,Maeda,0,0,0,,Where are we headed?
-Dialogue: 0,0:08:56.13,0:08:58.88,Default,Takeda,0,0,0,,Hey, Nakano{**-san}. We meet again.
-Dialogue: 0,0:09:01.84,0:09:03.39,Default,Takeda,0,0,0,,She ran away again.
-Dialogue: 0,0:09:03.39,0:09:04.97,Default,Maeda,0,0,0,,She probably hates you.
-Dialogue: 0,0:09:05.42,0:09:07.02,Default,Futaro,0,0,0,,Miku, stop!
-Dialogue: 0,0:09:08.61,0:09:10.41,Default,Futaro,0,0,0,,Are you all right?
-Dialogue: 0,0:09:10.41,0:09:11.28,Default,Futaro,0,0,0,,Sorry.
-Dialogue: 0,0:09:17.97,0:09:20.48,Italics,Ichika,0,0,0,,Don't run away, Miku.
-Dialogue: 0,0:09:21.06,0:09:23.90,Italics,Ichika,0,0,0,,Not that I think this is enough\Nto make up for what I did...
-Dialogue: 0,0:09:24.72,0:09:27.04,Default,Futaro,0,0,0,,You gotta watch where you're going.
-Dialogue: 0,0:09:28.66,0:09:30.80,Italics,Miku,0,0,0,,I'm sorry, Nino, I just can't.
-Dialogue: 0,0:09:32.14,0:09:33.78,Italics,Ichika,0,0,0,,She's trying to run away again.
-Dialogue: 0,0:09:33.78,0:09:34.67,Italics,Ichika,0,0,0,,What do I do?
-Dialogue: 0,0:09:36.31,0:09:39.93,Default,Ichika,0,0,0,,Would you like to try on samurai clothes?
-Dialogue: 0,0:09:36.31,0:09:39.93,Default,Nino,0,0,0,,{\an8}Would you like to try on samurai clothes?
-Dialogue: 0,0:09:41.16,0:09:42.58,Default,Nino,0,0,0,,Ichika! Why are you...
-Dialogue: 0,0:09:42.58,0:09:43.56,Default,Ichika,0,0,0,,What about you, Nino?
-Dialogue: 0,0:09:43.88,0:09:48.27,Default,Miku,0,0,0,,I just called in sick so I \Ncould keep an eye on those two.
-Dialogue: 0,0:09:48.27,0:09:51.38,Default,Miku,0,0,0,,You aren't here to mess \Nwith her again, are you?
-Dialogue: 0,0:09:51.38,0:09:52.44,Default,Ichika,0,0,0,,N-No!
-Dialogue: 0,0:09:52.44,0:09:54.77,Default,Ichika,0,0,0,,I bailed with a stomachache, too.
-Dialogue: 0,0:09:55.09,0:09:58.07,Default,Ichika,0,0,0,,I don't expect you to believe me.
-Dialogue: 0,0:09:59.19,0:10:01.83,Default,Ichika,0,0,0,,Even if I can't be forgiven for what I did,
-Dialogue: 0,0:10:02.26,0:10:07.51,Default,,0,0,0,,I want to make things right as much as \NI can before the end of the last day.
-Dialogue: 0,0:10:09.55,0:10:13.34,Default,Yotsuba,0,0,0,,I can't believe you're also here \Nto support Miku, Itsuki.
-Dialogue: 0,0:10:13.59,0:10:14.74,Default,Itsuki,0,0,0,,Yotsuba...
-Dialogue: 0,0:10:14.74,0:10:19.14,Default,Itsuki,0,0,0,,Are you sure you don't want to tell him \Nthat you were the girl he met six years ago?
-Dialogue: 0,0:10:21.03,0:10:22.95,Default,Yotsuba,0,0,0,,There's no reason to.
-Dialogue: 0,0:10:22.95,0:10:25.37,Default,Yotsuba,0,0,0,,As long as I know.
-Dialogue: 0,0:10:25.37,0:10:26.10,Default,Yotsuba,0,0,0,,Huh?
-Dialogue: 0,0:10:26.10,0:10:28.13,Default,Yotsuba,0,0,0,,Ichika and Nino are here, too.
-Dialogue: 0,0:10:29.24,0:10:31.14,Default,Itsuki,0,0,0,,You two came, too?
-Dialogue: 0,0:10:31.14,0:10:34.73,Default,Itsuki,0,0,0,,I guess we're all here on Course E.
-Dialogue: 0,0:10:35.09,0:10:36.41,Default,Nino,0,0,0,,Sheesh.
-Dialogue: 0,0:10:36.41,0:10:38.99,Default,Nino,0,0,0,,Nobody's playing by the rules.
-Dialogue: 0,0:10:42.49,0:10:45.64,Default,Nino,0,0,0,,Those two guys are in the way.
-Dialogue: 0,0:10:45.64,0:10:47.92,Default,Nino,0,0,0,,I'll go deal with them.
-Dialogue: 0,0:10:47.92,0:10:52.00,Default,Nino,0,0,0,,Ichika, try to get Miku to wear\Nthe samurai clothes while she's here.
-Dialogue: 0,0:10:52.00,0:10:54.13,Default,Ichika,0,0,0,,G-Get her? How?
+Dialogue: 0,0:00:00.61,0:00:04.28,Default,Miku,0,0,0,,There's no way he would like someone like me.
+Dialogue: 0,0:00:05.78,0:00:08.28,Default,Nino,0,0,0,,Why are you assuming you've lost?
+Dialogue: 0,0:00:08.28,0:00:10.95,Default,Nino,0,0,0,,You've already lost in spirit.
+Dialogue: 0,0:00:10.95,0:00:13.03,Default,Miku,0,0,0,,It's Ichika I'm up against.
+Dialogue: 0,0:00:13.58,0:00:17.04,Default,Miku,0,0,0,,She's cute and social,\Nand she's popular with the guys.
+Dialogue: 0,0:00:17.04,0:00:19.83,Default,Miku,0,0,0,,And she has the strength to \Nbelieve in her own dreams.
+Dialogue: 0,0:00:19.83,0:00:22.67,Default,Miku,0,0,0,,If I were a guy, I would choose her.
+Dialogue: 0,0:00:23.04,0:00:25.30,Default,Miku,0,0,0,,Besides, there's you, too.
+Dialogue: 0,0:00:26.26,0:00:28.01,Default,Nino,0,0,0,,Gee, thanks.
+Dialogue: 0,0:00:28.01,0:00:31.55,Default,Nino,0,0,0,,Not that I didn't already know that I'm cute.
+Dialogue: 0,0:00:31.55,0:00:36.98,Default,Nino,0,0,0,,That just makes him even more messed up\Nfor not immediately going out with me.
+Dialogue: 0,0:00:36.98,0:00:39.56,Default,Nino,0,0,0,,How much courage does he think it took me?
+Dialogue: 0,0:00:39.56,0:00:41.65,Default,Miku,0,0,0,,You confessed?
+Dialogue: 0,0:00:41.65,0:00:44.07,Default,Miku,0,0,0,,You're amazing, Nino.
+Dialogue: 0,0:00:44.07,0:00:46.82,Default,Nino,0,0,0,,So you haven't yet, have you?
+Dialogue: 0,0:00:46.82,0:00:49.57,Default,Nino,0,0,0,,He'll never get it through his \Nthick skull unless you tell him.
+Dialogue: 0,0:00:50.16,0:00:51.32,Default,Miku,0,0,0,,You're right.
+Dialogue: 0,0:00:51.82,0:00:54.08,Default,Miku,0,0,0,,I said I'd do it if I scored\Nthe highest on our exams.
+Dialogue: 0,0:00:54.08,0:00:56.04,Default,Miku,0,0,0,,Or if I could bake good bread.
+Dialogue: 0,0:00:56.04,0:00:59.46,Default,Miku,0,0,0,,I kept making up excuses to put it off.
+Dialogue: 0,0:00:59.96,0:01:01.78,Default,Miku,0,0,0,,It's not Ichika's fault or anyone else's.
+Dialogue: 0,0:01:02.38,0:01:03.54,Default,Miku,0,0,0,,I did this to myself.
+Dialogue: 0,0:01:03.54,0:01:05.04,Default,Nino,0,0,0,,Okay, then.
+Dialogue: 0,0:01:05.04,0:01:07.88,Default,Nino,0,0,0,,Go ahead and stay cooped up\Nlike this forever.
+Dialogue: 0,0:01:07.88,0:01:09.55,Default,Nino,0,0,0,,Always moping like that...
+Dialogue: 0,0:01:09.55,0:01:12.93,Default,Nino,0,0,0,,You and I really are on completely\Ndifferent wavelengths.
+Dialogue: 0,0:01:12.93,0:01:17.81,Default,Nino,0,0,0,,But still, I thought you were a rival.
+Dialogue: 0,0:01:18.68,0:01:22.06,Default,Nino,0,0,0,,You're no match for me? What?
+Dialogue: 0,0:01:22.06,0:01:23.94,Default,Nino,0,0,0,,You said we're rivals in love, didn't you?
+Dialogue: 0,0:01:23.94,0:01:26.94,Default,Nino,0,0,0,,You had no trouble admitting that I'm cute.
+Dialogue: 0,0:01:26.94,0:01:29.44,Default,Nino,0,0,0,,Seriously, think about it carefully.
+Dialogue: 0,0:01:29.82,0:01:31.20,Default,Nino,0,0,0,,We're quintuplets.
+Comment: 0,0:01:31.20,0:01:33.20,Default,Nino,0,0,0,,{\fad(0,480)}You're obviously cute, too.
+Dialogue: 0,0:01:31.20,0:01:33.66,Default,Nino,0,0,0,,You're obviously cute, too.
+Dialogue: 0,0:01:36.53,0:01:38.70,Default,Nino,0,0,0,,Wait, don't you think \Nthis is a bit too short?
+Dialogue: 0,0:01:38.70,0:01:40.54,Default,Miku,0,0,0,,You're the one who told me to cut it.
+Dialogue: 0,0:01:40.54,0:01:43.67,Default,Nino,0,0,0,,I know, but I've never \Ncut it this short before.
+Dialogue: 0,0:01:43.67,0:01:44.92,Default,Miku,0,0,0,,Don't worry.
+Dialogue: 0,0:01:44.92,0:01:46.05,Default,Miku,0,0,0,,You look cute.
+Dialogue: 0,0:01:46.05,0:01:48.18,Default,Nino,0,0,0,,Y-You'd better be right.
+Dialogue: 0,0:01:48.18,0:01:49.84,Default,Miku,0,0,0,,Yeah, you're cute.
+Dialogue: 0,0:01:49.84,0:01:50.95,Default,Nino,0,0,0,,Bye.
+Dialogue: 0,0:01:53.38,0:01:56.10,Default,Miku,0,0,0,,Nino, I'm sorry.
+Dialogue: 0,0:01:56.10,0:01:58.81,Default,Futaro,0,0,0,,H-Hey, where are you taking me?
+Dialogue: 0,0:01:58.81,0:02:00.52,Default,Ichika,0,0,0,,Just come with me.
+Dialogue: 0,0:02:00.52,0:02:02.23,Default,Futaro,0,0,0,,What's gotten into you,
+Dialogue: 0,0:02:02.23,0:02:03.27,Default,Futaro,0,0,0,,Miku?
+Dialogue: 0,0:02:03.85,0:02:06.36,Default,Ichika,0,0,0,,There's something I want \Nto talk to you about.
+Comment: 0,0:02:06.36,0:02:08.82,Default,Ichika,0,0,0,,{\t(2280,2480,\1c&HF9F9F9&\3c&HF9F9F9&\4c&HF9F9F9&)}I want you to hear Miku out.
+Dialogue: 0,0:02:06.36,0:02:08.86,Default,Ichika,0,0,0,,I want you to hear Miku out.
+Dialogue: 0,0:02:09.32,0:02:12.70,Italics,Ichika,0,0,0,,So long as Futaro{**-kun} knows \Nthat Miku likes him,
+Dialogue: 0,0:02:12.70,0:02:14.86,Italics,,0,0,0,,my lie doesn't make any sense.
+Comment: 0,0:02:15.74,0:02:17.58,Italics,Ichika,0,0,0,,{\t(1680,1840,\1c&HF9F9F9&\3c&HF9F9F9&\4c&HF9F9F9&)}I'm going to use everything I can.
+Dialogue: 0,0:02:15.74,0:02:17.62,Italics,Ichika,0,0,0,,I'm going to use everything I can.
+Dialogue: 0,0:02:18.28,0:02:20.50,Italics,Ichika,0,0,0,,This is the only way I can do it.
+Dialogue: 0,0:02:21.08,0:02:23.08,Italics,Ichika,0,0,0,,It's the only way I can win.
+Dialogue: 0,0:02:27.13,0:02:28.67,Default,Futaro,0,0,0,,Where are we?
+Dialogue: 0,0:02:28.67,0:02:30.68,Default,Ichika,0,0,0,,You've been here before, haven't you?
+Dialogue: 0,0:02:30.68,0:02:31.51,Default,Futaro,0,0,0,,Yeah.
+Dialogue: 0,0:02:31.51,0:02:33.72,Default,Futaro,0,0,0,,When I was in elementary school.
+Dialogue: 0,0:02:33.72,0:02:35.26,Default,Ichika,0,0,0,,When you were in elementary school?
+Dialogue: 0,0:02:36.01,0:02:38.39,Default,Futaro,0,0,0,,I still remember that day.
+Dialogue: 0,0:02:39.01,0:02:45.31,Default,Futaro,0,0,0,,That day, I wandered around this area \Nwith Rena, wherever she wanted to go.
+Dialogue: 0,0:02:46.10,0:02:49.11,Default,Futaro,0,0,0,,There's no way I wouldn't have \Nenjoyed traveling with her,
+Dialogue: 0,0:02:49.11,0:02:50.86,Default,,0,0,0,,after she said she needed me.
+Dialogue: 0,0:02:51.57,0:02:55.15,Default,Futaro,0,0,0,,Before I knew it, the sun set, \Nand it was night.
+Dialogue: 0,0:02:55.49,0:02:57.41,Default,Ichika,0,0,0,,And then what happened?
+Dialogue: 0,0:02:58.16,0:03:01.12,Default,Futaro,0,0,0,,My teacher from school was \Nsupposed to come pick me up.
+Dialogue: 0,0:03:01.74,0:03:05.50,Default,Futaro,0,0,0,,I got to wait in an empty room \Nat the hotel Rena was staying at.
+Dialogue: 0,0:03:05.50,0:03:07.63,Default,Futaro,0,0,0,,I think we played cards.
+Dialogue: 0,0:03:08.08,0:03:09.92,Default,Futaro,0,0,0,,Now it's just a nice memory.
+Dialogue: 0,0:03:11.50,0:03:12.09,Default,Ichika,0,0,0,,Was she...
+Dialogue: 0,0:03:12.09,0:03:12.88,Default,Futaro,0,0,0,,Are we done?
+Dialogue: 0,0:03:14.38,0:03:18.14,Default,Futaro,0,0,0,,I only figured I'd tell you because \Nyou might be plotting something.
+Dialogue: 0,0:03:18.14,0:03:19.89,Default,Futaro,0,0,0,,But I'm tired of that.
+Dialogue: 0,0:03:20.51,0:03:24.02,Default,Futaro,0,0,0,,I'm done playing your little game, Miku.
+Dialogue: 0,0:03:24.52,0:03:25.34,Default,Futaro,0,0,0,,No...
+Dialogue: 0,0:03:26.14,0:03:27.23,Default,Futaro,0,0,0,,Ichika.
+Dialogue: 0,0:03:29.02,0:03:30.77,Default,Futaro,0,0,0,,See, I knew it.
+Dialogue: 0,0:03:31.15,0:03:32.65,Default,Futaro,0,0,0,,What timing.
+Dialogue: 0,0:03:33.11,0:03:37.91,Default,Futaro,0,0,0,,It's safe to assume you were the Miku that \NI met in the school hallway the other day.
+Dialogue: 0,0:03:37.91,0:03:39.37,Default,Ichika,0,0,0,,Th-That wasn't me.
+Dialogue: 0,0:03:39.37,0:03:41.62,Default,Futaro,0,0,0,,Why did you lie to me?
+Dialogue: 0,0:03:46.12,0:03:50.59,Default,Ichika,0,0,0,,You must have figured it out.
+Dialogue: 0,0:03:50.59,0:03:54.67,Default,Ichika,0,0,0,,That girl from six years ago was one of us.
+Dialogue: 0,0:03:54.67,0:03:55.55,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:03:56.09,0:03:57.30,Default,Ichika,0,0,0,,It was me.
+Dialogue: 0,0:03:57.68,0:03:59.01,Default,Ichika,0,0,0,,That was me.
+Dialogue: 0,0:03:59.01,0:04:00.47,Default,Ichika,0,0,0,,Me.
+Dialogue: 0,0:04:00.47,0:04:03.64,Default,Ichika,0,0,0,,We met six years ago.
+Dialogue: 0,0:04:04.93,0:04:06.31,Default,Ichika,0,0,0,,I'm not lying.
+Dialogue: 0,0:04:06.98,0:04:08.19,Default,Ichika,0,0,0,,Believe me.
+Dialogue: 0,0:04:10.40,0:04:14.40,Default,Futaro,0,0,0,,Do you remember which good luck charm \Nwe bought together six years ago?
+Dialogue: 0,0:04:15.20,0:04:17.82,Default,Ichika,0,0,0,,Yeah, I still have it.
+Dialogue: 0,0:04:17.82,0:04:19.82,Default,Ichika,0,0,0,,I'd never forget it.
+Dialogue: 0,0:04:20.24,0:04:22.37,Default,Futaro,0,0,0,,You're lying, aren't you?
+Dialogue: 0,0:04:23.16,0:04:24.49,Default,Futaro,0,0,0,,Sorry.
+Dialogue: 0,0:04:24.49,0:04:26.45,Default,Futaro,0,0,0,,I can't trust you right now.
+Dialogue: 0,0:04:27.21,0:04:28.87,Default,Futaro,0,0,0,,Let's go back before we catch a cold.
+Dialogue: 0,0:04:32.67,0:04:35.84,Default,Maeda,0,0,0,,Man, didn't the weather forecast \Nsay it was going to be clear?
+Dialogue: 0,0:04:36.22,0:04:38.47,Default,Takeda,0,0,0,,Where have you been, Uesugi{**-kun}?
+Dialogue: 0,0:04:38.47,0:04:40.09,Default,Futaro,0,0,0,,Oh, you know.
+Dialogue: 0,0:04:41.30,0:04:42.76,Default,Takeda,0,0,0,,You were lost, weren't you?
+Dialogue: 0,0:04:42.76,0:04:44.81,Default,Maeda,0,0,0,,Also, what's the plan tomorrow?
+Dialogue: 0,0:04:47.60,0:04:49.56,Default,Ichika,0,0,0,,The shower's free now.
+Dialogue: 0,0:04:49.56,0:04:51.35,Default,Ichika,0,0,0,,Sorry for taking it first.
+Dialogue: 0,0:04:52.19,0:04:54.19,Default,Yotsuba,0,0,0,,My underwear's soaked, too.
+Dialogue: 0,0:04:54.19,0:04:56.36,Default,Itsuki,0,0,0,,Y-You can go next, then, Yotsuba.
+Dialogue: 0,0:04:56.36,0:04:57.94,Default,Yotsuba,0,0,0,,Okay.
+Dialogue: 0,0:04:58.49,0:05:00.61,Italics,Nino,0,0,0,,I'm glad I didn't go.
+Dialogue: 0,0:05:05.08,0:05:07.75,Default,Ichika,0,0,0,,Wow, Itsuki{**-chan}.\NYou're really going all-in, huh?
+Dialogue: 0,0:05:07.75,0:05:08.50,Default,Ichika,0,0,0,,Not gonna wear it?
+Dialogue: 0,0:05:08.50,0:05:10.21,Default,Itsuki,0,0,0,,N-No, I'm not.
+Dialogue: 0,0:05:10.21,0:05:12.75,Default,Itsuki,0,0,0,,I'm going to throw it out \Nsince it's too much for me.
+Dialogue: 0,0:05:12.75,0:05:13.91,Default,Nino,0,0,0,,Ichika,
+Dialogue: 0,0:05:15.17,0:05:17.26,Default,Nino,0,0,0,,don't you have something to say to Miku?
+Dialogue: 0,0:05:21.51,0:05:23.76,Default,Miku,0,0,0,,Sorry, Ichika.
+Dialogue: 0,0:05:26.01,0:05:27.22,Default,Futaro,0,0,0,,I'm coming in.
+Dialogue: 0,0:05:28.47,0:05:30.06,Default,Futaro,0,0,0,,Are you all here?
+Dialogue: 0,0:05:30.06,0:05:31.39,Default,Futaro,0,0,0,,Message for everyone.
+Dialogue: 0,0:05:31.39,0:05:34.52,Default,Futaro,0,0,0,,We're assembling in the main hall\Nin thirty minutes.
+Dialogue: 0,0:05:34.52,0:05:36.19,Default,Itsuki,0,0,0,,Why are {\i1}you{\i0} delivering this?
+Dialogue: 0,0:05:36.19,0:05:38.14,Default,Futaro,0,0,0,,I {\i1}am{\i0} a class rep.
+Dialogue: 0,0:05:44.91,0:05:46.08,Default,Futaro,0,0,0,,You guys...
+Dialogue: 0,0:05:46.08,0:05:47.54,Default,Miku,0,0,0,,W-Washroom!
+Dialogue: 0,0:05:49.66,0:05:52.04,Default,Futaro,0,0,0,,Are you still fighting?
+Dialogue: 0,0:05:52.04,0:05:53.37,Default,Futaro,0,0,0,,Tell me what's going on.
+Dialogue: 0,0:05:53.37,0:05:55.04,Default,Ichika,0,0,0,,No, we're, well...
+Dialogue: 0,0:05:55.04,0:05:58.00,Default,Yotsuba,0,0,0,,Man, that was refreshing.
+Dialogue: 0,0:05:59.89,0:06:02.05,Default,Ichika,0,0,0,,I-It's not a big deal, right?
+Dialogue: 0,0:06:02.05,0:06:04.01,Default,Nino,0,0,0,,Yeah, this is just another day for us.
+Dialogue: 0,0:06:04.01,0:06:05.93,Default,Itsuki,0,0,0,,O-Obviously, right?
+Dialogue: 0,0:06:06.39,0:06:07.31,Default,Futaro,0,0,0,,All right, then.
+Dialogue: 0,0:06:08.23,0:06:10.06,Default,Futaro,0,0,0,,Anyway, thirty minutes.
+Dialogue: 0,0:06:10.06,0:06:12.71,Default,Futaro,0,0,0,,Apparently, we're deciding on our \Nelective itinerary for tomorrow, too.
+Dialogue: 0,0:06:12.71,0:06:14.06,Default,Futaro,0,0,0,,Give it some thought.
+Dialogue: 0,0:06:16.32,0:06:18.32,Default,Ichika,0,0,0,,Sorry for talking out of turn.
+Dialogue: 0,0:06:18.32,0:06:19.44,Default,Nino,0,0,0,,It's fine.
+Dialogue: 0,0:06:19.44,0:06:22.07,Default,Nino,0,0,0,,Making Fu{**-kun} worry is the last thing I want.
+Dialogue: 0,0:06:22.95,0:06:25.11,Default,Nino,0,0,0,,And you need to stop running away like that.
+Dialogue: 0,0:06:25.11,0:06:26.49,Default,Miku,0,0,0,,But...
+Dialogue: 0,0:06:27.91,0:06:31.91,Default,Itsuki,0,0,0,,Miku, you can't keep this up forever.
+Dialogue: 0,0:06:31.91,0:06:34.08,Default,Ichika,0,0,0,,Guys, let's make things clear.
+Dialogue: 0,0:06:34.67,0:06:39.30,Default,Ichika,0,0,0,,All of us are looking for a chance \Nto be alone with Futaro{**-kun}.
+Dialogue: 0,0:06:39.63,0:06:42.47,Default,Nino,0,0,0,,That's what I've been saying this whole time.
+Dialogue: 0,0:06:42.47,0:06:44.30,Default,Nino,0,0,0,,You too, Itsuki?
+Dialogue: 0,0:06:44.80,0:06:46.97,Default,Itsuki,0,0,0,,I can't deny it.
+Dialogue: 0,0:06:46.97,0:06:50.38,Default,Ichika,0,0,0,,None of us are going to get what \Nwe want if we keep this up.
+Dialogue: 0,0:06:50.89,0:06:53.31,Default,Ichika,0,0,0,,I'm sure that's not anyone's wish.
+Dialogue: 0,0:06:53.77,0:06:56.23,Default,Nino,0,0,0,,Look who's talking.
+Dialogue: 0,0:06:56.23,0:06:57.44,Default,Ichika,0,0,0,,You hear me out too, Yotsuba.
+Dialogue: 0,0:06:58.36,0:07:00.14,Default,Yotsuba,0,0,0,,He's not here anymore, is he?
+Dialogue: 0,0:07:01.23,0:07:04.22,Default,Ichika,0,0,0,,We have elective field trips on our last day.
+Dialogue: 0,0:07:04.70,0:07:07.70,Default,Ichika,0,0,0,,We're choosing from one of five courses.
+Dialogue: 0,0:07:08.03,0:07:12.29,Default,Ichika,0,0,0,,Why don't we each choose one of the five?
+Dialogue: 0,0:07:12.29,0:07:13.50,Default,Ichika,0,0,0,,The only person who gets a chance
+Dialogue: 0,0:07:13.50,0:07:16.71,Default,,0,0,0,,is the one who happens to be on \Nthe same course as Futaro{**-kun}.
+Dialogue: 0,0:07:17.08,0:07:18.58,Default,Ichika,0,0,0,,Let's leave it all to luck.
+Dialogue: 0,0:07:18.58,0:07:19.79,Default,Yotsuba,0,0,0,,Agreed!
+Dialogue: 0,0:07:19.79,0:07:21.59,Default,Yotsuba,0,0,0,,There won't be any hard feelings that way.
+Dialogue: 0,0:07:21.59,0:07:23.05,Default,Nino,0,0,0,,I don't like it.
+Dialogue: 0,0:07:23.05,0:07:25.85,Default,Nino,0,0,0,,Are really we really gonna do this\Nafter all that scheming?
+Dialogue: 0,0:07:25.85,0:07:27.10,Default,Nino,0,0,0,,Are you happy with this?
+Dialogue: 0,0:07:27.10,0:07:28.72,Default,Nino,0,0,0,,It's only a one in five chance.
+Dialogue: 0,0:07:29.02,0:07:33.89,Default,Miku,0,0,0,,I don't know how to face \NFutaro{**-kun} right now.
+Dialogue: 0,0:07:33.89,0:07:36.60,Default,Miku,0,0,0,,So I want my odds to be lower.
+Dialogue: 0,0:07:36.98,0:07:39.69,Default,Itsuki,0,0,0,,I think this is the best option.
+Dialogue: 0,0:07:39.69,0:07:41.73,Default,Itsuki,0,0,0,,We should have done this from the beginning.
+Dialogue: 0,0:07:42.99,0:07:44.74,Default,Nino,0,0,0,,Can we just point like usual?
+Dialogue: 0,0:07:44.74,0:07:46.99,Default,Nino,0,0,0,,I bet we'll all choose\Nsomething different anyway.
+Dialogue: 0,0:07:46.99,0:07:49.03,Default,Nino,0,0,0,,One, two...
+Dialogue: 0,0:07:52.37,0:07:56.04,Default,Maeda,0,0,0,,Yo, Uesugi, which course \Nare we choosing tomorrow?
+Dialogue: 0,0:07:56.04,0:07:58.00,Default,Futaro,0,0,0,,{\fad(0,720)}Let's go for E.
+Comment: 0,0:07:56.04,0:07:57.87,Default,Futaro,0,0,0,,Let's go for E.
+Dialogue: 0,0:08:03.34,0:08:05.92,Default,Person A,0,0,0,,Course D people, over here.
+Dialogue: 0,0:08:05.92,0:08:07.84,Default,Person B,0,0,0,,What was Course D again?
+Dialogue: 0,0:08:08.14,0:08:10.59,Default,Person C,0,0,0,,You know, like, Honnouji Temple \Nand samurai graves and stuff.
+Dialogue: 0,0:08:10.59,0:08:11.97,Default,,0,0,0,,The historical sites.
+Dialogue: 0,0:08:12.60,0:08:14.73,Default,Person B,0,0,0,,I don't care about that!
+Dialogue: 0,0:08:14.73,0:08:16.68,Default,Person C,0,0,0,,You should have checked.
+Dialogue: 0,0:08:16.68,0:08:20.27,Default,Person C,0,0,0,,You like Japanese history too,\Nhuh, Ichika{**-san}?
+Dialogue: 0,0:08:21.11,0:08:23.11,Default,Ichika,0,0,0,,I have a tummy ache.
+Dialogue: 0,0:08:23.11,0:08:25.11,Default,Person D,0,0,0,,Course E, over here.
+Dialogue: 0,0:08:25.53,0:08:27.49,Default,Person D,0,0,0,,We're leaving now.
+Dialogue: 0,0:08:32.78,0:08:39.12,Default,Person E,0,0,0,,Students on Course E, we've arrived \Nat our destination, the Studio Park.
+Dialogue: 0,0:08:40.38,0:08:42.75,Default,Ichika,0,0,0,,Actually, I want Course D.
+Comment: 0,0:08:42.75,0:08:44.84,Default,Ichika,0,0,0,,{\t(1880,2120,\c&H000000&)}Miku, can we trade?
+Dialogue: 0,0:08:42.75,0:08:44.88,Default,Ichika,0,0,0,,Miku, can we trade?
+Dialogue: 0,0:08:45.47,0:08:50.38,Italics,Miku,0,0,0,,Why did she decide she wanted \Nto switch courses with me?
+Dialogue: 0,0:08:50.76,0:08:54.06,Italics,Miku,0,0,0,,Ichika was supposed to be the one here.
+Dialogue: 0,0:08:54.06,0:08:55.89,Default,Maeda,0,0,0,,Where are we headed?
+Dialogue: 0,0:08:55.89,0:08:58.85,Default,Takeda,0,0,0,,Hey, Nakano{**-san}. We meet again.
+Dialogue: 0,0:09:01.90,0:09:03.40,Default,Takeda,0,0,0,,She ran away again.
+Dialogue: 0,0:09:03.40,0:09:05.28,Default,Maeda,0,0,0,,She probably hates you.
+Dialogue: 0,0:09:05.28,0:09:07.03,Default,Futaro,0,0,0,,Miku, stop!
+Dialogue: 0,0:09:08.40,0:09:10.28,Default,Futaro,0,0,0,,Are you all right?
+Dialogue: 0,0:09:10.28,0:09:11.28,Default,Futaro,0,0,0,,Sorry.
+Dialogue: 0,0:09:17.91,0:09:20.46,Italics,Ichika,0,0,0,,Don't run away, Miku.
+Dialogue: 0,0:09:21.00,0:09:24.29,Italics,Ichika,0,0,0,,Not that I think this is enough\Nto make up for what I did...
+Dialogue: 0,0:09:24.63,0:09:27.05,Default,Futaro,0,0,0,,You gotta watch where you're going.
+Dialogue: 0,0:09:28.55,0:09:30.80,Italics,Miku,0,0,0,,I'm sorry, Nino, I just can't.
+Dialogue: 0,0:09:31.93,0:09:33.80,Italics,Ichika,0,0,0,,She's trying to run away again.
+Dialogue: 0,0:09:33.80,0:09:34.68,Italics,Ichika,0,0,0,,What do I do?
+Dialogue: 0,0:09:36.27,0:09:40.23,Default,Ichika,0,0,0,,Would you like to try on samurai clothes?
+Dialogue: 0,0:09:36.27,0:09:40.23,Default,Nino,0,0,0,,{\an8}Would you like to try on samurai clothes?
+Dialogue: 0,0:09:41.10,0:09:42.44,Default,Nino,0,0,0,,Ichika! Why are you...
+Dialogue: 0,0:09:42.44,0:09:43.56,Default,Ichika,0,0,0,,What about you, Nino?
+Dialogue: 0,0:09:43.56,0:09:48.15,Default,Miku,0,0,0,,I just called in sick so I \Ncould keep an eye on those two.
+Dialogue: 0,0:09:48.15,0:09:51.24,Default,Miku,0,0,0,,You aren't here to mess \Nwith her again, are you?
+Dialogue: 0,0:09:51.24,0:09:52.37,Default,Ichika,0,0,0,,N-No!
+Dialogue: 0,0:09:52.37,0:09:54.56,Default,Ichika,0,0,0,,I bailed with a stomachache, too.
+Dialogue: 0,0:09:55.03,0:09:58.08,Default,Ichika,0,0,0,,I don't expect you to believe me.
+Dialogue: 0,0:09:59.12,0:10:01.83,Default,Ichika,0,0,0,,Even if I can't be forgiven for what I did,
+Dialogue: 0,0:10:02.16,0:10:07.84,Default,,0,0,0,,I want to make things right as much as \NI can before the end of the last day.
+Dialogue: 0,0:10:09.46,0:10:13.34,Default,Yotsuba,0,0,0,,I can't believe you're also here \Nto support Miku, Itsuki.
+Dialogue: 0,0:10:13.34,0:10:14.60,Default,Itsuki,0,0,0,,Yotsuba...
+Dialogue: 0,0:10:14.60,0:10:18.35,Default,Itsuki,0,0,0,,Are you sure you don't want to tell him \Nthat you were the girl he met six years ago?
+Dialogue: 0,0:10:20.98,0:10:22.81,Default,Yotsuba,0,0,0,,There's no reason to.
+Dialogue: 0,0:10:22.81,0:10:25.23,Default,Yotsuba,0,0,0,,As long as I know.
+Dialogue: 0,0:10:25.23,0:10:26.11,Default,Yotsuba,0,0,0,,Huh?
+Dialogue: 0,0:10:26.11,0:10:28.11,Default,Yotsuba,0,0,0,,Ichika and Nino are here, too.
+Dialogue: 0,0:10:29.20,0:10:31.03,Default,Itsuki,0,0,0,,You two came, too?
+Dialogue: 0,0:10:31.03,0:10:34.74,Default,Itsuki,0,0,0,,I guess we're all here on Course E.
+Dialogue: 0,0:10:35.04,0:10:36.28,Default,Nino,0,0,0,,Sheesh.
+Dialogue: 0,0:10:36.28,0:10:38.99,Default,Nino,0,0,0,,Nobody's playing by the rules.
+Dialogue: 0,0:10:42.50,0:10:45.50,Default,Nino,0,0,0,,Those two guys are in the way.
+Dialogue: 0,0:10:45.50,0:10:47.79,Default,Nino,0,0,0,,I'll go deal with them.
+Dialogue: 0,0:10:47.79,0:10:51.84,Default,Nino,0,0,0,,Ichika, try to get Miku to wear\Nthe samurai clothes while she's here.
+Dialogue: 0,0:10:51.84,0:10:54.13,Default,Ichika,0,0,0,,G-Get her? How?
 Dialogue: 0,0:10:54.13,0:10:57.76,Default,Nino,0,0,0,,Hey, you're great at\Nimpersonating Miku, aren't you?
-Dialogue: 0,0:10:59.33,0:11:00.64,Default,Ichika,0,0,0,,You're so mean.
-Dialogue: 0,0:11:03.41,0:11:04.39,Default,Ichika,0,0,0,,Excuse me.
-Dialogue: 0,0:11:04.99,0:11:08.68,Default,Ichika,0,0,0,,May I try on the samurai clothes, too?
-Dialogue: 0,0:11:10.23,0:11:13.29,Default,Futaro,0,0,0,,Maeda and Takeda are late as hell.
-Dialogue: 0,0:11:13.79,0:11:16.79,Default,Futaro,0,0,0,,And Miku said she'd wait, but she's gone.
-Dialogue: 0,0:11:17.20,0:11:19.38,Default,Futaro,0,0,0,,I guess she left.
-Dialogue: 0,0:11:19.38,0:11:23.34,Default,Futaro,0,0,0,,Considering what happened on\Nthe first day, I can't blame her.
-Dialogue: 0,0:11:25.57,0:11:26.83,Default,Futaro,0,0,0,,Miku.
-Dialogue: 0,0:11:27.13,0:11:29.93,Default,Futaro,0,0,0,,So you did get dressed, too, huh?
-Dialogue: 0,0:11:29.93,0:11:34.84,Default,Miku,0,0,0,,I wasn't planning to, but the staff \Nwere weirdly enthusiastic about it.
-Dialogue: 0,0:11:35.43,0:11:37.46,Default,Miku,0,0,0,,I don't look weird, do I?
-Dialogue: 0,0:11:37.86,0:11:40.34,Default,Futaro,0,0,0,,Y-You look good.
-Dialogue: 0,0:11:40.61,0:11:42.59,Default,Miku,0,0,0,,Wh-Where are your friends?
-Dialogue: 0,0:11:42.59,0:11:45.08,Default,Futaro,0,0,0,,Th-They're taking forever.
-Dialogue: 0,0:11:45.08,0:11:47.35,Default,Futaro,0,0,0,,I don't know what to do with them.
-Dialogue: 0,0:11:48.44,0:11:52.13,Default,Maeda,0,0,0,,Uesugi{**-kun}! Are you really here?!
-Dialogue: 0,0:11:52.54,0:11:54.36,Default,Nino,0,0,0,,Lured them in good.
-Dialogue: 0,0:11:55.88,0:11:58.23,Default,Nino,0,0,0,,Looks like Ichika managed to do her part.
-Dialogue: 0,0:11:59.08,0:12:00.36,Default,Nino,0,0,0,,Huh...
-Dialogue: 0,0:12:00.93,0:12:02.41,Default,Nino,0,0,0,,They look good together.
-Dialogue: 0,0:12:17.54,0:12:18.13,Default,Miku,0,0,0,,Futaro!
-Dialogue: 0,0:12:18.51,0:12:20.38,Default,Miku,0,0,0,,Take a picture! It's going to go back down!
-Dialogue: 0,0:12:20.38,0:12:22.38,Default,Futaro,0,0,0,,All right. Fine.
-Dialogue: 0,0:12:28.68,0:12:30.77,Default,Nino,0,0,0,,Don't go thinking I'm giving you to her.
-Dialogue: 0,0:12:37.53,0:12:39.65,Default,Futaro,0,0,0,,S... Sorry.
-Dialogue: 0,0:12:42.89,0:12:43.91,Default,Itsuki,0,0,0,,Oh, dear.
-Dialogue: 0,0:12:43.91,0:12:45.89,Default,Yotsuba,0,0,0,,She's drenched.
-Dialogue: 0,0:12:45.89,0:12:47.83,Default,Yotsuba,0,0,0,,Like we were yesterday.
-Dialogue: 0,0:12:47.83,0:12:50.38,Default,Ichika,0,0,0,,What is she going to do \Nabout her underwear?
+Dialogue: 0,0:10:59.26,0:11:00.64,Default,Ichika,0,0,0,,You're so mean.
+Dialogue: 0,0:11:03.35,0:11:04.39,Default,Ichika,0,0,0,,Excuse me.
+Dialogue: 0,0:11:04.90,0:11:08.51,Default,Ichika,0,0,0,,May I try on the samurai clothes, too?
+Dialogue: 0,0:11:10.15,0:11:13.24,Default,Futaro,0,0,0,,Maeda and Takeda are late as hell.
+Dialogue: 0,0:11:13.74,0:11:16.35,Default,Futaro,0,0,0,,And Miku said she'd wait, but she's gone.
+Dialogue: 0,0:11:16.99,0:11:19.29,Default,Futaro,0,0,0,,I guess she left.
+Dialogue: 0,0:11:19.29,0:11:23.29,Default,Futaro,0,0,0,,Considering what happened on\Nthe first day, I can't blame her.
+Dialogue: 0,0:11:25.50,0:11:26.83,Default,Futaro,0,0,0,,Miku.
+Dialogue: 0,0:11:26.83,0:11:29.79,Default,Futaro,0,0,0,,So you did get dressed, too, huh?
+Dialogue: 0,0:11:29.79,0:11:34.84,Default,Miku,0,0,0,,I wasn't planning to, but the staff \Nwere weirdly enthusiastic about it.
+Dialogue: 0,0:11:35.30,0:11:37.47,Default,Miku,0,0,0,,I don't look weird, do I?
+Dialogue: 0,0:11:37.80,0:11:40.35,Default,Futaro,0,0,0,,Y-You look good.
+Dialogue: 0,0:11:40.35,0:11:42.60,Default,Miku,0,0,0,,Wh-Where are your friends?
+Dialogue: 0,0:11:42.60,0:11:44.98,Default,Futaro,0,0,0,,Th-They're taking forever.
+Dialogue: 0,0:11:44.98,0:11:47.35,Default,Futaro,0,0,0,,I don't know what to do with them.
+Dialogue: 0,0:11:48.35,0:11:52.48,Default,Maeda,0,0,0,,Uesugi{**-kun}! Are you really here?!
+Dialogue: 0,0:11:52.48,0:11:54.36,Default,Nino,0,0,0,,Lured them in good.
+Dialogue: 0,0:11:55.82,0:11:58.10,Default,Nino,0,0,0,,Looks like Ichika managed to do her part.
+Dialogue: 0,0:11:58.99,0:12:00.37,Default,Nino,0,0,0,,Huh...
+Dialogue: 0,0:12:00.87,0:12:02.36,Default,Nino,0,0,0,,They look good together.
+Dialogue: 0,0:12:17.47,0:12:18.13,Default,Miku,0,0,0,,Futaro!
+Dialogue: 0,0:12:18.43,0:12:20.39,Default,Miku,0,0,0,,Take a picture! It's going to go back down!
+Dialogue: 0,0:12:20.39,0:12:22.39,Default,Futaro,0,0,0,,All right. Fine.
+Dialogue: 0,0:12:28.60,0:12:30.77,Default,Nino,0,0,0,,Don't go thinking I'm giving you to her.
+Dialogue: 0,0:12:37.28,0:12:39.66,Default,Futaro,0,0,0,,S... Sorry.
+Dialogue: 0,0:12:42.83,0:12:43.91,Default,Itsuki,0,0,0,,Oh, dear.
+Dialogue: 0,0:12:43.91,0:12:45.74,Default,Yotsuba,0,0,0,,She's drenched.
+Dialogue: 0,0:12:45.74,0:12:47.71,Default,Yotsuba,0,0,0,,Like we were yesterday.
+Dialogue: 0,0:12:47.71,0:12:50.33,Default,Ichika,0,0,0,,What is she going to do \Nabout her underwear?
 Dialogue: 0,0:12:51.67,0:12:53.79,Default,Yotsuba,0,0,0,,You told me to watch where I was going.
-Dialogue: 0,0:12:53.79,0:12:56.54,Default,Yotsuba,0,0,0,,You should pay attention \Nto your surroundings, too.
-Dialogue: 0,0:12:56.54,0:12:58.55,Default,Futaro,0,0,0,,I told you, I'm sorry.
-Dialogue: 0,0:12:59.06,0:13:01.56,Default,Futaro,0,0,0,,I'll apologize to the staff.
-Dialogue: 0,0:13:01.56,0:13:03.46,Default,Futaro,0,0,0,,You should get changed.
-Dialogue: 0,0:13:03.46,0:13:04.30,Default,Miku,0,0,0,,Yeah.
-Dialogue: 0,0:13:05.35,0:13:07.89,Italics,Miku,0,0,0,,Before we knew it,\Nwe were talking like normal again.
-Dialogue: 0,0:13:07.89,0:13:10.12,Italics,Miku,0,0,0,,It's strange, given everything that happened.
-Dialogue: 0,0:13:10.12,0:13:14.25,Italics,Miku,0,0,0,,It's like I stop worrying about silly things\Nwhen I'm with him.
+Dialogue: 0,0:12:53.79,0:12:56.42,Default,Yotsuba,0,0,0,,You should pay attention \Nto your surroundings, too.
+Dialogue: 0,0:12:56.42,0:12:58.55,Default,Futaro,0,0,0,,I told you, I'm sorry.
+Dialogue: 0,0:12:59.01,0:13:01.43,Default,Futaro,0,0,0,,I'll apologize to the staff.
+Dialogue: 0,0:13:01.43,0:13:03.39,Default,Futaro,0,0,0,,You should get changed.
+Dialogue: 0,0:13:03.39,0:13:04.31,Default,Miku,0,0,0,,Yeah.
+Dialogue: 0,0:13:05.26,0:13:07.85,Italics,Miku,0,0,0,,Before we knew it,\Nwe were talking like normal again.
+Dialogue: 0,0:13:07.85,0:13:10.02,Italics,Miku,0,0,0,,It's strange, given everything that happened.
+Dialogue: 0,0:13:10.02,0:13:14.05,Italics,Miku,0,0,0,,It's like I stop worrying about silly things\Nwhen I'm with him.
 Dialogue: 0,0:13:14.69,0:13:19.57,Italics,Miku,0,0,0,,Like the fact that I'm soaked \Nall the way down to my underwear.
-Dialogue: 0,0:13:22.58,0:13:25.57,Default,Miku,0,0,0,,This paper bag is from an underwear shop.
-Dialogue: 0,0:13:25.96,0:13:27.06,Italics,Miku,0,0,0,,Who was it?
-Dialogue: 0,0:13:27.06,0:13:28.83,Italics,Miku,0,0,0,,Maybe it was the staff.
-Dialogue: 0,0:13:29.13,0:13:31.08,Italics,Miku,0,0,0,,I'll take them up on their offer.
-Dialogue: 0,0:13:37.78,0:13:41.93,Default,Yotsuba,0,0,0,,Good thing you had that underwear, Itsuki!
-Dialogue: 0,0:13:41.93,0:13:43.05,Default,Ichika,0,0,0,,Why, though?
-Dialogue: 0,0:13:43.05,0:13:46.05,Default,Itsuki,0,0,0,,I thought I might need it in an emergency!
-Dialogue: 0,0:13:46.70,0:13:48.64,Default,Futaro,0,0,0,,Those guys are still gone...
-Dialogue: 0,0:13:49.08,0:13:50.78,Default,Futaro,0,0,0,,Where are they?
-Dialogue: 0,0:13:52.53,0:13:53.69,Default,Futaro,0,0,0,,What's wrong, Miku?
-Dialogue: 0,0:13:54.32,0:13:56.14,Default,Miku,0,0,0,,I-I'm exhausted.
-Dialogue: 0,0:13:56.44,0:13:58.15,Default,Miku,0,0,0,,Let's sit down for a bit.
-Dialogue: 0,0:13:58.59,0:13:59.99,Default,Ichika,0,0,0,,There we go.
-Dialogue: 0,0:14:00.26,0:14:02.04,Default,Nino,0,0,0,,Sorry, I'm back now.
-Dialogue: 0,0:14:02.30,0:14:03.92,Default,Nino,0,0,0,,How are they doing?
-Dialogue: 0,0:14:03.92,0:14:06.75,Default,Ichika,0,0,0,,I think things are going well.
-Dialogue: 0,0:14:09.10,0:14:11.90,Default,Itsuki,0,0,0,,What do we do now, Yotsuba?
-Dialogue: 0,0:14:13.22,0:14:16.50,Default,Yotsuba,0,0,0,,I picked up Miku's bread, \Nbut I left it back at the hotel.
-Dialogue: 0,0:14:16.50,0:14:18.52,Default,Ichika,0,0,0,,What? B-Bread?
-Dialogue: 0,0:14:19.09,0:14:20.04,Default,Itsuki,0,0,0,,Don't worry.
-Dialogue: 0,0:14:20.66,0:14:23.30,Default,Itsuki,0,0,0,,I just need to hand this to Miku, right?
-Dialogue: 0,0:14:23.64,0:14:27.48,Default,Miku,0,0,0,,The last three days went by so quickly.
-Dialogue: 0,0:14:27.48,0:14:28.39,Default,Futaro,0,0,0,,Yeah.
-Dialogue: 0,0:14:28.74,0:14:31.30,Default,Miku,0,0,0,,Although it was just two days for me.
-Dialogue: 0,0:14:31.78,0:14:33.43,Default,Miku,0,0,0,,But it's fine.
-Dialogue: 0,0:14:33.43,0:14:35.94,Default,Miku,0,0,0,,I got to spend the last day with you.
-Dialogue: 0,0:14:35.94,0:14:37.17,Default,Miku,0,0,0,,That's good enough for me.
-Dialogue: 0,0:14:37.49,0:14:38.19,Default,Futaro,0,0,0,,Miku...
-Dialogue: 0,0:14:38.53,0:14:39.61,Default,Futaro,0,0,0,,What's that?
-Dialogue: 0,0:14:40.74,0:14:43.32,Default,Miku,0,0,0,,Why is my bread here?
-Dialogue: 0,0:14:44.34,0:14:46.15,Default,Futaro,0,0,0,,You baked that?
-Dialogue: 0,0:14:46.15,0:14:47.61,Default,Miku,0,0,0,,I did, but...
-Dialogue: 0,0:14:47.61,0:14:49.87,Default,Futaro,0,0,0,,I'm hungry. I'm going to take one.
-Dialogue: 0,0:14:50.55,0:14:52.08,Default,Miku,0,0,0,,That's already...
-Dialogue: 0,0:14:58.24,0:14:58.83,Default,Futaro,0,0,0,,Yum.
-Dialogue: 0,0:15:00.18,0:15:02.55,Default,Futaro,0,0,0,,I seem to have a bad palate.
-Dialogue: 0,0:15:02.55,0:15:06.84,Default,Futaro,0,0,0,,Honestly, I'm not confident I \Ncan give you good feedback,
-Dialogue: 0,0:15:07.91,0:15:11.34,Default,,0,0,0,,but I can, at least, appreciate your effort.
-Dialogue: 0,0:15:11.80,0:15:13.07,Default,Futaro,0,0,0,,You must've worked so hard.
-Dialogue: 0,0:15:20.83,0:15:21.35,Default,Miku,0,0,0,,Yeah.
-Dialogue: 0,0:15:23.54,0:15:26.61,Default,Miku,0,0,0,,I worked really hard.
-Dialogue: 0,0:15:27.97,0:15:29.24,Default,Ichika,0,0,0,,I handed it to her.
-Dialogue: 0,0:15:29.79,0:15:31.42,Default,Yotsuba,0,0,0,,Sorry, Ichika.
-Dialogue: 0,0:15:32.42,0:15:36.27,Default,Yotsuba,0,0,0,,I think I've been rooting for \Nthe passive one the most
-Dialogue: 0,0:15:36.27,0:15:40.12,Default,Yotsuba,0,0,0,,because I wanted everyone to be happy.
-Dialogue: 0,0:15:40.55,0:15:45.46,Default,Yotsuba,0,0,0,,So I never realized how \Nyou were really feeling.
-Dialogue: 0,0:15:45.46,0:15:47.13,Default,Yotsuba,0,0,0,,So, sorry.
-Dialogue: 0,0:15:49.06,0:15:52.26,Default,Ichika,0,0,0,,I keep getting apologized to.
-Dialogue: 0,0:15:53.35,0:15:56.65,Default,Ichika,0,0,0,,I'm the one who needs to apologize the most.
-Dialogue: 0,0:15:57.55,0:15:59.95,Default,Futaro,0,0,0,,My mom used to bake for me a lot.
-Dialogue: 0,0:16:00.22,0:16:01.70,Default,Futaro,0,0,0,,When I was six.
-Dialogue: 0,0:16:01.70,0:16:03.63,Default,Futaro,0,0,0,,She baked bread every day until she died.
-Dialogue: 0,0:16:04.47,0:16:07.26,Default,Futaro,0,0,0,,I was reminded of that for some reason.
-Dialogue: 0,0:16:08.40,0:16:10.03,Default,Miku,0,0,0,,Your mom?
-Dialogue: 0,0:16:10.37,0:16:14.96,Default,Futaro,0,0,0,,It was the kind of popular handmade bread \Nthat they serve at small cafés and stuff.
-Dialogue: 0,0:16:15.64,0:16:17.65,Default,Futaro,0,0,0,,My dad and I loved it.
-Dialogue: 0,0:16:17.96,0:16:21.22,Default,Futaro,0,0,0,,Anyway, no point talking about me right now.
-Dialogue: 0,0:16:21.22,0:16:22.04,Default,Miku,0,0,0,,No.
-Dialogue: 0,0:16:22.04,0:16:23.96,Default,Miku,0,0,0,,I want you to tell me more.
-Dialogue: 0,0:16:23.96,0:16:28.02,Default,Miku,0,0,0,,I never knew any of this, even though \Nwe've spent so much time together.
-Dialogue: 0,0:16:28.02,0:16:31.80,Default,Miku,0,0,0,,I've been so busy thinking about myself,\NI didn't even try to learn.
-Dialogue: 0,0:16:32.10,0:16:33.55,Default,Miku,0,0,0,,I want to learn more.
-Dialogue: 0,0:16:33.55,0:16:35.46,Default,Miku,0,0,0,,Everything about you.
-Dialogue: 0,0:16:35.46,0:16:40.06,Default,Miku,0,0,0,,And I want you to know \Neverything about me, too.
-Dialogue: 0,0:16:41.25,0:16:41.81,Default,Miku,0,0,0,,Like that.
-Dialogue: 0,0:16:42.45,0:16:46.59,Default,Miku,0,0,0,,That spot's famous for being used as a \Nmagistrate's office in period dramas.
-Dialogue: 0,0:16:46.59,0:16:49.07,Default,Miku,0,0,0,,I'm content just having\Nbeen able to see it today.
-Dialogue: 0,0:16:49.86,0:16:52.45,Default,Futaro,0,0,0,,I'm sure you are. I know.
-Dialogue: 0,0:16:52.84,0:16:55.70,Default,Miku,0,0,0,,I love that big bridge we just crossed, too.
-Dialogue: 0,0:16:55.70,0:16:57.05,Default,Futaro,0,0,0,,TV shows again?
-Dialogue: 0,0:16:57.05,0:16:57.83,Default,Miku,0,0,0,,Yeah.
-Dialogue: 0,0:16:57.83,0:17:00.20,Default,Miku,0,0,0,,Oh, and I love that, too.
-Dialogue: 0,0:17:00.71,0:17:01.96,Default,Miku,0,0,0,,And I love that.
-Dialogue: 0,0:17:02.35,0:17:03.59,Default,Miku,0,0,0,,I love this, too.
-Dialogue: 0,0:17:03.59,0:17:04.96,Default,Futaro,0,0,0,,That's way too many.
-Dialogue: 0,0:17:05.33,0:17:06.50,Default,Futaro,0,0,0,,Not that I didn't know.
-Dialogue: 0,0:17:13.62,0:17:14.64,Default,Miku,0,0,0,,And I love you...
-Dialogue: 0,0:17:18.73,0:17:20.81,Italics,Ichika,0,0,0,,I'm sorry, Miku.
-Dialogue: 0,0:17:21.09,0:17:22.86,Italics,Ichika,0,0,0,,I'm sorry I kept getting in your way.
-Dialogue: 0,0:17:23.58,0:17:27.61,Italics,Ichika,0,0,0,,Futaro{**-kun}, I'm sorry I kept lying.
-Dialogue: 0,0:17:28.14,0:17:30.48,Italics,Ichika,0,0,0,,But what I said...
-Dialogue: 0,0:17:30.48,0:17:34.63,Default,Yotsuba,0,0,0,,I met this really interesting boy today.
-Dialogue: 0,0:17:34.63,0:17:37.74,Default,Yotsuba,0,0,0,,And we bought all these \Ngood luck charms together.
-Dialogue: 0,0:17:37.74,0:17:40.85,Default,Yotsuba,0,0,0,,He's still in the main hall right now.
-Dialogue: 0,0:17:41.56,0:17:42.12,Default,Futaro,0,0,0,,Hey.
-Dialogue: 0,0:17:42.50,0:17:44.04,Default,Futaro,0,0,0,,You came.
-Dialogue: 0,0:17:44.04,0:17:46.40,Default,Futaro,0,0,0,,I was bored, being all by myself.
-Dialogue: 0,0:17:46.40,0:17:47.38,Default,Futaro,0,0,0,,Let's play something.
-Dialogue: 0,0:17:48.42,0:17:50.99,Default,Ichika,0,0,0,,H-How about Sevens?
-Dialogue: 0,0:17:51.62,0:17:55.41,Italics,Ichika,0,0,0,,It was just for a short while.
-Dialogue: 0,0:17:55.79,0:18:00.27,Italics,Ichika,0,0,0,,But I'm sure I fell in love with you\Nbecause of that moment.
-Dialogue: 0,0:18:01.41,0:18:05.31,Italics,Ichika,0,0,0,,Futaro{**-kun}, you might \Nnot believe me anymore,
-Dialogue: 0,0:18:06.24,0:18:07.48,Italics,,0,0,0,,but that moment...
-Dialogue: 0,0:18:08.88,0:18:12.82,Italics,Ichika,0,0,0,,That memory isn't a lie.
-Dialogue: 0,0:18:13.73,0:18:16.07,Default,Nino,0,0,0,,Ichika, you know...
-Dialogue: 0,0:18:16.53,0:18:21.22,Default,Nino,0,0,0,,When I saw them together, \NI couldn't keep my cool.
-Dialogue: 0,0:18:21.22,0:18:23.33,Default,Nino,0,0,0,,Before I knew it, I'd jumped on him.
-Dialogue: 0,0:18:23.71,0:18:24.54,Default,Ichika,0,0,0,,Nino.
-Dialogue: 0,0:18:24.81,0:18:27.33,Default,Nino,0,0,0,,I kind of get how you feel now.
-Dialogue: 0,0:18:27.77,0:18:31.84,Default,Nino,0,0,0,,If things had happened\Nat slightly different times,
-Dialogue: 0,0:18:31.84,0:18:34.30,Default,Nino,0,0,0,,our roles might've been reversed.
-Dialogue: 0,0:18:36.47,0:18:39.09,Default,Nino,0,0,0,,I'm sorry for being so condescending.
-Dialogue: 0,0:18:39.75,0:18:41.14,Default,Ichika,0,0,0,,That's not true.
-Dialogue: 0,0:18:41.85,0:18:43.35,Default,Ichika,0,0,0,,That's not true at all!
-Dialogue: 0,0:18:43.75,0:18:44.94,Default,Nino,0,0,0,,Thanks.
-Dialogue: 0,0:18:45.33,0:18:49.00,Default,Nino,0,0,0,,But at the same time, \NI realized how stupid I am.
-Dialogue: 0,0:18:49.44,0:18:50.98,Default,Nino,0,0,0,,You must have, too.
-Dialogue: 0,0:18:52.10,0:18:56.39,Default,Nino,0,0,0,,Miku refused to hold anything\Nagainst you the whole time.
-Dialogue: 0,0:19:01.34,0:19:04.24,Default,Ichika,0,0,0,,Going behind each other's backs, \Ndragging each other down...
-Dialogue: 0,0:19:05.11,0:19:07.54,Default,Ichika,0,0,0,,We aren't getting anything \Nout of fighting each other.
-Dialogue: 0,0:19:09.03,0:19:12.25,Default,Ichika,0,0,0,,We aren't enemies, are we?
-Dialogue: 0,0:19:12.79,0:19:14.62,Default,Nino,0,0,0,,Let's go apologize to Miku.
-Dialogue: 0,0:19:15.06,0:19:17.45,Default,Nino,0,0,0,,I'm sure we can be on even \Nbetter terms than before.
-Dialogue: 0,0:19:18.03,0:19:22.68,Default,Nino,0,0,0,,We get to talk about something \Nwe all like, for once.
-Dialogue: 0,0:19:23.71,0:19:24.72,Default,Miku,0,0,0,,And I love you...
-Dialogue: 0,0:19:25.42,0:19:26.02,Default,Futaro,0,0,0,,Yeah.
-Dialogue: 0,0:19:26.90,0:19:27.77,Default,Futaro,0,0,0,,I know.
-Dialogue: 0,0:19:29.99,0:19:30.84,Default,Futaro,0,0,0,,But...
-Dialogue: 0,0:19:30.84,0:19:31.52,Default,Miku,0,0,0,,Yeah.
-Dialogue: 0,0:19:31.97,0:19:36.02,Default,Miku,0,0,0,,I really do love my family.
-Dialogue: 0,0:19:40.03,0:19:41.24,Default,Futaro,0,0,0,,Why are you here?!
-Dialogue: 0,0:19:41.24,0:19:43.25,Default,Yotsuba,0,0,0,,You noticed, Miku?!
-Dialogue: 0,0:19:43.25,0:19:44.89,Default,Itsuki,0,0,0,,When?
-Dialogue: 0,0:19:44.89,0:19:46.04,Default,Miku,0,0,0,,I knew it.
-Dialogue: 0,0:19:46.45,0:19:50.87,Default,Miku,0,0,0,,I thought something was up since \NI heard Ichika and Nino's voices.
-Dialogue: 0,0:19:50.87,0:19:52.54,Default,Futaro,0,0,0,,Wait, let me walk through this...
-Dialogue: 0,0:19:52.87,0:19:55.80,Default,Futaro,0,0,0,,Which means that "I love you" just now...
-Dialogue: 0,0:19:56.24,0:19:59.28,Default,Miku,0,0,0,,It was directed at my sisters hiding in there.
-Dialogue: 0,0:20:00.79,0:20:02.05,Default,Miku,0,0,0,,Did you think...
-Dialogue: 0,0:20:02.69,0:20:04.30,Default,Miku,0,0,0,,I was talking about you?
-Dialogue: 0,0:20:06.22,0:20:08.81,Default,Futaro,0,0,0,,Y-You're just messing with me!
-Dialogue: 0,0:20:09.48,0:20:11.46,Default,Yotsuba,0,0,0,,Are you sure about that, Miku?
-Dialogue: 0,0:20:11.46,0:20:14.08,Default,Yotsuba,0,0,0,,You'd finally managed to tell him\Nhow you feel.
-Dialogue: 0,0:20:14.08,0:20:15.40,Default,Miku,0,0,0,,It's fine.
-Dialogue: 0,0:20:15.40,0:20:17.44,Default,Miku,0,0,0,,I'm not like a certain someone
-Dialogue: 0,0:20:17.44,0:20:20.51,Default,,0,0,0,,who's stupid enough to go charging in \Nwhen I don't even stand a chance.
-Dialogue: 0,0:20:20.51,0:20:21.96,Default,Nino,0,0,0,,Who are you calling stupid?
-Dialogue: 0,0:20:21.96,0:20:26.62,Default,Miku,0,0,0,,Besides, Futaro's not as dense as we think.
-Dialogue: 0,0:20:27.01,0:20:29.62,Default,Futaro,0,0,0,,I should have known.
-Dialogue: 0,0:20:30.49,0:20:33.42,Default,Miku,0,0,0,,So, Yotsuba, thanks for the bread.
-Dialogue: 0,0:20:34.43,0:20:37.05,Default,Yotsuba,0,0,0,,I was worried for a while.
-Dialogue: 0,0:20:37.05,0:20:41.54,Default,Miku,0,0,0,,Also, I think these are yours, right, Itsuki?
-Dialogue: 0,0:20:41.54,0:20:42.66,Default,Miku,0,0,0,,Thanks.
-Dialogue: 0,0:20:42.66,0:20:43.72,Default,Itsuki,0,0,0,,I'm sorry.
-Dialogue: 0,0:20:44.10,0:20:45.01,Default,Miku,0,0,0,,Nino.
-Dialogue: 0,0:20:46.07,0:20:47.60,Default,Nino,0,0,0,,Don't bother. We're family.
-Dialogue: 0,0:20:47.97,0:20:48.90,Default,Miku,0,0,0,,Yeah.
-Dialogue: 0,0:20:48.90,0:20:50.07,Default,Miku,0,0,0,,Thanks.
-Dialogue: 0,0:20:50.07,0:20:51.28,Default,Miku,0,0,0,,And Ichi—
-Dialogue: 0,0:20:53.48,0:20:54.62,Default,Itsuki,0,0,0,,I'm sorry.
-Dialogue: 0,0:20:54.96,0:20:56.44,Default,Itsuki,0,0,0,,I'm sorry, Miku.
-Dialogue: 0,0:20:56.84,0:20:58.18,Default,Itsuki,0,0,0,,I'm really sorry.
-Dialogue: 0,0:21:02.11,0:21:03.15,Default,Miku,0,0,0,,It's okay.
-Dialogue: 0,0:21:03.99,0:21:07.39,Default,Miku,0,0,0,,I guess falling in love is painful.
-Dialogue: 0,0:21:08.52,0:21:11.00,Default,Miku,0,0,0,,Thanks, Ichika.
-Dialogue: 0,0:21:13.21,0:21:20.76,Italics,Futaro,0,0,0,,What they did and talked about from\N then until it was time to meet up again
-Dialogue: 0,0:21:20.76,0:21:23.80,Italics,Futaro,0,0,0,,is something only they would know.
-Dialogue: 0,0:21:29.74,0:21:31.15,Default,Ichika,0,0,0,,Futaro{**-kun}.
-Dialogue: 0,0:21:32.50,0:21:35.26,Default,Ichika,0,0,0,,I caused you trouble, too.
-Dialogue: 0,0:21:35.69,0:21:36.73,Default,Ichika,0,0,0,,Sorry.
-Dialogue: 0,0:21:38.18,0:21:39.19,Default,Futaro,0,0,0,,Well, uh...
-Dialogue: 0,0:21:40.02,0:21:41.82,Default,Futaro,0,0,0,,I went too far yesterday.
-Dialogue: 0,0:21:42.18,0:21:43.99,Default,Futaro,0,0,0,,I didn't even listen to what you had to say.
-Dialogue: 0,0:21:44.58,0:21:46.09,Default,Futaro,0,0,0,,I regret it.
-Dialogue: 0,0:21:48.99,0:21:51.46,Default,Ichika,0,0,0,,That's exactly right.
-Dialogue: 0,0:21:51.87,0:21:54.68,Default,Ichika,0,0,0,,You're the worst, \Nglaring at a girl like that.
-Dialogue: 0,0:21:54.68,0:21:55.64,Default,Futaro,0,0,0,,Sorry.
-Dialogue: 0,0:21:55.64,0:21:58.15,Default,Ichika,0,0,0,,I was so sad, you know.
-Dialogue: 0,0:21:58.15,0:21:59.00,Default,Futaro,0,0,0,,Sorry.
-Dialogue: 0,0:21:59.56,0:22:00.81,Default,Ichika,0,0,0,,I'm kidding.
-Dialogue: 0,0:22:02.77,0:22:04.51,Default,Ichika,0,0,0,,It's all a lie.
-Dialogue: 0,0:22:07.01,0:22:08.30,Default,Futaro,0,0,0,,All?
-Dialogue: 0,0:22:08.98,0:22:09.99,Default,Ichika,0,0,0,,All of it.
-Dialogue: 0,0:22:17.90,0:22:19.95,Default,Takeda,0,0,0,,Did you hear, Uesugi{**-kun}?
-Dialogue: 0,0:22:19.95,0:22:21.80,Default,Takeda,0,0,0,,About that sneak photographer.
-Dialogue: 0,0:22:21.80,0:22:23.72,Default,Maeda,0,0,0,,Sorry, I screwed up.
-Dialogue: 0,0:22:23.72,0:22:25.11,Default,Futaro,0,0,0,,So it {\i1}was{\i0} you.
-Dialogue: 0,0:22:25.81,0:22:27.99,Default,Maeda,0,0,0,,I tried too hard.
-Dialogue: 0,0:22:30.17,0:22:31.24,Default,Futaro,0,0,0,,It's fine.
-Dialogue: 0,0:22:31.60,0:22:33.62,Default,Futaro,0,0,0,,I was the one who asked you, after all.
-Dialogue: 0,0:22:38.22,0:22:39.75,Default,Futaro,0,0,0,,Okay, say cheese.
-Dialogue: 0,0:22:47.70,0:22:52.92,Default,,0,0,0,,Do you take the groom to be your wedded\Nhusband, to have and to hold from this day on,
-Dialogue: 0,0:22:52.92,0:22:55.86,Default,,0,0,0,,for better for worse, for richer for poorer,\Nin sickness and in health,
-Dialogue: 0,0:22:55.86,0:23:00.48,Default,,0,0,0,,to love, cherish, and to obey,\Ntill death do you part?
-Dialogue: 0,0:23:03.49,0:23:05.92,Default,,0,0,0,,You may now kiss the bride.
-Dialogue: 0,0:23:17.51,0:23:20.25,Default,Futaro,0,0,0,,Now I shouldn't have to worry about \Nbeing fooled by them anymore.
-Dialogue: 0,0:23:22.41,0:23:23.25,Default,Futaro,0,0,0,,What the...
-Dialogue: 0,0:23:24.16,0:23:27.38,Default,,0,0,0,,Uh, seriously, what the...
-Dialogue: 0,0:23:34.93,0:23:36.24,Italics,,0,0,0,,That was the day.
-Dialogue: 0,0:23:37.11,0:23:40.40,Italics,Futaro,0,0,0,,That must have been the day
-Dialogue: 0,0:23:41.45,0:23:44.61,Italics,Futaro,0,0,0,,that I started to feel she was special.
-Dialogue: 0,0:23:45.78,0:23:47.36,Italics,Futaro,0,0,0,,From that moment.
+Dialogue: 0,0:13:22.49,0:13:25.58,Default,Miku,0,0,0,,This paper bag is from an underwear shop.
+Dialogue: 0,0:13:25.96,0:13:27.00,Italics,Miku,0,0,0,,Who was it?
+Dialogue: 0,0:13:27.00,0:13:28.83,Italics,Miku,0,0,0,,Maybe it was the staff.
+Dialogue: 0,0:13:28.83,0:13:31.08,Italics,Miku,0,0,0,,I'll take them up on their offer.
+Dialogue: 0,0:13:37.71,0:13:41.80,Default,Yotsuba,0,0,0,,Good thing you had that underwear, Itsuki!
+Dialogue: 0,0:13:41.80,0:13:43.05,Default,Ichika,0,0,0,,Why, though?
+Dialogue: 0,0:13:43.05,0:13:46.06,Default,Itsuki,0,0,0,,I thought I might need it in an emergency!
+Dialogue: 0,0:13:46.64,0:13:48.64,Default,Futaro,0,0,0,,Those guys are still gone...
+Dialogue: 0,0:13:49.02,0:13:50.73,Default,Futaro,0,0,0,,Where are they?
+Dialogue: 0,0:13:52.44,0:13:54.02,Default,Futaro,0,0,0,,What's wrong, Miku?
+Dialogue: 0,0:13:54.02,0:13:56.15,Default,Miku,0,0,0,,I-I'm exhausted.
+Dialogue: 0,0:13:56.15,0:13:58.15,Default,Miku,0,0,0,,Let's sit down for a bit.
+Dialogue: 0,0:13:58.53,0:14:00.19,Default,Ichika,0,0,0,,There we go.
+Dialogue: 0,0:14:00.19,0:14:02.24,Default,Nino,0,0,0,,Sorry, I'm back now.
+Dialogue: 0,0:14:02.24,0:14:03.83,Default,Nino,0,0,0,,How are they doing?
+Dialogue: 0,0:14:03.83,0:14:06.60,Default,Ichika,0,0,0,,I think things are going well.
+Dialogue: 0,0:14:09.04,0:14:11.87,Default,Itsuki,0,0,0,,What do we do now, Yotsuba?
+Dialogue: 0,0:14:13.17,0:14:16.34,Default,Yotsuba,0,0,0,,I picked up Miku's bread, \Nbut I left it back at the hotel.
+Dialogue: 0,0:14:16.34,0:14:18.46,Default,Ichika,0,0,0,,What? B-Bread?
+Dialogue: 0,0:14:19.05,0:14:20.05,Default,Itsuki,0,0,0,,Don't worry.
+Dialogue: 0,0:14:20.59,0:14:23.30,Default,Itsuki,0,0,0,,I just need to hand this to Miku, right?
+Dialogue: 0,0:14:23.60,0:14:27.39,Default,Miku,0,0,0,,The last three days went by so quickly.
+Dialogue: 0,0:14:27.39,0:14:28.68,Default,Futaro,0,0,0,,Yeah.
+Dialogue: 0,0:14:28.68,0:14:31.31,Default,Miku,0,0,0,,Although it was just two days for me.
+Dialogue: 0,0:14:31.73,0:14:33.44,Default,Miku,0,0,0,,But it's fine.
+Dialogue: 0,0:14:33.44,0:14:35.86,Default,Miku,0,0,0,,I got to spend the last day with you.
+Dialogue: 0,0:14:35.86,0:14:37.44,Default,Miku,0,0,0,,That's good enough for me.
+Dialogue: 0,0:14:37.44,0:14:38.19,Default,Futaro,0,0,0,,Miku...
+Dialogue: 0,0:14:38.49,0:14:39.44,Default,Futaro,0,0,0,,What's that?
+Dialogue: 0,0:14:40.44,0:14:43.28,Default,Miku,0,0,0,,Why is my bread here?
+Dialogue: 0,0:14:44.28,0:14:46.03,Default,Futaro,0,0,0,,You baked that?
+Dialogue: 0,0:14:46.03,0:14:47.45,Default,Miku,0,0,0,,I did, but...
+Dialogue: 0,0:14:47.45,0:14:50.33,Default,Futaro,0,0,0,,I'm hungry. I'm going to take one.
+Dialogue: 0,0:14:50.33,0:14:52.08,Default,Miku,0,0,0,,That's already...
+Dialogue: 0,0:14:58.17,0:14:58.84,Default,Futaro,0,0,0,,Yum.
+Dialogue: 0,0:15:00.09,0:15:02.51,Default,Futaro,0,0,0,,I seem to have a bad palate.
+Dialogue: 0,0:15:02.51,0:15:06.84,Default,Futaro,0,0,0,,Honestly, I'm not confident I \Ncan give you good feedback,
+Dialogue: 0,0:15:07.85,0:15:11.35,Default,,0,0,0,,but I can, at least, appreciate your effort.
+Dialogue: 0,0:15:11.77,0:15:13.02,Default,Futaro,0,0,0,,You must've worked so hard.
+Dialogue: 0,0:15:20.77,0:15:21.36,Default,Miku,0,0,0,,Yeah.
+Dialogue: 0,0:15:23.49,0:15:26.61,Default,Miku,0,0,0,,I worked really hard.
+Dialogue: 0,0:15:27.91,0:15:29.24,Default,Ichika,0,0,0,,I handed it to her.
+Dialogue: 0,0:15:29.75,0:15:31.37,Default,Yotsuba,0,0,0,,Sorry, Ichika.
+Dialogue: 0,0:15:32.33,0:15:36.25,Default,Yotsuba,0,0,0,,I think I've been rooting for \Nthe passive one the most
+Dialogue: 0,0:15:36.25,0:15:40.13,Default,Yotsuba,0,0,0,,because I wanted everyone to be happy.
+Dialogue: 0,0:15:40.47,0:15:45.26,Default,Yotsuba,0,0,0,,So I never realized how \Nyou were really feeling.
+Dialogue: 0,0:15:45.26,0:15:47.13,Default,Yotsuba,0,0,0,,So, sorry.
+Dialogue: 0,0:15:48.97,0:15:52.26,Default,Ichika,0,0,0,,I keep getting apologized to.
+Dialogue: 0,0:15:53.27,0:15:56.60,Default,Ichika,0,0,0,,I'm the one who needs to apologize the most.
+Dialogue: 0,0:15:57.27,0:16:00.15,Default,Futaro,0,0,0,,My mom used to bake for me a lot.
+Dialogue: 0,0:16:00.15,0:16:01.65,Default,Futaro,0,0,0,,When I was six.
+Dialogue: 0,0:16:01.65,0:16:03.47,Default,Futaro,0,0,0,,She baked bread every day until she died.
+Dialogue: 0,0:16:04.49,0:16:07.24,Default,Futaro,0,0,0,,I was reminded of that for some reason.
+Dialogue: 0,0:16:08.32,0:16:10.03,Default,Miku,0,0,0,,Your mom?
+Dialogue: 0,0:16:10.33,0:16:14.91,Default,Futaro,0,0,0,,It was the kind of popular handmade bread \Nthat they serve at small cafés and stuff.
+Dialogue: 0,0:16:15.58,0:16:17.40,Default,Futaro,0,0,0,,My dad and I loved it.
+Dialogue: 0,0:16:18.04,0:16:21.08,Default,Futaro,0,0,0,,Anyway, no point talking about me right now.
+Dialogue: 0,0:16:21.08,0:16:22.04,Default,Miku,0,0,0,,No.
+Dialogue: 0,0:16:22.04,0:16:23.84,Default,Miku,0,0,0,,I want you to tell me more.
+Dialogue: 0,0:16:23.84,0:16:27.97,Default,Miku,0,0,0,,I never knew any of this, even though \Nwe've spent so much time together.
+Dialogue: 0,0:16:27.97,0:16:31.80,Default,Miku,0,0,0,,I've been so busy thinking about myself,\NI didn't even try to learn.
+Dialogue: 0,0:16:31.80,0:16:33.43,Default,Miku,0,0,0,,I want to learn more.
+Dialogue: 0,0:16:33.43,0:16:35.35,Default,Miku,0,0,0,,Everything about you.
+Dialogue: 0,0:16:35.35,0:16:40.06,Default,Miku,0,0,0,,And I want you to know \Neverything about me, too.
+Dialogue: 0,0:16:41.19,0:16:41.81,Default,Miku,0,0,0,,Like that.
+Dialogue: 0,0:16:42.36,0:16:46.49,Default,Miku,0,0,0,,That spot's famous for being used as a \Nmagistrate's office in period dramas.
+Dialogue: 0,0:16:46.49,0:16:49.07,Default,Miku,0,0,0,,I'm content just having\Nbeen able to see it today.
+Dialogue: 0,0:16:49.78,0:16:52.45,Default,Futaro,0,0,0,,I'm sure you are. I know.
+Dialogue: 0,0:16:52.78,0:16:55.58,Default,Miku,0,0,0,,I love that big bridge we just crossed, too.
+Dialogue: 0,0:16:55.58,0:16:56.91,Default,Futaro,0,0,0,,TV shows again?
+Dialogue: 0,0:16:56.91,0:16:57.70,Default,Miku,0,0,0,,Yeah.
+Dialogue: 0,0:16:57.70,0:17:00.21,Default,Miku,0,0,0,,Oh, and I love that, too.
+Dialogue: 0,0:17:00.62,0:17:01.96,Default,Miku,0,0,0,,And I love that.
+Dialogue: 0,0:17:02.29,0:17:03.46,Default,Miku,0,0,0,,I love this, too.
+Dialogue: 0,0:17:03.46,0:17:04.96,Default,Futaro,0,0,0,,That's way too many.
+Dialogue: 0,0:17:05.26,0:17:06.46,Default,Futaro,0,0,0,,Not that I didn't know.
+Dialogue: 0,0:17:13.55,0:17:14.60,Default,Miku,0,0,0,,And I love you...
+Dialogue: 0,0:17:18.64,0:17:21.02,Italics,Ichika,0,0,0,,I'm sorry, Miku.
+Dialogue: 0,0:17:21.02,0:17:22.81,Italics,Ichika,0,0,0,,I'm sorry I kept getting in your way.
+Dialogue: 0,0:17:23.52,0:17:27.57,Italics,Ichika,0,0,0,,Futaro{**-kun}, I'm sorry I kept lying.
+Dialogue: 0,0:17:28.07,0:17:30.36,Italics,Ichika,0,0,0,,But what I said...
+Dialogue: 0,0:17:30.36,0:17:34.49,Default,Yotsuba,0,0,0,,I met this really interesting boy today.
+Dialogue: 0,0:17:34.49,0:17:37.74,Default,Yotsuba,0,0,0,,And we bought all these \Ngood luck charms together.
+Dialogue: 0,0:17:37.74,0:17:40.00,Default,Yotsuba,0,0,0,,He's still in the main hall right now.
+Dialogue: 0,0:17:41.50,0:17:42.12,Default,Futaro,0,0,0,,Hey.
+Dialogue: 0,0:17:42.42,0:17:43.92,Default,Futaro,0,0,0,,You came.
+Dialogue: 0,0:17:43.92,0:17:46.30,Default,Futaro,0,0,0,,I was bored, being all by myself.
+Dialogue: 0,0:17:46.30,0:17:47.38,Default,Futaro,0,0,0,,Let's play something.
+Comment: 0,0:17:48.34,0:17:51.05,Default,Ichika,0,0,0,,{\fad(0,480)}H-How about Sevens?
+Dialogue: 0,0:17:48.34,0:17:50.97,Default,Ichika,0,0,0,,H-How about Sevens?
+Dialogue: 0,0:17:51.55,0:17:55.08,Italics,Ichika,0,0,0,,It was just for a short while.
+Dialogue: 0,0:17:55.68,0:18:00.56,Italics,Ichika,0,0,0,,But I'm sure I fell in love with you\Nbecause of that moment.
+Dialogue: 0,0:18:01.35,0:18:05.31,Italics,Ichika,0,0,0,,Futaro{**-kun}, you might \Nnot believe me anymore,
+Dialogue: 0,0:18:06.15,0:18:07.36,Italics,,0,0,0,,but that moment...
+Dialogue: 0,0:18:08.82,0:18:12.82,Italics,Ichika,0,0,0,,That memory isn't a lie.
+Dialogue: 0,0:18:13.66,0:18:16.07,Default,Nino,0,0,0,,Ichika, you know...
+Dialogue: 0,0:18:16.45,0:18:21.08,Default,Nino,0,0,0,,When I saw them together, \NI couldn't keep my cool.
+Dialogue: 0,0:18:21.08,0:18:23.33,Default,Nino,0,0,0,,Before I knew it, I'd jumped on him.
+Dialogue: 0,0:18:23.63,0:18:24.75,Default,Ichika,0,0,0,,Nino.
+Dialogue: 0,0:18:24.75,0:18:27.16,Default,Nino,0,0,0,,I kind of get how you feel now.
+Dialogue: 0,0:18:27.67,0:18:31.84,Default,Nino,0,0,0,,If things had happened\Nat slightly different times,
+Dialogue: 0,0:18:31.84,0:18:34.26,Default,Nino,0,0,0,,our roles might've been reversed.
+Dialogue: 0,0:18:36.39,0:18:39.10,Default,Nino,0,0,0,,I'm sorry for being so condescending.
+Dialogue: 0,0:18:39.68,0:18:41.10,Default,Ichika,0,0,0,,That's not true.
+Dialogue: 0,0:18:41.77,0:18:43.35,Default,Ichika,0,0,0,,That's not true at all!
+Dialogue: 0,0:18:43.73,0:18:45.23,Default,Nino,0,0,0,,Thanks.
+Dialogue: 0,0:18:45.23,0:18:48.89,Default,Nino,0,0,0,,But at the same time, \NI realized how stupid I am.
+Dialogue: 0,0:18:49.36,0:18:50.98,Default,Nino,0,0,0,,You must have, too.
+Dialogue: 0,0:18:52.03,0:18:56.37,Default,Nino,0,0,0,,Miku refused to hold anything\Nagainst you the whole time.
+Dialogue: 0,0:19:00.99,0:19:04.25,Default,Ichika,0,0,0,,Going behind each other's backs, \Ndragging each other down...
+Dialogue: 0,0:19:05.04,0:19:07.50,Default,Ichika,0,0,0,,We aren't getting anything \Nout of fighting each other.
+Dialogue: 0,0:19:08.96,0:19:12.26,Default,Ichika,0,0,0,,We aren't enemies, are we?
+Dialogue: 0,0:19:12.71,0:19:14.97,Default,Nino,0,0,0,,Let's go apologize to Miku.
+Dialogue: 0,0:19:14.97,0:19:17.43,Default,Nino,0,0,0,,I'm sure we can be on even \Nbetter terms than before.
+Dialogue: 0,0:19:17.97,0:19:22.64,Default,Nino,0,0,0,,We get to talk about something \Nwe all like, for once.
+Dialogue: 0,0:19:23.64,0:19:24.69,Default,Miku,0,0,0,,And I love you...
+Dialogue: 0,0:19:25.35,0:19:26.02,Default,Futaro,0,0,0,,Yeah.
+Dialogue: 0,0:19:26.86,0:19:27.77,Default,Futaro,0,0,0,,I know.
+Dialogue: 0,0:19:29.90,0:19:30.73,Default,Futaro,0,0,0,,But...
+Dialogue: 0,0:19:30.73,0:19:31.53,Default,Miku,0,0,0,,Yeah.
+Dialogue: 0,0:19:31.90,0:19:35.99,Default,Miku,0,0,0,,I really do love my family.
+Dialogue: 0,0:19:39.95,0:19:41.04,Default,Futaro,0,0,0,,Why are you here?!
+Dialogue: 0,0:19:41.04,0:19:43.12,Default,Yotsuba,0,0,0,,You noticed, Miku?!
+Dialogue: 0,0:19:43.12,0:19:44.79,Default,Itsuki,0,0,0,,When?
+Dialogue: 0,0:19:44.79,0:19:46.04,Default,Miku,0,0,0,,I knew it.
+Dialogue: 0,0:19:46.37,0:19:50.75,Default,Miku,0,0,0,,I thought something was up since \NI heard Ichika and Nino's voices.
+Dialogue: 0,0:19:50.75,0:19:52.55,Default,Futaro,0,0,0,,Wait, let me walk through this...
+Dialogue: 0,0:19:52.55,0:19:55.80,Default,Futaro,0,0,0,,Which means that "I love you" just now...
+Dialogue: 0,0:19:56.17,0:19:59.22,Default,Miku,0,0,0,,It was directed at my sisters hiding in there.
+Dialogue: 0,0:20:00.68,0:20:02.06,Default,Miku,0,0,0,,Did you think...
+Dialogue: 0,0:20:02.64,0:20:04.31,Default,Miku,0,0,0,,I was talking about you?
+Dialogue: 0,0:20:06.14,0:20:08.77,Default,Futaro,0,0,0,,Y-You're just messing with me!
+Dialogue: 0,0:20:09.48,0:20:11.31,Default,Yotsuba,0,0,0,,Are you sure about that, Miku?
+Dialogue: 0,0:20:11.31,0:20:13.94,Default,Yotsuba,0,0,0,,You'd finally managed to tell him\Nhow you feel.
+Dialogue: 0,0:20:13.94,0:20:15.28,Default,Miku,0,0,0,,It's fine.
+Dialogue: 0,0:20:15.28,0:20:17.37,Default,Miku,0,0,0,,I'm not like a certain someone
+Dialogue: 0,0:20:17.37,0:20:20.33,Default,,0,0,0,,who's stupid enough to go charging in \Nwhen I don't even stand a chance.
+Dialogue: 0,0:20:20.33,0:20:21.83,Default,Nino,0,0,0,,Who are you calling stupid?
+Dialogue: 0,0:20:21.83,0:20:26.40,Default,Miku,0,0,0,,Besides, Futaro's not as dense as we think.
+Dialogue: 0,0:20:26.96,0:20:29.62,Default,Futaro,0,0,0,,I should have known.
+Dialogue: 0,0:20:30.42,0:20:33.38,Default,Miku,0,0,0,,So, Yotsuba, thanks for the bread.
+Dialogue: 0,0:20:34.38,0:20:36.97,Default,Yotsuba,0,0,0,,I was worried for a while.
+Dialogue: 0,0:20:36.97,0:20:41.47,Default,Miku,0,0,0,,Also, I think these are yours, right, Itsuki?
+Dialogue: 0,0:20:41.47,0:20:42.55,Default,Miku,0,0,0,,Thanks.
+Dialogue: 0,0:20:42.55,0:20:43.72,Default,Itsuki,0,0,0,,I'm sorry.
+Dialogue: 0,0:20:43.72,0:20:44.97,Default,Miku,0,0,0,,Nino.
+Dialogue: 0,0:20:46.06,0:20:47.60,Default,Nino,0,0,0,,Don't bother. We're family.
+Dialogue: 0,0:20:47.90,0:20:48.77,Default,Miku,0,0,0,,Yeah.
+Dialogue: 0,0:20:48.77,0:20:49.94,Default,Miku,0,0,0,,Thanks.
+Dialogue: 0,0:20:49.94,0:20:50.60,Default,Miku,0,0,0,,And Ichi—
+Dialogue: 0,0:20:53.48,0:20:54.90,Default,Itsuki,0,0,0,,I'm sorry.
+Dialogue: 0,0:20:54.90,0:20:56.78,Default,Itsuki,0,0,0,,I'm sorry, Miku.
+Dialogue: 0,0:20:56.78,0:20:58.49,Default,Itsuki,0,0,0,,I'm really sorry.
+Dialogue: 0,0:21:02.03,0:21:03.12,Default,Miku,0,0,0,,It's okay.
+Dialogue: 0,0:21:03.91,0:21:07.37,Default,Miku,0,0,0,,I guess falling in love is painful.
+Dialogue: 0,0:21:08.46,0:21:10.96,Default,Miku,0,0,0,,Thanks, Ichika.
+Dialogue: 0,0:21:13.17,0:21:20.76,Italics,Futaro,0,0,0,,What they did and talked about from\N then until it was time to meet up again
+Dialogue: 0,0:21:21.22,0:21:23.76,Italics,Futaro,0,0,0,,is something only they would know.
+Dialogue: 0,0:21:29.68,0:21:31.10,Default,Ichika,0,0,0,,Futaro{**-kun}.
+Dialogue: 0,0:21:32.27,0:21:35.14,Default,Ichika,0,0,0,,I caused you trouble, too.
+Dialogue: 0,0:21:35.61,0:21:36.69,Default,Ichika,0,0,0,,Sorry.
+Dialogue: 0,0:21:38.11,0:21:38.97,Default,Futaro,0,0,0,,Well, uh...
+Dialogue: 0,0:21:39.95,0:21:41.60,Default,Futaro,0,0,0,,I went too far yesterday.
+Dialogue: 0,0:21:42.11,0:21:43.99,Default,Futaro,0,0,0,,I didn't even listen to what you had to say.
+Dialogue: 0,0:21:44.45,0:21:46.03,Default,Futaro,0,0,0,,I regret it.
+Dialogue: 0,0:21:49.00,0:21:51.79,Default,Ichika,0,0,0,,That's exactly right.
+Dialogue: 0,0:21:51.79,0:21:54.54,Default,Ichika,0,0,0,,You're the worst, \Nglaring at a girl like that.
+Dialogue: 0,0:21:54.54,0:21:55.50,Default,Futaro,0,0,0,,Sorry.
+Dialogue: 0,0:21:55.50,0:21:58.00,Default,Ichika,0,0,0,,I was so sad, you know.
+Dialogue: 0,0:21:58.00,0:21:59.01,Default,Futaro,0,0,0,,Sorry.
+Dialogue: 0,0:21:59.46,0:22:00.76,Default,Ichika,0,0,0,,I'm kidding.
+Dialogue: 0,0:22:02.51,0:22:04.51,Default,Ichika,0,0,0,,It's all a lie.
+Dialogue: 0,0:22:07.01,0:22:08.27,Default,Futaro,0,0,0,,All?
+Dialogue: 0,0:22:08.89,0:22:09.93,Default,Ichika,0,0,0,,All of it.
+Dialogue: 0,0:22:17.52,0:22:19.82,Default,Takeda,0,0,0,,Did you hear, Uesugi{**-kun}?
+Dialogue: 0,0:22:19.82,0:22:21.66,Default,Takeda,0,0,0,,About that sneak photographer.
+Dialogue: 0,0:22:21.66,0:22:23.61,Default,Maeda,0,0,0,,Sorry, I screwed up.
+Dialogue: 0,0:22:23.61,0:22:25.12,Default,Futaro,0,0,0,,So it {\i1}was{\i0} you.
+Comment: 0,0:22:25.79,0:22:28.08,Default,Maeda,0,0,0,,{\t(2080,2280,\c&H000000&)}I tried too hard.
+Dialogue: 0,0:22:25.79,0:22:27.87,Default,Maeda,0,0,0,,I tried too hard.
+Dialogue: 0,0:22:30.08,0:22:31.02,Default,Futaro,0,0,0,,It's fine.
+Dialogue: 0,0:22:31.50,0:22:33.62,Default,Futaro,0,0,0,,I was the one who asked you, after all.
+Dialogue: 0,0:22:37.96,0:22:39.75,Default,Futaro,0,0,0,,Okay, say cheese.
+Dialogue: 0,0:22:47.60,0:22:52.81,Default,,0,0,0,,Do you take the groom to be your wedded\Nhusband, to have and to hold from this day on,
+Dialogue: 0,0:22:52.81,0:22:55.73,Default,,0,0,0,,for better for worse, for richer for poorer,\Nin sickness and in health,
+Dialogue: 0,0:22:55.73,0:23:00.48,Default,,0,0,0,,to love, cherish, and to obey,\Ntill death do you part?
+Dialogue: 0,0:23:03.24,0:23:05.86,Default,,0,0,0,,You may now kiss the bride.
+Dialogue: 0,0:23:17.42,0:23:20.25,Default,Futaro,0,0,0,,Now I shouldn't have to worry about \Nbeing fooled by them anymore.
+Dialogue: 0,0:23:22.34,0:23:23.26,Default,Futaro,0,0,0,,What the...
+Dialogue: 0,0:23:24.18,0:23:27.01,Default,,0,0,0,,Uh, seriously, what the...
+Dialogue: 0,0:23:34.94,0:23:36.19,Italics,,0,0,0,,That was the day.
+Dialogue: 0,0:23:37.02,0:23:40.40,Italics,Futaro,0,0,0,,That must have been the day
+Dialogue: 0,0:23:41.49,0:23:44.57,Italics,Futaro,0,0,0,,that I started to feel she was special.
+Dialogue: 0,0:23:45.70,0:23:47.32,Italics,Futaro,0,0,0,,From that moment.
