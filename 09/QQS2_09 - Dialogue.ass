@@ -167,7 +167,7 @@ Dialogue: 0,0:07:23.55,0:07:26.35,Default,Person A,0,0,0,,It's obvious who's goi
 Dialogue: 0,0:07:26.35,0:07:28.59,Default,Person B,0,0,0,,It's definitely going to be Takeda.
 Dialogue: 0,0:07:28.59,0:07:30.43,Default,Person B,0,0,0,,He had the highest grade on the finals, too.
 Dialogue: 0,0:07:31.18,0:07:33.43,Default,Takeda,0,0,0,,Sheesh, you guys.
-Dialogue: 0,0:07:33.43,0:07:37.34,Default,Yotsuba,0,0,0,,Teacher{*Sensei}, I know someone perfectly \Nsuited for the role.
+Dialogue: 0,0:07:33.43,0:07:37.34,Default,Yotsuba,0,0,0,,{*}Teacher{*Sensei}, I know someone perfectly \Nsuited for the role.
 Dialogue: 0,0:07:37.34,0:07:37.94,Default,Sensei,0,0,0,,Oh?
 Dialogue: 0,0:07:40.82,0:07:42.98,Default,Yotsuba,0,0,0,,Uesugi Futaro{**-san}!
 Dialogue: 0,0:07:43.32,0:07:44.32,Default,Futaro,0,0,0,,Huh?!
@@ -371,7 +371,7 @@ Dialogue: 0,0:16:03.28,0:16:06.40,Default,Nino,0,0,0,,So I want you to know me b
 Dialogue: 0,0:16:06.82,0:16:10.91,Default,Nino,0,0,0,,I want you to really know \Nhow much I love you!
 Dialogue: 0,0:16:13.50,0:16:14.45,Default,Futaro,0,0,0,,That so?
 Dialogue: 0,0:16:17.79,0:16:19.67,Default,Boss,0,0,0,,Perfect timing, you two.
-Dialogue: 0,0:16:19.67,0:16:21.96,Default,Boss,0,0,0,,Miss May{*May-san} has arrived.
+Dialogue: 0,0:16:19.67,0:16:21.96,Default,Boss,0,0,0,,{*}Miss May{*May-san} has arrived.
 Dialogue: 0,0:16:21.96,0:16:23.91,Default,Futaro,0,0,0,,Got it. I'll be right there.
 Dialogue: 0,0:16:25.76,0:16:27.93,Default,Boss,0,0,0,,What's wrong, Uesugi{**-kun}?
 Dialogue: 0,0:16:27.93,0:16:29.68,Default,Boss,0,0,0,,Your face is red up to your ears.
