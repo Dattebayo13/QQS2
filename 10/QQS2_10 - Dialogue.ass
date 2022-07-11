@@ -209,9 +209,9 @@ Dialogue: 0,0:09:40.56,0:09:41.89,Default,Futaro,0,0,0,,Itsuki.
 Dialogue: 0,0:09:42.19,0:09:43.69,Default,Futaro,0,0,0,,What do you mean?
 Dialogue: 0,0:09:43.69,0:09:45.27,Default,Futaro,0,0,0,,This isn't rough.
 Dialogue: 0,0:09:47.82,0:09:49.74,Default,Futaro,0,0,0,,Who do you think I am?
-Dialogue: 0,0:09:50.99,0:09:56.45,Default,Itsuki,0,0,0,,I visited a cram school instructor \Nnamed Miss Shimoda{*Shimoda-san} the other day.
+Dialogue: 0,0:09:50.99,0:09:56.45,Default,Itsuki,0,0,0,,I visited a cram school instructor \Nnamed {*}Miss Shimoda{*Shimoda-san} the other day.
 Dialogue: 0,0:09:56.96,0:10:00.04,Default,Itsuki,0,0,0,,I don't know if it counts as work,
-Dialogue: 0,0:10:00.04,0:10:04.49,Default,,0,0,0,,but I'm going to aim to improve my academic \Ncapabilities while I assist Miss Shimoda{*Shimoda-san}.
+Dialogue: 0,0:10:00.04,0:10:04.49,Default,,0,0,0,,but I'm going to aim to improve my academic \Ncapabilities while I assist {*}Miss Shimoda{*Shimoda-san}.
 Dialogue: 0,0:10:05.00,0:10:07.13,Default,Futaro,0,0,0,,Am I not good enough?
 Dialogue: 0,0:10:07.13,0:10:08.97,Default,Itsuki,0,0,0,,Please don't get upset.
 Dialogue: 0,0:10:08.97,0:10:10.80,Default,Itsuki,0,0,0,,This isn't about you.

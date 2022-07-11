@@ -122,8 +122,8 @@ Dialogue: 0,0:04:56.86,0:04:58.41,Default,Ichika,0,0,0,,First come, first served
 Dialogue: 0,0:04:58.41,0:04:59.62,Default,Yotsuba,0,0,0,,I get his arms, then!
 Dialogue: 0,0:04:59.62,0:05:01.20,Default,Nino,0,0,0,,Oh, fine.
 Dialogue: 0,0:05:01.20,0:05:03.41,Default,Itsuki,0,0,0,,I'd like to massage his legs, then.
-Dialogue: 0,0:05:08.91,0:05:11.42,Italics,Raiha,0,0,0,,Brother{*Onii-chan}'s popular all of a sudden!
-Dialogue: 0,0:05:12.05,0:05:16.25,Italics,Raiha,0,0,0,,Mom, spring has come early for Big Brother{*Onii-chan}.
+Dialogue: 0,0:05:08.91,0:05:11.42,Italics,Raiha,0,0,0,,{*}Brother{*Onii-chan}'s popular all of a sudden!
+Dialogue: 0,0:05:12.05,0:05:16.25,Italics,Raiha,0,0,0,,Mom, spring has come early for {*}Big Brother{*Onii-chan}.
 Dialogue: 0,0:05:16.25,0:05:18.51,Default,Futaro,0,0,0,,What are you guys plotting?
 Dialogue: 0,0:05:18.51,0:05:19.17,Default,Yotsuba,0,0,0,,Urp.
 Dialogue: 0,0:05:19.17,0:05:21.60,Default,Yotsuba,0,0,0,,I-It's nothing.
@@ -190,7 +190,7 @@ Dialogue: 0,0:07:48.41,0:07:50.57,Default,Raiha,0,0,0,,We changed the rules, tho
 Dialogue: 0,0:07:50.57,0:07:52.66,Default,Futaro,0,0,0,,Yotsuba, what about this?
 Dialogue: 0,0:07:53.54,0:07:55.00,Default,Raiha,0,0,0,,Let's see...
 Dialogue: 0,0:07:55.00,0:07:58.58,Default,Futaro,0,0,0,,Uesugi{**-san}, you have cream on your face.
-Dialogue: 0,0:08:01.42,0:08:04.67,Default,Raiha,0,0,0,,B-Brother{*O-Onii-chan}! Yotsuba!
+Dialogue: 0,0:08:01.42,0:08:04.67,Default,Raiha,0,0,0,,{*}B-Brother{*O-Onii-chan}! Yotsuba!
 Dialogue: 0,0:08:04.67,0:08:08.76,Default,Yotsuba,0,0,0,,Let's just call that peck on the cheek\Na payment for your tutoring.
 Dialogue: 0,0:08:08.76,0:08:10.39,Italics,Miku,0,0,0,,I didn't expect that from Yotsuba.
 Dialogue: 0,0:08:10.39,0:08:11.80,Italics,Miku,0,0,0,,She caught me off-guard.
@@ -214,7 +214,7 @@ Dialogue: 0,0:08:56.47,0:08:58.10,Default,Nino,0,0,0,,You underestimate us.
 Dialogue: 0,0:08:58.56,0:09:01.23,Default,Nino,0,0,0,,We've all done our homework already.
 Dialogue: 0,0:09:02.35,0:09:03.73,Default,Futaro,0,0,0,,Oh.
 Dialogue: 0,0:09:03.73,0:09:06.98,Default,Futaro,0,0,0,,Well, let's just make it a \Nregular study session, then.
-Dialogue: 0,0:09:06.98,0:09:07.99,Default,Raiha,0,0,0,,Big Brother{*Onii-chan}.
+Dialogue: 0,0:09:06.98,0:09:07.99,Default,Raiha,0,0,0,,{*}Big Brother{*Onii-chan}.
 Dialogue: 0,0:09:07.99,0:09:10.49,Default,Raiha,0,0,0,,I'm going to go home\Nso I don't get in the way.
 Dialogue: 0,0:09:10.49,0:09:11.74,Default,Futaro,0,0,0,,O-Okay.
 Dialogue: 0,0:09:11.74,0:09:12.99,Default,Futaro,0,0,0,,Stay safe.
@@ -329,7 +329,7 @@ Dialogue: 0,0:14:33.35,0:14:35.84,Default,Futaro,0,0,0,,I'm not going to dismiss
 Dialogue: 0,0:14:36.36,0:14:41.57,Default,Futaro,0,0,0,,And I'm grateful to you for giving me\Nan opportunity to continue tutoring.
 Dialogue: 0,0:14:41.90,0:14:45.36,Default,Futaro,0,0,0,,But I'm sure you could do better.
 Dialogue: 0,0:14:45.36,0:14:49.70,Default,Futaro,0,0,0,,Isn't this job still pretty unprofitable\Nfor how much it ties you down?
-Dialogue: 0,0:14:51.16,0:14:54.33,Default,Person A,0,0,0,,Miss Nakano{*Nakano-san}, we're ready to start rolling.
+Dialogue: 0,0:14:51.16,0:14:54.33,Default,Person A,0,0,0,,{*}Miss Nakano{*Nakano-san}, we're ready to start rolling.
 Dialogue: 0,0:14:54.33,0:14:56.04,Default,Ichika,0,0,0,,Coming.
 Dialogue: 0,0:15:00.75,0:15:02.97,Default,Ichika,0,0,0,,Yummy!
 Dialogue: 0,0:15:02.97,0:15:04.26,Default,Director,0,0,0,,Cut!

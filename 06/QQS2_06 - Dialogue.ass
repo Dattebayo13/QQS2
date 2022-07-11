@@ -149,8 +149,8 @@ Dialogue: 0,0:04:50.52,0:04:53.98,Default,Itsuki,0,0,0,,Am I ever going to be li
 Dialogue: 0,0:04:55.57,0:04:58.61,Default,Shimoda,0,0,0,,Hey, I don't see other people here often.
 Dialogue: 0,0:04:59.61,0:05:01.08,Default,Itsuki,0,0,0,,Um...
 Dialogue: 0,0:05:01.08,0:05:02.37,Default,Itsuki,0,0,0,,Nice to meet you.
-Dialogue: 0,0:05:03.78,0:05:05.28,Default,Shimoda,0,0,0,,Teacher{*Sensei}?
-Dialogue: 0,0:05:07.79,0:05:13.46,Default,Shimoda,0,0,0,,Sorry, you look so much like Ms. Nakano{*Sensei}, \NI thought you were her.
+Dialogue: 0,0:05:03.78,0:05:05.28,Default,Shimoda,0,0,0,,{*}Teacher{*Sensei}?
+Dialogue: 0,0:05:07.79,0:05:13.46,Default,Shimoda,0,0,0,,Sorry, you look so much like {*}Ms. Nakano{*Sensei}, \NI thought you were her.
 Dialogue: 0,0:05:13.46,0:05:16.88,Default,Shimoda,0,0,0,,But thinking about it, \Nshe's been dead for a long time.
 Dialogue: 0,0:05:17.51,0:05:20.51,Default,Shimoda,0,0,0,,That's not a nice thing to say \Nin front of her daughter, huh?
 Dialogue: 0,0:05:20.51,0:05:21.63,Default,Shimoda,0,0,0,,Forgive me.
@@ -158,7 +158,7 @@ Dialogue: 0,0:05:22.01,0:05:24.43,Default,Shimoda,0,0,0,,There must be a reason\
 Dialogue: 0,0:05:24.43,0:05:28.02,Default,Shimoda,0,0,0,,I'll buy you as much as you like, to show \Nmy appreciation for your mother.
 Dialogue: 0,0:05:28.02,0:05:30.14,Default,Itsuki,0,0,0,,A-As much as I like?!
 Dialogue: 0,0:05:36.15,0:05:37.49,Default,Itsuki,0,0,0,,U-Um...
-Dialogue: 0,0:05:37.49,0:05:39.36,Default,Itsuki,0,0,0,,Miss Shimoda{*Shimoda-san}, are you my mother's...
+Dialogue: 0,0:05:37.49,0:05:39.36,Default,Itsuki,0,0,0,,{*}Miss Shimoda{*Shimoda-san}, are you my mother's...
 Dialogue: 0,0:05:39.36,0:05:41.53,Default,Shimoda,0,0,0,,I was her student.
 Dialogue: 0,0:05:41.53,0:05:45.00,Default,Shimoda,0,0,0,,I've lost count of how \Nmany times she smacked me.
 Dialogue: 0,0:05:45.00,0:05:45.87,Default,Itsuki,0,0,0,,That's the thing.
@@ -174,7 +174,7 @@ Dialogue: 0,0:06:15.44,0:06:18.90,Default,Itsuki,0,0,0,,The students must have b
 Dialogue: 0,0:06:18.90,0:06:22.15,Default,Shimoda,0,0,0,,Nope. Believe it or not, we weren't.
 Dialogue: 0,0:06:22.15,0:06:26.33,Default,Shimoda,0,0,0,,She could be as fierce\Nand expressionless as she pleased.
 Dialogue: 0,0:06:26.33,0:06:27.95,Default,Shimoda,0,0,0,,Hell, we loved her for it.
-Dialogue: 0,0:06:27.95,0:06:33.66,Default,Shimoda,0,0,0,,Our teacher{*Sensei} was just that damn gorgeous.
+Dialogue: 0,0:06:27.95,0:06:33.66,Default,Shimoda,0,0,0,,{*}Our teacher{*Sensei} was just that damn gorgeous.
 Dialogue: 0,0:06:33.66,0:06:35.33,Default,Itsuki,0,0,0,,Gorgeous?!
 Dialogue: 0,0:06:36.54,0:06:38.79,Default,Shimoda,0,0,0,,She even had a fan club.
 Dialogue: 0,0:06:38.79,0:06:41.21,Default,Shimoda,0,0,0,,The boys at school were utterly smitten.
@@ -191,7 +191,7 @@ Dialogue: 0,0:07:04.78,0:07:08.53,Default,Shimoda,0,0,0,,We'd eventually fall in
 Dialogue: 0,0:07:08.53,0:07:12.58,Default,Shimoda,0,0,0,,All I remember of her for the entire year\Nwas how she scolded us.
 Dialogue: 0,0:07:12.58,0:07:15.12,Default,Shimoda,0,0,0,,But without that year,
 Dialogue: 0,0:07:15.71,0:07:20.63,Default,,0,0,0,,I wouldn't have wanted to be a teacher\Nor become a cram school instructor.
-Dialogue: 0,0:07:23.13,0:07:27.13,Default,Itsuki,0,0,0,,You've helped me come to \Na decision, Miss Shimoda{*Shimoda-san}.
+Dialogue: 0,0:07:23.13,0:07:27.13,Default,Itsuki,0,0,0,,You've helped me come to \Na decision, {*}Miss Shimoda{*Shimoda-san}.
 Dialogue: 0,0:07:27.43,0:07:31.56,Default,Itsuki,0,0,0,,If I can follow in my mother's footsteps,\Njust like you did,
 Dialogue: 0,0:07:31.56,0:07:34.23,Default,,0,0,0,,then my answer is obvious.
 Dialogue: 0,0:07:34.23,0:07:35.39,Default,Shimoda,0,0,0,,Just a second.
