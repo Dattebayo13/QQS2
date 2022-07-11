@@ -67,21 +67,17 @@ subs {
                 lang("jpn")
                 default(true)
             }
-            audio {
-                name("")
-				lang("jpn")
-                default(true)
-        }
+            audio { include(false) } 
 			includeChapters(false)
             attachments { include(false) }
         }
 
-//		from(get("jpnaudio")) {
-//            audio {
-//                name("")
-//				lang("jpn")
-//                default(true)
-//        }}
+		from(get("jpnaudio")) {
+            audio {
+                name("")
+				lang("jpn")
+                default(true)
+        }}
         		
 		from(get("dub")) {
             audio {
@@ -149,21 +145,17 @@ subs {
                     lang("jpn")
                     default(true)
                 }
-				audio {
-                name("")
-				lang("jpn")
-                default(true)
-        }
+				audio {include(false)}
 				subtitles { include(false) }
                 includeChapters(false)
                 attachments { include(false) }
             }
-//		    from(get("nc_audio")) {
-//                audio {
-//                name("")
-//				lang("jpn")
-//                default(true)
-//        }}
+		    from(get("nc_audio")) {
+                audio {
+                name("")
+				lang("jpn")
+                default(true)
+        }}
 			from(get("nc_subs")) {
                 tracks {
                     lang("eng")
