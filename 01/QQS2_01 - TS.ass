@@ -22,9 +22,9 @@ Video File: QQS2_01_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1298
-Active Line: 1286
-Video Position: 34587
+Scroll Position: 1291
+Active Line: 1293
+Video Position: 34646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +34,7 @@ Style: TitleEp,Heuristica,70,&H00000000,&H000000FF,&H00FFFFFF,&H002B9B9E,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:01:53.80,0:01:56.30,TitleEp,,0,0,0,,{\pos(930,895)\c&H000000&\blur4\bord5\fad(0,900)\clip(920,0,920,1080)\t(0,689,\clip(920,0,1838,1080))}Quite the Cr{\c&H00CBFF&}a{\c&H000000&}ppy Ky{\c&H0100FF&}o{\c&H000000&}t{\c&H986599&}o {\c&H000000&}Qu{\c&H00CC98&}a{\c&H000000&}gm{\c&HFE9803&}i{\c&H000000&}re
 Dialogue: 0,0:06:19.44,0:06:21.94,DedzuyaSigns,,0,0,0,,{\an7\pos(1018.286,300.635)\c&HF0F9F2&\blur1\p1}m -280 -173 l 255 -23 255 157 -290 18
 Dialogue: 1,0:06:19.44,0:06:21.94,DedzuyaSigns,,0,0,0,,{\pos(1013.286,306.035)\fscx140\fscy140\frz-15.15\fry3\fax0.27\fnSaint-Tropez\fs100\c&H7C767E&\blur1}Examination Room
 Dialogue: 0,0:09:28.59,0:09:28.63,DedzuyaSigns,,0,0,0,,{\pos(1597.51,194.95)\fscx176.14\fscy176.14\frz14.7\fry-5\fax-0.3\fnTalk-to-three-headed-monkey\fs50\c&HF3F2F2&\blur1\clip(m 175 519 l 1522 130 1511 393 156 755)}Next
@@ -1321,14 +1322,14 @@ Dialogue: 1,0:24:02.50,0:24:02.55,NextEp,SIGN,0,0,0,,{\pos(961.34,739.38)\fscx10
 Dialogue: 0,0:24:02.55,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:02.55,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 1,0:24:02.55,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.55,0:24:05.13,NextEp,SIGN,0,0,0,,{\pos(965,742.5)\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
-Dialogue: 0,0:24:02.55,0:24:05.13,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
-Dialogue: 1,0:24:02.55,0:24:05.13,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
-Dialogue: 0,0:24:03.34,0:24:03.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.55,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(965,742.5)\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 1
+Dialogue: 0,0:24:02.55,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 1
+Dialogue: 1,0:24:02.55,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(961.34,739.335)\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 1
 Dialogue: 0,0:24:03.34,0:24:03.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 1,0:24:03.34,0:24:03.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.34,0:24:03.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.38,0:24:03.63,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 1,0:24:03.38,0:24:05.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.38,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
 Dialogue: 0,0:24:03.42,0:24:03.63,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.63,0:24:03.67,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.63,0:24:03.67,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
@@ -1336,6 +1337,5 @@ Dialogue: 0,0:24:03.67,0:24:04.46,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\
 Dialogue: 0,0:24:03.67,0:24:04.46,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.46,0:24:04.51,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.46,0:24:04.51,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:04.51,0:24:05.13,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:04.51,0:24:05.13,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 1,0:01:53.80,0:01:56.30,TitleEp,,0,0,0,,{\pos(930,895)\c&H000000&\blur4\bord5\fad(0,900)\clip(920,0,920,1080)\t(0,689,\clip(920,0,1838,1080))}Quite the Cr{\c&H00CBFF&}a{\c&H000000&}ppy Ky{\c&H0100FF&}o{\c&H000000&}t{\c&H986599&}o {\c&H000000&}Qu{\c&H00CC98&}a{\c&H000000&}gm{\c&HFE9803&}i{\c&H000000&}re
+Dialogue: 0,0:24:04.51,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.51,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode

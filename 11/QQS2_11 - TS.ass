@@ -16,9 +16,9 @@ Video File: QQS2_11_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 475
-Active Line: 476
-Video Position: 15674
+Scroll Position: 563
+Active Line: 566
+Video Position: 34645
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +32,99 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:04:04.63,0:04:07.28,TitleEp,SIGN,0,0,0,,{\fad(0,974)\blur3\pos(1010.5,124.5)\clip(767.6,36,769.6,129)\t(0,450,1,\clip(767.6,36,1253.5,129))}Sisters War: P{\c&H97669B&}a{\c&HFD9800&}r{\c&H0000FE&}t{\c&H000000&} 1
 Dialogue: 0,0:08:15.98,0:08:19.94,Sings 12,SIGN,0,0,0,,{\fad(0,850)\bord0\blur0.6\fs70\c&H070A09&\pos(960.001,995.001)}Left Route
 Dialogue: 0,0:08:42.96,0:08:46.92,Sings 12,SIGN,0,0,0,,{\fad(0,850)\bord0\blur0.6\fs70\c&H070A09&\pos(960.001,995.001)}Right Route
+Dialogue: 0,0:10:53.71,0:10:53.75,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy109.37\fscx103.9\blur3\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1890.23,65.12)\frx0\fry14\frz330.48}Mountain Peak
+Dialogue: 0,0:10:53.75,0:10:53.79,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy106.83\fscx101.49\blur0.57\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1855.77,84.1)\frx0\fry14\frz329.94}Mountain Peak
+Comment: 0,0:10:53.76,0:10:57.46,SignG,,0,0,0,,{\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.7\pos(1758,154)}Mountain Peak
+Dialogue: 0,0:10:53.79,0:10:53.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy106.11\fscx100.8\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1845.23,92.99)\frx0\fry14\frz329.42}Mountain Peak
+Dialogue: 0,0:10:53.84,0:10:53.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.83\fscx100.54\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1839.5,97.78)\frx0\fry14\frz329.01}Mountain Peak
+Dialogue: 0,0:10:53.88,0:10:53.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.81\fscx100.52\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1836.29,100.42)\frx0\fry14\frz328.7}Mountain Peak
+Dialogue: 0,0:10:53.92,0:10:53.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.85\fscx100.55\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1834.24,102.06)\frx0\fry14\frz328.41}Mountain Peak
+Dialogue: 0,0:10:53.96,0:10:54.00,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.74\fscx100.45\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1832.59,103.43)\frx0\fry14\frz328.37}Mountain Peak
+Dialogue: 0,0:10:54.00,0:10:54.04,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.61\fscx100.33\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1830.96,104.74)\frx0\fry14\frz328.31}Mountain Peak
+Dialogue: 0,0:10:54.04,0:10:54.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.43\fscx100.16\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1829.3,106.11)\frx0\fry14\frz328.24}Mountain Peak
+Dialogue: 0,0:10:54.09,0:10:54.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.31\fscx100.05\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1827.72,107.38)\frx0\fry14\frz328.2}Mountain Peak
+Dialogue: 0,0:10:54.13,0:10:54.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.18\fscx99.92\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1826.08,108.71)\frx0\fry14\frz328.16}Mountain Peak
+Dialogue: 0,0:10:54.17,0:10:54.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.01\fscx99.76\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1824.45,110.03)\frx0\fry14\frz328.11}Mountain Peak
+Dialogue: 0,0:10:54.21,0:10:54.25,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.87\fscx99.62\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1822.85,111.28)\frx0\fry14\frz328.06}Mountain Peak
+Dialogue: 0,0:10:54.25,0:10:54.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.73\fscx99.5\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1821.31,112.59)\frx0\fry14\frz328}Mountain Peak
+Dialogue: 0,0:10:54.30,0:10:54.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.6\fscx99.37\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1819.76,113.91)\frx0\fry14\frz327.92}Mountain Peak
+Dialogue: 0,0:10:54.34,0:10:54.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.46\fscx99.24\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1818.21,115.13)\frx0\fry14\frz327.89}Mountain Peak
+Dialogue: 0,0:10:54.38,0:10:54.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.29\fscx99.08\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1816.63,116.32)\frx0\fry14\frz327.87}Mountain Peak
+Dialogue: 0,0:10:54.42,0:10:54.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.24\fscx99.03\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1815.21,117.57)\frx0\fry14\frz327.78}Mountain Peak
+Dialogue: 0,0:10:54.46,0:10:54.50,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.08\fscx98.88\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1813.66,118.8)\frx0\fry14\frz327.75}Mountain Peak
+Dialogue: 0,0:10:54.50,0:10:54.55,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.97\fscx98.78\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1812.17,120.01)\frx0\fry14\frz327.69}Mountain Peak
+Dialogue: 0,0:10:54.55,0:10:54.59,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.81\fscx98.62\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1810.66,121.21)\frx0\fry14\frz327.65}Mountain Peak
+Dialogue: 0,0:10:54.59,0:10:54.63,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.71\fscx98.52\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1809.25,122.41)\frx0\fry14\frz327.58}Mountain Peak
+Dialogue: 0,0:10:54.63,0:10:54.67,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.58\fscx98.4\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1807.76,123.61)\frx0\fry14\frz327.52}Mountain Peak
+Dialogue: 0,0:10:54.67,0:10:54.71,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.47\fscx98.29\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1806.33,124.76)\frx0\fry14\frz327.48}Mountain Peak
+Dialogue: 0,0:10:54.71,0:10:54.75,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.34\fscx98.17\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1804.89,125.9)\frx0\fry14\frz327.44}Mountain Peak
+Dialogue: 0,0:10:54.75,0:10:54.80,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.2\fscx98.04\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1803.48,127.05)\frx0\fry14\frz327.39}Mountain Peak
+Dialogue: 0,0:10:54.80,0:10:54.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.07\fscx97.92\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1802.05,128.23)\frx0\fry14\frz327.35}Mountain Peak
+Dialogue: 0,0:10:54.84,0:10:54.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.96\fscx97.81\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1800.66,129.34)\frx0\fry14\frz327.31}Mountain Peak
+Dialogue: 0,0:10:54.88,0:10:54.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.82\fscx97.68\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1799.25,130.42)\frx0\fry14\frz327.29}Mountain Peak
+Dialogue: 0,0:10:54.92,0:10:54.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.72\fscx97.58\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1797.9,131.52)\frx0\fry14\frz327.24}Mountain Peak
+Dialogue: 0,0:10:54.96,0:10:55.00,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.56\fscx97.43\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1796.49,132.65)\frx0\fry14\frz327.19}Mountain Peak
+Dialogue: 0,0:10:55.00,0:10:55.05,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.47\fscx97.35\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1795.17,133.7)\frx0\fry14\frz327.15}Mountain Peak
+Dialogue: 0,0:10:55.05,0:10:55.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.34\fscx97.22\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1793.84,134.79)\frx0\fry14\frz327.1}Mountain Peak
+Dialogue: 0,0:10:55.09,0:10:55.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.24\fscx97.13\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1792.55,135.82)\frx0\fry14\frz327.08}Mountain Peak
+Dialogue: 0,0:10:55.13,0:10:55.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.18\fscx97.07\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1791.29,136.86)\frx0\fry14\frz327.01}Mountain Peak
+Dialogue: 0,0:10:55.17,0:10:55.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.03\fscx96.93\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1789.99,137.9)\frx0\fry14\frz326.97}Mountain Peak
+Dialogue: 0,0:10:55.21,0:10:55.25,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.92\fscx96.82\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1788.72,138.93)\frx0\fry14\frz326.93}Mountain Peak
+Dialogue: 0,0:10:55.25,0:10:55.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.83\fscx96.74\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1787.48,139.93)\frx0\fry14\frz326.88}Mountain Peak
+Dialogue: 0,0:10:55.30,0:10:55.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.72\fscx96.64\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1786.21,140.94)\frx0\fry14\frz326.85}Mountain Peak
+Dialogue: 0,0:10:55.34,0:10:55.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.62\fscx96.54\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1784.99,141.96)\frx0\fry14\frz326.79}Mountain Peak
+Dialogue: 0,0:10:55.38,0:10:55.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.51\fscx96.44\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1783.77,142.9)\frx0\fry14\frz326.77}Mountain Peak
+Dialogue: 0,0:10:55.42,0:10:55.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.4\fscx96.33\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1782.57,143.88)\frx0\fry14\frz326.73}Mountain Peak
+Dialogue: 0,0:10:55.46,0:10:55.50,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.3\fscx96.23\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1781.38,144.85)\frx0\fry14\frz326.68}Mountain Peak
+Dialogue: 0,0:10:55.50,0:10:55.55,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.19\fscx96.13\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1780.19,145.78)\frx0\fry14\frz326.65}Mountain Peak
+Dialogue: 0,0:10:55.55,0:10:55.59,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.07\fscx96.02\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1779.01,146.69)\frx0\fry14\frz326.63}Mountain Peak
+Dialogue: 0,0:10:55.59,0:10:55.63,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101\fscx95.95\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1777.88,147.58)\frx0\fry14\frz326.6}Mountain Peak
+Dialogue: 0,0:10:55.63,0:10:55.67,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.91\fscx95.87\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1776.74,148.48)\frx0\fry14\frz326.58}Mountain Peak
+Dialogue: 0,0:10:55.67,0:10:55.71,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.79\fscx95.75\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1775.63,149.38)\frx0\fry14\frz326.53}Mountain Peak
+Dialogue: 0,0:10:55.71,0:10:55.75,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.69\fscx95.65\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1774.54,150.25)\frx0\fry14\frz326.5}Mountain Peak
+Dialogue: 0,0:10:55.75,0:10:55.80,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.6\fscx95.57\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1773.47,151.15)\frx0\fry14\frz326.45}Mountain Peak
+Dialogue: 0,0:10:55.80,0:10:55.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.53\fscx95.5\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1772.4,152.04)\frx0\fry14\frz326.39}Mountain Peak
+Dialogue: 0,0:10:55.84,0:10:55.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.4\fscx95.38\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1771.35,152.89)\frx0\fry14\frz326.35}Mountain Peak
+Dialogue: 0,0:10:55.88,0:10:55.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.33\fscx95.31\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1770.33,153.71)\frx0\fry14\frz326.31}Mountain Peak
+Dialogue: 0,0:10:55.92,0:10:55.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.26\fscx95.25\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1769.33,154.5)\frx0\fry14\frz326.29}Mountain Peak
+Dialogue: 0,0:10:55.96,0:10:56.01,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.16\fscx95.16\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1768.29,155.32)\frx0\fry14\frz326.25}Mountain Peak
+Dialogue: 0,0:10:56.01,0:10:56.05,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.08\fscx95.08\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1767.32,156.11)\frx0\fry14\frz326.22}Mountain Peak
+Dialogue: 0,0:10:56.05,0:10:56.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100\fscx95\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1766.35,156.86)\frx0\fry14\frz326.2}Mountain Peak
+Dialogue: 0,0:10:56.09,0:10:56.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.93\fscx94.93\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1765.41,157.61)\frx0\fry14\frz326.17}Mountain Peak
+Dialogue: 0,0:10:56.13,0:10:56.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.85\fscx94.86\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1764.49,158.39)\frx0\fry14\frz326.12}Mountain Peak
+Dialogue: 0,0:10:56.17,0:10:56.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.77\fscx94.78\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1763.57,159.1)\frx0\fry14\frz326.1}Mountain Peak
+Dialogue: 0,0:10:56.21,0:10:56.26,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.69\fscx94.7\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1762.67,159.85)\frx0\fry14\frz326.05}Mountain Peak
+Dialogue: 0,0:10:56.26,0:10:56.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.63\fscx94.65\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1761.83,160.55)\frx0\fry14\frz326.01}Mountain Peak
+Dialogue: 0,0:10:56.30,0:10:56.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.55\fscx94.57\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1760.95,161.24)\frx0\fry14\frz325.98}Mountain Peak
+Dialogue: 0,0:10:56.34,0:10:56.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.46\fscx94.49\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1760.1,161.9)\frx0\fry14\frz325.97}Mountain Peak
+Dialogue: 0,0:10:56.38,0:10:56.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.37\fscx94.4\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1759.25,162.57)\frx0\fry14\frz325.96}Mountain Peak
+Dialogue: 0,0:10:56.42,0:10:56.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.31\fscx94.35\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1758.48,163.19)\frx0\fry14\frz325.91}Mountain Peak
+Dialogue: 0,0:10:56.46,0:10:56.51,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.26\fscx94.3\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1757.72,163.84)\frx0\fry14\frz325.87}Mountain Peak
+Dialogue: 0,0:10:56.51,0:10:56.55,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.2\fscx94.24\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1756.98,164.44)\frx0\fry14\frz325.85}Mountain Peak
+Dialogue: 0,0:10:56.55,0:10:56.59,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.13\fscx94.17\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1756.23,165.02)\frx0\fry14\frz325.83}Mountain Peak
+Dialogue: 0,0:10:56.59,0:10:56.63,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.08\fscx94.13\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1755.52,165.61)\frx0\fry14\frz325.78}Mountain Peak
+Dialogue: 0,0:10:56.63,0:10:56.67,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.07\fscx94.12\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1754.88,166.17)\frx0\fry14\frz325.75}Mountain Peak
+Dialogue: 0,0:10:56.67,0:10:56.71,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.02\fscx94.07\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1754.25,166.69)\frx0\fry14\frz325.72}Mountain Peak
+Dialogue: 0,0:10:56.71,0:10:56.76,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.96\fscx94.01\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1753.61,167.22)\frx0\fry14\frz325.69}Mountain Peak
+Dialogue: 0,0:10:56.76,0:10:56.80,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.9\fscx93.95\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1752.99,167.69)\frx0\fry14\frz325.68}Mountain Peak
+Dialogue: 0,0:10:56.80,0:10:56.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.82\fscx93.88\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1752.32,168.13)\frx0\fry14\frz325.7}Mountain Peak
+Dialogue: 0,0:10:56.84,0:10:56.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.82\fscx93.88\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1751.81,168.56)\frx0\fry14\frz325.67}Mountain Peak
+Dialogue: 0,0:10:56.88,0:10:56.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.76\fscx93.83\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1751.25,169.01)\frx0\fry14\frz325.65}Mountain Peak
+Dialogue: 0,0:10:56.92,0:10:56.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.72\fscx93.79\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1750.75,169.43)\frx0\fry14\frz325.64}Mountain Peak
+Dialogue: 0,0:10:56.96,0:10:57.01,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.65\fscx93.72\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1750.24,169.82)\frx0\fry14\frz325.61}Mountain Peak
+Dialogue: 0,0:10:57.01,0:10:57.05,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.62\fscx93.69\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1749.81,170.18)\frx0\fry14\frz325.59}Mountain Peak
+Dialogue: 0,0:10:57.05,0:10:57.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.57\fscx93.64\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1749.4,170.54)\frx0\fry14\frz325.58}Mountain Peak
+Dialogue: 0,0:10:57.09,0:10:57.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.54\fscx93.61\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1749,170.83)\frx0\fry14\frz325.57}Mountain Peak
+Dialogue: 0,0:10:57.13,0:10:57.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.51\fscx93.59\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1748.63,171.11)\frx0\fry14\frz325.57}Mountain Peak
+Dialogue: 0,0:10:57.17,0:10:57.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.49\fscx93.57\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1748.31,171.41)\frx0\fry14\frz325.56}Mountain Peak
+Dialogue: 0,0:10:57.21,0:10:57.26,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.46\fscx93.53\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1748.04,171.64)\frx0\fry14\frz325.52}Mountain Peak
+Dialogue: 0,0:10:57.26,0:10:57.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.44\fscx93.52\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.78,171.77)\frx0\fry14\frz325.52}Mountain Peak
+Dialogue: 0,0:10:57.30,0:10:57.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.46\fscx93.53\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.6,171.99)\frx0\fry14\frz325.49}Mountain Peak
+Dialogue: 0,0:10:57.34,0:10:57.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.42\fscx93.5\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.42,172.09)\frx0\fry14\frz325.52}Mountain Peak
+Dialogue: 0,0:10:57.38,0:10:57.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.43\fscx93.51\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.36,172.14)\frx0\fry14\frz325.52}Mountain Peak
+Dialogue: 0,0:10:57.42,0:10:57.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.42\fscx93.5\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.32,172.23)\frx0\fry14\frz325.49}Mountain Peak
+Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur1\fs46\3c&HF7FDF8&\c&H789376&\b1\org(538.1,972.0)\fry6.77\frx2.56\fnDoppio One\1a&H00&\frz352.8\pos(850,80)}Keihan Bus
+Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur1\fs46\3c&HF7FDF8&\c&H6D856B&\b1\org(538.1,972.0)\fry6.77\frx2.56\frz-6.48\fnDoppio One\pos(868,440)}Inari-Taisha
 Dialogue: 0,0:16:06.07,0:16:06.11,SignG,SIGN,0,0,0,,{=18}{\fscx100\alpha&HFF&\fnagenda-bold\fs65\fscy115\frz10.04\c&H434343&\blur0.9\pos(898,554.505)\1a&HDD&}Molesters Targeting Students on School Trips. Kyoto City on High Alert
 Dialogue: 0,0:16:06.11,0:16:06.15,SignG,SIGN,0,0,0,,{=18}{\fscx100\alpha&HC9&\fnagenda-bold\fs65\fscy115\frz10.04\c&H434343&\blur0.9\pos(898.01,552.315)\1a&HB8&}Molesters Targeting Students on School Trips. Kyoto City on High Alert
 Dialogue: 0,0:16:06.15,0:16:06.19,SignG,SIGN,0,0,0,,{=18}{\fscx100\alpha&H94&\fnagenda-bold\fs65\fscy115\frz10.04\c&H434343&\blur0.9\pos(898.01,550.155)\1a&H87&}Molesters Targeting Students on School Trips. Kyoto City on High Alert
@@ -197,8 +290,14 @@ Dialogue: 0,0:17:53.38,0:17:53.46,SignG,SIGN,0,0,0,,{\fscx100\fscy100\frz0.25\al
 Dialogue: 0,0:17:53.46,0:17:53.51,SignG,SIGN,0,0,0,,{\fscx100\fscy100\frz0.25\alpha&H00&\b0\fs51\blur0.9\fnBahnschrift\c&H253448&\pos(996.96,601.9)}Miku {\c&HEF648E&}♥
 Dialogue: 0,0:17:53.51,0:17:53.55,SignG,SIGN,0,0,0,,{\fscx100\fscy100\frz0.01\alpha&H00&\b0\fs51\blur0.9\fnBahnschrift\c&H253448&\pos(1024.09,601.95)}Miku {\c&HEF648E&}♥
 Dialogue: 0,0:17:53.55,0:17:53.59,SignG,SIGN,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\b0\fs51\blur0.9\fnBahnschrift\c&H4A5268&\pos(1024.08,601.97)}Miku {\c&HCD7295&}♥
-Dialogue: 0,0:17:53.59,0:17:53.63,SignG,SIGN,0,0,0,,{\fscx100\fscy100\frz-0.03\alpha&H00&\b0\fs51\blur0.9\fnBahnschrift\c&H6C7289&\pos(1024.04,602.02)}Miku {\c&HAB809D&}♥
 Dialogue: 0,0:17:53.55,0:17:54.76,SignG,SIGN,0,0,0,,{\fad(100,0)\b0\fs48\blur0.9\fnBahnschrift\c&H4A5268&\pos(1021.599,471)}Miku {\c&HD07396&}♥
+Dialogue: 0,0:17:53.59,0:17:53.63,SignG,SIGN,0,0,0,,{\fscx100\fscy100\frz-0.03\alpha&H00&\b0\fs51\blur0.9\fnBahnschrift\c&H6C7289&\pos(1024.04,602.02)}Miku {\c&HAB809D&}♥
+Dialogue: 0,0:17:54.76,0:17:57.76,SignG,,0,0,0,,
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs40\c&H76796A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(372,670)}Long Life
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs30\c&H6F7D82&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(1216,868)}Success in love
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs32\c&H6E7A7A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz11.04\pos(1746,742)}Academic success
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs25\c&H4D5562&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(838,1150)}Core Strength
+Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\fscx104\blur1\fnBahnschrift\fs37\c&H8A8E8A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(2274,542)}Happiness
 Dialogue: 0,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(973.68,377.715)\fscx102.06\fscy102.06\fs78\bord0\c&HB0AECC&\alpha&HF5&\blur3\1a&HF5&}Episode
 Dialogue: 0,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0.77\c&HFFFFFF&\alpha&HF5&\1a&HF5&\blur0.75}Episode
 Dialogue: 1,0:24:00.50,0:24:00.54,NextEp,SIGN,0,0,0,,{\pos(969.945,374.49)\fscx102.06\fscy102.06\fs78\bord0\1c&HCDD8EA&\alpha&HF5&\4a&HF5&\blur0.75}Episode
@@ -485,14 +584,14 @@ Dialogue: 1,0:24:02.42,0:24:02.46,NextEp,SIGN,0,0,0,,{\pos(956.34,739.38)\fscx10
 Dialogue: 0,0:24:02.46,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:02.46,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 1,0:24:02.46,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(960,742.5)\bord0\c&HB0AECC&\blur3}Sisters War: Part 2
-Dialogue: 0,0:24:02.46,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\c&HFFFFFF&\blur0.75}Sisters War: Part 2
-Dialogue: 1,0:24:02.46,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\bord0\4a&HFF&\blur0.75}Sisters War: Part 2
-Dialogue: 0,0:24:03.25,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(960,742.5)\bord0\c&HB0AECC&\blur3}Sisters War: Part 2
+Dialogue: 0,0:24:02.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\c&HFFFFFF&\blur0.75}Sisters War: Part 2
+Dialogue: 1,0:24:02.46,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\bord0\4a&HFF&\blur0.75}Sisters War: Part 2
 Dialogue: 0,0:24:03.25,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 1,0:24:03.25,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.25,0:24:03.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.30,0:24:03.55,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 1,0:24:03.30,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.30,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
 Dialogue: 0,0:24:03.34,0:24:03.55,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.55,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.55,0:24:03.59,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
@@ -500,107 +599,8 @@ Dialogue: 0,0:24:03.59,0:24:04.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\
 Dialogue: 0,0:24:03.59,0:24:04.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.38,0:24:04.42,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:04.42,0:24:04.96,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur1\fs46\3c&HF7FDF8&\c&H789376&\b1\org(538.1,972.0)\fry6.77\frx2.56\fnDoppio One\1a&H00&\frz352.8\pos(850,80)}Keihan Bus
-Dialogue: 0,0:13:09.43,0:13:11.93,SignG,SIGN,0,0,0,,{\blur1\fs46\3c&HF7FDF8&\c&H6D856B&\b1\org(538.1,972.0)\fry6.77\frx2.56\frz-6.48\fnDoppio One\pos(868,440)}Inari-Taisha
-Comment: 0,0:10:53.76,0:10:57.46,SignG,,0,0,0,,{\blur0.5\fn@Hiragino Kaku Gothic StdN W8\b0\fs38\c&H2C2A4D&\frx4.08\fry6.53\frz323.7\pos(1758,154)}Mountain Peak
-Dialogue: 0,0:10:53.71,0:10:53.75,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy109.37\fscx103.9\blur3\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1890.23,65.12)\frx0\fry14\frz330.48}Mountain Peak
-Dialogue: 0,0:10:53.75,0:10:53.79,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy106.83\fscx101.49\blur0.57\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1855.77,84.1)\frx0\fry14\frz329.94}Mountain Peak
-Dialogue: 0,0:10:53.79,0:10:53.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy106.11\fscx100.8\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1845.23,92.99)\frx0\fry14\frz329.42}Mountain Peak
-Dialogue: 0,0:10:53.84,0:10:53.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.83\fscx100.54\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1839.5,97.78)\frx0\fry14\frz329.01}Mountain Peak
-Dialogue: 0,0:10:53.88,0:10:53.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.81\fscx100.52\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1836.29,100.42)\frx0\fry14\frz328.7}Mountain Peak
-Dialogue: 0,0:10:53.92,0:10:53.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.85\fscx100.55\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1834.24,102.06)\frx0\fry14\frz328.41}Mountain Peak
-Dialogue: 0,0:10:53.96,0:10:54.00,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.74\fscx100.45\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1832.59,103.43)\frx0\fry14\frz328.37}Mountain Peak
-Dialogue: 0,0:10:54.00,0:10:54.04,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.61\fscx100.33\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1830.96,104.74)\frx0\fry14\frz328.31}Mountain Peak
-Dialogue: 0,0:10:54.04,0:10:54.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.43\fscx100.16\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1829.3,106.11)\frx0\fry14\frz328.24}Mountain Peak
-Dialogue: 0,0:10:54.09,0:10:54.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.31\fscx100.05\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1827.72,107.38)\frx0\fry14\frz328.2}Mountain Peak
-Dialogue: 0,0:10:54.13,0:10:54.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.18\fscx99.92\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1826.08,108.71)\frx0\fry14\frz328.16}Mountain Peak
-Dialogue: 0,0:10:54.17,0:10:54.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy105.01\fscx99.76\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1824.45,110.03)\frx0\fry14\frz328.11}Mountain Peak
-Dialogue: 0,0:10:54.21,0:10:54.25,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.87\fscx99.62\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1822.85,111.28)\frx0\fry14\frz328.06}Mountain Peak
-Dialogue: 0,0:10:54.25,0:10:54.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.73\fscx99.5\blur0.56\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1821.31,112.59)\frx0\fry14\frz328}Mountain Peak
-Dialogue: 0,0:10:54.30,0:10:54.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.6\fscx99.37\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1819.76,113.91)\frx0\fry14\frz327.92}Mountain Peak
-Dialogue: 0,0:10:54.34,0:10:54.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.46\fscx99.24\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1818.21,115.13)\frx0\fry14\frz327.89}Mountain Peak
-Dialogue: 0,0:10:54.38,0:10:54.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.29\fscx99.08\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1816.63,116.32)\frx0\fry14\frz327.87}Mountain Peak
-Dialogue: 0,0:10:54.42,0:10:54.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.24\fscx99.03\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1815.21,117.57)\frx0\fry14\frz327.78}Mountain Peak
-Dialogue: 0,0:10:54.46,0:10:54.50,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy104.08\fscx98.88\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1813.66,118.8)\frx0\fry14\frz327.75}Mountain Peak
-Dialogue: 0,0:10:54.50,0:10:54.55,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.97\fscx98.78\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1812.17,120.01)\frx0\fry14\frz327.69}Mountain Peak
-Dialogue: 0,0:10:54.55,0:10:54.59,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.81\fscx98.62\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1810.66,121.21)\frx0\fry14\frz327.65}Mountain Peak
-Dialogue: 0,0:10:54.59,0:10:54.63,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.71\fscx98.52\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1809.25,122.41)\frx0\fry14\frz327.58}Mountain Peak
-Dialogue: 0,0:10:54.63,0:10:54.67,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.58\fscx98.4\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1807.76,123.61)\frx0\fry14\frz327.52}Mountain Peak
-Dialogue: 0,0:10:54.67,0:10:54.71,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.47\fscx98.29\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1806.33,124.76)\frx0\fry14\frz327.48}Mountain Peak
-Dialogue: 0,0:10:54.71,0:10:54.75,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.34\fscx98.17\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1804.89,125.9)\frx0\fry14\frz327.44}Mountain Peak
-Dialogue: 0,0:10:54.75,0:10:54.80,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.2\fscx98.04\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1803.48,127.05)\frx0\fry14\frz327.39}Mountain Peak
-Dialogue: 0,0:10:54.80,0:10:54.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy103.07\fscx97.92\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1802.05,128.23)\frx0\fry14\frz327.35}Mountain Peak
-Dialogue: 0,0:10:54.84,0:10:54.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.96\fscx97.81\blur0.55\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1800.66,129.34)\frx0\fry14\frz327.31}Mountain Peak
-Dialogue: 0,0:10:54.88,0:10:54.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.82\fscx97.68\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1799.25,130.42)\frx0\fry14\frz327.29}Mountain Peak
-Dialogue: 0,0:10:54.92,0:10:54.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.72\fscx97.58\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1797.9,131.52)\frx0\fry14\frz327.24}Mountain Peak
-Dialogue: 0,0:10:54.96,0:10:55.00,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.56\fscx97.43\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1796.49,132.65)\frx0\fry14\frz327.19}Mountain Peak
-Dialogue: 0,0:10:55.00,0:10:55.05,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.47\fscx97.35\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1795.17,133.7)\frx0\fry14\frz327.15}Mountain Peak
-Dialogue: 0,0:10:55.05,0:10:55.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.34\fscx97.22\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1793.84,134.79)\frx0\fry14\frz327.1}Mountain Peak
-Dialogue: 0,0:10:55.09,0:10:55.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.24\fscx97.13\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1792.55,135.82)\frx0\fry14\frz327.08}Mountain Peak
-Dialogue: 0,0:10:55.13,0:10:55.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.18\fscx97.07\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1791.29,136.86)\frx0\fry14\frz327.01}Mountain Peak
-Dialogue: 0,0:10:55.17,0:10:55.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy102.03\fscx96.93\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1789.99,137.9)\frx0\fry14\frz326.97}Mountain Peak
-Dialogue: 0,0:10:55.21,0:10:55.25,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.92\fscx96.82\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1788.72,138.93)\frx0\fry14\frz326.93}Mountain Peak
-Dialogue: 0,0:10:55.25,0:10:55.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.83\fscx96.74\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1787.48,139.93)\frx0\fry14\frz326.88}Mountain Peak
-Dialogue: 0,0:10:55.30,0:10:55.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.72\fscx96.64\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1786.21,140.94)\frx0\fry14\frz326.85}Mountain Peak
-Dialogue: 0,0:10:55.34,0:10:55.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.62\fscx96.54\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1784.99,141.96)\frx0\fry14\frz326.79}Mountain Peak
-Dialogue: 0,0:10:55.38,0:10:55.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.51\fscx96.44\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1783.77,142.9)\frx0\fry14\frz326.77}Mountain Peak
-Dialogue: 0,0:10:55.42,0:10:55.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.4\fscx96.33\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1782.57,143.88)\frx0\fry14\frz326.73}Mountain Peak
-Dialogue: 0,0:10:55.46,0:10:55.50,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.3\fscx96.23\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1781.38,144.85)\frx0\fry14\frz326.68}Mountain Peak
-Dialogue: 0,0:10:55.50,0:10:55.55,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.19\fscx96.13\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1780.19,145.78)\frx0\fry14\frz326.65}Mountain Peak
-Dialogue: 0,0:10:55.55,0:10:55.59,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101.07\fscx96.02\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1779.01,146.69)\frx0\fry14\frz326.63}Mountain Peak
-Dialogue: 0,0:10:55.59,0:10:55.63,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy101\fscx95.95\blur0.54\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1777.88,147.58)\frx0\fry14\frz326.6}Mountain Peak
-Dialogue: 0,0:10:55.63,0:10:55.67,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.91\fscx95.87\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1776.74,148.48)\frx0\fry14\frz326.58}Mountain Peak
-Dialogue: 0,0:10:55.67,0:10:55.71,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.79\fscx95.75\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1775.63,149.38)\frx0\fry14\frz326.53}Mountain Peak
-Dialogue: 0,0:10:55.71,0:10:55.75,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.69\fscx95.65\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1774.54,150.25)\frx0\fry14\frz326.5}Mountain Peak
-Dialogue: 0,0:10:55.75,0:10:55.80,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.6\fscx95.57\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1773.47,151.15)\frx0\fry14\frz326.45}Mountain Peak
-Dialogue: 0,0:10:55.80,0:10:55.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.53\fscx95.5\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1772.4,152.04)\frx0\fry14\frz326.39}Mountain Peak
-Dialogue: 0,0:10:55.84,0:10:55.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.4\fscx95.38\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1771.35,152.89)\frx0\fry14\frz326.35}Mountain Peak
-Dialogue: 0,0:10:55.88,0:10:55.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.33\fscx95.31\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1770.33,153.71)\frx0\fry14\frz326.31}Mountain Peak
-Dialogue: 0,0:10:55.92,0:10:55.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.26\fscx95.25\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1769.33,154.5)\frx0\fry14\frz326.29}Mountain Peak
-Dialogue: 0,0:10:55.96,0:10:56.01,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.16\fscx95.16\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1768.29,155.32)\frx0\fry14\frz326.25}Mountain Peak
-Dialogue: 0,0:10:56.01,0:10:56.05,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100.08\fscx95.08\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1767.32,156.11)\frx0\fry14\frz326.22}Mountain Peak
-Dialogue: 0,0:10:56.05,0:10:56.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy100\fscx95\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1766.35,156.86)\frx0\fry14\frz326.2}Mountain Peak
-Dialogue: 0,0:10:56.09,0:10:56.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.93\fscx94.93\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1765.41,157.61)\frx0\fry14\frz326.17}Mountain Peak
-Dialogue: 0,0:10:56.13,0:10:56.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.85\fscx94.86\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1764.49,158.39)\frx0\fry14\frz326.12}Mountain Peak
-Dialogue: 0,0:10:56.17,0:10:56.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.77\fscx94.78\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1763.57,159.1)\frx0\fry14\frz326.1}Mountain Peak
-Dialogue: 0,0:10:56.21,0:10:56.26,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.69\fscx94.7\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1762.67,159.85)\frx0\fry14\frz326.05}Mountain Peak
-Dialogue: 0,0:10:56.26,0:10:56.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.63\fscx94.65\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1761.83,160.55)\frx0\fry14\frz326.01}Mountain Peak
-Dialogue: 0,0:10:56.30,0:10:56.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.55\fscx94.57\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1760.95,161.24)\frx0\fry14\frz325.98}Mountain Peak
-Dialogue: 0,0:10:56.34,0:10:56.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.46\fscx94.49\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1760.1,161.9)\frx0\fry14\frz325.97}Mountain Peak
-Dialogue: 0,0:10:56.38,0:10:56.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.37\fscx94.4\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1759.25,162.57)\frx0\fry14\frz325.96}Mountain Peak
-Dialogue: 0,0:10:56.42,0:10:56.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.31\fscx94.35\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1758.48,163.19)\frx0\fry14\frz325.91}Mountain Peak
-Dialogue: 0,0:10:56.46,0:10:56.51,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.26\fscx94.3\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1757.72,163.84)\frx0\fry14\frz325.87}Mountain Peak
-Dialogue: 0,0:10:56.51,0:10:56.55,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.2\fscx94.24\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1756.98,164.44)\frx0\fry14\frz325.85}Mountain Peak
-Dialogue: 0,0:10:56.55,0:10:56.59,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.13\fscx94.17\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1756.23,165.02)\frx0\fry14\frz325.83}Mountain Peak
-Dialogue: 0,0:10:56.59,0:10:56.63,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.08\fscx94.13\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1755.52,165.61)\frx0\fry14\frz325.78}Mountain Peak
-Dialogue: 0,0:10:56.63,0:10:56.67,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.07\fscx94.12\blur0.53\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1754.88,166.17)\frx0\fry14\frz325.75}Mountain Peak
-Dialogue: 0,0:10:56.67,0:10:56.71,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy99.02\fscx94.07\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1754.25,166.69)\frx0\fry14\frz325.72}Mountain Peak
-Dialogue: 0,0:10:56.71,0:10:56.76,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.96\fscx94.01\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1753.61,167.22)\frx0\fry14\frz325.69}Mountain Peak
-Dialogue: 0,0:10:56.76,0:10:56.80,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.9\fscx93.95\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1752.99,167.69)\frx0\fry14\frz325.68}Mountain Peak
-Dialogue: 0,0:10:56.80,0:10:56.84,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.82\fscx93.88\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1752.32,168.13)\frx0\fry14\frz325.7}Mountain Peak
-Dialogue: 0,0:10:56.84,0:10:56.88,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.82\fscx93.88\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1751.81,168.56)\frx0\fry14\frz325.67}Mountain Peak
-Dialogue: 0,0:10:56.88,0:10:56.92,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.76\fscx93.83\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1751.25,169.01)\frx0\fry14\frz325.65}Mountain Peak
-Dialogue: 0,0:10:56.92,0:10:56.96,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.72\fscx93.79\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1750.75,169.43)\frx0\fry14\frz325.64}Mountain Peak
-Dialogue: 0,0:10:56.96,0:10:57.01,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.65\fscx93.72\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1750.24,169.82)\frx0\fry14\frz325.61}Mountain Peak
-Dialogue: 0,0:10:57.01,0:10:57.05,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.62\fscx93.69\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1749.81,170.18)\frx0\fry14\frz325.59}Mountain Peak
-Dialogue: 0,0:10:57.05,0:10:57.09,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.57\fscx93.64\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1749.4,170.54)\frx0\fry14\frz325.58}Mountain Peak
-Dialogue: 0,0:10:57.09,0:10:57.13,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.54\fscx93.61\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1749,170.83)\frx0\fry14\frz325.57}Mountain Peak
-Dialogue: 0,0:10:57.13,0:10:57.17,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.51\fscx93.59\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1748.63,171.11)\frx0\fry14\frz325.57}Mountain Peak
-Dialogue: 0,0:10:57.17,0:10:57.21,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.49\fscx93.57\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1748.31,171.41)\frx0\fry14\frz325.56}Mountain Peak
-Dialogue: 0,0:10:57.21,0:10:57.26,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.46\fscx93.53\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1748.04,171.64)\frx0\fry14\frz325.52}Mountain Peak
-Dialogue: 0,0:10:57.26,0:10:57.30,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.44\fscx93.52\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.78,171.77)\frx0\fry14\frz325.52}Mountain Peak
-Dialogue: 0,0:10:57.30,0:10:57.34,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.46\fscx93.53\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.6,171.99)\frx0\fry14\frz325.49}Mountain Peak
-Dialogue: 0,0:10:57.34,0:10:57.38,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.42\fscx93.5\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.42,172.09)\frx0\fry14\frz325.52}Mountain Peak
-Dialogue: 0,0:10:57.38,0:10:57.42,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.43\fscx93.51\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.36,172.14)\frx0\fry14\frz325.52}Mountain Peak
-Dialogue: 0,0:10:57.42,0:10:57.46,SignG,,0,0,0,,{=39}{\alpha&H00&\fscy98.42\fscx93.5\blur0.52\fn@A-OTF HappyN Std U\b0\fs35\c&H2C2B4E&\pos(1747.32,172.23)\frx0\fry14\frz325.49}Mountain Peak
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs40\c&H76796A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(372,670)}Long Life
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs30\c&H6F7D82&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(1216,868)}Success in love
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs32\c&H6E7A7A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz11.04\pos(1746,742)}Academic success
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\blur1\fnBahnschrift\fs25\c&H4D5562&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(838,1150)}Core Strength
-Dialogue: 0,0:22:01.96,0:22:04.59,SignG,Text,0,0,0,,{\fscx104\blur1\fnBahnschrift\fs37\c&H8A8E8A&\org(-724.6,1261.6)\fry0.38\frx3.47\frz10.33\pos(2274,542)}Happiness
-Dialogue: 0,0:17:54.76,0:17:57.76,SignG,,0,0,0,,
+Dialogue: 0,0:24:04.42,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.42,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 
 [Aegisub Extradata]
 Data: 18,l0.MoveAlongPath,e{"orgLine"#3A"{\\blur0.9\\fnTragic Marker\\fs80\\bord0\\b0\\c&H131D23&\\4a&HFF&\\3c&HFAFAFC&\\frz16.51\\pos(403.3#2C426.23)\\iclip(m 226 614 b 327.5 408 584.5 438 682 520)}I'm already finished!"#2C"settings"#3A{"relPos"#3Afalse#2C"aniPos"#3Atrue#2C"aniFrz"#3Atrue#2C"accel"#3A1#2C"cfrMode"#3Atrue#2C"reverseLine"#3Afalse#2C"flipFrz"#3Afalse}#2C"id"#3A"0a3eb5f3-ce2c-404e-b0b8-27e95e76f101"}

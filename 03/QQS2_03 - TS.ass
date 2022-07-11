@@ -22,8 +22,8 @@ Video File: QQS2_03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 456
-Active Line: 458
+Scroll Position: 468
+Active Line: 470
 Video Position: 34645
 
 [V4+ Styles]
@@ -34,6 +34,7 @@ Style: TitleEp,Heuristica,70,&H00000000,&H000000FF,&H00FFFFFF,&H002B9B9E,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:03:09.25,0:03:11.79,TitleEp,,0,0,0,,{\pos(825,905)\c&H000000&\blur4\bord5\fad(0,900)\clip(820,830,822,910)\t(0,570,1,\clip(820,830,1430.5,910))}S{\c&H01CF99&}e{\c&H000000&}v{\c&H00CCFF&}e{\c&H000000&}n G{\c&HFD9902&}o{\c&H966598&}o{\c&H000000&}dby{\c&H0300FE&}e{\c&H000000&}s Part 2
 Dialogue: 0,0:06:24.90,0:06:24.94,DedzuyaSigns,,0,0,0,,{\an2\pos(564.36,-20.29)\fscx100.09\fscy100.09\frz26.74\fry2\frx3\fax-0.02\fnComprehension\fs40\b1\c&HADB0AE&\blur1}Student Handbook
 Dialogue: 0,0:06:24.94,0:06:24.98,DedzuyaSigns,,0,0,0,,{\an2\pos(583.67,14.28)\fscx99.95\fscy99.95\frz26.77\fry2\frx3\fax-0.02\fnComprehension\fs40\b1\c&HACAFAD&\blur1}Student Handbook
 Dialogue: 0,0:06:24.98,0:06:25.03,DedzuyaSigns,,0,0,0,,{\an2\pos(602.71,48.16)\fscx100.02\fscy100.02\frz26.8\fry2\frx3\fax-0.02\fnComprehension\fs40\b1\c&HACAFAD&\blur1}Student Handbook
@@ -92,34 +93,34 @@ Dialogue: 2,0:06:44.42,0:06:45.92,DedzuyaSigns,,0,0,0,,{\an7\pos(980,53)\c&H3349
 Dialogue: 3,0:06:44.42,0:06:45.92,DedzuyaSigns,,0,0,0,,{\pos(980,54)\fnPixel Operator\c&H94FFFF&\blur1}Academic Success
 Dialogue: 0,0:09:16.95,0:09:16.99,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-154.21)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HDE&\1a&HFA&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 0,0:09:16.99,0:09:17.03,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-135.66)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HD0&\1a&HF5&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.03,0:09:17.07,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-113.82)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HC1&\1a&HEE&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.07,0:09:17.11,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-89.38)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HB3&\1a&HE5&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.11,0:09:17.16,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-63.14)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HA4&\1a&HDB&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.16,0:09:17.20,DedzuyaSigns,,0,0,0,,{\an9\pos(389.16,-35.85)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H92&\1a&HCD&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.20,0:09:17.24,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-8.29)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H83&\1a&HBF&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.24,0:09:17.28,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,18.77)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H75&\1a&HAF&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.28,0:09:17.32,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,44.57)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H66&\1a&H9D&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.32,0:09:17.36,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,68.34)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H57&\1a&H8A&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.36,0:09:17.41,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,89.33)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H49&\1a&H75&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.41,0:09:17.45,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,106.72)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H37&\1a&H5C&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.45,0:09:17.49,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,119.82)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H28&\1a&H42&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.49,0:09:17.53,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,127.8)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H1A&\1a&H28&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.53,0:09:17.57,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,130.03)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H0B&\1a&H0C&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
-Dialogue: 0,0:09:17.57,0:09:19.95,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,130.03)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:16.99,0:09:17.03,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-135.66)\frz1.838\fnAnysome\fs78\alpha&HD0&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.03,0:09:17.07,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-113.82)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HC1&\1a&HEE&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.03,0:09:17.07,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-113.82)\frz1.838\fnAnysome\fs78\alpha&HC1&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.07,0:09:17.11,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-89.38)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HB3&\1a&HE5&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.07,0:09:17.11,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-89.38)\frz1.838\fnAnysome\fs78\alpha&HB3&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.11,0:09:17.16,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-63.14)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&HA4&\1a&HDB&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.11,0:09:17.16,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-63.14)\frz1.838\fnAnysome\fs78\alpha&HA4&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.16,0:09:17.20,DedzuyaSigns,,0,0,0,,{\an9\pos(389.16,-35.85)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H92&\1a&HCD&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.16,0:09:17.20,DedzuyaSigns,,0,0,0,,{\an9\pos(389.16,-35.85)\frz1.838\fnAnysome\fs78\alpha&H92&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.20,0:09:17.24,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-8.29)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H83&\1a&HBF&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.20,0:09:17.24,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,-8.29)\frz1.838\fnAnysome\fs78\alpha&H83&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.24,0:09:17.28,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,18.77)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H75&\1a&HAF&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.24,0:09:17.28,DedzuyaSigns,,0,0,0,,{\an9\pos(389.15,18.77)\frz1.838\fnAnysome\fs78\alpha&H75&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.28,0:09:17.32,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,44.57)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H66&\1a&H9D&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.28,0:09:17.32,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,44.57)\frz1.838\fnAnysome\fs78\alpha&H66&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.32,0:09:17.36,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,68.34)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H57&\1a&H8A&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.32,0:09:17.36,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,68.34)\frz1.838\fnAnysome\fs78\alpha&H57&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.36,0:09:17.41,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,89.33)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H49&\1a&H75&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.36,0:09:17.41,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,89.33)\frz1.838\fnAnysome\fs78\alpha&H49&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.41,0:09:17.45,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,106.72)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H37&\1a&H5C&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.41,0:09:17.45,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,106.72)\frz1.838\fnAnysome\fs78\alpha&H37&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.45,0:09:17.49,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,119.82)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H28&\1a&H42&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.45,0:09:17.49,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,119.82)\frz1.838\fnAnysome\fs78\alpha&H28&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.49,0:09:17.53,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,127.8)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H1A&\1a&H28&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.49,0:09:17.53,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,127.8)\frz1.838\fnAnysome\fs78\alpha&H1A&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.53,0:09:17.57,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,130.03)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\alpha&H0B&\1a&H0C&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.53,0:09:17.57,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,130.03)\frz1.838\fnAnysome\fs78\alpha&H0B&\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
+Dialogue: 0,0:09:17.57,0:09:19.95,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,130.03)\frz1.838\fnAnysome\fs78\bord5\c&HE89043&\3c&HE89043&\blur7}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 1,0:09:17.57,0:09:19.95,DedzuyaSigns,,0,0,0,,{\an9\pos(389.13,130.03)\frz1.838\fnAnysome\fs78\blur0.9}Origins of Life \N{\fscx71\fscy71}Unknown Mysteries
 Dialogue: 0,0:17:57.84,0:17:59.47,DedzuyaSigns,,0,0,0,,{\an7\pos(799.927,246.036)\c&HD6AB7D&\blur5\p1}m -60 -14 l -52 21 72 16 63 -22
 Dialogue: 1,0:17:57.84,0:17:59.47,DedzuyaSigns,,0,0,0,,{\pos(799.927,246.036)\frz3.12\fry5\frx4\fax0.16\fnLato\fs32\blur0.8}Captain Eba
@@ -127,82 +128,82 @@ Dialogue: 0,0:17:57.84,0:17:59.47,DedzuyaSigns,,0,0,0,,{\an7\pos(676.985,357.794
 Dialogue: 1,0:17:57.84,0:17:59.47,DedzuyaSigns,,0,0,0,,{\an7\pos(679.894,356.339)\frz3.18\fry5\frx4\fax0.12\fnLato\fs36\c&H696860&\blur0.8}Meet on the track
 Dialogue: 1,0:17:57.84,0:17:59.47,DedzuyaSigns,,0,0,0,,{\an7\pos(686.894,396.339)\frz2.982\fry5\frx4\fax0.11\fnLato\fs36\c&H696860&\blur0.8}at 6 tomorrow
 Dialogue: 1,0:17:57.84,0:17:59.47,DedzuyaSigns,,0,0,0,,{\an7\pos(693.894,436.339)\frz2.911\fry5\frx4\fax0.1\fnLato\fs36\c&H696860&\blur0.8}morning!
-Dialogue: 0,0:20:39.21,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an7\pos(244.35,329.29)\frz2\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an7\pos(277.21,300.18)\frz1.52\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an7\pos(312.62,277.08)\fscx99.89\fscy99.89\frz1.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an7\pos(312.47,277.05)\fscx99.91\fscy99.91\frz1.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an7\pos(312.33,277)\fscx99.94\fscy99.94\frz1.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an7\pos(346.22,258.17)\fscx99.97\fscy99.97\frz0.66\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.63,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an7\pos(346.08,258.12)\frz0.66\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.71,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an7\pos(377.46,243.83)\fscx100.01\fscy100.01\frz0.31\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.84,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an7\pos(402.93,235.11)\frz0.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
-Dialogue: 0,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an7\pos(410.92,233.28)\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
 Dialogue: 1,0:20:39.21,0:20:39.25,DedzuyaSigns,,0,0,0,,{\an4\pos(247.94,327.71)\frz10.84\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.21,0:20:39.25,DedzuyaSigns,,0,0,0,,{\an7\pos(305.3,458.76)\frz2\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.21,0:20:39.25,DedzuyaSigns,,0,0,0,,{\an4\pos(305.3,458.76)\frz11.37\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.21,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an7\pos(244.35,329.29)\frz2\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 0,0:20:39.21,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an7\pos(388.04,649.86)\frz2\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
+Dialogue: 1,0:20:39.21,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an4\pos(388.04,649.86)\frz11.86\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
 Dialogue: 1,0:20:39.25,0:20:39.30,DedzuyaSigns,,0,0,0,,{\an4\pos(247.93,327.71)\frz10.84\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.25,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an7\pos(305.3,458.77)\frz2\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.25,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an4\pos(305.3,458.77)\frz11.37\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
 Dialogue: 1,0:20:39.30,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an4\pos(247.94,327.71)\frz10.84\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
 Dialogue: 1,0:20:39.34,0:20:39.38,DedzuyaSigns,,0,0,0,,{\an4\pos(280.81,298.62)\frz10.36\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an7\pos(277.21,300.18)\frz1.52\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 0,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an7\pos(337.07,430.16)\frz1.52\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an4\pos(337.07,430.16)\frz10.89\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an7\pos(418.2,621.94)\frz1.52\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
+Dialogue: 1,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an4\pos(418.2,621.94)\frz11.38\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
 Dialogue: 1,0:20:39.38,0:20:39.42,DedzuyaSigns,,0,0,0,,{\an4\pos(280.8,298.63)\frz10.36\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
 Dialogue: 1,0:20:39.42,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an4\pos(280.8,298.62)\frz10.36\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an7\pos(312.62,277.08)\fscx99.89\fscy99.89\frz1.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
 Dialogue: 1,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an4\pos(316.22,275.56)\fscx99.89\fscy99.89\frz9.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an4\pos(316.08,275.52)\fscx99.91\fscy99.91\frz9.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an4\pos(315.93,275.48)\fscx99.94\fscy99.94\frz9.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an4\pos(349.84,256.68)\fscx99.97\fscy99.97\frz9.5\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.63,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an4\pos(349.7,256.63)\frz9.5\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an4\pos(381.09,242.35)\fscx100.01\fscy100.01\frz9.15\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an4\pos(381.08,242.36)\fscx100.01\fscy100.01\frz9.15\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.84,0:20:39.92,DedzuyaSigns,,0,0,0,,{\an4\pos(406.56,233.65)\frz8.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.92,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an4\pos(406.55,233.65)\frz8.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 1,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an4\pos(414.56,231.83)\frz8.84\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
-Dialogue: 0,0:20:39.21,0:20:39.25,DedzuyaSigns,,0,0,0,,{\an7\pos(305.3,458.76)\frz2\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.25,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an7\pos(305.3,458.77)\frz2\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an7\pos(337.07,430.16)\frz1.52\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
 Dialogue: 0,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an7\pos(371.37,407.38)\fscx99.89\fscy99.89\frz1.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an7\pos(371.24,407.38)\fscx99.91\fscy99.91\frz1.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an7\pos(371.12,407.38)\fscx99.94\fscy99.94\frz1.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an7\pos(404.1,389)\fscx99.97\fscy99.97\frz0.66\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an7\pos(403.99,388.99)\frz0.66\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an7\pos(403.98,388.99)\frz0.66\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an7\pos(434.58,375.05)\fscx100.01\fscy100.01\frz0.31\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an7\pos(434.57,375.05)\fscx100.01\fscy100.01\frz0.31\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.84,0:20:39.92,DedzuyaSigns,,0,0,0,,{\an7\pos(459.46,366.57)\frz0.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.92,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an7\pos(459.45,366.57)\frz0.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 0,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an7\pos(467.31,364.8)\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
-Dialogue: 1,0:20:39.21,0:20:39.25,DedzuyaSigns,,0,0,0,,{\an4\pos(305.3,458.76)\frz11.37\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.25,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an4\pos(305.3,458.77)\frz11.37\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an4\pos(337.07,430.16)\frz10.89\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
 Dialogue: 1,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an4\pos(371.37,407.38)\fscx99.89\fscy99.89\frz10.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an4\pos(371.24,407.38)\fscx99.91\fscy99.91\frz10.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an4\pos(371.12,407.38)\fscx99.94\fscy99.94\frz10.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an4\pos(404.1,389)\fscx99.97\fscy99.97\frz10.03\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an4\pos(403.99,388.99)\frz10.03\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an4\pos(403.98,388.99)\frz10.03\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an4\pos(434.58,375.05)\fscx100.01\fscy100.01\frz9.68\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an4\pos(434.57,375.05)\fscx100.01\fscy100.01\frz9.68\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.84,0:20:39.92,DedzuyaSigns,,0,0,0,,{\an4\pos(459.46,366.57)\frz9.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.92,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an4\pos(459.45,366.57)\frz9.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 1,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an4\pos(467.31,364.8)\frz9.37\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
-Dialogue: 0,0:20:39.21,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an7\pos(388.04,649.86)\frz2\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an7\pos(418.2,621.94)\frz1.52\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 0,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an7\pos(450.87,599.59)\fscx99.89\fscy99.89\frz1.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an7\pos(450.78,599.64)\fscx99.91\fscy99.91\frz1.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an7\pos(450.68,599.69)\fscx99.94\fscy99.94\frz1.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an7\pos(482.32,581.93)\fscx99.97\fscy99.97\frz0.66\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an7\pos(482.24,581.97)\frz0.66\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an7\pos(482.23,581.97)\frz0.66\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an7\pos(511.67,568.52)\fscx100.01\fscy100.01\frz0.31\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an7\pos(511.66,568.52)\fscx100.01\fscy100.01\frz0.31\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.84,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an7\pos(535.69,560.35)\frz0.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 0,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an7\pos(543.33,558.67)\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
-Dialogue: 1,0:20:39.21,0:20:39.34,DedzuyaSigns,,0,0,0,,{\an4\pos(388.04,649.86)\frz11.86\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
-Dialogue: 1,0:20:39.34,0:20:39.46,DedzuyaSigns,,0,0,0,,{\an4\pos(418.2,621.94)\frz11.38\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
 Dialogue: 1,0:20:39.46,0:20:39.50,DedzuyaSigns,,0,0,0,,{\an4\pos(450.87,599.59)\fscx99.89\fscy99.89\frz10.92\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 0,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an7\pos(312.47,277.05)\fscx99.91\fscy99.91\frz1.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 1,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an4\pos(316.08,275.52)\fscx99.91\fscy99.91\frz9.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an7\pos(371.24,407.38)\fscx99.91\fscy99.91\frz1.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an4\pos(371.24,407.38)\fscx99.91\fscy99.91\frz10.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an7\pos(450.78,599.64)\fscx99.91\fscy99.91\frz1.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.50,0:20:39.55,DedzuyaSigns,,0,0,0,,{\an4\pos(450.78,599.64)\fscx99.91\fscy99.91\frz10.92\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 0,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an7\pos(312.33,277)\fscx99.94\fscy99.94\frz1.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 1,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an4\pos(315.93,275.48)\fscx99.94\fscy99.94\frz9.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an7\pos(371.12,407.38)\fscx99.94\fscy99.94\frz1.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an4\pos(371.12,407.38)\fscx99.94\fscy99.94\frz10.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an7\pos(450.68,599.69)\fscx99.94\fscy99.94\frz1.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.55,0:20:39.59,DedzuyaSigns,,0,0,0,,{\an4\pos(450.68,599.69)\fscx99.94\fscy99.94\frz10.92\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 0,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an7\pos(346.22,258.17)\fscx99.97\fscy99.97\frz0.66\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 1,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an4\pos(349.84,256.68)\fscx99.97\fscy99.97\frz9.5\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an7\pos(404.1,389)\fscx99.97\fscy99.97\frz0.66\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an4\pos(404.1,389)\fscx99.97\fscy99.97\frz10.03\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an7\pos(482.32,581.93)\fscx99.97\fscy99.97\frz0.66\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.59,0:20:39.63,DedzuyaSigns,,0,0,0,,{\an4\pos(482.32,581.93)\fscx99.97\fscy99.97\frz10.52\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 0,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an7\pos(403.99,388.99)\frz0.66\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an4\pos(403.99,388.99)\frz10.03\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an7\pos(482.24,581.97)\frz0.66\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.63,0:20:39.67,DedzuyaSigns,,0,0,0,,{\an4\pos(482.24,581.97)\frz10.52\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 0,0:20:39.63,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an7\pos(346.08,258.12)\frz0.66\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 1,0:20:39.63,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an4\pos(349.7,256.63)\frz9.5\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an7\pos(403.98,388.99)\frz0.66\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an4\pos(403.98,388.99)\frz10.03\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an7\pos(482.23,581.97)\frz0.66\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.67,0:20:39.71,DedzuyaSigns,,0,0,0,,{\an4\pos(482.23,581.97)\frz10.52\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 1,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an4\pos(381.09,242.35)\fscx100.01\fscy100.01\frz9.15\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an7\pos(434.58,375.05)\fscx100.01\fscy100.01\frz0.31\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an4\pos(434.58,375.05)\fscx100.01\fscy100.01\frz9.68\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.71,0:20:39.80,DedzuyaSigns,,0,0,0,,{\an7\pos(511.67,568.52)\fscx100.01\fscy100.01\frz0.31\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
+Dialogue: 0,0:20:39.71,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an7\pos(377.46,243.83)\fscx100.01\fscy100.01\frz0.31\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
 Dialogue: 1,0:20:39.71,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an4\pos(511.67,568.52)\fscx100.01\fscy100.01\frz10.17\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 1,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an4\pos(381.08,242.36)\fscx100.01\fscy100.01\frz9.15\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an7\pos(434.57,375.05)\fscx100.01\fscy100.01\frz0.31\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an4\pos(434.57,375.05)\fscx100.01\fscy100.01\frz9.68\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.80,0:20:39.84,DedzuyaSigns,,0,0,0,,{\an7\pos(511.66,568.52)\fscx100.01\fscy100.01\frz0.31\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
+Dialogue: 1,0:20:39.84,0:20:39.92,DedzuyaSigns,,0,0,0,,{\an4\pos(406.56,233.65)\frz8.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.84,0:20:39.92,DedzuyaSigns,,0,0,0,,{\an7\pos(459.46,366.57)\frz0.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.84,0:20:39.92,DedzuyaSigns,,0,0,0,,{\an4\pos(459.46,366.57)\frz9.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.84,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an7\pos(402.93,235.11)\frz0.06\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 0,0:20:39.84,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an7\pos(535.69,560.35)\frz0.06\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.84,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an4\pos(535.69,560.35)\frz9.92\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
+Dialogue: 1,0:20:39.92,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an4\pos(406.55,233.65)\frz8.9\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.92,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an7\pos(459.45,366.57)\frz0.06\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.92,0:20:39.96,DedzuyaSigns,,0,0,0,,{\an4\pos(459.45,366.57)\frz9.43\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an7\pos(410.92,233.28)\c&HEFEFEF&\blur5\p1}m -16 -22 l 8 34 341 -19 316 -77
+Dialogue: 1,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an4\pos(414.56,231.83)\frz8.84\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}To: {\c&H565656&}Uesugi
+Dialogue: 0,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an7\pos(467.31,364.8)\c&HEEEEEE&\blur5\p1}m -16 -29 l 6 28 229 -5 208 -65
+Dialogue: 1,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an4\pos(467.31,364.8)\frz9.37\fry3\frx3\fax0.25\fnLato\fs60\c&HABABAB&\blur0.8}Subject: {\c&H565656&}Re:
+Dialogue: 0,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an7\pos(543.33,558.67)\c&HEDEDED&\blur5\p1}m -12 -27 l 7 32 786 -89 757 -167
 Dialogue: 1,0:20:39.96,0:20:40.96,DedzuyaSigns,,0,0,0,,{\an4\pos(543.33,558.67)\frz9.86\fry3\frx3\fax0.21\fnLato\fs60\c&H474747&\blur0.8}Sorry about today. I'm actually{\c&H9F9F9F&}|
 Dialogue: 0,0:22:03.71,0:22:05.22,DedzuyaSigns,,0,0,0,,{\an2\pos(715.782,130.418)\frz13.34\fry2\frx5\fax0.33\fnLato\fs84\blur0.9}Futaro
 Dialogue: 1,0:22:03.71,0:22:05.22,DedzuyaSigns,,0,0,0,,{\an2\pos(715.782,130.418)\frz13.34\fry2\frx5\fax0.33\fnLato\fs84\alpha&HC0&\blur5}Futaro
@@ -492,14 +493,14 @@ Dialogue: 1,0:24:02.38,0:24:02.42,NextEp,SIGN,0,0,0,,{\pos(956.34,739.38)\fscx10
 Dialogue: 0,0:24:02.42,0:24:03.21,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:02.42,0:24:03.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 1,0:24:02.42,0:24:03.21,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
-Dialogue: 0,0:24:02.42,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(960,742.5)\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 3
-Dialogue: 0,0:24:02.42,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 3
-Dialogue: 1,0:24:02.42,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 3
-Dialogue: 0,0:24:03.21,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:02.42,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(960,742.5)\bord0\c&HB0AECC&\blur3}Seven Goodbyes Part 3
+Dialogue: 0,0:24:02.42,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\c&HFFFFFF&\blur0.75}Seven Goodbyes Part 3
+Dialogue: 1,0:24:02.42,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(956.34,739.335)\bord0\4a&HFF&\blur0.75}Seven Goodbyes Part 3
 Dialogue: 0,0:24:03.21,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 1,0:24:03.21,0:24:03.25,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 0,0:24:03.21,0:24:03.30,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.25,0:24:03.51,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 1,0:24:03.25,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
+Dialogue: 1,0:24:03.25,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\bord0\4a&HFF&\blur0.75}Episode
 Dialogue: 0,0:24:03.30,0:24:03.51,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.51,0:24:03.55,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:03.51,0:24:03.55,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
@@ -507,6 +508,5 @@ Dialogue: 0,0:24:03.55,0:24:04.34,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\
 Dialogue: 0,0:24:03.55,0:24:04.34,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
 Dialogue: 0,0:24:04.34,0:24:04.38,NextEp,SIGN,0,0,0,,{\pos(973.335,375.825)\fs78\bord0\c&HB0AECC&\blur3}Episode
 Dialogue: 0,0:24:04.34,0:24:04.38,NextEp,SIGN,0,0,0,,{\pos(969.675,372.66)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 0,0:24:04.38,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
-Dialogue: 0,0:24:04.38,0:24:05.05,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
-Dialogue: 1,0:03:09.25,0:03:11.79,TitleEp,,0,0,0,,{\pos(825,905)\c&H000000&\blur4\bord5\fad(0,900)\clip(820,830,822,910)\t(0,570,1,\clip(820,830,1430.5,910))}S{\c&H01CF99&}e{\c&H000000&}v{\c&H00CCFF&}e{\c&H000000&}n G{\c&HFD9902&}o{\c&H966598&}o{\c&H000000&}dby{\c&H0300FE&}e{\c&H000000&}s Part 2
+Dialogue: 0,0:24:04.38,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(973.335,375.84)\fs78\bord0\c&HB0AECC&\blur3}Episode
+Dialogue: 0,0:24:04.38,0:24:05.01,NextEp,SIGN,0,0,0,,{\pos(969.675,372.675)\fs78\c&HFFFFFF&\blur0.75}Episode
