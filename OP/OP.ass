@@ -21,9 +21,10 @@ Audio File: [Raws-Maji] Gotoubun no Hanayome ∬ - 01  [BD 1920x1080p HEVC AAC].
 Video File: [Raws-Maji] Gotoubun no Hanayome ∬ - 01  [BD 1920x1080p HEVC AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 2316
-Active Line: 2328
+Video Zoom Percent: 0.500000
+Scroll Position: 1815
+Active Line: 1817
+Video Position: 1644
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1855,7 +1856,8 @@ Dialogue: 2,0:01:07.98,0:01:08.32,op romaji,,0,0,0,fx,{\an8\pos(1228.19,60.00)\1
 Dialogue: 2,0:01:08.11,0:01:08.40,op romaji,,0,0,0,fx,{\an8\pos(1266.81,60.00)\1c&HA5E4D4&\3c&HFFFFFF&\bord1\blur3\shad0\fry0\t(0.5,\fry360)\t(2,\1c&HFFFFFF&\3a&HA0&)}o
 Dialogue: 2,0:01:08.32,0:01:08.53,op romaji,,0,0,0,fx,{\an8\pos(1228.19,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}m
 Dialogue: 2,0:01:08.40,0:01:08.53,op romaji,,0,0,0,fx,{\an8\pos(1266.81,60.00)\fad(0,300)\shad0\t(0,100,0.5,\shad)}o
-Dialogue: 1,0:01:08.53,0:01:11.45,op romaji,kanji_longer,0,0,0,fx,{\an8\pos(960.00,60.00)\clip(796.5703125, 0, 796.5703125, 1080)\t(0,240,\clip(796.5703125, 0, 1125.8296875, 1080))\t(2680,2920,\clip(1125.8296875, 0, 1125.8296875, 1080))\p1}m 0 64 l 0 0 327 0 327 64 m 325 64 l 325 2 2 2 2 64
+Comment: 1,0:01:08.53,0:01:11.45,op romaji,kanji_longer,0,0,0,fx,{\an8\pos(960.00,60.00)\clip(796.5703125, 0, 796.5703125, 1080)\t(0,240,\clip(796.5703125, 0, 1125.8296875, 1080))\t(2680,2920,\clip(1125.8296875, 0, 1125.8296875, 1080))\p1}m 0 64 l 0 0 327 0 327 64 m 325 64 l 325 2 2 2 2 64
+Dialogue: 1,0:01:08.53,0:01:11.45,op romaji,kanji_longer,0,0,0,fx,{\an8\pos(960.00,60.00)\clip(796.5703125, 0, 796.5703125, 1080)\t(0,240,\clip(796.5703125, 0, 1125.8296875, 1080))\t(2680,2920,\clip(1125.8296875, 0, 1125.8296875, 1080))\p1}m 0 66 l 0 0 327 0 327 66 m 325 64 l 325 2 2 2 2 64
 Dialogue: 0,0:01:08.53,0:01:11.45,op romaji,kanji_longer,0,0,0,fx,{\an8\pos(960.00,60.00)\shad0\bord0\blur8\1c&H000000&\1a&HD0&\clip(796.5703125, 0, 796.5703125, 1080)\t(0,240,\clip(796.5703125, 0, 1125.8296875, 1080))\t(2680,2920,\clip(1125.8296875, 0, 1125.8296875, 1080))\p1}m 0 0 l 326.859375 0 326.859375 66 0 66
 Dialogue: 2,0:01:08.53,0:01:08.69,op romaji,kanji_longer,0,0,0,fx,{\an8\pos(827.90,60.00)\fad(100,0)\1c&HFFFFFF&\1a&H50&}S
 Dialogue: 1,0:01:08.53,0:01:11.45,op translation,,0,0,0,fx,{\an5\pos(960.00,999.00)\clip(587.6015625, 0, 587.6015625, 1080)\t(0,420,\clip(587.6015625, 0, 1334.7984375, 1080))\t(2500,2920,\clip(1334.7984375, 0, 1334.7984375, 1080))\p1}m 0 72 l 0 0 745 0 745 72 m 743 70 l 743 2 2 2 2 70
