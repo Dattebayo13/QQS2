@@ -17,15 +17,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: QQS2_11_premux.mkv
-Video File: QQS2_11_premux.mkv
-Keyframes File: QQS2_11_premux_keyframes.log
+Audio File: E:/Anime/Uploads/[Miku Gang] The Quintessential Quintuplets S2 (BD 1080p HEVC FLAC) [Dual-Audio]/[Miku Gang] The Quintessential Quintuplets - S02E11 (BD 1080p HEVC FLAC) [Dual-Audio] [1788F8A1].mkv
+Video File: E:/Anime/Uploads/[Miku Gang] The Quintessential Quintuplets S2 (BD 1080p HEVC FLAC) [Dual-Audio]/[Miku Gang] The Quintessential Quintuplets - S02E11 (BD 1080p HEVC FLAC) [Dual-Audio] [1788F8A1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 286
-Active Line: 298
-Video Position: 32052
+Video Zoom Percent: 0.625000
+Scroll Position: 475
+Active Line: 484
+Video Position: 34553
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -518,4 +517,4 @@ Dialogue: 0,0:22:15.23,0:22:16.18,Default,Yotsuba,0,0,0,,Itsuki.
 Dialogue: 0,0:22:16.82,0:22:19.07,Default,Yotsuba,0,0,0,,Are you hiding something from me?
 Dialogue: 0,0:22:21.53,0:22:23.74,Default,Itsuki,0,0,0,,You have to tell Uesugi{**-kun}.
 Dialogue: 0,0:22:24.45,0:22:28.95,Default,Itsuki,0,0,0,,That you were the one who \Nmet him six years ago.
-Dialogue: 0,0:24:01.13,0:24:03.67,Default,Text,0,0,0,,{\fad(586,0)}"Sisters War: Part 2."
+Dialogue: 0,0:24:01.13,0:24:03.67,Default,Text,0,0,0,,"Sisters War: Part 2."
